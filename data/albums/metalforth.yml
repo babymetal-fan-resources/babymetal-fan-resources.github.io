@@ -1,0 +1,19 @@
+type: album
+id: metalforth
+
+fullname: METAL FORTH
+designation: album
+
+release-date: 2025-06-27
+
+cover-image:
+  image:
+    filename: cover400.png
+    source:
+      description: BABYMETAL post on X
+      url: https://x.com/BABYMETAL_JAPAN/status/1914967485188579414
+
+
+songs:
+- frommetou
+

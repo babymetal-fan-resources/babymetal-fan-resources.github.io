@@ -1,0 +1,11 @@
+type: page
+id: chronology
+start-date: 2010-01-01
+end-date: 2025-12-31
+markers:
+- song: frommetou
+  related-multimedia:
+    youtubevideo: qayP_YUrf9I
+- youtubevideo: qayP_YUrf9I
+  parent-key: song
+- album: metalforth

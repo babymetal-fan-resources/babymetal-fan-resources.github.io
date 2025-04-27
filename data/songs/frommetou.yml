@@ -1,0 +1,33 @@
+type: song
+id: frommetou
+
+fullname: from me to u (feat. Poppy)
+album: metalforth
+
+release-date: 2025-04-04
+
+description:
+
+cover-image:
+  image:
+    filename: cover400.png
+    source:
+      description: BABYMETAL post on X
+      url: https://x.com/BABYMETAL_JAPAN/status/1908172721055469909
+
+credits:
+  lyricist: MK-METAL, Jordan Fish, Poppy
+  composer: MK-METAL, Jordan Fish, Poppy
+  source:
+    description: 'JASRAC - work ID: 1V3-1774-9'
+    url: https://www2.jasrac.or.jp/
+
+multimedia:
+  video:
+  - youtubevideo: qayP_YUrf9I
+
+related:
+- type: youtubevideo
+  id: qayP_YUrf9I
+  label: Official Music Video
+  published-date: 2025-04-04

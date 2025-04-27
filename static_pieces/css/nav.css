@@ -1,0 +1,14 @@
+nav {
+  min-height: 3rem;
+  background-color: var(--color-black);
+  border-bottom: solid 0.5px var(--color-text-red);
+  box-sizing: border-box;
+}
+
+.nav-site-title {
+  font-size: 0.7rem;
+  line-height: 0.7rem;
+  font-weight: 600;
+  color: var(--color-text-red);
+  display: block;
+}
