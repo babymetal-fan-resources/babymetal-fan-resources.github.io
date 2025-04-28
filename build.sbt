@@ -2,7 +2,7 @@ import Common.*
 
 lazy val fanResources = Project(id = "fan-resources", base = file("fan-resources"))
 
-lazy val `neki-site` = project
+lazy val `babymetal-site` = project
   .in(file("babymetal-site"))
   .settings(buildSettings)
   .settings(
@@ -17,7 +17,7 @@ lazy val `neki-site` = project
   .dependsOn(fanResources)
 
 lazy val root = (project in file("."))
-  .aggregate(fanResources, `neki-site`)
+  .aggregate(fanResources, `babymetal-site`)
   .settings(buildSettings)
   .settings(
     Compile / mainClass := Some("org.skyluc.babymetal_site.Main"),

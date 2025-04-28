@@ -10,8 +10,8 @@
   --color-text-red: #FF5733;
 
   --gradient-page: repeating-linear-gradient(170deg,
-      var(--color-closeto-black) 0%,
-      var(--color-closeto-black) 10%,
+      var(--color-closeto-black) 0,
+      var(--color-closeto-black) 10vh,
       var(--color-almost-black) 50vh,
       var(--color-almost-black) 70vh,
       var(--color-closeto-black) 110vh,

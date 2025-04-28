@@ -8,11 +8,11 @@ import org.skyluc.babymetal_site.yaml.NodeToElement
 import org.skyluc.fan_resources.checks.DataCheck
 import org.skyluc.fan_resources.data.Path
 import org.skyluc.fan_resources.element2data.DataTransformer
+import org.skyluc.fan_resources.html.SiteOutput
 import org.skyluc.fan_resources.yaml.YamlReader
+import org.skyluc.neki_site.data2Page.DataToPage
 
 import java.nio.file.Paths
-import org.skyluc.neki_site.data2Page.DataToPage
-import org.skyluc.fan_resources.html.SiteOutput
 
 object Main {
 
@@ -40,7 +40,8 @@ object Main {
     }
     println("--------------")
 
-    val (checkErrors, checkedDatums) = DataCheck.check(datums, PopulateRelatedTo, CheckLocalAssetExists)
+    val (checkErrors, checkedDatums) =
+      DataCheck.check(datums, PopulateRelatedTo, CheckLocalAssetExists(BASE_IMAGE_ASSET_PATH))
 
     println("CHECKS ERRORS: ")
     checkErrors.foreach { e =>
@@ -56,7 +57,7 @@ object Main {
 
     println(s"nb of pages: ${pages.size}")
 
-    SiteOutput.generate(pages, staticFolder, outputFolder)
+    SiteOutput.generate(pages, Seq(staticFolder), outputFolder)
 
   }
 
