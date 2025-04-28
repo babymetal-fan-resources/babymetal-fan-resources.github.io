@@ -49,8 +49,6 @@ object Main {
     }
     println("--------------")
 
-    println(checkedDatums)
-
     val generator = CompiledDataGeneratorBuilder.generator(checkedDatums)
 
     val pages = DataToPage(generator).generate(checkedDatums)
