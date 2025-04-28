@@ -1,3 +1,0 @@
-[submodule "fan-resources"]
-	path = fan-resources
-	url = ssh://luc@sally/git/luc/fan-resources
