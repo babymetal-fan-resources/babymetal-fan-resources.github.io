@@ -27,4 +27,4 @@ lazy val root = (project in file("."))
       baseDirectory.value / "static_pieces",
     ),
   )
-  .dependsOn(`neki-site`)
+  .dependsOn(`babymetal-site`)
