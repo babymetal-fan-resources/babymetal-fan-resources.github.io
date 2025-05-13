@@ -9,6 +9,8 @@
   --color-text: lightgrey;
   --color-text-red: #FF5733;
 
+  --color-group-border: grey;
+
   --gradient-page: repeating-linear-gradient(170deg,
       var(--color-closeto-black) 0,
       var(--color-closeto-black) 10vh,

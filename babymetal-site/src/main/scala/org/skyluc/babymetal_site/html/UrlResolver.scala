@@ -15,6 +15,8 @@ object UrlResolver extends Processor[Url] with fr.UrlResolver {
 
   override def processBaseMarker(baseMarker: BaseMarker): Url = ???
 
+  override def processGroup(group: Group): Url = ???
+
   override def processMediaMarker(mediaMarker: MediaMarker): Url = ???
 
   override def processMultiMediaMarker(multiMediaMarker: MultiMediaMarker): Url = ???
@@ -42,6 +44,8 @@ object UrlResolver extends Processor[Url] with fr.UrlResolver {
   override def processPostX(postX: PostX): Url = ???
 
   override def processPostXImage(postXImage: PostXImage): Url = ???
+
+  override def processPostXVideo(postXVideo: PostXVideo): Url = ???
 
   override def processShow(show: Show): Url = generateBasic(show)
 

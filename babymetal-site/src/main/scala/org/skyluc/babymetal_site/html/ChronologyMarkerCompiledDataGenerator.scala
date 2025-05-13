@@ -8,7 +8,7 @@ import fr.CompiledDataGenerator
 import org.skyluc.babymetal_site.data.ChronologyPage
 
 class ChronologyMarkerCompiledDataGenerator(generator: CompiledDataGenerator)
-    extends fr.ChronologyMarkerProcessor(generator)
+    extends fr.ChronologyMarkerProcessor(0, generator)
     with Processor[MarkerCompiledData] {
 
   override def processChronologyPage(chronologyPage: ChronologyPage): MarkerCompiledData = ???

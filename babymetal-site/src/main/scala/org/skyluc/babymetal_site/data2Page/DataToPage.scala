@@ -11,10 +11,10 @@ import org.skyluc.fan_resources.html.pages.SitemapPage
 
 class DataToPage(generator: CompiledDataGenerator) extends Processor[Seq[SitePage]] {
 
-  def generate(datums: Seq[Datum[?]]): Seq[Page] = {
+  def generate(rootPath: Path, datums: Seq[Datum[?]]): Seq[Page] = {
 
     val cssStyles = CssPage(
-      Path("static_pieces", "css"),
+      rootPath.resolve("static_pieces", "css"),
       Seq(
         Path("colors.css"),
         Path("referenceunit.css"),
@@ -46,6 +46,8 @@ class DataToPage(generator: CompiledDataGenerator) extends Processor[Seq[SitePag
   override def processChronologyPage(chronologyPage: dChronologyPage): Seq[SitePage] =
     ChronologyPage.pageFor(chronologyPage, generator)
 
+  override def processGroup(group: Group): Seq[SitePage] = NO_DATA
+
   override def processMediaMarker(mediaMarker: MediaMarker): Seq[SitePage] = NO_DATA
 
   override def processMultiMediaMarker(multiMediaMarker: MultiMediaMarker): Seq[SitePage] =
@@ -69,6 +71,8 @@ class DataToPage(generator: CompiledDataGenerator) extends Processor[Seq[SitePag
   override def processPostX(postX: PostX): Seq[SitePage] = NO_DATA
 
   override def processPostXImage(postXImage: PostXImage): Seq[SitePage] = NO_DATA
+
+  override def processPostXVideo(postXVideo: PostXVideo): Seq[SitePage] = NO_DATA
 
   override def processShow(show: Show): Seq[SitePage] =
     NO_DATA // ShowPage.pagesFor(show, compilers)

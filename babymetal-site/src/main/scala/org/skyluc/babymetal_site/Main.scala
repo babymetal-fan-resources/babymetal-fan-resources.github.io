@@ -12,16 +12,21 @@ import org.skyluc.fan_resources.html.SiteOutput
 import org.skyluc.fan_resources.yaml.YamlReader
 import org.skyluc.neki_site.data2Page.DataToPage
 
-import java.nio.file.Paths
-
 object Main {
 
   def main(args: Array[String]): Unit = {
-    val dataFolder = Paths.get(DATA_PATH)
-    val staticFolder = Paths.get(STATIC_PATH)
-    val outputFolder = Paths.get(TARGET_PATH, SITE_PATH)
+    main(Path())
+  }
 
-    val (parserErrors, elements) = YamlReader.load(dataFolder, new NodeToElement())
+  def main(rootPath: Path): Unit = {
+
+    println("\n***** Running BABYMETAL Fan Resources site *****\n")
+
+    val dataFolder = rootPath.resolve(DATA_PATH)
+    val staticFolder = rootPath.resolve(STATIC_PATH)
+    val outputFolder = rootPath.resolve(TARGET_PATH, SITE_PATH)
+
+    val (parserErrors, elements) = YamlReader.load(dataFolder.asFilePath(), new NodeToElement())
 
     println("--------------")
 
@@ -41,7 +46,7 @@ object Main {
     println("--------------")
 
     val (checkErrors, checkedDatums) =
-      DataCheck.check(datums, PopulateRelatedTo, CheckLocalAssetExists(BASE_IMAGE_ASSET_PATH))
+      DataCheck.check(datums, PopulateRelatedTo, CheckLocalAssetExists(rootPath.resolve(BASE_IMAGE_ASSET_PATH)), false)
 
     println("CHECKS ERRORS: ")
     checkErrors.foreach { e =>
@@ -51,11 +56,11 @@ object Main {
 
     val generator = CompiledDataGeneratorBuilder.generator(checkedDatums)
 
-    val pages = DataToPage(generator).generate(checkedDatums)
+    val pages = DataToPage(generator).generate(rootPath, checkedDatums)
 
     println(s"nb of pages: ${pages.size}")
 
-    SiteOutput.generate(pages, Seq(staticFolder), outputFolder)
+    SiteOutput.generate(pages, Seq(staticFolder.asFilePath()), outputFolder.asFilePath())
 
   }
 
