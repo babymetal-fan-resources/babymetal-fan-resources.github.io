@@ -13,7 +13,7 @@ object Config {
 
   def current: Config = {
     if (cached == null) {
-      if (System.getenv(PROPERTY_KEY_CONFIG_KEY) == "PROD") {
+      if (System.getenv(PROPERTY_KEY_CONFIG_KEY) == "PROD-DISABLED") { // TODO-NOW: correct setup
         cached = prodConfig
       } else {
         cached = localConfig
