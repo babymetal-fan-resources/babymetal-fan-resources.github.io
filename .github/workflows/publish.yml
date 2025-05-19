@@ -17,9 +17,9 @@ jobs:
           repository: skyluc/fan-resources
           token: ${{ secrets.FR_PAT }} 
           path: fan-resources
-      # - name: Setup Pages
-      #   id: pages
-      #   uses: actions/configure-pages@v5
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
       - name: Setup JDK
         uses: actions/setup-java@v4
         with:
@@ -36,7 +36,7 @@ jobs:
           # upload entire directory
           path: 'target/site'
 
-  Deployment job
+  # Deployment job
   deploy:
     permissions:
       contents: read
