@@ -23,12 +23,16 @@ class DataToPage(generator: CompiledDataGenerator) extends Processor[Seq[SitePag
         Path("nav.css"),
         Path("footer.css"),
         Path("maincontent.css"),
+        Path("chronologypage.css"),
+        Path("component", "chronology.css"),
         Path("component", "coverimage.css"),
         Path("component", "largedetails.css"),
         Path("component", "linecard.css"),
         Path("component", "markercard.css"),
         Path("component", "mediumcard.css"),
+        Path("component", "mediumdetails.css"),
         Path("component", "multimediacard.css"),
+        Path("component", "overlay.css"),
       ),
       "styles.css",
     )
@@ -75,30 +79,21 @@ class DataToPage(generator: CompiledDataGenerator) extends Processor[Seq[SitePag
   override def processPostXVideo(postXVideo: PostXVideo): Seq[SitePage] = NO_DATA
 
   override def processShow(show: Show): Seq[SitePage] =
-    NO_DATA // ShowPage.pagesFor(show, compilers)
+    ShowPage.pagesFor(show, generator)
 
   override def processSong(song: Song): Seq[SitePage] =
     SongPage.pagesFor(song, generator)
 
   override def processTour(tour: Tour): Seq[SitePage] =
-    NO_DATA // TourPage.pagesFor(tour, compilers)
+    TourPage.pagesFor(tour, generator)
+
+  override def processTourMarker(tourMarker: TourMarker): Seq[SitePage] = NO_DATA
 
   override def processYouTubeShort(youtubeShort: YouTubeShort): Seq[SitePage] = NO_DATA
 
   override def processYouTubeVideo(youtubeVideo: YouTubeVideo): Seq[SitePage] = NO_DATA
 
   override def processZaiko(zaiko: Zaiko): Seq[SitePage] = NO_DATA
-
-  // override def processChronologyPage(chronologyPage: ChronologyPage): Seq[SitePage] =
-  //   pChronologyPage.pagesFor(chronologyPage, compilers)
-
-  // override def processMusicPage(musicPage: MusicPage): Seq[SitePage] =
-  //   pMusicPage.pagesFor(musicPage, compilers)
-
-  // override def processSite(site: Site): Seq[SitePage] = NO_DATA
-
-  // override def processShowsPage(showsPage: ShowsPage): Seq[SitePage] =
-  //   pShowsPage.pagesFor(showsPage, compilers)
 
   // ----------
 

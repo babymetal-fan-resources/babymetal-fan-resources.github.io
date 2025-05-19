@@ -27,12 +27,6 @@ object UrlResolver extends Processor[Url] with fr.UrlResolver {
 
   override def processChronologyPage(chronologyPage: ChronologyPage): Url = ???
 
-  // override def processMusicPage(musicPage: MusicPage): Url = ???
-
-  // override def processSite(site: Site): Url = ???
-
-  // override def processShowsPage(showsPage: ShowsPage): Url = ???
-
   override def processAlbum(album: Album): Url = generateBasic(album)
 
   override def processLocalImage(localImage: LocalImage): Url = ???
@@ -50,7 +44,10 @@ object UrlResolver extends Processor[Url] with fr.UrlResolver {
   override def processShow(show: Show): Url = generateBasic(show)
 
   override def processSong(song: Song): Url = generateBasic(song)
+
   override def processTour(tour: Tour): Url = generateBasic(tour)
+
+  override def processTourMarker(tourMarker: TourMarker): Url = ???
 
   override def processYouTubeShort(youtubeShort: YouTubeShort): Url = ???
 

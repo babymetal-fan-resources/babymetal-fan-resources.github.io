@@ -1,0 +1,29 @@
+- type: show
+  year: 2025
+  id: seikimaiivsbabymetalencounter
+  fullname: 「聖飢魔II vs BABYMETAL」悪魔が来たりてベビメタる
+  sublabel: 遭遇 -Encounter-
+  date: 2025-08-30
+  location: K ARENA YOKOHAMA
+  event-page: https://skiivsbbm.com/
+  cover-image:
+    image:
+      filename: cover400.png
+      source:
+        description: event page
+        url: https://skiivsbbm.com/
+
+- type: show
+  year: 2025
+  id: seikimaiivsbabymetalimpact
+  fullname: 「聖飢魔II vs BABYMETAL」悪魔が来たりてベビメタる
+  sublabel: 衝撃 -Impact-
+  date: 2025-08-31
+  location: K ARENA YOKOHAMA
+  event-page: https://skiivsbbm.com/
+  cover-image:
+    imageid:
+      show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+      id: cover

@@ -1,0 +1,194 @@
+- type: tour
+  id: ukeuropearenatour2025
+  fullname: UK & Europe Arena Tour 2025
+  first-date: 2025-05-10
+  last-date: 2025-05-30
+  cover-image:
+    image:
+      filename: cover400.png
+      source:
+        description: BABYMETAL website site
+        url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
+  shows:
+  - year: 2025
+    id: brussels
+  - year: 2025
+    id: hamburg
+  - year: 2025
+    id: amsterdam
+  - year: 2025
+    id: frankfurt
+  - year: 2025
+    id: berlin
+  - year: 2025
+    id: krakow
+  - year: 2025
+    id: nuremberg
+  - year: 2025
+    id: zurich
+  - year: 2025
+    id: madrid
+  - year: 2025
+    id: barcelona
+  - year: 2025
+    id: paris
+  - year: 2025
+    id: london
+
+- type: show
+  year: 2025
+  id: brussels
+  fullname: UK & Europe Arena Tour 2025
+  sublabel: Brussels, Belgium
+  date: 2025-05-10
+  location: Forest National
+  cover-image:
+    imageid:
+      tour: ukeuropearenatour2025
+      id: cover
+  tour: ukeuropearenatour2025
+
+- type: show
+  year: 2025
+  id: hamburg
+  fullname: UK & Europe Arena Tour 2025
+  sublabel: Hamburg, Germany
+  date: 2025-05-12
+  location: Barclays Arena
+  cover-image:
+    imageid:
+      tour: ukeuropearenatour2025
+      id: cover
+  tour: ukeuropearenatour2025
+
+- type: show
+  year: 2025
+  id: amsterdam
+  fullname: UK & Europe Arena Tour 2025
+  sublabel: Amsterdam, Netherlands
+  date: 2025-05-13
+  location: AFAS Live
+  cover-image:
+    imageid:
+      tour: ukeuropearenatour2025
+      id: cover
+  tour: ukeuropearenatour2025
+
+- type: show
+  year: 2025
+  id: frankfurt
+  fullname: UK & Europe Arena Tour 2025
+  sublabel: Frankfurt, Germany
+  date: 2025-05-16
+  location: Jahrhunderthalle
+  cover-image:
+    imageid:
+      tour: ukeuropearenatour2025
+      id: cover
+  tour: ukeuropearenatour2025
+
+- type: show
+  year: 2025
+  id: berlin
+  fullname: UK & Europe Arena Tour 2025
+  sublabel: Berlin, Germany
+  date: 2025-05-17
+  location: Velodrom
+  cover-image:
+    imageid:
+      tour: ukeuropearenatour2025
+      id: cover
+  tour: ukeuropearenatour2025
+
+- type: show
+  year: 2025
+  id: krakow
+  fullname: UK & Europe Arena Tour 2025
+  sublabel: Karkow, Poland
+  date: 2025-05-19
+  location: Tauron Arena
+  cover-image:
+    imageid:
+      tour: ukeuropearenatour2025
+      id: cover
+  tour: ukeuropearenatour2025
+
+- type: show
+  year: 2025
+  id: nuremberg
+  fullname: UK & Europe Arena Tour 2025
+  sublabel: Nüremberg, Germany
+  date: 2025-05-20
+  location: Arena Nüremberger
+  cover-image:
+    imageid:
+      tour: ukeuropearenatour2025
+      id: cover
+  tour: ukeuropearenatour2025
+
+- type: show
+  year: 2025
+  id: zurich
+  fullname: UK & Europe Arena Tour 2025
+  sublabel: Zurich, Switzerland
+  date: 2025-05-22
+  location: The Hall
+  cover-image:
+    imageid:
+      tour: ukeuropearenatour2025
+      id: cover
+  tour: ukeuropearenatour2025
+
+- type: show
+  year: 2025
+  id: madrid
+  fullname: UK & Europe Arena Tour 2025
+  sublabel: Madrid, Spain
+  date: 2025-05-25
+  location: Vistalegre
+  cover-image:
+    imageid:
+      tour: ukeuropearenatour2025
+      id: cover
+  tour: ukeuropearenatour2025
+
+- type: show
+  year: 2025
+  id: barcelona
+  fullname: UK & Europe Arena Tour 2025
+  sublabel: Barcelona, Spain
+  date: 2025-05-26
+  location: Poble Espanyol
+  cover-image:
+    imageid:
+      tour: ukeuropearenatour2025
+      id: cover
+  tour: ukeuropearenatour2025
+
+- type: show
+  year: 2025
+  id: paris
+  fullname: UK & Europe Arena Tour 2025
+  sublabel: Paris, France
+  date: 2025-05-28
+  location: Zénith Paris-La Villette
+  cover-image:
+    imageid:
+      tour: ukeuropearenatour2025
+      id: cover
+  tour: ukeuropearenatour2025
+
+- type: show
+  year: 2025
+  id: london
+  fullname: UK & Europe Arena Tour 2025
+  sublabel: London, United Kingdom
+  date: 2025-05-30
+  location: The O2
+  cover-image:
+    imageid:
+      tour: ukeuropearenatour2025
+      id: cover
+  tour: ukeuropearenatour2025
+
+

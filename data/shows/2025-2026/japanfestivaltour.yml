@@ -1,0 +1,48 @@
+- type: tour
+  id: japanfestivaltour2025
+  fullname: Japan Festival Tour
+  first-date: 2025-08-16
+  last-date: 2025-08-17
+  cover-image:
+    image:
+      filename: cover400.png
+      source:
+        description: BABYMETAL website
+        url: https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=5717&id=288226&lang=en
+  shows:
+  - year: 2025
+    id: summersonictokyo
+  - year: 2025
+    id: summersonicosaka
+
+- type: show
+  year: 2025
+  id: summersonicosaka
+  fullname: SUMMER SONIC 2025
+  sublabel: Tokyo, Japan
+  date: 2025-08-16
+  location: ZOZO Marine Stadium & Makuhari Messe
+  event-page: https://www.summersonic.com/
+  cover-image:
+    imageid:
+      show:
+        year: 2025
+        id: summersonictokyo
+      id: cover
+  tour: japanfestivaltour2025
+
+- type: show
+  year: 2025
+  id: summersonictokyo
+  fullname: SUMMER SONIC 2025
+  sublabel: Osaka, Japan
+  date: 2025-08-17
+  location: EXPO’70 COMMEMORATIVE PARK
+  event-page: https://www.summersonic.com/
+  cover-image:
+    image:
+      filename: cover400.png
+      source:
+        description: BABYMETAL website
+        url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=1221&page=0&rw=10&lang=en&cd=TOUR_TO
+  tour: japanfestivaltour2025

@@ -1,14 +1,38 @@
+/* nav bar layout */
+
+.nav-logo {
+  position: absolute;
+  bottom: -2rem;
+  left: -3rem;
+  z-index: 20;
+}
+
+.nav-logo-img {
+  height: 5rem;
+}
+
 nav {
-  min-height: 3rem;
-  background-color: var(--color-black);
-  border-bottom: solid 0.5px var(--color-text-red);
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  grid-template-rows: 1fr;
+  grid-template-areas: 'title mains supports';
   box-sizing: border-box;
+  min-height: 3.2rem;
+  padding: 0 0 0.2rem 9.5rem;
 }
 
 .nav-site-title {
-  font-size: 0.7rem;
-  line-height: 0.7rem;
+  grid-area: title;
+  font-size: 0.8rem;
+  line-height: 0.8rem;
   font-weight: 600;
   color: var(--color-text-red);
-  display: block;
+  align-self: end;
+}
+
+/* nav bar styling */
+
+nav {
+  background-color: var(--color-black);
+  border-bottom: solid 0.5px var(--color-text-red);
 }

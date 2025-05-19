@@ -6,6 +6,7 @@
   grid-template-columns: min-content 1fr;
   grid-template-rows: min-content min-content 1fr;
   grid-template-areas: 'cover designation' 'cover label' 'cover sublabel';
+  padding: 0 0.5rem 0 0;
 }
 
 
@@ -28,11 +29,19 @@
   grid-area: label;
 }
 
+.marker-card-hidden {
+  display: none;
+}
+
+.marker-card-visible {
+  display: grid;
+}
 
 /* Line card styling */
 
 .marker-card {
   color: var(--color-text);
+  cursor: pointer;
 }
 
 .marker-card-designation {
@@ -44,8 +53,8 @@
 }
 
 .marker-card-sublabel {
-  font-size: 0.6rem;
-  line-height: 0.6rem;
+  font-size: 0.7rem;
+  line-height: 0.7rem;
   font-weight: 500;
 }
 
@@ -53,4 +62,29 @@
   font-size: 1.2rem;
   line-height: 1.2rem;
   font-weight: 700;
+}
+
+.marker-card-type-showmarker {
+  background-color: #505020;
+  background: linear-gradient(160deg, transparent 0rem, transparent 20%, #505020);
+}
+
+.marker-card-type-tourmarker {
+  background-color: #606020;
+  background: linear-gradient(160deg, transparent 0rem, transparent 20%, #707020);
+}
+
+.marker-card-type-songmarker {
+  background-color: #202040;
+  background: linear-gradient(160deg, transparent 0rem, transparent 20%, #202040);
+}
+
+.marker-card-type-albummarker {
+  background-color: #202060;
+  background: linear-gradient(160deg, transparent 0rem, transparent 20%, #202060);
+}
+
+.marker-card-type-multimediamarker {
+  background-color: #204020;
+  background: linear-gradient(160deg, transparent 0rem, transparent 20%, #204020);
 }

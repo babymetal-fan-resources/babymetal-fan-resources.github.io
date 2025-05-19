@@ -45,6 +45,7 @@
 .large-image-cover,
 .medium-image-cover,
 .mediumsmall-image-cover,
-.small-image-cover {
-  background-color: var(--color-not-black);
+.small-image-cover,
+.marker-image-cover {
+  background-color: var(--color-bg-cover);
 }

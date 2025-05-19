@@ -3,105 +3,122 @@ package org.skyluc.babymetal_site.html.pages
 import org.skyluc.babymetal_site.html.PageDescription
 import org.skyluc.babymetal_site.html.SitePage
 import org.skyluc.fan_resources.Common
-import org.skyluc.fan_resources.data.Song
+import org.skyluc.fan_resources.data.Show
 import org.skyluc.fan_resources.html.CompiledDataGenerator
 import org.skyluc.fan_resources.html.ElementCompiledData
 import org.skyluc.fan_resources.html.MultiMediaBlockCompiledData
-import org.skyluc.fan_resources.html.TitleAndDescription
 import org.skyluc.fan_resources.html.component.LargeDetails
-import org.skyluc.fan_resources.html.component.LyricsSection
 import org.skyluc.fan_resources.html.component.MultiMediaCard
-import org.skyluc.html.*
-import org.skyluc.neki_site.html.pages.SongExtraPage
+import org.skyluc.html.BodyElement
+import org.skyluc.fan_resources.html.TitleAndDescription
+import org.skyluc.fan_resources.html.component.MainTitle
+import org.skyluc.fan_resources.html.component.LineCard
 
-class SongPage(
-    song: Song,
-    songCompiledData: ElementCompiledData,
+class ShowPage(
+    showCompiledData: ElementCompiledData,
     multimediaBlock: MultiMediaBlockCompiledData,
     description: PageDescription,
 ) extends SitePage(description) {
 
   override def elementContent(): Seq[BodyElement[?]] = {
-    val largeDetails =
-      LargeDetails.generate(songCompiledData)
+    val largeDetails = LargeDetails.generate(showCompiledData)
 
-    val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, Song.FROM_KEY)
+    val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, Show.FROM_KEY)
 
-    val lyricsSection = song.lyrics.map(LyricsSection.generate).getOrElse(Seq())
-
-    val additionalSection = MultiMediaCard.generateAdditionalSection(multimediaBlock, Song.FROM_KEY)
+    val additionalSection = MultiMediaCard.generateAdditionalSection(multimediaBlock, Show.FROM_KEY)
 
     Seq(
       largeDetails
     ) ++ multiMediaMainSections
-      ++ lyricsSection
       ++ additionalSection
   }
 
 }
 
-object SongPage {
+class ShowExtraPage(
+    show: ElementCompiledData,
+    multimediaBlock: MultiMediaBlockCompiledData,
+    description: PageDescription,
+) extends SitePage(description) {
 
-  def pagesFor(song: Song, generator: CompiledDataGenerator): Seq[SitePage] = {
-    val compiledData = generator.getElement(song)
-    val multimediaBlock = generator.getMultiMediaBlock(song)
+  override def elementContent(): Seq[BodyElement[?]] = {
+    val mediaSection =
+      MultiMediaCard.generateExtraMediaSection(
+        multimediaBlock,
+        Show.FROM_KEY,
+      )
+
+    Seq(
+      MainTitle.generate(
+        LineCard.generate(show)
+      )
+    )
+      ++ mediaSection
+
+  }
+}
+
+object ShowPage {
+
+  def pagesFor(show: Show, generator: CompiledDataGenerator): Seq[SitePage] = {
+    val compiledData = generator.getElement(show)
+    val multimediaBlock = generator.getMultiMediaBlock(show)
 
     val extraPath = if (multimediaBlock.extra.isEmpty) {
       None
     } else {
-      Some(song.id.path.insertSecond(Common.EXTRA))
+      Some(show.id.path.insertSecond(Common.EXTRA))
     }
 
-    val mainPage = SongPage(
-      song,
+    val mainPage = ShowPage(
       compiledData,
       multimediaBlock,
       PageDescription(
         TitleAndDescription.formattedTitle(
           Some(compiledData.designation),
           None,
-          song.fullname,
-          song.fullnameEn,
+          show.fullname,
           None,
+          show.shortname,
           None,
         ),
         TitleAndDescription.formattedDescription(
           Some(compiledData.designation),
           None,
-          song.fullname,
-          song.fullnameEn,
+          show.fullname,
           None,
+          show.shortname,
           None,
         ),
         SitePage.absoluteUrl(compiledData.cover.source),
-        SitePage.canonicalUrlFor(song.id.path),
-        song.id.path.withExtension(Common.HTML_EXTENSION),
+        SitePage.canonicalUrlFor(show.id.path),
+        show.id.path.withExtension(Common.HTML_EXTENSION),
         None,
         extraPath.map(SitePage.urlFor(_)),
-        song.id.dark,
+        false,
       ),
     )
 
     extraPath
       .map { extraPath =>
-        val extraPage = SongExtraPage(
+        val extraPage = ShowExtraPage(
           compiledData,
           multimediaBlock,
           PageDescription(
             TitleAndDescription.formattedTitle(
               Some(compiledData.designation),
               TitleAndDescription.EXTRA,
-              song.fullname,
-              song.fullnameEn,
+              show.fullname,
               None,
+              show.shortname,
               None,
             ),
             TitleAndDescription.formattedDescription(
               Some(compiledData.designation),
               TitleAndDescription.EXTRA,
-              song.fullname,
-              song.fullnameEn,
+              show.fullname,
               None,
+              show.shortname,
               None,
             ),
             SitePage.absoluteUrl(compiledData.cover.source),
@@ -109,7 +126,7 @@ object SongPage {
             extraPath.withExtension(Common.HTML_EXTENSION),
             None,
             None,
-            song.id.dark,
+            false,
           ),
         )
         Seq(extraPage, mainPage)

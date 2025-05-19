@@ -1,6 +1,7 @@
 package org.skyluc.babymetal_site.html
 
 import org.skyluc.babymetal_site.Config
+import org.skyluc.babymetal_site.html.components.NavigationBar
 import org.skyluc.fan_resources.Common
 import org.skyluc.fan_resources.data.Path
 import org.skyluc.fan_resources.html as fr
@@ -11,6 +12,7 @@ import fr.component.Head as HeadComponents
 import fr.component.OpenGraphSection
 import fr.Url
 import fr.component.ExtraSection
+import fr.component.MainIntro
 
 abstract class SitePage(override val description: PageDescription) extends fr.SitePage {
 
@@ -39,18 +41,23 @@ abstract class SitePage(override val description: PageDescription) extends fr.Si
   }
 
   override def headerContent(): Seq[BodyElement[?]] =
-    Seq(
-      div("nav").appendElements(
-        div()
-          .withClass("nav-site-title")
-          .appendElements(text("Babymetal<br>Fan<br>Resources"))
-      )
-    )
-    // NavigationBar.generate(site.navigation, outputPath)
+    NavigationBar.generate() // (site.navigation, outputPath)
 
   override def mainContent(): Seq[BodyElement[?]] = {
     val extraSection = description.extraPage.map(ExtraSection.generate(_)).getOrElse(Nil)
-    elementContent()
+
+    val notice = MainIntro.generate(
+      div()
+        .withClass(CLASS_TMP_NOTICE)
+        .appendElements(
+          text(
+            "This is the initial version of a planned bigger repository of BABYMETAL information. As additional content is added, the design and usability will be improved. Thank you for your visit."
+          )
+        )
+    )
+
+    Seq(notice) ++
+      elementContent()
       ++ extraSection
   }
 
@@ -61,6 +68,8 @@ abstract class SitePage(override val description: PageDescription) extends fr.Si
 }
 
 object SitePage {
+
+  val CLASS_TMP_NOTICE = "tmp-notice"
 
   val HREF_GOOGLE_FONT_NOTO = "https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap"
 
@@ -74,8 +83,10 @@ object SitePage {
   val MICROSOFT_VERIFICATION_CODE = "B6C2BBE1BBDED01F740330EB10DEAEF8"
 
   // javascript
-  private val SRC_JAVASCRIPT = "/asset/javascript/main.js"
-  val JAVASCRIPT_FILES = Seq(Url(SRC_JAVASCRIPT))
+  private val SRC_MAIN_JAVASCRIPT = "/asset/javascript/main.js"
+  private val SRC_FR_MAIN_JAVASCRIPT = "/asset/javascript/frmain.js"
+  private val SRC_OVERLAY_JAVASCRIPT = "/asset/javascript/overlay.js"
+  val JAVASCRIPT_FILES = Seq(Url(SRC_FR_MAIN_JAVASCRIPT), Url(SRC_MAIN_JAVASCRIPT), Url(SRC_OVERLAY_JAVASCRIPT))
 
   val DARK_PATH = Path("dark")
 

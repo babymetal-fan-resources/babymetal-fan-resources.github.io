@@ -1,0 +1,60 @@
+- type: tour
+  id: asiatour2025
+  fullname: Asia Tour
+  first-date: 2025-08-24
+  last-date: 2025-10-04
+  cover-image:
+    imageid:
+      tour: japanfestivaltour2025
+      id: cover
+  shows:
+  - year: 2025
+    id: summersonicbangkok
+  - year: 2025
+    id: busanrockfestival
+  - year: 2025
+    id: f1singaporegrandprix
+
+- type: show
+  year: 2025
+  id: summersonicbangkok
+  fullname: SUMMER SONIC BANGKOK 2025
+  date: 2025-08-24
+  location: IMPACT CHALLENGER HALL
+  cover-image:
+    image:
+      filename: cover400.png
+      source: 
+        description: BABYMETAL website
+        url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=1221&page=0&rw=10&lang=en&cd=TOUR_TO
+  tour: asiatour2025
+
+- type: show
+  year: 2025
+  id: busanrockfestival
+  fullname: Busan International Rock Festival
+  date: 2025-09-27
+  location: SAMNAK PARK
+  event-page: https://busanrockfestival.com/
+  cover-image:
+    image:
+      filename: cover400.png
+      source: 
+        description: event website
+        url: https://busanrockfestival.com/
+  tour: asiatour2025
+
+- type: show
+  year: 2025
+  id: f1singaporegrandprix
+  fullname: F1 SINGAPORE GRAND PRIX
+  date: 2025-10-04
+  location: MARINA BAY STREET CIRCUIT
+  event-page: https://singaporegp.sg/
+  cover-image:
+    image:
+      filename: cover400.png
+      source: 
+        description: BABYMETAL website
+        url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=1221&page=0&rw=10&lang=en&cd=TOUR_TO
+  tour: asiatour2025

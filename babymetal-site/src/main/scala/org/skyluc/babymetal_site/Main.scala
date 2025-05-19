@@ -24,6 +24,7 @@ object Main {
 
     val dataFolder = rootPath.resolve(DATA_PATH)
     val staticFolder = rootPath.resolve(STATIC_PATH)
+    val staticFrFolder = rootPath.resolve("fan-resources", STATIC_PATH)
     val outputFolder = rootPath.resolve(TARGET_PATH, SITE_PATH)
 
     val (parserErrors, elements) = YamlReader.load(dataFolder.asFilePath(), new NodeToElement())
@@ -60,7 +61,7 @@ object Main {
 
     println(s"nb of pages: ${pages.size}")
 
-    SiteOutput.generate(pages, Seq(staticFolder.asFilePath()), outputFolder.asFilePath())
+    SiteOutput.generate(pages, Seq(staticFrFolder.asFilePath(), staticFolder.asFilePath()), outputFolder.asFilePath())
 
   }
 

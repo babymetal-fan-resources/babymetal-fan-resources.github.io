@@ -1,0 +1,387 @@
+- type: tour
+  id: northamerica2025
+  fullname: North America 2025
+  first-date: 2025-06-13
+  last-date: 2025-07-23
+  cover-image:
+    image:
+      filename: cover400.png
+      source:
+        description: BABYMETAL website site
+        url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
+  shows:
+  - year: 2025
+    id: houston
+  - year: 2025
+    id: irving
+  - year: 2025
+    id: tampa
+  - year: 2025
+    id: atlanta
+  - year: 2025
+    id: charlotte
+  - year: 2025
+    id: baltimore
+  - year: 2025
+    id: newyork
+  - year: 2025
+    id: boston
+  - year: 2025
+    id: uncasville
+  - year: 2025
+    id: philadelphia
+  - year: 2025
+    id: laval
+  - year: 2025
+    id: toronto
+  - year: 2025
+    id: sterlingheights
+  - year: 2025
+    id: summerfestmilwaukee
+  - year: 2025
+    id: marylandheights
+  - year: 2025
+    id: chicago
+  - year: 2025
+    id: minneapolis
+  - year: 2025
+    id: denver
+  - year: 2025
+    id: vancouver
+  - year: 2025
+    id: kent
+  - year: 2025
+    id: sanfrancisco1
+  - year: 2025
+    id: sanfrancisco2
+  - year: 2025
+    id: lasvegas
+  - year: 2025
+    id: saltlakecity
+  - year: 2025
+    id: phoenix
+
+
+- type: show
+  year: 2025
+  id: houston
+  fullname: North America 2025
+  sublabel: Houston, TX, USA
+  date: 2025-06-13
+  location: 713 Music Hall
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: irving
+  fullname: North America 2025
+  sublabel: Irving, TX, USA
+  date: 2025-06-14
+  location: The Pavilion at Toyota Music Factory
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: tampa
+  fullname: North America 2025
+  sublabel: Tampa, FL, USA
+  date: 2025-06-17
+  location: Yuengling Center
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: atlanta
+  fullname: North America 2025
+  sublabel: Atlanta, GA, USA
+  date: 2025-06-18
+  location: Coca-Cola Roxy
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: charlotte
+  fullname: North America 2025
+  sublabel: Charlotte, NC, USA
+  date: 2025-06-20
+  location: Skyla Credit Union Amphitheatre
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: baltimore
+  fullname: North America 2025
+  sublabel: Baltimore, MD, USA
+  date: 2025-06-21
+  location: Pier Six Pavilion
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: newyork
+  fullname: North America 2025
+  sublabel: New York, NY, USA
+  date: 2025-06-24
+  location: The Theater at Madison Square Garden
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: boston
+  fullname: North America 2025
+  sublabel: Boston, MA, USA
+  date: 2025-06-25
+  location: MGM Music Hall at Fenway
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: uncasville
+  fullname: North America 2025
+  sublabel: Uncasville, CT, USA
+  date: 2025-06-27
+  location: Mohegan Sun Arena
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: philadelphia
+  fullname: North America 2025
+  sublabel: Philadelphia, PA, USA
+  date: 2025-06-28
+  location: TD Pavilion at The Mann Center
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: laval
+  fullname: North America 2025
+  sublabel: Laval, QC, Canada
+  date: 2025-06-30
+  location: Place Bell
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: toronto
+  fullname: North America 2025
+  sublabel: Toronto, ON, Canada
+  date: 2025-07-02
+  location: Coca-Cola Coliseum
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: sterlingheights
+  fullname: North America 2025
+  sublabel: Sterling Heights, MI, USA
+  date: 2025-07-03
+  location: Michigan Lottery Amphitheatre
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: summerfestmilwaukee
+  fullname: Summerfest Milwaukee
+  date: 2025-07-05
+  location: "-"
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: marylandheights
+  fullname: North America 2025
+  sublabel: Marylands Heights, MO, USA
+  date: 2025-07-06
+  location: Saint Louis Music Park
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: chicago
+  fullname: North America 2025
+  sublabel: Chicago, IL, USA
+  date: 2025-07-08
+  location: Byline Bank Aragon Ballroom
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: minneapolis
+  fullname: North America 2025
+  sublabel: Minneapolis, MN, USA
+  date: 2025-07-09
+  location: The Armory
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: denver
+  fullname: North America 2025
+  sublabel: Denver, CO, USA
+  date: 2025-07-11
+  location: The JunkYard
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: vancouver
+  fullname: North America 2025
+  sublabel: Vancouver, ON, Canada
+  date: 2025-07-14
+  location: Doug Mitchell Thunderbird Sports Centre
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: kent
+  fullname: North America 2025
+  sublabel: Kent, WA, USA
+  date: 2025-07-15
+  location: Accesso ShoWare Center
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: sanfrancisco1
+  fullname: North America 2025
+  sublabel: San Francisco, CA, USA
+  date: 2025-07-17
+  location: The Masonic
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: sanfrancisco2
+  fullname: North America 2025
+  sublabel: San Francisco, CA, USA
+  date: 2025-07-18
+  location: The Masonic
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: lasvegas
+  fullname: North America 2025
+  sublabel: Las Vegas, NV, USA
+  date: 2025-07-20
+  location: The Pearl
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: saltlakecity
+  fullname: North America 2025
+  sublabel: Salt Lake City, UT, USA
+  date: 2025-07-21
+  location: Utah First Credit Union Amphitheatre
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: phoenix
+  fullname: North America 2025
+  sublabel: Phoenix, AZ, USA
+  date: 2025-07-23
+  location: Arizona Financial Theatre
+  cover-image:
+    imageid:
+      tour: northamerica2025
+      id: cover
+  tour: northamerica2025

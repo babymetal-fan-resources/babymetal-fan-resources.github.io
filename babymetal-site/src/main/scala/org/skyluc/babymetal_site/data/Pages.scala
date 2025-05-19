@@ -1,26 +1,26 @@
 package org.skyluc.babymetal_site.data
 
-import org.skyluc.fan_resources.data as fr
 import org.skyluc.fan_resources.BaseError
+import org.skyluc.fan_resources.data as fr
 
-case class PageId(id: String) extends fr.ElementId[Page] {
-  import Pages._
-  override val path = fr.Path(ID_BASE_PATH, id)
+object PageId {
+  private val GEN = "page"
+  def apply(id: String, dark: Boolean = false): fr.GenId[Page] = fr.GenId[Page](GEN, id, dark)
 }
 
-sealed trait Page extends fr.Element[Page] {
-  val id: PageId
+sealed trait Page extends fr.Datum[Page] {
+  val id: fr.GenId[Page]
 }
 
 case class ChronologyPage(
-    id: PageId,
+    id: fr.GenId[Page],
     chronology: fr.Chronology,
     hasError: Boolean = false,
+    linkedTo: Seq[fr.Id[?]] = Nil,
 ) extends Page
     with WithProcessor {
-  val linkedTo: Seq[fr.Id[?]] = Nil
   override def errored(): ChronologyPage = copy(hasError = true)
-  override def withLinkedTo(id: fr.Id[?]*): ChronologyPage = this
+  override def withLinkedTo(id: fr.Id[?]*): ChronologyPage = copy(linkedTo = mergeLinkedTo(id))
 
   override def process[T](processor: Processor[T]): T =
     processor.processChronologyPage(this)

@@ -1,0 +1,12 @@
+type: show
+year: 2025
+id: specialarenashowusa
+
+fullname: Special Arena Show in US
+date: 2025-11-15
+location: "-"
+
+cover-image:
+  imageid:
+    tour: japanfestivaltour2025
+    id: cover
