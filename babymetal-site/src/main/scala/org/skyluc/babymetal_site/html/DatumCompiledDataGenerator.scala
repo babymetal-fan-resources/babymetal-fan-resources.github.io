@@ -9,8 +9,8 @@ import org.skyluc.fan_resources.html as fr
 import fr.DatumCompiledData
 import fr.CompiledDataGenerator
 
-class DatumCompiledDataGenerator(datums: Seq[Datum[?]], generator: CompiledDataGenerator)
-    extends fr.DatumCompiledDataGenerator(datums, generator)
+class DatumCompiledDataGenerator(datums: Seq[Datum[?]], backupPath: Path, generator: CompiledDataGenerator)
+    extends fr.DatumCompiledDataGenerator(datums, backupPath, generator)
     with Processor[DatumCompiledData] {
 
   override def missingCompiledData(id: Id[?]): DatumCompiledData = DatumCompiledData(

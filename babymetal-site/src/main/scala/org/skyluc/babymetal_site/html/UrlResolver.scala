@@ -1,6 +1,7 @@
 package org.skyluc.babymetal_site.html
 
 import org.skyluc.babymetal_site.data.*
+import org.skyluc.fan_resources.Common
 import org.skyluc.fan_resources.data.{Processor as _, *}
 import org.skyluc.fan_resources.html as fr
 import org.skyluc.fan_resources.html.Url
@@ -56,5 +57,5 @@ object UrlResolver extends Processor[Url] with fr.UrlResolver {
   override def processZaiko(zaiko: Zaiko): Url = ???
 
   private def generateBasic(datum: Datum[?]): Url =
-    Url(datum.id.path.withExtension(".html"))
+    Url(datum.id.path.withExtension(Common.HTML_EXTENSION))
 }
