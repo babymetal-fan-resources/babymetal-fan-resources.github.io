@@ -7,6 +7,6 @@ date: 2026-01-15
 location: "-"
 
 cover-image:
-  imageid:
+  localimage:
     tour: japanfestivaltour2025
     id: cover

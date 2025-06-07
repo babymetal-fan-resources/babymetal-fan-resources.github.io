@@ -7,11 +7,24 @@
   location: K ARENA YOKOHAMA
   event-page: https://skiivsbbm.com/
   cover-image:
-    image:
-      filename: cover400.png
-      source:
-        description: event page
-        url: https://skiivsbbm.com/
+    localimage:
+      show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+      id: cover
+  related:
+  - type: localimage
+    show:
+      year: 2025
+      id: seikimaiivsbabymetalencounter
+    id: cover
+    label: cover
+    filename: cover400.png
+    published-date: 2025-06-02 # TODO: better date
+    source:
+      description: BABYMETAL website site
+      url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
+
 
 - type: show
   year: 2025
@@ -22,7 +35,7 @@
   location: K ARENA YOKOHAMA
   event-page: https://skiivsbbm.com/
   cover-image:
-    imageid:
+    localimage:
       show:
         year: 2025
         id: seikimaiivsbabymetalencounter

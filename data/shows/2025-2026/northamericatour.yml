@@ -4,11 +4,9 @@
   first-date: 2025-06-13
   last-date: 2025-07-23
   cover-image:
-    image:
-      filename: cover400.png
-      source:
-        description: BABYMETAL website site
-        url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
+    localimage:
+      tour: northamerica2025
+      id: cover
   shows:
   - year: 2025
     id: houston
@@ -60,6 +58,16 @@
     id: saltlakecity
   - year: 2025
     id: phoenix
+  related:
+  - type: localimage
+    tour: northamerica2025
+    id: cover
+    label: cover
+    filename: cover400.png
+    published-date: 2025-06-02 # TODO: better date
+    source:
+      description: BABYMETAL website site
+      url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
 
 
 - type: show
@@ -70,7 +78,7 @@
   date: 2025-06-13
   location: 713 Music Hall
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -83,7 +91,7 @@
   date: 2025-06-14
   location: The Pavilion at Toyota Music Factory
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -96,7 +104,7 @@
   date: 2025-06-17
   location: Yuengling Center
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -109,7 +117,7 @@
   date: 2025-06-18
   location: Coca-Cola Roxy
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -122,7 +130,7 @@
   date: 2025-06-20
   location: Skyla Credit Union Amphitheatre
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -135,7 +143,7 @@
   date: 2025-06-21
   location: Pier Six Pavilion
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -148,7 +156,7 @@
   date: 2025-06-24
   location: The Theater at Madison Square Garden
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -161,7 +169,7 @@
   date: 2025-06-25
   location: MGM Music Hall at Fenway
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -174,7 +182,7 @@
   date: 2025-06-27
   location: Mohegan Sun Arena
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -187,7 +195,7 @@
   date: 2025-06-28
   location: TD Pavilion at The Mann Center
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -200,7 +208,7 @@
   date: 2025-06-30
   location: Place Bell
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -213,7 +221,7 @@
   date: 2025-07-02
   location: Coca-Cola Coliseum
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -226,7 +234,7 @@
   date: 2025-07-03
   location: Michigan Lottery Amphitheatre
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -238,7 +246,7 @@
   date: 2025-07-05
   location: "-"
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -251,7 +259,7 @@
   date: 2025-07-06
   location: Saint Louis Music Park
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -264,7 +272,7 @@
   date: 2025-07-08
   location: Byline Bank Aragon Ballroom
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -277,7 +285,7 @@
   date: 2025-07-09
   location: The Armory
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -290,7 +298,7 @@
   date: 2025-07-11
   location: The JunkYard
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -303,7 +311,7 @@
   date: 2025-07-14
   location: Doug Mitchell Thunderbird Sports Centre
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -316,7 +324,7 @@
   date: 2025-07-15
   location: Accesso ShoWare Center
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -329,7 +337,7 @@
   date: 2025-07-17
   location: The Masonic
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -342,7 +350,7 @@
   date: 2025-07-18
   location: The Masonic
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -355,7 +363,7 @@
   date: 2025-07-20
   location: The Pearl
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -368,7 +376,7 @@
   date: 2025-07-21
   location: Utah First Credit Union Amphitheatre
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025
@@ -381,7 +389,7 @@
   date: 2025-07-23
   location: Arizona Financial Theatre
   cover-image:
-    imageid:
+    localimage:
       tour: northamerica2025
       id: cover
   tour: northamerica2025

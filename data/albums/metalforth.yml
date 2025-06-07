@@ -7,13 +7,39 @@ designation: album
 release-date: 2025-06-27
 
 cover-image:
-  image:
-    filename: cover400.png
-    source:
-      description: BABYMETAL post on X
-      url: https://x.com/BABYMETAL_JAPAN/status/1914967485188579414
-
+  postximage:
+    postid: 1906725673450037384
+    imageid: GnWBzbdbgAA2zuP
 
 songs:
 - frommetou
+
+related:
+- type: postx
+  id: 1906725673450037384
+  account: BABYMETAL_JAPAN
+  published-date: 2025-04-01
+  label: announcement
+  text: |
+    BABYMETAL returns with METAL FORTH. The renowned Japanese metal band has signed to Capitol Records, which will release the album globally on June 13. Meaning “beyond metal,” METAL FORTH features collaborations with Electric Callboy, Tom Morello, Poppy, Spiritbox, Bloodywood, Polyphia and Slaughter to Prevail. The next single “from me to u (feat. Poppy)" will arrive this Friday, April 4th. Initial album pre-orders are live at http://METALFORTH.com
+
+    BABYMETAL – METAL FORTH
+    1. from me to u (feat. Poppy)
+    2. RATATATA (BABYMETAL x Electric Callboy)
+    3. Song 3 (BABYMETAL x Slaughter to Prevail)
+    4. Kon! Kon! (feat. Bloodywood)
+    5. KxAxWxAxIxI
+    6. Sunset Kiss (feat. Polyphia)
+    7. My Queen (feat. Spiritbox)
+    8. Algorism
+    9. METALI!! (feat. Tom Morello)
+    10. White Flame ー白炎ー
+  image:
+  - id: GnWBzbdbgAA2zuP
+    label: cover image
+    localCopy: true
+  - id: GnWCAIwaQAAsAww
+    label: vinyl
+  - id: GnWCBKhbMAAJmAA
+    label: CD
 

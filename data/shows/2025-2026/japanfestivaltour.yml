@@ -4,16 +4,24 @@
   first-date: 2025-08-16
   last-date: 2025-08-17
   cover-image:
-    image:
-      filename: cover400.png
-      source:
-        description: BABYMETAL website
-        url: https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=5717&id=288226&lang=en
+    localimage:
+      tour: japanfestivaltour2025
+      id: cover
   shows:
   - year: 2025
     id: summersonictokyo
   - year: 2025
     id: summersonicosaka
+  related:
+  - type: localimage
+    tour: japanfestivaltour2025
+    id: cover
+    label: cover
+    filename: cover400.png
+    published-date: 2025-06-02 # TODO: better date
+    source:
+      description: BABYMETAL website site
+      url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
 
 - type: show
   year: 2025
@@ -24,7 +32,7 @@
   location: ZOZO Marine Stadium & Makuhari Messe
   event-page: https://www.summersonic.com/
   cover-image:
-    imageid:
+    localimage:
       show:
         year: 2025
         id: summersonictokyo
@@ -40,9 +48,21 @@
   location: EXPO’70 COMMEMORATIVE PARK
   event-page: https://www.summersonic.com/
   cover-image:
-    image:
-      filename: cover400.png
-      source:
-        description: BABYMETAL website
-        url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=1221&page=0&rw=10&lang=en&cd=TOUR_TO
+    localimage:
+      show:
+        year: 2025
+        id: summersonictokyo
+      id: cover
   tour: japanfestivaltour2025
+  related:
+  - type: localimage
+    show:
+      year: 2025
+      id: summersonictokyo
+    id: cover
+    label: cover
+    filename: cover400.png
+    published-date: 2025-06-02 # TODO: better date
+    source:
+      description: BABYMETAL website site
+      url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025

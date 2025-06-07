@@ -9,11 +9,9 @@ release-date: 2025-04-04
 description:
 
 cover-image:
-  image:
-    filename: cover400.png
-    source:
-      description: BABYMETAL post on X
-      url: https://x.com/BABYMETAL_JAPAN/status/1908172721055469909
+  postximage:
+    postid: 1908172721055469909
+    imageid: GnsqdGTbQAAkPmf
 
 credits:
   lyricist: MK-METAL, Jordan Fish, Poppy
@@ -31,3 +29,16 @@ related:
   id: qayP_YUrf9I
   label: Official Music Video
   published-date: 2025-04-04
+- type: postx
+  id: 1908172721055469909
+  account: BABYMETAL_JAPAN
+  published-date: 2025-04-04
+  label: released
+  text: |
+    New single "from me to u" feat. Poppy is out now!
+
+    http://METALFORTH.com
+  image:
+  - id: GnsqdGTbQAAkPmf
+    label: cover image
+    localCopy: true

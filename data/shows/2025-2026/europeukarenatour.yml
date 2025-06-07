@@ -4,11 +4,9 @@
   first-date: 2025-05-10
   last-date: 2025-05-30
   cover-image:
-    image:
-      filename: cover400.png
-      source:
-        description: BABYMETAL website site
-        url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
+    localimage:
+      tour: ukeuropearenatour2025
+      id: cover
   shows:
   - year: 2025
     id: brussels
@@ -34,6 +32,17 @@
     id: paris
   - year: 2025
     id: london
+  related:
+  - type: localimage
+    tour: ukeuropearenatour2025
+    id: cover
+    label: cover
+    filename: cover400.png
+    published-date: 2025-06-02 # TODO: better date
+    source:
+      description: BABYMETAL website site
+      url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
+
 
 - type: show
   year: 2025
@@ -43,7 +52,7 @@
   date: 2025-05-10
   location: Forest National
   cover-image:
-    imageid:
+    localimage:
       tour: ukeuropearenatour2025
       id: cover
   tour: ukeuropearenatour2025
@@ -56,7 +65,7 @@
   date: 2025-05-12
   location: Barclays Arena
   cover-image:
-    imageid:
+    localimage:
       tour: ukeuropearenatour2025
       id: cover
   tour: ukeuropearenatour2025
@@ -69,7 +78,7 @@
   date: 2025-05-13
   location: AFAS Live
   cover-image:
-    imageid:
+    localimage:
       tour: ukeuropearenatour2025
       id: cover
   tour: ukeuropearenatour2025
@@ -82,7 +91,7 @@
   date: 2025-05-16
   location: Jahrhunderthalle
   cover-image:
-    imageid:
+    localimage:
       tour: ukeuropearenatour2025
       id: cover
   tour: ukeuropearenatour2025
@@ -95,7 +104,7 @@
   date: 2025-05-17
   location: Velodrom
   cover-image:
-    imageid:
+    localimage:
       tour: ukeuropearenatour2025
       id: cover
   tour: ukeuropearenatour2025
@@ -108,7 +117,7 @@
   date: 2025-05-19
   location: Tauron Arena
   cover-image:
-    imageid:
+    localimage:
       tour: ukeuropearenatour2025
       id: cover
   tour: ukeuropearenatour2025
@@ -121,7 +130,7 @@
   date: 2025-05-20
   location: Arena Nüremberger
   cover-image:
-    imageid:
+    localimage:
       tour: ukeuropearenatour2025
       id: cover
   tour: ukeuropearenatour2025
@@ -134,7 +143,7 @@
   date: 2025-05-22
   location: The Hall
   cover-image:
-    imageid:
+    localimage:
       tour: ukeuropearenatour2025
       id: cover
   tour: ukeuropearenatour2025
@@ -147,7 +156,7 @@
   date: 2025-05-25
   location: Vistalegre
   cover-image:
-    imageid:
+    localimage:
       tour: ukeuropearenatour2025
       id: cover
   tour: ukeuropearenatour2025
@@ -160,7 +169,7 @@
   date: 2025-05-26
   location: Poble Espanyol
   cover-image:
-    imageid:
+    localimage:
       tour: ukeuropearenatour2025
       id: cover
   tour: ukeuropearenatour2025
@@ -173,7 +182,7 @@
   date: 2025-05-28
   location: Zénith Paris-La Villette
   cover-image:
-    imageid:
+    localimage:
       tour: ukeuropearenatour2025
       id: cover
   tour: ukeuropearenatour2025
@@ -186,7 +195,7 @@
   date: 2025-05-30
   location: The O2
   cover-image:
-    imageid:
+    localimage:
       tour: ukeuropearenatour2025
       id: cover
   tour: ukeuropearenatour2025

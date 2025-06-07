@@ -4,8 +4,8 @@
   first-date: 2025-08-24
   last-date: 2025-10-04
   cover-image:
-    imageid:
-      tour: japanfestivaltour2025
+    localimage:
+      tour: asiatour2025
       id: cover
   shows:
   - year: 2025
@@ -14,6 +14,16 @@
     id: busanrockfestival
   - year: 2025
     id: f1singaporegrandprix
+  related:
+  - type: localimage
+    tour: asiatour2025
+    id: cover
+    label: cover
+    filename: cover400.png
+    published-date: 2025-06-02 # TODO: better date
+    source:
+      description: BABYMETAL website site
+      url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
 
 - type: show
   year: 2025
@@ -22,12 +32,24 @@
   date: 2025-08-24
   location: IMPACT CHALLENGER HALL
   cover-image:
-    image:
-      filename: cover400.png
-      source: 
-        description: BABYMETAL website
-        url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=1221&page=0&rw=10&lang=en&cd=TOUR_TO
+    localimage:
+      show:
+        year: 2025
+        id: summersonicbangkok
+      id: cover
   tour: asiatour2025
+  related:
+  - type: localimage
+    show:
+      year: 2025
+      id: summersonicbangkok
+    id: cover
+    label: cover
+    filename: cover400.png
+    published-date: 2025-06-02 # TODO: better date
+    source:
+      description: BABYMETAL website site
+      url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
 
 - type: show
   year: 2025
@@ -37,12 +59,24 @@
   location: SAMNAK PARK
   event-page: https://busanrockfestival.com/
   cover-image:
-    image:
-      filename: cover400.png
-      source: 
-        description: event website
-        url: https://busanrockfestival.com/
+    localimage:
+      show:
+        year: 2025
+        id: busanrockfestival
+      id: cover
   tour: asiatour2025
+  related:
+  - type: localimage
+    show:
+      year: 2025
+      id: busanrockfestival
+    id: cover
+    label: cover
+    filename: cover400.png
+    published-date: 2025-06-02 # TODO: better date
+    source: 
+      description: event website
+      url: https://busanrockfestival.com/
 
 - type: show
   year: 2025
@@ -52,9 +86,21 @@
   location: MARINA BAY STREET CIRCUIT
   event-page: https://singaporegp.sg/
   cover-image:
-    image:
-      filename: cover400.png
-      source: 
-        description: BABYMETAL website
-        url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=1221&page=0&rw=10&lang=en&cd=TOUR_TO
+    localimage:
+      show:
+        year: 2025
+        id: f1singaporegrandprix
+      id: cover
   tour: asiatour2025
+  related:
+  - type: localimage
+    show:
+      year: 2025
+      id: f1singaporegrandprix
+    id: cover
+    label: cover
+    filename: cover400.png
+    published-date: 2025-06-02 # TODO: better date
+    source:
+      description: BABYMETAL website site
+      url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
