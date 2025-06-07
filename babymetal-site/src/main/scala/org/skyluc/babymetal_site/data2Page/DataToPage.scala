@@ -50,6 +50,10 @@ class DataToPage(generator: CompiledDataGenerator) extends Processor[Seq[SitePag
   override def processChronologyPage(chronologyPage: dChronologyPage): Seq[SitePage] =
     ChronologyPage.pageFor(chronologyPage, generator)
 
+  override def processEvent(event: Event): Seq[SitePage] = NO_DATA // TODO
+
+  override def processEventMarker(eventMarker: EventMarker): Seq[SitePage] = NO_DATA
+
   override def processGroup(group: Group): Seq[SitePage] = NO_DATA
 
   override def processMediaMarker(mediaMarker: MediaMarker): Seq[SitePage] = NO_DATA

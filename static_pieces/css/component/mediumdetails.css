@@ -5,7 +5,7 @@
   display: grid;
   grid-template-columns: min-content 1fr;
   grid-template-rows: min-content min-content min-content min-content 1fr;
-  grid-template-areas: 'cover designation' 'cover label' 'cover sublabel' 'cover parent' 'cover info';
+  grid-template-areas: 'cover designation' 'cover label' 'cover sublabel' 'cover parent' 'cover info' 'cover description';
 }
 
 .medium-details>.medium-image-cover {
@@ -54,11 +54,23 @@
 }
 
 
-.large-details-description {
+.medium-details-description {
+  grid-area: description;
+  font-size: 1rem;
+  line-height: normal;
+  border-top: solid 1px var(--color-not-gray);
+  margin: 1rem 15% 0 0;
+}
+
+.medium-details-description p {
+  margin: 0.5rem 0 0.5rem;
+}
+
+/* .medium-details-description {
   font-size: 1rem;
   line-height: normal;
   border-top: solid 1px var(--color-not-gray)
-}
+} */
 
 /* medium details styling */
 

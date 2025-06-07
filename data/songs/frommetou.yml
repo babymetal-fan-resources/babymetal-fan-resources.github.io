@@ -25,10 +25,57 @@ multimedia:
   - youtubevideo: qayP_YUrf9I
 
 related:
+# YouTube videos
 - type: youtubevideo
   id: qayP_YUrf9I
   label: Official Music Video
   published-date: 2025-04-04
+# YouTube shorts
+- type: youtubeshort
+  id: FYwqnTc2TIs
+  label: Teaser 1
+  published-date: 2025-04-02
+- type: youtubeshort
+  id: JdKbr69Xn6I
+  label: Teaser 2
+  published-date: 2025-04-03
+# X posts
+- type: postx
+  id: 1907089900303778232
+  account: BABYMETAL_JAPAN
+  published-date: 2025-04-02
+  label: teaser 1
+  text: |
+    from me to u out Friday
+  linked-to:
+  - youtubeshort: FYwqnTc2TIs
+- type: postx
+  id: 1907450207283056684
+  account: BABYMETAL_JAPAN
+  published-date: 2025-04-03
+  label: teaser 2
+  text: |
+    BABYMETAL feat. Poppy out // "from me to u" Out Friday
+  linked-to:
+  - youtubeshort: JdKbr69Xn6I
+- type: postx
+  id: 1907811061547544665
+  account: BABYMETAL_JAPAN
+  published-date: 2025-04-04
+  label: released
+  info: Japan time
+  text: |
+    Japan!! New song "from me to u(feat. Poppy)"配信スタートDEATH!!
+    オフィシャルミュージックビデオは4.4(金)13:00(日本時間)にプレミア公開!!
+    http://umj.lnk.to/BABYMETAL_fmtu
+
+    #BABYMETAL #METALFORTH #frommetou #Poppy
+  image:
+  - id: GnnoDBdbkAAegxk
+    label: Music Video
+    info: first part background
+    linked-to:
+    - song: frommetou
 - type: postx
   id: 1908172721055469909
   account: BABYMETAL_JAPAN
