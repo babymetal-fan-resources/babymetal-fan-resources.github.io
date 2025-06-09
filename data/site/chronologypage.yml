@@ -9,6 +9,10 @@ markers:
     youtubevideo: qayP_YUrf9I
 - youtubevideo: qayP_YUrf9I
   parent-key: song
+  cover-image: 
+    localimage:
+      youtubevideo: qayP_YUrf9I
+      id: mvcover
 - tour: ukeuropearenatour2025
 - show:
     year: 2025

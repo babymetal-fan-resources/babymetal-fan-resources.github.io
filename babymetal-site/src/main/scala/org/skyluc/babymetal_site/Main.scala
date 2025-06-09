@@ -2,10 +2,12 @@ package org.skyluc.babymetal_site
 
 import org.skyluc.babymetal_site.checks.CheckLocalAssetExists
 import org.skyluc.babymetal_site.checks.PopulateRelatedTo
+import org.skyluc.babymetal_site.data.Data
 import org.skyluc.babymetal_site.element2data.ElementToData
 import org.skyluc.babymetal_site.html.CompiledDataGeneratorBuilder
 import org.skyluc.babymetal_site.yaml.NodeToElement
 import org.skyluc.fan_resources.checks.DataCheck
+import org.skyluc.fan_resources.data as frData
 import org.skyluc.fan_resources.data.Path
 import org.skyluc.fan_resources.element2data.DataTransformer
 import org.skyluc.fan_resources.html.SiteOutput
@@ -55,9 +57,11 @@ object Main {
     }
     println("--------------")
 
-    val generator = CompiledDataGeneratorBuilder.generator(checkedDatums)
+    val data = frData.Data.get(checkedDatums, Data.creator)
 
-    val pages = DataToPage(generator).generate(rootPath, checkedDatums)
+    val generator = CompiledDataGeneratorBuilder.generator(data)
+
+    val pages = DataToPage(generator).generate(rootPath, data)
 
     println(s"nb of pages: ${pages.size}")
 

@@ -29,7 +29,22 @@ trait WithProcessor extends fr.WithProcessor {
   def process[A](processor: ProcessorWithError[A]): Either[BaseError, A]
 }
 
-trait Processor[T] extends fr.Processor[T] {
+trait WithProcessorElement extends fr.WithProcessorElement {
+  override def process[T](processor: fr.ProcessorElement[T]): T = {
+    processor match {
+      case p: ProcessorElement[T] =>
+        process(p)
+      case _ =>
+        ???
+    }
+  }
+
+  def process[T](processor: ProcessorElement[T]): T
+}
+
+trait Processor[T] extends fr.Processor[T] with ProcessorElement[T] {}
+
+trait ProcessorElement[T] extends fr.ProcessorElement[T] {
 
   def processChronologyPage(chronologyPage: ChronologyPage): T
 }

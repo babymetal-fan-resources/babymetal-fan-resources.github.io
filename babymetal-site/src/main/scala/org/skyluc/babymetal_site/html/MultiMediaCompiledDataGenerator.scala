@@ -1,8 +1,7 @@
 package org.skyluc.babymetal_site.html
 
-import org.skyluc.babymetal_site.data.*
 import org.skyluc.fan_resources.Common
-import org.skyluc.fan_resources.data.{Processor as _, *}
+import org.skyluc.fan_resources.data.{ProcessorElement as _, *}
 import org.skyluc.fan_resources.html as fr
 import org.skyluc.fan_resources.html.MultiMediaCompiledData
 
@@ -32,7 +31,4 @@ class MultiMediaCompiledDataGenerator(generator: fr.CompiledDataGenerator) exten
 }
 
 class MultiMediaCompiledDataGeneratorProcessor(generator: fr.CompiledDataGenerator)
-    extends fr.MultiMediaCompiledDataGeneratorProcessor(generator)
-    with Processor[MultiMediaCompiledData] {
-  override def processChronologyPage(chronologyPage: ChronologyPage): MultiMediaCompiledData = ???
-}
+    extends fr.MultiMediaCompiledDataGeneratorProcessor(generator) {}

@@ -30,6 +30,15 @@ related:
   id: qayP_YUrf9I
   label: Official Music Video
   published-date: 2025-04-04
+- type: localimage
+  youtubevideo: qayP_YUrf9I
+  id: mvcover
+  label: MV cover
+  published-date: 2025-04-04
+  filename: mvcover.png
+  source:
+    description: YouTube video
+  hidden: true
 # YouTube shorts
 - type: youtubeshort
   id: FYwqnTc2TIs
