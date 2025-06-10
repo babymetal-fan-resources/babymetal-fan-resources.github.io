@@ -9,6 +9,6 @@ import org.skyluc.fan_resources.data.Datum
 object PopulateRelatedTo extends fr.PopulateRelatedTo with Processor[Datum[?]] {
 
   override def processChronologyPage(chronologyPage: ChronologyPage): Datum[?] =
-    chronologyPage
+    chronologyPage.withLinkedTo(chronologyPage.coverImage.image)
 
 }

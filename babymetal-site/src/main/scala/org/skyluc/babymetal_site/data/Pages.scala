@@ -20,6 +20,11 @@ case class ChronologyPage(
 ) extends Page
     with WithProcessor
     with WithProcessorElement {
+
+  override val coverImage: fr.CoverImage = fr.CoverImage(
+    fr.LocalImageId(fr.GroupId("siteimages"), "kitsume_cover"),
+    true,
+  )
   override def errored(): ChronologyPage = copy(hasError = true)
   override def withLinkedTo(id: fr.Id[?]*): ChronologyPage = copy(linkedTo = mergeLinkedTo(id))
 

@@ -13,6 +13,7 @@ import org.skyluc.fan_resources.element2data.DataTransformer
 import org.skyluc.fan_resources.html.SiteOutput
 import org.skyluc.fan_resources.yaml.YamlReader
 import org.skyluc.neki_site.data2Page.DataToPage
+import org.skyluc.fan_resources.checks.MoreDataCheck
 
 object Main {
 
@@ -51,13 +52,15 @@ object Main {
     val (checkErrors, checkedDatums) =
       DataCheck.check(datums, PopulateRelatedTo, CheckLocalAssetExists(rootPath.resolve(BASE_IMAGE_ASSET_PATH)), false)
 
+    val data = frData.Data.get(checkedDatums, Data.creator)
+
+    val moreCheckerrors = MoreDataCheck.check(data)
+
     println("CHECKS ERRORS: ")
-    checkErrors.foreach { e =>
+    (checkErrors ++ moreCheckerrors).foreach { e =>
       println("  " + e)
     }
     println("--------------")
-
-    val data = frData.Data.get(checkedDatums, Data.creator)
 
     val generator = CompiledDataGeneratorBuilder.generator(data)
 
