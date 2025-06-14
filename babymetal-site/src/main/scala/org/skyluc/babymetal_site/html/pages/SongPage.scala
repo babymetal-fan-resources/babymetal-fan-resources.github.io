@@ -12,7 +12,6 @@ import org.skyluc.fan_resources.html.component.LargeDetails
 import org.skyluc.fan_resources.html.component.LyricsSection
 import org.skyluc.fan_resources.html.component.MultiMediaCard
 import org.skyluc.html.*
-import org.skyluc.neki_site.html.pages.SongExtraPage
 
 class SongPage(
     song: Song,

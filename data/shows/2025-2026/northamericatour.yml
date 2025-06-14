@@ -68,7 +68,23 @@
     source:
       description: BABYMETAL website site
       url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
-
+  - type: youtubevideo
+    id: sxnNfKoYEsA
+    label: Trailer
+    published-date: 2025-03-21
+  - type: youtubeshort
+    id: t-xe-Skaidk
+    label: Trailer
+    published-date: 2025-03-21
+  - type: localimage
+    tour: northamerica2025
+    id: merch01
+    label: Merch
+    filename: merch01.png
+    published-date: 2025-06-12
+    source:
+      description: BABYMETAL website site
+      url: https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=2301&id=291753&lang=en
 
 - type: show
   year: 2025
@@ -82,6 +98,40 @@
       tour: northamerica2025
       id: cover
   tour: northamerica2025
+  related:
+  - type: postx
+    id: 1933786508722589865
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-14
+    label: Thank you
+    text: |
+      BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA kicks off today!!!💪
+      Huge thanks to everyone who joined us in Houston!!!
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORHTAMERICA #HOUSTON 
+      📸 
+      @Theguyfromthpic
+    image:
+    - id: GtYv6GJbMAQs6hO
+      label: Arena
+      linked-to:
+      - show:
+          year: 2025
+          id: houston
+      - song: bxmxc # TODO: double check
+    - id: GtYv6GHbMAEk1r0
+      label: On stage
+      linked-to:
+      - show:
+          year: 2025
+          id: houston
+      - song: karate
+    - id: GtYv6GMbwAA7vDf
+      label: On stage
+      info: weeeeeaaaaa
+      linked-to:
+      - show:
+          year: 2025
+          id: houston
 
 - type: show
   year: 2025

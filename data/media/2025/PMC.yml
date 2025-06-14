@@ -1,0 +1,75 @@
+type: mediawritten
+year: 2025
+id: pmc
+designation: magazine
+publication: PMC
+issue: Vol. 36
+published-date: 2025-05-21
+webpage: https://lp.p.pia.jp/article/series/202961/416908/index.html
+member:
+- SU-METAL
+- MOAMETAL
+- MOMOMETAL
+- KOBAMETAL
+cover-image:
+  postximage:
+    postid: 1914876896082583656
+    imageid: GpLfm5xa4AM7Owd
+multimedia:
+  image:
+  - postximage:
+      postid: 1931924215965356195
+      imageid: Gs-JgZfbQAAhUWX
+  - postximage:
+      postid: 1925023744986058905
+      imageid: GrYhyIWbAAQ_HF2
+  - postximage:
+      postid: 1925023744986058905
+      imageid: GrYhyIzbwAAP05r
+related:
+- type: postx
+  id: 1914876896082583656
+  account: BABYMETAL_JAPAN
+  label: Announcement
+  published-date: 2025-04-23
+  text: |
+    BABYMETAL表紙『PMC Vol.36』、表紙ビジュアル解禁！ 最新インタビュー＆KOBAMETALインタビューほか大特集。読者アンケートも急募!!
+    https://lp.p.pia.jp/article/series/202961/416908/index.html
+
+    @BABYMETAL_JAPAN
+    #BABYMETAL #METALFORTH #PMC36
+  image:
+  - id: GpLfm5xa4AM7Owd
+    label: cover
+    localCopy: true
+- type: postx
+  id: 1925023744986058905
+  account: BABYMETAL_JAPAN
+  label: Out
+  published-date: 2025-05-21
+  text: |
+    📚【PMC編集部】BABYMETAL表紙『PMC Vol.36』本日発売！待望の4thアルバム『METAL FORTH』について、メンバーとプロデューサーKOBAMETALに世界最速でロングインタビューを敢行！
+    https://lp.p.pia.jp/article/series/202961/418233/index.html
+
+    @BABYMETAL_JAPAN
+    #BABYMETAL #METALFORTH #PMC36
+  image:
+  - id: GrYhyIWbAAQ_HF2
+    label: cover
+  - id: GrYhyIzbwAAP05r
+    label: inside
+- type: postx
+  id: 1931924215965356195
+  account: OngakuPia
+  label: Billboard
+  published-date: 2025-06-09
+  text: |
+    📚【PMC編集部】BABYMETAL表紙＆40P大特集『PMC Vol.36』好評発売中。本日より、東京・田園都市線渋谷駅にてBABYMETAL写真使用の大型ビルボード掲出開始！
+    https://lp.p.pia.jp/article/series/202961/419979/index.html
+
+    @BABYMETAL_JAPAN
+    #BABYMETAL #METALFORTH #PMC36
+  image:
+  - id: Gs-JgZfbQAAhUWX
+    label: Billboard
+    info: Shibuya Station

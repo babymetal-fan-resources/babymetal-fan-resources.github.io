@@ -1,0 +1,11 @@
+type: song
+id: megitsune
+
+fullname: Megitsune
+
+release-date: 2013-06-19
+
+cover-image:
+  localimage:
+    group: siteimages
+    id: kitsume_cover

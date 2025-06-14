@@ -13,47 +13,147 @@ markers:
     localimage:
       youtubevideo: qayP_YUrf9I
       id: mvcover
+- media:
+    year: 2025
+    id: metaradi0405
+- media:
+    year: 2025
+    id: metaradi0412
+- media:
+    year: 2025
+    id: metaradi0419
+- media:
+    year: 2025
+    id: metaradi0426
+- media:
+    year: 2025
+    id: metaradi0503
 - tour: ukeuropearenatour2025
+- media:
+    year: 2025
+    id: metaradi0510
 - show:
     year: 2025
     id: brussels
+  related-multimedia:
+    postximage:
+      postid: 1921378662311436476
+      imageid: GqobJj1XAAAoK2h
 - show:
     year: 2025
     id: hamburg
+  related-multimedia:
+    postximage:
+      postid: 1922220340970668112
+      imageid: Gq0W87iXwAA3oxm
 - show:
     year: 2025
     id: amsterdam
+  related-multimedia:
+    postximage:
+      postid: 1922456138966085924
+      imageid: Gq3ucSIasAA-t3f
 - show:
     year: 2025
     id: frankfurt
+  related-multimedia:
+    postximage:
+      postid: 1923533279652872569
+      imageid: GrHB1SwWgAA-d8G
+- media:
+    year: 2025
+    id: metaradi0517
 - show:
     year: 2025
     id: berlin
+  related-multimedia:
+    postximage:
+      postid: 1924035966840533209
+      imageid: GrOMgFHXsAAXD-b
 - show:
     year: 2025
     id: krakow
+  related-multimedia:
+    postximage:
+      postid: 1924789470085140940
+      imageid: GrY0XDsXwAA3nGo
 - show:
     year: 2025
     id: nuremberg
+  related-multimedia:
+    postximage:
+      postid: 1924984455510557164
+      imageid: GrbpXs1bAAAydOs
+- media:
+    year: 2025
+    id: pmc
+  related-multimedia:
+    postximage:
+      postid: 1925023744986058905
+      imageid: GrYhyIzbwAAP05r
 - show:
     year: 2025
     id: zurich
+  related-multimedia:
+    postximage:
+      postid: 1925707721447203038
+      imageid: Grl7uB-XEAA6h9j
+- media:
+    year: 2025
+    id: metaradi0524
 - show:
     year: 2025
     id: madrid
+  related-multimedia:
+    postximage:
+      postid: 1926791606578872394
+      imageid: Gr1UakcWgAAjDZV
 - show:
     year: 2025
     id: barcelona
+  related-multimedia:
+    postximage:
+      postid: 1927166535744753912
+      imageid: Gr6qVqvXQAA1uZx
+- song: song3
+  related-multimedia:
+    youtubevideo: KEMVgy51kPE
 - show:
     year: 2025
     id: paris
+  related-multimedia:
+    postximage:
+      postid: 1927881848094437402
+      imageid: GsE0ZHDWwAAhLtb
 - show:
     year: 2025
     id: london
+  related-multimedia:
+    postximage:
+      postid: 1928663024081997836
+      imageid: GsP2prsXAAEh5WO
+- media:
+    year: 2025
+    id: metaradi0531
+- media: 
+    year: 2025
+    id: metalhammer
 - tour: northamerica2025
+  related-multimedia:
+    youtubevideo: sxnNfKoYEsA
+- media:
+    year: 2025
+    id: metaradi0607
 - show:
     year: 2025
     id: houston
+  related-multimedia:
+    postximage:
+      postid: 1933786508722589865
+      imageid: GtYv6GJbMAQs6hO
+- media:
+    year: 2025
+    id: metaradi0614
 - show:
     year: 2025
     id: irving
@@ -149,10 +249,24 @@ markers:
     id: busanrockfestival
 - show:
     year: 2025
+    id: hongkong
+- show:
+    year: 2025
+    id: taipei
+- show:
+    year: 2025
     id: f1singaporegrandprix
 - show:
     year: 2025
+    id: kualalumpur
+- show:
+    year: 2025
+    id: manila
+- show:
+    year: 2025
     id: specialarenashowusa
+  related-multimedia:
+    youtubevideo: HbRO9vuZiKE
 - show:
     year: 2026
     id: specialarenashowjapan

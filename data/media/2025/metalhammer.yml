@@ -1,0 +1,30 @@
+type: mediawritten
+year: 2025
+id: metalhammer
+designation: magazine
+publication: METAL HAMMER
+issue: Vol. 18
+published-date: 2025-06-13
+webpage: https://www.rittor-music.co.jp/magazine/detail/3124238002/index.php
+member:
+- SU-METAL
+- MOAMETAL
+- MOMOMETAL
+cover-image:
+  postximage:
+    postid: 1914970177814634783
+    imageid: GpNXH9MbkAA2Ot3
+related:
+- type: postx
+  id: 1914970177814634783
+  account: BABYMETAL_JAPAN
+  label: Announcement
+  published-date: 2025-04-23
+  text: |
+    世界を席巻する新生BABYMETAL
+    〜ライヴフォトコレクション＆最新インタビュー
+    https://amzn.to/44mZxzZ
+  image:
+  - id: GpNXH9MbkAA2Ot3
+    label: cover
+    localCopy: true

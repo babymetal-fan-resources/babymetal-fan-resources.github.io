@@ -2,7 +2,7 @@ type: show
 year: 2025
 id: specialarenashowusa
 
-fullname: Special Arena Show in US
+fullname: Special US Arena Show
 date: 2025-11-01
 location: "-"
 
@@ -12,6 +12,9 @@ cover-image:
       year: 2025
       id: specialarenashowusa
     id: cover
+multimedia:
+  video:
+  - youtubevideo: HbRO9vuZiKE
 related:
 - type: localimage
   show:
@@ -24,3 +27,56 @@ related:
   source:
     description: BABYMETAL website site
     url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
+- type: youtubevideo
+  id: HbRO9vuZiKE
+  label: Trailer
+  published-date: 2025-05-31
+- type: postx
+  id: 1929583793448579425
+  account: BABYMETAL_JAPAN
+  published-date: 2025-06-02
+  label: Pre-sale
+  text: |
+    Los Angeles! 
+    Special US Arena show, Intuit Dome pre-sale begins now! General on-sale is Friday June 6.
+
+    Get pre-sale Tickets and VIP from http://laylo.com/babymetal/intuitdome/nov1
+    #BABYMETAL
+    📸
+    @photosbysarai
+  image:
+  - id: GsdAxWcb0AAMBm3
+    label: On stage
+    linked-to:
+    - show:
+        year: 2025
+        id: london
+    # TODO: which song ? Gimme Choco ?
+- type: postx
+  id: 1931033569100710000
+  account: BABYMETAL_JAPAN
+  published-date: 2025-06-06
+  label: General tickets
+  text: |
+    ＼ It’s your turn, LA／
+
+    The countdown to Nov 1 begins🔥
+
+    BABYMETAL SPECIAL US ARENA SHOW IN Los Angeles
+    🗓️ Nov 1 | 📍 Intuit Dome
+    🎫 General tickets are now on sale. — be there.
+    https://ticketmaster.com/event/090062BCA662252F
+
+    2025.11.1 アメリカ・ロサンゼルスIntuit Domeにて開催されるスペシャル・アリーナ・ショー「BABYMETAL SPECIAL US ARENA SHOW IN Los Angeles」チケット一般発売開始DEATH！
+  linked-to:
+  - localimage:
+      show:
+        year: 2025
+        id: specialarenashowusa
+      id: cover
+- type: youtubeshort
+  id: Vu1m40iw7yM
+  label: Trailer
+  published-date: 2025-06-06
+  linked-to:
+  - song: frommetou

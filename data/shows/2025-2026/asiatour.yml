@@ -37,7 +37,7 @@
         year: 2025
         id: summersonicbangkok
       id: cover
-  tour: asiatour2025
+  tour: asiatour2025 # TODO: not part of the tour ?
   related:
   - type: localimage
     show:
@@ -80,6 +80,59 @@
 
 - type: show
   year: 2025
+  id: hongkong
+  fullname: Asia Tour 2025
+  sublabel: Hong Kong
+  date: 2025-09-30
+  location: AsiaWorld-Expo Arena
+  event-page: https://shows.cityline.com/tc/2025/babymetal2025.html
+  cover-image:
+    localimage:
+      tour: asiatour2025
+      id: cover
+      
+- type: show
+  year: 2025
+  id: taipei
+  fullname: Asia Tour 2025
+  sublabel: Taipei, Taiwan
+  date: 2025-10-02
+  location: ZEPP NEW TAIPEI
+  event-page: https://rockempire.kktix.cc/events/ljw6aw
+  cover-image:
+    localimage:
+      show:
+        year: 2025
+        id: taipei
+      id: cover
+  related:
+  - type: localimage
+    show:
+      year: 2025
+      id: taipei
+    id: cover
+    label: cover
+    filename: cover400.png
+    published-date: 2025-05-27
+    source:
+      description: Event website
+      url: https://rockempire.kktix.cc/events/ljw6aw
+
+- type: show
+  year: 2025
+  id: kualalumpur
+  fullname: Asia Tour 2025
+  sublabel: Kuala Lumpur, Malaysia
+  date: 2025-10-06
+  location: Zepp Kuala Lumpur
+  # event-page: TODO:
+  cover-image:
+    localimage:
+      tour: asiatour2025
+      id: cover
+
+- type: show
+  year: 2025
   id: f1singaporegrandprix
   fullname: F1 SINGAPORE GRAND PRIX
   date: 2025-10-04
@@ -102,5 +155,52 @@
     filename: cover400.png
     published-date: 2025-06-02 # TODO: better date
     source:
-      description: BABYMETAL website site
+      description: BABYMETAL website
       url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
+
+- type: show
+  year: 2025
+  id: manila
+  fullname: Asia Tour 2025
+  sublabel: Manila, Philippines
+  date: 2025-10-08
+  location: ARENETA COLISEUM
+  event-page: https://www.ticketnet.com.ph/event-detail/BABYMETALMNL2025
+  cover-image:
+    postximage:
+      postid: 1927545228505862530
+      imageid: GsAEHwwXIAEk3V7
+  related:
+  - type: postx
+    id: 1927545228505862530
+    account: pulpliveworld
+    published-date: 2025-05-28
+    label: Announcement
+    text: |
+      The Fox God has spoken– 
+      @BABYMETAL_JAPAN
+      is coming to the Philippines!🤘 For the first time ever, the world-renowned kawaii-metal pioneers are unleashing their sonic storm, Pinoy metalheads have been waiting for. Mark your calendars for October 8, 2025, as they open the gates to the metal kingdom at the Smart Araneta Coliseum (
+      @TheBigDome
+      ) for their BABYMETAL WORLD TOUR 2025-2026 IN ASIA LIVE IN MANILA! 💥
+
+      Brace yourselves for a full-throttle Head Bangya frenzy and an all-out distortion that Su-metal, Moametal, and Momometal will bring. Sweetly-chaotic and ferociously powerful? This is the metal revolution show you don’t want to miss! ✊
+
+      🎟 Tickets will be available starting June 14, 2025, at 12PM (PHT) through 
+      @TicketNetPH
+      outlets nationwide and online at http://ticketnet.com.ph.
+
+      #BABYMETALinMANILA
+    image:
+    - id: GsAEHwwXIAEk3V7
+      label: Poster
+      localCopy: true
+      linked-to:
+      - show:
+          year: 2025
+          id: manila
+    - id: GsAEJTlXcAE47LG
+      label: Seat map
+      linked-to:
+      - show:
+          year: 2025
+          id: manila

@@ -1,0 +1,11 @@
+type: song
+id: karate
+
+fullname: KARATE
+
+release-date: 2016-02-26
+
+cover-image:
+  localimage:
+    group: siteimages
+    id: kitsume_cover

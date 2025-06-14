@@ -1,0 +1,218 @@
+- type: mediaaudio
+  year: 2025
+  id: metaradi0104
+  designation: metaradi
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - SU-METAL
+  - MOAMETAL
+  - MOMOMETAL
+  webpage: https://tfm.co.jp/metaradi/
+  published-date: 2025-01-04
+  cover-image:
+    postximage:
+      postid: 1875488645987365238
+      imageid: GgcSW8pa8AEVKP3
+  related:
+  - type: postx
+    id: 1875488645987365238
+    account: metaradi_tfm
+    label: ready for the show ?
+    published-date: 2025-01-04
+    text: |
+      ￼間もなく19：30〜￼
+
+      #BABYMETAL 初の冠番組「BABYMETALのメタラジ！」が始まります￼￼
+
+      みなさん、準備はできてますか？
+
+      据え置きのラジオやカーラジオ、スマホアプリのradikoなどから、ぜひお聞きください￼
+    image:
+    - id: GgcSW8pa8AEVKP3
+      label: poster
+      localCopy: true
+
+  # TODO: videos from youtube
+
+- type: mediaaudio
+  year: 2025
+  id: metaradi0405
+  designation: metaradi
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - Tak Matsumoto
+  webpage: https://tfm.co.jp/metaradi/
+  published-date: 2025-04-05
+  cover-image:
+    postximage:
+      postid: 1875488645987365238
+      imageid: GgcSW8pa8AEVKP3
+
+- type: mediaaudio
+  year: 2025
+  id: metaradi0412
+  designation: metaradi
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - Tak Matsumoto
+  webpage: https://tfm.co.jp/metaradi/
+  published-date: 2025-04-12
+  cover-image:
+    postximage:
+      postid: 1875488645987365238
+      imageid: GgcSW8pa8AEVKP3
+
+- type: mediaaudio
+  year: 2025
+  id: metaradi0419
+  designation: metaradi
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - Tak Matsumoto
+  webpage: https://tfm.co.jp/metaradi/
+  published-date: 2025-04-19
+  cover-image:
+    postximage:
+      postid: 1875488645987365238
+      imageid: GgcSW8pa8AEVKP3
+
+- type: mediaaudio
+  year: 2025
+  id: metaradi0426
+  designation: metaradi
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - Tak Matsumoto
+  webpage: https://tfm.co.jp/metaradi/
+  published-date: 2025-04-26
+  cover-image:
+    postximage:
+      postid: 1875488645987365238
+      imageid: GgcSW8pa8AEVKP3
+
+- type: mediaaudio
+  year: 2025
+  id: metaradi0503
+  designation: metaradi
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - Hattori
+  - Tanabe Yoshiaki
+  webpage: https://tfm.co.jp/metaradi/
+  published-date: 2025-05-03
+  cover-image:
+    postximage:
+      postid: 1875488645987365238
+      imageid: GgcSW8pa8AEVKP3
+
+- type: mediaaudio
+  year: 2025
+  id: metaradi0510
+  designation: metaradi
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - Hattori
+  - Tanabe Yoshiaki
+  webpage: https://tfm.co.jp/metaradi/
+  published-date: 2025-05-10
+  cover-image:
+    postximage:
+      postid: 1875488645987365238
+      imageid: GgcSW8pa8AEVKP3
+
+- type: mediaaudio
+  year: 2025
+  id: metaradi0517
+  designation: metaradi
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - Hattori
+  - Tanabe Yoshiaki
+  webpage: https://tfm.co.jp/metaradi/
+  published-date: 2025-05-17
+  cover-image:
+    postximage:
+      postid: 1875488645987365238
+      imageid: GgcSW8pa8AEVKP3
+
+- type: mediaaudio
+  year: 2025
+  id: metaradi0524
+  designation: metaradi
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - Hattori
+  - Tanabe Yoshiaki
+  webpage: https://tfm.co.jp/metaradi/
+  published-date: 2025-05-24
+  cover-image:
+    postximage:
+      postid: 1875488645987365238
+      imageid: GgcSW8pa8AEVKP3
+
+- type: mediaaudio
+  year: 2025
+  id: metaradi0531
+  designation: metaradi
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - ??? # TODO:
+  webpage: https://tfm.co.jp/metaradi/
+  published-date: 2025-05-31
+  cover-image:
+    postximage:
+      postid: 1875488645987365238
+      imageid: GgcSW8pa8AEVKP3
+
+- type: mediaaudio
+  year: 2025
+  id: metaradi0607
+  designation: metaradi
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - Maximum the Hormone
+  webpage: https://tfm.co.jp/metaradi/
+  published-date: 2025-06-07
+  cover-image:
+    postximage:
+      postid: 1875488645987365238
+      imageid: GgcSW8pa8AEVKP3
+
+- type: mediaaudio
+  year: 2025
+  id: metaradi0614
+  designation: metaradi
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - Maximum the Hormone
+  webpage: https://tfm.co.jp/metaradi/
+  published-date: 2025-06-14
+  cover-image:
+    postximage:
+      postid: 1875488645987365238
+      imageid: GgcSW8pa8AEVKP3
+

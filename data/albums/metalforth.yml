@@ -4,7 +4,7 @@ id: metalforth
 fullname: METAL FORTH
 designation: album
 
-release-date: 2025-06-27
+release-date: 2025-08-08
 
 cover-image:
   postximage:
@@ -13,6 +13,13 @@ cover-image:
 
 songs:
 - frommetou
+- song3
+
+multimedia:
+  short:
+  - postxvideo:
+      postid: 1932939085397774398
+      videoid: 01
 
 related:
 - type: postx
@@ -42,4 +49,158 @@ related:
     label: vinyl
   - id: GnWCBKhbMAAJmAA
     label: CD
+- type: postx
+  id: 1914967729335103936
+  account: BABYMETAL_JAPAN
+  published-date: 2025-04-23
+  label: bonus announcement
+  text: |
+    2025.6.27(金)発売 
+    4th ALBUM「METAL FORTH」各CDショップ別購入者特典詳細と各デザインを公開!! 
+    THE ONE盤「- THE ONE Limited Edition -」の詳細も解禁DEATH !!
 
+    📢ご予約はこちら 
+    https://umj.lnk.to/BABYMETAL_METALFORTH
+
+    📚THE ONE盤 ご予約はこちら
+    https://asmart.jp/shop/babymetal/product/10046463
+
+    #BABYMETAL #METALFORTH #THEONE
+  image:
+  - id: GpNU6shb0AAhOHP
+    label: bonuses
+    linked-to:
+    - album: metalforth
+  - id: GpNU6shbQAIXMfC
+    label: THE ONE Limited Edition
+    linked-to:
+    - album: metalforth
+- type: postx
+  id: 1915390284151873557
+  account: BABYMETAL_JAPAN
+  published-date: 2025-04-24
+  label: anouncement
+  text: |
+    The new album, METAL FORTH is out June 27! 
+    Pre-order vinyl and CDs now at http://shop.metalforth.com
+  video:
+  - id: 01
+    cover: 1915281840564506624/img/JqQ3I81EaBCDodoK.jpg
+    label: promo
+    info: vinyl + CD + from me to u
+    linked-to:
+    - album: metalforth
+- type: youtubeshort
+  id: ooYDiY4J50c
+  published-date: 2025-04-24
+  label: promo
+  info: vinyl + CD + from me to u
+- type: postx
+  id: 1918244078157992025
+  account: BABYMETAL_JAPAN
+  published-date: 2025-05-02
+  label: THE ONE Limited Edition
+  text: |
+    /／
+    📢 4th ALBUM「METAL FORTH」
+    THE ONE盤「- THE ONE Limited Edition -」予約販売受付中!!
+    \ ＼
+
+    🔗ご予約はこちら
+    https://asmart.jp/shop/babymetal/product/10046463
+
+    【特典】
+    📦 THE ONEスペシャルパッケージ仕様
+    📜 特大ポスター（74cm×55cm）
+    📚 撮り下ろし写真集（64ページ）
+    💿 ピクチャーレーベルCD
+
+    #BABYMETAL
+  image:
+  - id: Gp7B0L-awAIBYI2
+    label: THE ONE Limited Edition
+    linked-to:
+    - album: metalforth
+- type: postx
+  id: 1919270842812207226
+  account: BABYMETAL_JAPAN
+  published-date: 2025-05-05
+  label: THE ONE Limited Edition
+  text: |
+    /／
+    📢 明日まで!!
+    4th ALBUM「METAL FORTH」
+    THE ONE盤「- THE ONE Limited Edition -」
+    \ ＼
+
+    ▼ ご予約はこちら
+    https://asmart.jp/shop/babymetal/product/10046463
+
+    【特典】
+    📦 THE ONEスペシャルパッケージ仕様
+    📜 特大ポスター（74cm×55cm）
+    📚 撮り下ろし写真集（64ページ）
+    💿 ピクチャーレーベルCD
+
+    #BABYMETAL
+  video:
+  - id: 01
+    cover: 1919134985824444416/img/rcaykVHaKR34sn4u.jpg
+    label: Edition
+    linked-to:
+    - album: metalforth
+- type: youtubeshort
+  id: qpLP--tait4
+  label: More editions
+  published-date: 2025-05-28
+- type: postx
+  id: 1932601871367381291
+  account: BABYMETAL_JAPAN
+  published-date: 2025-06-11
+  label: GLASS FOXES TEE + LP
+  text: |
+    Pre-order the METAL FORTH × GLASS FOXES TEE + LP Fan Pack now.　
+    https://babymetal.store/collections/tour-2024/products/metal-forth-lp-tee
+  image:
+  - id: GtH63AvboAAwlnQ
+    label: GLASS FOXES TEE + LP
+    linked-to:
+    - album: metalforth 
+- type: postx
+  id: 1932815090782191989
+  account: BABYMETAL_JAPAN
+  published-date: 2025-06-11
+  label: Limited batch of signed cards
+  text: |
+    We’re dropping a limited batch of signed cards with our new album METAL FORTH 🔥
+
+    Hit the link to grab yours now!
+
+    https://babymetal.lnk.to/MetalForth 
+
+    #BABYMETAL #METALFORTH
+  video:
+  - id: 01
+    cover: 1932810368147206147/img/JWSXowAbdMTlFL67.jpg
+    label: Signed cards edition
+    linked-to:
+    - album: metalforth
+- type: youtubeshort
+  id: iVcwPAE6zLY
+  label: Signed cards Edition
+  published-date: 2025-06-11
+- type: postx
+  id: 1932939085397774398
+  account: BABYMETAL_JAPAN
+  published-date: 2025-06-12
+  label: Signing the cards
+  text: |
+    Signed card + new album "METAL FORTH"? Only on the Capitol Records D2C Store. Exclusively available while stocks last! — don’t miss out!
+    🎯 https://babymetal.lnk.to/MetalForth
+    #BABYMETAL #METALFORTH
+  video:
+  - id: 01
+    cover: 1932936842841935872/img/6a9sOluIB0c1_W7p.jpg
+    label: Signing the cards
+    linked-to:
+    - song: song3

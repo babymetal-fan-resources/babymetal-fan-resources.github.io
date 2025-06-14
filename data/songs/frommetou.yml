@@ -86,6 +86,24 @@ related:
     linked-to:
     - song: frommetou
 - type: postx
+  id: 1908006616361799954
+  account: BABYMETAL_JAPAN
+  published-date: 2025-04-04
+  label: released
+  info: MV release
+  text: |
+    Watch the official music video for "from me to u" feat. Poppy now at http://YouTube.com/BABYMETAL
+
+    METAL FORTH out June 13. Pre-order at http://METALFORTH.com
+
+    https://youtube.com/watch?v=qayP_YUrf9I
+  video:
+  - id: 01
+    cover: 1907985120726040576/pu/img/WXgnjDKx3gmsk4By.jpg
+    label: MV Short
+    linked-to:
+    - song: frommetou
+- type: postx
   id: 1908172721055469909
   account: BABYMETAL_JAPAN
   published-date: 2025-04-04
@@ -98,3 +116,17 @@ related:
   - id: GnsqdGTbQAAkPmf
     label: cover image
     localCopy: true
+- type: postx
+  id: 1917749117322932480
+  account: BABYMETAL_JAPAN
+  published-date: 2025-05-01
+  label: short
+  text: |
+    And it goes from me to you.
+    "from me to u" feat. Poppy is from our new album METAL FORTH - out June 27!  Pre-order: http://shop.metalforth.com
+  video:
+  - id: 01
+    cover: 1917748799784771585/img/qZcZu7H_q5eBoVlL.jpg
+    label: MV Short
+    linked-to:
+    - song: frommetou
