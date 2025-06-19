@@ -14,9 +14,7 @@
   grid-template-columns: min-content 1fr;
   grid-template-rows: max-content;
   grid-template-areas: 'label content';
-  border-top: solid 0.1rem var(--color-text-less);
-  padding-top: 0.1rem;
-  padding-bottom: 0.1rem;
+  padding-top: 0.2rem;
 }
 
 .chronology-block-hidden {
@@ -35,18 +33,8 @@
   grid-area: content;
 }
 
-.chronology-block-content>.chronology-block:first-of-type {
-  border-top: none;
-  padding-top: 0;
-}
-
-.chronology-block-content>.chronology-block:last-of-type {
-  padding-bottom: 0;
-}
-
 .chronology-block-content>.marker-card {
   width: 100%;
-  /* margin-bottom: 0.2rem; */
   padding-left: 0.1rem;
   border-left: solid 0.3rem transparent;
   box-sizing: border-box;
@@ -54,11 +42,15 @@
 }
 
 .chronology-block-content>.marker-card:not(:first-child) {
-  margin-top: 0.1rem;
+  margin-top: 0.2rem;
 }
 
 .chronology-block-content>.card-selected {
   border-left: solid 0.3rem var(--color-text-red);
+}
+
+.chronology-block-content .line-card-list {
+  margin: 0.1rem 0 0 0.4rem;
 }
 
 /* chronology page styling */
@@ -70,6 +62,20 @@
   font-weight: 600;
   color: var(--color-text-less);
   background-color: darkslategray;
+}
+
+.chronology-block-separator .chronology-block {
+  display: none;
+}
+
+.chronology-block-separator .chronology-block-label {
+  font-size: 0;
+  line-height: 0;
+  background-color: transparent;
+  color: transparent;
+  writing-mode: initial;
+  content: "";
+  padding-top: 0.4rem;
 }
 
 .chronology-block-label-bgdark {

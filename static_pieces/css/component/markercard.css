@@ -64,27 +64,27 @@
   font-weight: 700;
 }
 
-.marker-card-type-showmarker {
+.marker-card-type-show {
   background-color: #505020;
   background: linear-gradient(160deg, transparent 0rem, transparent 20%, #505020);
 }
 
-.marker-card-type-tourmarker {
+.marker-card-type-tour {
   background-color: #606020;
   background: linear-gradient(160deg, transparent 0rem, transparent 20%, #707020);
 }
 
-.marker-card-type-songmarker {
+.marker-card-type-song {
   background-color: #202040;
   background: linear-gradient(160deg, transparent 0rem, transparent 20%, #202040);
 }
 
-.marker-card-type-albummarker {
+.marker-card-type-album {
   background-color: #202060;
   background: linear-gradient(160deg, transparent 0rem, transparent 20%, #202060);
 }
 
-.marker-card-type-multimediamarker {
+.marker-card-type-multimedia {
   background-color: #204020;
   background: linear-gradient(160deg, transparent 0rem, transparent 20%, #204020);
 }

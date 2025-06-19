@@ -1,5 +1,6 @@
 package org.skyluc.babymetal_site.html.components
 
+import org.skyluc.fan_resources.data.Path
 import org.skyluc.html.*
 
 import Html.*
@@ -27,7 +28,50 @@ object NavigationBar {
   private val NAV_LOGO_PATH = "/asset/image/site/patronus-fox-670.png"
   private val ROOT_PATH = "/"
 
-  def generate(): Seq[BodyElement[?]] = {
+  case class Navigation(
+      main: List[NavigationItem],
+      support: List[NavigationItem],
+  )
+
+  case class NavigationItem(
+      name: String,
+      link: String,
+      highlight: List[String],
+  )
+
+  val navigation = Navigation(
+    List(
+      NavigationItem(
+        "Music",
+        "/music.html",
+        List("music.html", "song", "album"),
+      ),
+      NavigationItem(
+        "Shows",
+        "/shows.html",
+        List("shows.html", "show", "tour"),
+      ),
+      NavigationItem(
+        "Media",
+        "/media.html",
+        List("media.html", "media"),
+      ),
+      NavigationItem(
+        "All",
+        "/",
+        List(),
+      ),
+    ),
+    List(
+      NavigationItem(
+        "About",
+        "/about.html",
+        List("about.html"),
+      )
+    ), // TODO: about, sources, updates
+  )
+
+  def generate(currentOutputPath: Path): Seq[BodyElement[?]] = {
     Seq(
       div()
         .withClass(CLASS_NAV_LOGO)
@@ -43,7 +87,36 @@ object NavigationBar {
           .withHref(ROOT_PATH)
           .appendElements(
             text(NAV_TITLE_TEXT)
-          )
+          ),
+        div()
+          .withClass(CLASS_NAV_MAIN_ITEMS)
+          .appendElements(
+            navigation.main.map { item =>
+              val element = a()
+                .withClass(CLASS_NAV_MAIN_ITEM)
+                .withHref(item.link)
+                .appendElements(
+                  text(item.name)
+                )
+              if (item.highlight.contains(currentOutputPath.firstSegment())) {
+                element.withClass(CLASS_NAV_ITEM_SELECTED)
+              } else {
+                element
+              }
+            }*
+          ),
+        div()
+          .withClass(CLASS_NAV_SUPPORT_ITEMS)
+          .appendElements(
+            navigation.support.map { item =>
+              a()
+                .withClass(CLASS_NAV_SUPPORT_ITEM)
+                .withHref(item.link)
+                .appendElements(
+                  text(item.name)
+                )
+            }*
+          ),
       ),
     )
   }

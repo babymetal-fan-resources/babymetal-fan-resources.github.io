@@ -46,10 +46,18 @@ trait Processor[T] extends fr.Processor[T] with ProcessorElement[T] {}
 
 trait ProcessorElement[T] extends fr.ProcessorElement[T] {
 
+  def processCategoriesPage(categoriesPage: CategoriesPage): T
+
+  def processContentPage(contentPage: ContentPage): T
+
   def processChronologyPage(chronologyPage: ChronologyPage): T
 }
 
 trait ProcessorWithError[A] extends fr.ProcessorWithError[A] {
+
+  def processCategoriesPage(categoriesPage: CategoriesPage): Either[BaseError, A]
+
+  def processContentPage(contentPage: ContentPage): Either[BaseError, A]
 
   def processChronologyPage(chronologyPage: ChronologyPage): Either[BaseError, A]
 }

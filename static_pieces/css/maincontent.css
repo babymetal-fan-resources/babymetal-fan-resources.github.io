@@ -69,6 +69,8 @@ h2 {
 }
 
 .tmp-notice {
+  font-size: 0.6rem;
+  line-height: 0.6rem;
   text-align: center;
   color: black;
   background-color: yellowgreen;

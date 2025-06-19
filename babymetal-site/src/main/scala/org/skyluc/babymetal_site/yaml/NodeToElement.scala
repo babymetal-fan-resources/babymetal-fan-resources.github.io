@@ -10,7 +10,9 @@ class NodeToElement extends fr.NodeToElement {
 
   override def toElement(node: NodeWithRef, typeId: String): Either[ParserError, fr.Element] = {
     typeId match {
-      case "page" => parsePage(node)
+      case "page"           => parsePage(node)
+      case "categoriespage" => as[CategoriesPage](node)
+      case "contentpage"    => as[ContentPage](node)
       case _ =>
         super.toElement(node, typeId)
     }
@@ -27,8 +29,6 @@ class NodeToElement extends fr.NodeToElement {
 
   private def pageDispatch(node: NodeWithRef, iding: String): Either[ParserError, fr.Element] = {
     iding match {
-      // case "music"      => as[MusicPage](node)
-      // case "shows"      => as[ShowsPage](node)
       case "chronology" => as[ChronologyPage](node)
       case u =>
         Left(ParserError(node.filename, error = Some(s"Unknown page id: '$u'")))

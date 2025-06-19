@@ -28,5 +28,9 @@ class ElementCompiledDataGeneratorProcessor(generator: fr.CompiledDataGenerator)
     extends fr.ElementCompiledDataGeneratorProcessor(generator)
     with Processor[fr.ElementCompiledData] {
 
+  override def processCategoriesPage(categoriesPage: CategoriesPage): fr.ElementCompiledData = ???
+
+  override def processContentPage(contentPage: ContentPage): fr.ElementCompiledData = ???
+
   override def processChronologyPage(chronologyPage: ChronologyPage): fr.ElementCompiledData = ???
 }

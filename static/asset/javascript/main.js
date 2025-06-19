@@ -1,7 +1,7 @@
 var selectedCategories = []
 
 function updateSelectedCategories() {
-  var ids = Array.from(document.querySelectorAll(".cat-check")).flatMap((input) => {
+  var ids = Array.from(document.querySelectorAll(".chronology-category-check")).flatMap((input) => {
     if (input.checked)
       return input.id.substring(10)
     return []
@@ -31,30 +31,54 @@ function toggleMarkers(markers) {
 }
 
 function refreshBlocksVisibilityAndLabelColor() {
-  setChronologyBlocksVisibility(document.querySelectorAll(".chronology-day"), true)
-  setChronologyBlocksVisibility(document.querySelectorAll(".chronology-month"), false)
-  setChronologyBlocksVisibility(document.querySelectorAll(".chronology-year"), true)
-}
+  var previousDayVisible = false
+  var previousMonthVisible = false
 
-function setChronologyBlocksVisibility(blocks, startDark) {
-  var dark = startDark
-  blocks.forEach(
-    (block) => {
-      if (block.querySelectorAll(".marker-card-visible").length > 0) {
-        block.classList.remove("chronology-block-hidden")
-        if (dark)
-          block.children[0].classList.add("chronology-block-label-bgdark")
-        else
-          block.children[0].classList.remove("chronology-block-label-bgdark")
-        dark = !dark
-      } else {
-        block.classList.add("chronology-block-hidden")
-      }
+  var years = Array.from(document.querySelectorAll(".chronology-year"))
+
+  years.reverse().forEach(
+    (year) => {
+      var months = Array.from(year.querySelectorAll(".chronology-month"))
+
+      months.reverse().forEach(
+        (month) => {
+          if (month.querySelectorAll(".marker-card-visible").length > 0) {
+            previousMonthVisible = true
+            month.classList.remove("chronology-block-hidden")
+            month.classList.remove("chronology-block-separator")
+
+            var days = Array.from(month.querySelectorAll(".chronology-day"))
+
+            days.reverse().forEach(
+              (day) => {
+                if (day.querySelectorAll(".marker-card-visible").length > 0) {
+                  previousDayVisible = true
+                  day.classList.remove("chronology-block-hidden")
+                  day.classList.remove("chronology-block-separator")
+                } else if (previousDayVisible) {
+                  previousDayVisible = false
+                  day.classList.remove("chronology-block-hidden")
+                  day.classList.add("chronology-block-separator")
+                } else {
+                  day.classList.add("chronology-block-hidden")
+                  day.classList.remove("chronology-block-separator")
+                }
+              }
+            )
+          } else if (previousMonthVisible) {
+            previousMonthVisible = false
+            month.classList.remove("chronology-block-hidden")
+            month.classList.add("chronology-block-separator")
+          } else {
+            month.classList.add("chronology-block-hidden")
+            month.classList.remove("chronology-block-separator")
+          }
+        }
+      )
     }
   )
 }
 
-refreshBlocksVisibilityAndLabelColor()
 
 // display overlay for 'uId' in the query parameters
 const searchParamsMain = new URLSearchParams(window.location.search)
@@ -73,4 +97,5 @@ if (searchParamsMain.has("cats")) {
   toggleMarkerCategories(toHide)
 } else {
   selectedCategories = ["all"]
+  refreshBlocksVisibilityAndLabelColor()
 }

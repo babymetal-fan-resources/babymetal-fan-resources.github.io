@@ -30,6 +30,10 @@ object UrlResolver extends Processor[Url] with fr.UrlResolver {
 
   override def processSongMarker(songMarker: SongMarker): Url = ???
 
+  override def processCategoriesPage(categoriesPage: CategoriesPage): Url = ???
+
+  override def processContentPage(contentPage: ContentPage): Url = ???
+
   override def processChronologyPage(chronologyPage: ChronologyPage): Url = ???
 
   override def processAlbum(album: Album): Url = generateBasic(album)

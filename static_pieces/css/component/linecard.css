@@ -31,6 +31,14 @@
   grid-area: label;
 }
 
+.line-card-list {
+  margin: 0 0 0 0.2rem;
+}
+
+.line-card-list>.line-card {
+  margin: 0.1rem 0 0 0;
+}
+
 
 /* Line card styling */
 

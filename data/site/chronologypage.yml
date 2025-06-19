@@ -1,7 +1,7 @@
 type: page
 id: chronology
 start-date: 2010-01-01
-end-date: 2025-12-31
+end-date: 2026-01-31
 markers:
 - event: foxday2025
 - song: frommetou
@@ -28,10 +28,6 @@ markers:
 - media:
     year: 2025
     id: metaradi0503
-- tour: ukeuropearenatour2025
-- media:
-    year: 2025
-    id: metaradi0510
 - show:
     year: 2025
     id: brussels
@@ -39,6 +35,10 @@ markers:
     postximage:
       postid: 1921378662311436476
       imageid: GqobJj1XAAAoK2h
+- tour: ukeuropearenatour2025
+- media:
+    year: 2025
+    id: metaradi0510
 - show:
     year: 2025
     id: hamburg
@@ -135,18 +135,18 @@ markers:
 - media:
     year: 2025
     id: metaradi0531
-- media: 
-    year: 2025
-    id: metalhammer
-- tour: northamerica2025
-  related-multimedia:
-    youtubevideo: sxnNfKoYEsA
 - media:
     year: 2025
     id: metaradi0607
 - show:
     year: 2025
     id: houston
+- tour: northamerica2025
+  related-multimedia:
+    youtubevideo: sxnNfKoYEsA
+- media: 
+    year: 2025
+    id: metalhammer
   related-multimedia:
     postximage:
       postid: 1933786508722589865
@@ -227,14 +227,13 @@ markers:
 - show:
     year: 2025
     id: phoenix
-- tour: japanfestivaltour2025
 - show:
     year: 2025
     id: summersonictokyo
+- tour: japanfestivaltour2025
 - show:
     year: 2025
     id: summersonicosaka
-- tour: asiatour2025
 - show:
     year: 2025
     id: summersonicbangkok
@@ -247,6 +246,7 @@ markers:
 - show:
     year: 2025
     id: busanrockfestival
+- tour: asiatour2025
 - show:
     year: 2025
     id: hongkong

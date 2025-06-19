@@ -1,6 +1,11 @@
-package org.skyluc.neki_site.data2Page
+package org.skyluc.babymetal_site.data2Page
 
-import org.skyluc.babymetal_site.data.{ChronologyPage as dChronologyPage, *}
+import org.skyluc.babymetal_site.data.{
+  CategoriesPage as dCategoriesPage,
+  ContentPage as dContentPage,
+  ChronologyPage as dChronologyPage,
+  *,
+}
 import org.skyluc.babymetal_site.html.SitePage
 import org.skyluc.babymetal_site.html.pages.*
 import org.skyluc.fan_resources.data.{ProcessorElement as _, *}
@@ -36,25 +41,34 @@ class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[
       ),
       "styles.css",
     )
-    val allPages = data.elements.values.filterNot(_.hasError).map(_.process(this)).flatten.toSeq
+    val allPages =
+      data.elements.values.filterNot(_.hasError).map(_.process(this)).flatten.toSeq // ++ MusicPage.pageFor(generator)
 
     allPages ++ Seq(cssStyles, SitemapPage(allPages))
   }
   override def processAlbum(album: Album): Seq[SitePage] =
     AlbumPage.pagesFor(album, generator)
 
-  override def processChronologyPage(chronologyPage: dChronologyPage): Seq[SitePage] =
-    ChronologyPage.pageFor(chronologyPage, generator)
+  override def processCategoriesPage(categoriesPage: dCategoriesPage): Seq[SitePage] =
+    CategoriesPage.pageFor(categoriesPage, generator)
 
-  override def processEvent(event: Event): Seq[SitePage] = NO_DATA // TODO
+  override def processContentPage(contentPage: dContentPage): Seq[SitePage] =
+    ContentPage.pageFor(contentPage, generator)
+
+  override def processChronologyPage(chronologyPage: dChronologyPage): Seq[SitePage] =
+    AllPage.pageFor(chronologyPage, generator)
+
+  override def processEvent(event: Event): Seq[SitePage] =
+    EventPage.pagesFor(event, generator)
 
   override def processGroup(group: Group): Seq[SitePage] = NO_DATA
 
   override def processMediaAudio(mediaAudio: MediaAudio): Seq[SitePage] =
-    NO_DATA // MediaPage.pageFor(mediaAudio, compilers)
+    MediaPage.pagesFor(mediaAudio, generator)
 
   override def processMediaWritten(mediaWritten: MediaWritten): Seq[SitePage] =
-    NO_DATA // MediaPage.pageFor(mediaWritten, compilers)
+    MediaPage.pagesFor(mediaWritten, generator)
+
   override def processShow(show: Show): Seq[SitePage] =
     ShowPage.pagesFor(show, generator)
 

@@ -1,0 +1,34 @@
+- type: contentpage
+  id: music
+  name: Music
+  content:
+  - album: metalforth
+  - song: song3
+  - song: frommetou
+  - song: ratatata
+  - song: metali
+  - song: bxmxc
+  - song: papaya
+  - song: karate
+  - song: roadofresistance
+  - song: megitsune
+  - song: babymetaldeath
+  start-date: 2010-01-01
+  end-date: 2026-01-31
+
+- type: categoriespage
+  id: shows
+  name: Shows
+  categories:
+  - show
+  - tour
+  start-date: 2010-01-01
+  end-date: 2026-01-31
+
+- type: categoriespage
+  id: media
+  name: Media
+  categories:
+  - media
+  start-date: 2010-01-01
+  end-date: 2026-01-31

@@ -14,6 +14,14 @@ object Data {
       extends fr.Data.DataBuilderProcessor(dataBuilder)
       with Processor[Unit] {
 
+    override def processCategoriesPage(categoriesPage: CategoriesPage): Unit = {
+      dataBuilder.addElement(categoriesPage)
+    }
+
+    override def processContentPage(contentPage: ContentPage): Unit = {
+      dataBuilder.addElement(contentPage)
+    }
+
     override def processChronologyPage(chronologyPage: ChronologyPage): Unit =
       dataBuilder.addElement(chronologyPage)
   }

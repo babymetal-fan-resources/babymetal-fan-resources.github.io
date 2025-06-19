@@ -41,7 +41,7 @@ abstract class SitePage(override val description: PageDescription) extends fr.Si
   }
 
   override def headerContent(): Seq[BodyElement[?]] =
-    NavigationBar.generate() // (site.navigation, outputPath)
+    NavigationBar.generate(outputPath) // (site.navigation, outputPath)
 
   override def mainContent(): Seq[BodyElement[?]] = {
     val extraSection = description.extraPage.map(ExtraSection.generate(_)).getOrElse(Nil)

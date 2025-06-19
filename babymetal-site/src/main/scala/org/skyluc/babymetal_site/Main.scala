@@ -12,7 +12,7 @@ import org.skyluc.fan_resources.data.Path
 import org.skyluc.fan_resources.element2data.DataTransformer
 import org.skyluc.fan_resources.html.SiteOutput
 import org.skyluc.fan_resources.yaml.YamlReader
-import org.skyluc.neki_site.data2Page.DataToPage
+import org.skyluc.babymetal_site.data2Page.DataToPage
 import org.skyluc.fan_resources.checks.MoreDataCheck
 
 object Main {

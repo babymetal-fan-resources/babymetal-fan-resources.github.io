@@ -19,6 +19,34 @@ trait WithProcessor extends fr.WithProcessor {
   def process[A](processor: Processor[A]): Either[BaseError, A]
 }
 
+case class CategoriesPage(
+    id: String,
+    name: String,
+    `start-date`: String,
+    `end-date`: String,
+    categories: List[String] = Nil,
+) extends fr.Element
+    with WithProcessor
+    derives YamlCodec {
+
+  override def process[A](processor: Processor[A]): Either[BaseError, A] =
+    processor.processCategoriesPage(this)
+}
+
+case class ContentPage(
+    id: String,
+    name: String,
+    `start-date`: String,
+    `end-date`: String,
+    content: List[fr.Id] = Nil,
+) extends fr.Element
+    with WithProcessor
+    derives YamlCodec {
+
+  override def process[A](processor: Processor[A]): Either[BaseError, A] =
+    processor.processContentPage(this)
+}
+
 case class ChronologyPage(
     id: String,
     `start-date`: String,

@@ -1,5 +1,6 @@
 package org.skyluc.babymetal_site.html.pages
 
+import org.skyluc.babymetal_site.html.ChronologyMarkerCompiledDataGenerator
 import org.skyluc.babymetal_site.html.PageDescription
 import org.skyluc.babymetal_site.html.SitePage
 import org.skyluc.fan_resources.Common
@@ -8,15 +9,18 @@ import org.skyluc.fan_resources.html.CompiledDataGenerator
 import org.skyluc.fan_resources.html.ElementCompiledData
 import org.skyluc.fan_resources.html.MultiMediaBlockCompiledData
 import org.skyluc.fan_resources.html.TitleAndDescription
+import org.skyluc.fan_resources.html.component.ChronologySection
+import org.skyluc.fan_resources.html.component.ChronologySection.ChronologyYear
 import org.skyluc.fan_resources.html.component.LargeDetails
-import org.skyluc.fan_resources.html.component.MediumCard
+import org.skyluc.fan_resources.html.component.LineCard
+import org.skyluc.fan_resources.html.component.MainTitle
 import org.skyluc.fan_resources.html.component.MultiMediaCard
 import org.skyluc.fan_resources.html.component.SectionHeader
 import org.skyluc.html.BodyElement
 
 class AlbumPage(
     album: ElementCompiledData,
-    songs: Seq[ElementCompiledData],
+    songsByYears: Seq[ChronologyYear],
     multimediaBlock: MultiMediaBlockCompiledData,
     description: PageDescription,
 ) extends SitePage(description) {
@@ -29,9 +33,7 @@ class AlbumPage(
 
     val songsSection: Seq[BodyElement[?]] = Seq(
       SectionHeader.generate(SECTION_SONGS),
-      MediumCard.generateList(
-        songs
-      ),
+      ChronologySection.generate(songsByYears, true, false),
     )
 
     val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, Album.FROM_KEY)
@@ -44,6 +46,28 @@ class AlbumPage(
       ++ multiMediaMainSections
       ++ additionalSection
 
+  }
+}
+
+class AlbumExtraPage(
+    album: ElementCompiledData,
+    multimediaBlock: MultiMediaBlockCompiledData,
+    description: PageDescription,
+) extends SitePage(description) {
+
+  override def elementContent(): Seq[BodyElement[?]] = {
+    val mediaSection =
+      MultiMediaCard.generateExtraMediaSection(
+        multimediaBlock,
+        Album.FROM_KEY,
+      )
+
+    Seq(
+      MainTitle.generate(
+        LineCard.generate(album)
+      )
+    )
+      ++ mediaSection
   }
 }
 
@@ -63,11 +87,23 @@ object AlbumPage {
       Some(album.id.path.insertSecond(Common.EXTRA))
     }
 
-    val songs = album.songs.map(generator.getElement)
+    val songs = album.songs.map(generator.get)
+
+    val ordered = songs.sortBy(_.releaseDate)
+
+    println(songs.map(_.id))
+
+    val songByYears = ChronologySection.compiledData(
+      ordered.head.releaseDate,
+      ordered.last.releaseDate,
+      songs,
+      new ChronologyMarkerCompiledDataGenerator(generator),
+      generator,
+    )
 
     val mainPage = AlbumPage(
       compiledData,
-      songs,
+      songByYears,
       multimediaBlock,
       PageDescription(
         TitleAndDescription.formattedTitle(

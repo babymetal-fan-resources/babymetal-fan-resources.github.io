@@ -1,5 +1,6 @@
 package org.skyluc.babymetal_site.html.pages
 
+import org.skyluc.babymetal_site.html.ChronologyMarkerCompiledDataGenerator
 import org.skyluc.babymetal_site.html.PageDescription
 import org.skyluc.babymetal_site.html.SitePage
 import org.skyluc.fan_resources.Common
@@ -8,15 +9,18 @@ import org.skyluc.fan_resources.html.CompiledDataGenerator
 import org.skyluc.fan_resources.html.ElementCompiledData
 import org.skyluc.fan_resources.html.MultiMediaBlockCompiledData
 import org.skyluc.fan_resources.html.TitleAndDescription
+import org.skyluc.fan_resources.html.component.ChronologySection
+import org.skyluc.fan_resources.html.component.ChronologySection.ChronologyYear
 import org.skyluc.fan_resources.html.component.LargeDetails
-import org.skyluc.fan_resources.html.component.MediumCard
+import org.skyluc.fan_resources.html.component.LineCard
+import org.skyluc.fan_resources.html.component.MainTitle
 import org.skyluc.fan_resources.html.component.MultiMediaCard
 import org.skyluc.fan_resources.html.component.SectionHeader
 import org.skyluc.html.BodyElement
 
 class TourPage(
     tourCompiledData: ElementCompiledData,
-    shows: Seq[ElementCompiledData],
+    showsByYears: Seq[ChronologyYear],
     multimediaBlock: MultiMediaBlockCompiledData,
     description: PageDescription,
 ) extends SitePage(description) {
@@ -30,7 +34,7 @@ class TourPage(
 
     val showsSections: Seq[BodyElement[?]] = Seq(
       SectionHeader.generate(SECTION_SHOWS),
-      MediumCard.generateList(shows),
+      ChronologySection.generate(showsByYears, true, false),
     )
 
     Seq(
@@ -41,6 +45,29 @@ class TourPage(
 
 }
 
+class TourExtraPage(
+    tour: ElementCompiledData,
+    multimediaBlock: MultiMediaBlockCompiledData,
+    description: PageDescription,
+) extends SitePage(description) {
+
+  override def elementContent(): Seq[BodyElement[?]] = {
+    val mediaSection =
+      MultiMediaCard.generateExtraMediaSection(
+        multimediaBlock,
+        Tour.FROM_KEY,
+      )
+
+    Seq(
+      MainTitle.generate(
+        LineCard.generate(tour)
+      )
+    )
+      ++ mediaSection
+
+  }
+}
+
 object TourPage {
 
   val SECTION_SHOWS = "Shows"
@@ -49,7 +76,15 @@ object TourPage {
     val compiledData = generator.getElement(tour)
     val multimediaBlock = generator.getMultiMediaBlock(tour)
 
-    val showsCompiledData = tour.shows.map(generator.getElement)
+    val shows = tour.shows.map(generator.get)
+
+    val showByYears = ChronologySection.compiledData(
+      tour.firstDate,
+      tour.lastDate,
+      shows,
+      new ChronologyMarkerCompiledDataGenerator(generator),
+      generator,
+    )
 
     val extraPath = if (multimediaBlock.extra.isEmpty) {
       None
@@ -59,7 +94,7 @@ object TourPage {
 
     val mainPage = TourPage(
       compiledData,
-      showsCompiledData,
+      showByYears,
       multimediaBlock,
       PageDescription(
         TitleAndDescription.formattedTitle(

@@ -13,13 +13,18 @@ cover-image:
 
 songs:
 - frommetou
+- ratatata
 - song3
+- konkon
+- kxaxwxaxixi
+- sunsetkiss
+- myqueen
+- algorism
+- metali
+- whiteflame
 
 multimedia:
   short:
-  - postxvideo:
-      postid: 1932939085397774398
-      videoid: 01
 
 related:
 - type: postx
@@ -189,18 +194,3 @@ related:
   id: iVcwPAE6zLY
   label: Signed cards Edition
   published-date: 2025-06-11
-- type: postx
-  id: 1932939085397774398
-  account: BABYMETAL_JAPAN
-  published-date: 2025-06-12
-  label: Signing the cards
-  text: |
-    Signed card + new album "METAL FORTH"? Only on the Capitol Records D2C Store. Exclusively available while stocks last! — don’t miss out!
-    🎯 https://babymetal.lnk.to/MetalForth
-    #BABYMETAL #METALFORTH
-  video:
-  - id: 01
-    cover: 1932936842841935872/img/6a9sOluIB0c1_W7p.jpg
-    label: Signing the cards
-    linked-to:
-    - song: song3
