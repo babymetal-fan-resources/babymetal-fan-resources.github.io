@@ -76,7 +76,7 @@ object SitePage {
   val CSS_PATH = Url(Path("asset", "css", "styles.css"))
   val CSS_DARK_PATH = Url(Path("asset", "css", "dark.css"))
 
-  val HREF_ICON_512 = Url(Path("manekineko-512px.png")) // TODO-NOW: update
+  val HREF_ICON_512 = Url(Path("head400.png"))
   val DOMAIN_NAME_BMFR = "babymetal-fan-resources.github.io" // TODO-NOW: update
 
   val GOOGLE_VERIFICATION_CODE = "DrE-ZbcyBV3lPatFCBja2O4ymKzfqFXDZjkfkTpvY_8"
