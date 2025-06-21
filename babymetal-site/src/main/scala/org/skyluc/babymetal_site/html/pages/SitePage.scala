@@ -36,7 +36,7 @@ abstract class SitePage(override val description: PageDescription) extends fr.Si
       },
       HeadComponents.icons(HREF_ICON_512),
       OpenGraphSection.generate(description),
-      // HeadComponents.statistics(Config.current.isLocal, DOMAIN_NAME_BMFR),  TODO-NOW: enable back
+      HeadComponents.statistics(Config.current.isLocal, DOMAIN_NAME_BMFR),
     ).flatten
   }
 
@@ -77,7 +77,7 @@ object SitePage {
   val CSS_DARK_PATH = Url(Path("asset", "css", "dark.css"))
 
   val HREF_ICON_512 = Url(Path("head400.png"))
-  val DOMAIN_NAME_BMFR = "babymetal-fan-resources.github.io" // TODO-NOW: update
+  val DOMAIN_NAME_BMFR = "babymetal.fan-resources.com"
 
   val GOOGLE_VERIFICATION_CODE = "DrE-ZbcyBV3lPatFCBja2O4ymKzfqFXDZjkfkTpvY_8"
   val MICROSOFT_VERIFICATION_CODE = "B6C2BBE1BBDED01F740330EB10DEAEF8"

@@ -76,6 +76,7 @@ object AllPage {
           None,
           None,
           false,
+          true,
         ),
       )
 

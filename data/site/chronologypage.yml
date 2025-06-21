@@ -230,10 +230,10 @@ markers:
 - show:
     year: 2025
     id: summersonictokyo
-- tour: japanfestivaltour2025
 - show:
     year: 2025
     id: summersonicosaka
+- tour: japanfestivaltour2025
 - show:
     year: 2025
     id: summersonicbangkok

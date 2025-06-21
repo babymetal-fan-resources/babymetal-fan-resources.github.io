@@ -91,8 +91,6 @@ object AlbumPage {
 
     val ordered = songs.sortBy(_.releaseDate)
 
-    println(songs.map(_.id))
-
     val songByYears = ChronologySection.compiledData(
       ordered.head.releaseDate,
       ordered.last.releaseDate,
