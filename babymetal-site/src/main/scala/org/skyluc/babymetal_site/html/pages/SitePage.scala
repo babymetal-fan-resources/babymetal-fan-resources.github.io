@@ -36,7 +36,7 @@ abstract class SitePage(override val description: PageDescription) extends fr.Si
       },
       HeadComponents.icons(HREF_ICON_512),
       OpenGraphSection.generate(description),
-      HeadComponents.statistics(Config.current.isLocal, DOMAIN_NAME_BMFR),
+      // HeadComponents.statistics(Config.current.isLocal, DOMAIN_NAME_BMFR),  TODO-NOW: enable back
     ).flatten
   }
 
