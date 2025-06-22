@@ -17,6 +17,9 @@ cover-image:
     imageid: GpLfm5xa4AM7Owd
 multimedia:
   image:
+  - postximage: 
+      postid: 1934898813619065008
+      imageid: GtoFDiGboAAaC0w
   - postximage:
       postid: 1931924215965356195
       imageid: Gs-JgZfbQAAhUWX
@@ -73,3 +76,19 @@ related:
   - id: Gs-JgZfbQAAhUWX
     label: Billboard
     info: Shibuya Station
+- type: postx
+  id: 1934898813619065008
+  account: OngakuPia
+  label: Display in New Your
+  published-date: 2025-06-17
+  text: |
+    📚【PMC編集部】BABYMETAL表紙＆40P大特集『PMC Vol.36』好評発売中。米NY・The Theater at Madison Square Garden公演に合わせ紀伊國屋書店ニューヨーク本店にてディスプレイ展開中！
+    https://lp.p.pia.jp/article/series/202961/420380/index.html
+
+    @BABYMETAL_JAPAN
+    #BABYMETAL #METALFORTH #PMC36
+  image:
+  - id: GtoFCX1a0AQgQ2W
+    label: Store front
+  - id: GtoFDiGboAAaC0w
+    label: Store window

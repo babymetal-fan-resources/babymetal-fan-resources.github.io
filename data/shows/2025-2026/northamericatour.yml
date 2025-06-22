@@ -7,6 +7,17 @@
     localimage:
       tour: northamerica2025
       id: cover
+  multimedia:
+    short:
+    - youtubeshort: eRBRukKwbv0
+    - youtubeshort: q9SCWO3JjAc
+    image:
+    - postximage:
+        postid: 1933901506392080643
+        imageid: GtaY1E4WYAEsXx-
+    - postximage:
+        postid: 1933901658599153909
+        imageid: GtaZNtkWsAACOO2
   shows:
   - year: 2025
     id: houston
@@ -85,6 +96,52 @@
     source:
       description: BABYMETAL website site
       url: https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=2301&id=291753&lang=en
+  - type: postx
+    id: 1933901506392080643
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-14
+    label: We are on tour
+    text: |
+      Thank you 
+      @blackveilbrides
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #HOUSTON 
+      📸 
+      @Theguyfromthpic
+    image:
+    - id: GtaY1E4WYAEsXx-
+      label: We are on tour
+      info: BABYMETAL, Black Veil Brides
+  - type: postx
+    id: 1933901658599153909
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-14
+    label: We are on tour
+    text: |
+      Thank you 
+      @Bloodywood2
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #HOUSTON
+      📸 
+      @Theguyfromthpic
+    image:
+    - id: GtaZNtkWsAACOO2
+      label: We are on tour
+      info: BABYMETAL, Bloodywood
+  - type: youtubeshort
+    id: q9SCWO3JjAc
+    label: Recap
+    info: Houston, Irving
+    published-date: 2025-06-17
+    linked-to:
+    - song: frommetou
+  - type: youtubeshort
+    id: eRBRukKwbv0
+    label: Recap
+    info: Tampa
+    published-date: 2025-06-20
+    linked-to:
+    - song: song3
 
 - type: show
   year: 2025
@@ -98,6 +155,19 @@
       tour: northamerica2025
       id: cover
   tour: northamerica2025
+  multimedia:
+    short:
+    - youtubeshort: q9SCWO3JjAc
+    image:
+    - postximage:
+        postid: 1933786508722589865
+        imageid: GtYv6GMbwAA7vDf
+    - postximage:
+        postid: 1933786508722589865
+        imageid: GtYv6GHbMAEk1r0
+    - postximage:
+        postid: 1933786508722589865
+        imageid: GtYv6GJbMAQs6hO
   related:
   - type: postx
     id: 1933786508722589865
@@ -145,6 +215,61 @@
       tour: northamerica2025
       id: cover
   tour: northamerica2025
+  multimedia:
+    short:
+    - youtubeshort: q9SCWO3JjAc
+    image:
+    - postximage:
+        postid: 1934132880441233442
+        imageid: GtdrmaWXgAA5JrD
+    - postximage:
+        postid: 1934132880441233442
+        imageid: GtdrmawWgAAYaRj
+    - postximage:
+        postid: 1934132880441233442
+        imageid: Gtdrma3WoAA55Sq
+    - postximage:
+        postid: 1934132880441233442
+        imageid: GtdrmanWIAAc_Je
+  related:
+  - type: postx
+    id: 1934132880441233442
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-15
+    label: Thank you
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Irving🤠
+      #BABYMETAL 
+      #BABYMETALWORLDTOUR20252026NORTHAMERICA #IRVING 
+      📸 
+      @Theguyfromthpic
+    image:
+    - id: GtdrmaWXgAA5JrD
+      label: On stage
+      linked-to:
+      - show:
+          year: 2025
+          id: irving
+      - song: metali
+    - id: GtdrmawWgAAYaRj
+      label: On stage
+      linked-to:
+      - show:
+          year: 2025
+          id: irving
+      - song: song3
+    - id: Gtdrma3WoAA55Sq
+      label: Venue
+      linked-to:
+      - show:
+          year: 2025
+          id: irving
+    - id: GtdrmanWIAAc_Je
+      label: Crowd
+      linked-to:
+      - show:
+          year: 2025
+          id: irving
 
 - type: show
   year: 2025
@@ -158,6 +283,42 @@
       tour: northamerica2025
       id: cover
   tour: northamerica2025
+  multimedia:
+    short:
+    - youtubeshort: eRBRukKwbv0
+    image:
+    - postximage:
+        postid: 1935308136358748218
+        imageid: GtuV242WMAAE3hI
+    - postximage:
+        postid: 1935308136358748218
+        imageid: GtuV4X3WMAAcMjj
+  related:
+  - type: postx
+    id: 1935308136358748218
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-18
+    label: Thank you
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Tampa🏀
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #TAMPA
+      📸 
+      @Theguyfromthpic
+    image:
+    - id: GtuV242WMAAE3hI
+      label: On stage
+      linked-to:
+      - show:
+          year: 2025
+          id: tampa
+      - song: bxmxc
+    - id: GtuV4X3WMAAcMjj
+      label: From the back of the stage
+      linked-to:
+      - show:
+          year: 2025
+          id: tampa
+      - song: karate
 
 - type: show
   year: 2025
@@ -171,6 +332,52 @@
       tour: northamerica2025
       id: cover
   tour: northamerica2025
+  multimedia:
+    short:
+    - youtubeshort: eRBRukKwbv0
+    image:
+    - postximage:
+        postid: 1935585150110425156
+        imageid: GtyURlAWQAAsetc
+    - postximage:
+        postid: 1935585150110425156
+        imageid: GtyURlBXgAAsFrl
+    - postximage:
+        postid: 1935585150110425156
+        imageid: GtyUQSGWUAAZ64_
+  related:
+  - type: postx
+    id: 1935585150110425156
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-19
+    label: Thank you
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Atlanta🍹
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #ATLANTA
+      📸 
+      @Theguyfromthpic
+    image:
+    - id: GtyURlAWQAAsetc
+      label: On stage
+      info: Weeeee aaaaa!!
+      linked-to:
+      - show:
+          year: 2025
+          id: atlanta
+    - id: GtyURlBXgAAsFrl
+      label: From the back of the stage
+      linked-to:
+      - show:
+          year: 2025
+          id: atlanta
+      - song: karate
+    - id: GtyUQSGWUAAZ64_
+      label: Venue
+      linked-to:
+      - show:
+          year: 2025
+          id: atlanta
+      - song: karate
 
 - type: show
   year: 2025
@@ -184,6 +391,40 @@
       tour: northamerica2025
       id: cover
   tour: northamerica2025
+  multimedia:
+    image:
+    - postximage:
+        postid: 1936307475697045926
+        imageid: Gt8kOz5XYAAzv8u
+    - postximage:
+        postid: 1936307475697045926
+        imageid: Gt8kbtdWgAEaVYh
+  related:
+  - type: postx
+    id: 1936307475697045926
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-21
+    label: Thank you
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Charlotte🇺🇸
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #CHARLOTTE
+      📸 
+      @Theguyfromthpic
+    image:
+    - id: Gt8kOz5XYAAzv8u
+      label: On Stage
+      linked-to:
+      - show:
+          year: 2025
+          id: charlotte
+      - song: metali
+    - id: Gt8kbtdWgAEaVYh
+      label: Venue
+      linked-to:
+      - show:
+          year: 2025
+          id: charlotte
+      - song: babymetaldeath # TODO: double check
 
 - type: show
   year: 2025
@@ -197,6 +438,29 @@
       tour: northamerica2025
       id: cover
   tour: northamerica2025
+  multimedia:
+    image:
+    - postximage:
+        postid: 1936658376798454181
+        imageid: GuBimuGXUAAKFkt
+  related:
+  - type: postx
+    id: 1936658376798454181
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-22
+    label: Thank you
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Baltimore⚓️
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #BALTIMORE
+      📸 
+      @Theguyfromthpic
+    image:
+    - id: GuBimuGXUAAKFkt
+      label: Venue
+      linked-to:
+      - show:
+          year: 2025
+          id: baltimore
 
 - type: show
   year: 2025

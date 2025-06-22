@@ -141,6 +141,10 @@ markers:
 - show:
     year: 2025
     id: houston
+  related-multimedia:
+    postximage:
+      postid: 1933786508722589865
+      imageid: GtYv6GMbwAA7vDf
 - tour: northamerica2025
   related-multimedia:
     youtubevideo: sxnNfKoYEsA
@@ -157,18 +161,41 @@ markers:
 - show:
     year: 2025
     id: irving
+  related-multimedia:
+    postximage:
+      postid: 1934132880441233442
+      imageid: Gtdrma3WoAA55Sq
 - show:
     year: 2025
     id: tampa
+  related-multimedia:
+    postximage:
+      postid: 1935308136358748218
+      imageid: GtuV4X3WMAAcMjj
 - show:
     year: 2025
     id: atlanta
+  related-multimedia:
+    postximage:
+      postid: 1935585150110425156
+      imageid: GtyURlAWQAAsetc
 - show:
     year: 2025
     id: charlotte
+  related-multimedia:
+    postximage:
+      postid: 1936307475697045926
+      imageid: Gt8kbtdWgAEaVYh
 - show:
     year: 2025
     id: baltimore
+  related-multimedia:
+    postximage:
+      postid: 1936658376798454181
+      imageid: GuBimuGXUAAKFkt
+- media:
+    year: 2025
+    id: metaradi0621
 - show:
     year: 2025
     id: newyork

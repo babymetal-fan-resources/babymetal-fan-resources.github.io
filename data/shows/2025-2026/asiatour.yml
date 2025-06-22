@@ -82,6 +82,24 @@
     source: 
       description: event website
       url: https://busanrockfestival.com/
+  - type: postx
+    id: 1935200806648549410
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-18
+    label: 2nd lineup
+    text: |
+      BABYMETAL will perform at Busan International Rock Festival on Sep 28th !!
+      See you there !!!
+      http://ticket.yes24.com/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53880 
+
+      #BABYMETAL @busanrockfest
+    image:
+    - id: GtskrwhWoAMXjbI
+      label: 2nd lineup
+      linked-to:
+      - show:
+          year: 2025
+          id: busanrockfestival
 
 - type: show
   year: 2025
