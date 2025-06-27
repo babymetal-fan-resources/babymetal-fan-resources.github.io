@@ -199,9 +199,20 @@ markers:
 - show:
     year: 2025
     id: newyork
+  related-multimedia:
+    postximage:
+      postid: 1937866458744201622
+      imageid: GuSu9ZcWoAAigk1
 - show:
     year: 2025
     id: boston
+  related-multimedia:
+    postximage:
+      postid: 1938105140915179620
+      imageid: GuWFgTsXgAACcTr
+- media:
+    year: 2025
+    id: rollingstonejp
 - album: metalforth
 - show:
     year: 2025
@@ -239,6 +250,9 @@ markers:
 - show:
     year: 2025
     id: kent
+- media:
+    year: 2025
+    id: revolver
 - show:
     year: 2025
     id: sanfrancisco1
@@ -256,11 +270,23 @@ markers:
     id: phoenix
 - show:
     year: 2025
+    id: yokohama1
+- tour: japansummertour2025
+- show:
+    year: 2025
+    id: yokohama2
+- show:
+    year: 2025
     id: summersonictokyo
 - show:
     year: 2025
     id: summersonicosaka
-- tour: japanfestivaltour2025
+- show:
+    year: 2025
+    id: nagoya
+- show:
+    year: 2025
+    id: osaka
 - show:
     year: 2025
     id: summersonicbangkok

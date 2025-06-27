@@ -1,0 +1,44 @@
+type: mediawritten
+year: 2025
+id: revolver
+designation: magazine
+publication: Revolver Magazine
+issue: Summer 2025
+published-date: 2025-07-15
+# webpage: https://www.revolvermag.com/magazine/spiritbox-tool-coheed-underoath-and-deafheaven-on-covers-of-spring-2025-issue/ TODO: set when updated for summer issue
+member:
+- SU-METAL
+- MOAMETAL
+- MOMOMETAL
+cover-image:
+  postximage:
+    postid: 1937905998565380147
+    imageid: GuS6uIQXIAEnr6P
+multimedia:
+  image:
+  - postximage:
+      postid: 1937905998565380147
+      imageid: GuS6uIQXIAEnr6P
+  - postximage:
+      postid: 1937905998565380147
+      imageid: GuTRu-vW0AANJZ7
+related:
+- type: postx
+  id: 1937905998565380147
+  account: BABYMETAL_JAPAN
+  label: announcement
+  published-date: 2024-06-25
+  text: |
+    GO FORTH AND CONQUER
+
+    BABYMETAL x Revolver Magazine Summer 2025
+
+    Pre-order the issue, available with an exclusive, limited-edition vinyl variant of their new album 'METAL FORTH,' at https://shop.revolvermag.com/collections/babymetal
+  image:
+  - id: GuS6uIQXIAEnr6P
+    label: Cover
+    info: BABYMETAL
+    localCopy: true
+  - id: GuTRu-vW0AANJZ7
+    label: Vinyl
+    info: BABYMETAL

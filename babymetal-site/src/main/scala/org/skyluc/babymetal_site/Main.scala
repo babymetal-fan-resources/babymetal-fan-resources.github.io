@@ -3,17 +3,17 @@ package org.skyluc.babymetal_site
 import org.skyluc.babymetal_site.checks.CheckLocalAssetExists
 import org.skyluc.babymetal_site.checks.PopulateRelatedTo
 import org.skyluc.babymetal_site.data.Data
+import org.skyluc.babymetal_site.data2Page.DataToPage
 import org.skyluc.babymetal_site.element2data.ElementToData
 import org.skyluc.babymetal_site.html.CompiledDataGeneratorBuilder
 import org.skyluc.babymetal_site.yaml.NodeToElement
 import org.skyluc.fan_resources.checks.DataCheck
+import org.skyluc.fan_resources.checks.MoreDataCheck
 import org.skyluc.fan_resources.data as frData
 import org.skyluc.fan_resources.data.Path
 import org.skyluc.fan_resources.element2data.DataTransformer
 import org.skyluc.fan_resources.html.SiteOutput
 import org.skyluc.fan_resources.yaml.YamlReader
-import org.skyluc.babymetal_site.data2Page.DataToPage
-import org.skyluc.fan_resources.checks.MoreDataCheck
 
 object Main {
 

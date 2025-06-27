@@ -9,6 +9,7 @@
       id: cover
   multimedia:
     short:
+    - youtubeshort: IhlCz8gGvvE
     - youtubeshort: eRBRukKwbv0
     - youtubeshort: q9SCWO3JjAc
     image:
@@ -142,6 +143,13 @@
     published-date: 2025-06-20
     linked-to:
     - song: song3
+  - type: youtubeshort
+    id: IhlCz8gGvvE
+    label: Recap
+    info: Charlotte, Baltimore
+    published-date: 2025-06-23
+    linked-to:
+    - song: bxmxc
 
 - type: show
   year: 2025
@@ -392,6 +400,8 @@
       id: cover
   tour: northamerica2025
   multimedia:
+    short:
+    - youtubeshort: IhlCz8gGvvE
     image:
     - postximage:
         postid: 1936307475697045926
@@ -439,6 +449,8 @@
       id: cover
   tour: northamerica2025
   multimedia:
+    short:
+    - youtubeshort: IhlCz8gGvvE
     image:
     - postximage:
         postid: 1936658376798454181
@@ -474,6 +486,41 @@
       tour: northamerica2025
       id: cover
   tour: northamerica2025
+  multimedia:
+    image:
+    - postximage:
+        postid: 1937866458744201622
+        imageid: GuSu9ZcWoAAigk1
+    - postximage:
+        postid: 1937866458744201622
+        imageid: GuSvK8KWIAA305c
+  related:
+  - type: postx
+    id: 1937866458744201622
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-25
+    label: Thank you
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in NY🗽 #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #NY 
+      @TheTheaterAtMSG
+      
+      📸 
+      @Theguyfromthpic
+    image:
+    - id: GuSu9ZcWoAAigk1
+      label: On stage
+      linked-to:
+      - show:
+          year: 2025
+          id: newyork
+      - song: papaya
+    - id: GuSvK8KWIAA305c
+      label: Crowd & Stage
+      linked-to:
+      - show:
+          year: 2025
+          id: newyork
+      - song: papaya
 
 - type: show
   year: 2025
@@ -487,6 +534,40 @@
       tour: northamerica2025
       id: cover
   tour: northamerica2025
+  multimedia:
+    image:
+    - postximage:
+        postid: 1938105140915179620
+        imageid: GuWFesMW4AAZCKm
+    - postximage:
+        postid: 1938105140915179620
+        imageid: GuWFgTsXgAACcTr
+  related:
+  - type: postx
+    id: 1938105140915179620
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-26
+    label: Thank you
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Boston🧦
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #BOSTON
+      📸 
+      @Theguyfromthpic
+    image:
+    - id: GuWFesMW4AAZCKm
+      label: On stage
+      linked-to:
+      - show:
+          year: 2025
+          id: boston
+      - song: roadofresistance
+    - id: GuWFgTsXgAACcTr
+      label: On stage
+      linked-to:
+      - show:
+          year: 2025
+          id: boston
+      - song: bxmxc
 
 - type: show
   year: 2025

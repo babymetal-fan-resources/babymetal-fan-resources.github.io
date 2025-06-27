@@ -1,0 +1,70 @@
+type: mediawritten
+year: 2025
+id: rollingstonejp
+designation: magazine
+publication: Rolling Stone Japan
+issue: Vol. 31
+published-date: 2025-06-25
+webpage: https://rollingstonejapan.com/articles/detail/41113?n=2&e=43027
+member:
+- SU-METAL
+- MOAMETAL
+- MOMOMETAL
+cover-image:
+  postximage:
+    postid: 1933722747072622685
+    imageid: GtX2ksNaoAAtuhv
+multimedia:
+  short:
+  - postxvideo:
+      postid: 1937674603658182921
+      videoid: 01
+  image:
+  - postximage:
+      postid: 1933722747072622685
+      imageid: GtX2ksNaoAAtuhv
+related:
+- type: postx
+  id: 1933722747072622685
+  account: rollingstonejp
+  label: announcement
+  published-date: 2024-06-14
+  text: |
+    千葉雄喜とBABYMETAL、Rolling Stone Japan最新号にW表紙で登場
+    @yukichiba_info
+    
+    @BABYMETAL_JAPAN
+    #千葉雄喜 #BABYMETAL
+    https://rollingstonejapan.com/articles/detail/43027
+  image:
+  - id: GtX2ksNaoAAtuhv
+    label: Back cover
+    info: BABYMETAL
+    localCopy: true
+- type: postx
+  id: 1937674603658182921
+  account: rollingstonejp
+  label: announcement
+  published-date: 2024-06-15
+  text: |
+    🤘🤘本日発売🤘🤘
+    【𝐁𝐀𝐁𝐘𝐌𝐄𝐓𝐀𝐋 🦊🦊🦊からコメントが到着！】
+
+    本日発売のRolling Stone Japan vol.31（2025年8月号）BACK COVERを飾るBABYMETALのSU-METALさん、MOAMETALさん、MOMOMETALさんからコメントが到着。
+
+    @BABYMETAL_JAPAN
+
+
+    ▼詳細はこちらから
+    https://rollingstonejapan.com/articles/detail/43027
+
+    #BABYMETAL #RollingStoneJapan #METALFORTH
+  video:
+  - id: 01
+    cover: 1937370953820106752/img/Gaq9K_x-HzQGjHYs.jpg
+    label: Presentation
+    info: BABYMETAL
+    linked-to:
+    - media:
+        year: 2025
+        id: rollingstonejp

@@ -8,5 +8,20 @@ location: "-"
 
 cover-image:
   localimage:
-    tour: japanfestivaltour2025
+    show:
+      year: 2026
+      id: specialarenashowjapan
     id: cover
+
+related:
+- type: localimage
+  show:
+    year: 2026
+    id: specialarenashowjapan
+  id: cover
+  label: cover
+  filename: cover400.png
+  published-date: 2025-06-02 # TODO: better date
+  source:
+    description: BABYMETAL website site
+    url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
