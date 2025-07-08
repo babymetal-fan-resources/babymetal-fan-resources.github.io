@@ -18,8 +18,8 @@ sealed trait Page extends fr.Element[Page] {
 case class ChronologyPage(
     id: fr.ElementGenId[Page],
     chronology: fr.Chronology,
-    hasError: Boolean = false,
     linkedTo: Seq[fr.Id[?]] = Nil,
+    hasError: Boolean = false,
 ) extends Page
     with WithProcessor
     with WithProcessorElement {
@@ -49,8 +49,8 @@ case class CategoriesPage(
     categories: Seq[String],
     startDate: Date,
     endDate: Date,
-    hasError: Boolean = false,
     linkedTo: Seq[fr.Id[?]] = Nil,
+    hasError: Boolean = false,
 ) extends Page
     with WithProcessor
     with WithProcessorElement {
@@ -80,8 +80,8 @@ case class ContentPage(
     content: Seq[fr.Id[?]],
     startDate: Date,
     endDate: Date,
-    hasError: Boolean = false,
     linkedTo: Seq[fr.Id[?]] = Nil,
+    hasError: Boolean = false,
 ) extends Page
     with WithProcessor
     with WithProcessorElement {

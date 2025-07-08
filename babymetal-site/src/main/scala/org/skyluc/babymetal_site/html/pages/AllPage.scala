@@ -42,10 +42,12 @@ object AllPage {
 
   def pageFor(chronologyPage: d.ChronologyPage, generator: CompiledDataGenerator): Seq[SitePage] = {
 
+    val markers = chronologyPage.chronology.markers.map(generator.get(_))
+
     val byYears = ChronologySection.compiledData(
       chronologyPage.chronology.startDate,
       chronologyPage.chronology.endDate,
-      chronologyPage.chronology.markers,
+      markers,
       new ChronologyMarkerCompiledDataGenerator(generator),
       generator,
     )

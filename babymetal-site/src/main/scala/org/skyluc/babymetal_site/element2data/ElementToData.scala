@@ -16,7 +16,7 @@ object ElementToData extends fr.ElementToData with Processor[fr.ElementToData.Re
     toContentPage(contentPage).map(d => Result(d, Nil))
 
   override def processChronologyPage(chronologyPage: ChronologyPage): Either[BaseError, Result] =
-    toChronologyPage(chronologyPage).map(d => Result(d, d.chronology.markers))
+    toChronologyPage(chronologyPage)
 
   // -------------
 
@@ -55,16 +55,19 @@ object ElementToData extends fr.ElementToData with Processor[fr.ElementToData.Re
 
   }
 
-  private def toChronologyPage(chronologyPage: ChronologyPage): Either[BaseError, d.ChronologyPage] = {
+  private def toChronologyPage(chronologyPage: ChronologyPage): Either[BaseError, Result] = {
     val id = d.PageId(chronologyPage.id)
     for {
       startDate <- toDate(chronologyPage.`start-date`, id)
       endDate <- toDate(chronologyPage.`end-date`, id)
       markers <- throughList(chronologyPage.markers, id)(toChronologyMarker)
     } yield {
-      d.ChronologyPage(
-        id,
-        org.skyluc.fan_resources.data.Chronology(markers, startDate, endDate),
+      Result(
+        d.ChronologyPage(
+          id,
+          org.skyluc.fan_resources.data.Chronology(markers.map(_.id), startDate, endDate),
+        ),
+        markers,
       )
     }
   }
