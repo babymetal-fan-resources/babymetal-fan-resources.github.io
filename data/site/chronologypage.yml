@@ -213,37 +213,88 @@ markers:
 - media:
     year: 2025
     id: rollingstonejp
-- album: metalforth
 - show:
     year: 2025
     id: uncasville
+  related-multimedia:
+    postximage:
+      postid: 1938827798744867171
+      imageid: GugZYjCXUAAtwkm
 - show:
     year: 2025
     id: philadelphia
+  related-multimedia:
+    postximage:
+      postid: 1939182070535753920
+      imageid: GulbRctXEAAOF4y
+- media:
+    year: 2025
+    id: metaradi0628
 - show:
     year: 2025
     id: laval
+  related-multimedia:
+    postximage:
+      postid: 1939909432864805220
+      imageid: Guvwcu8XUAAzAa8
 - show:
     year: 2025
     id: toronto
+  related-multimedia:
+    postximage:
+      postid: 1940644829270364498
+      imageid: Gu6NzIVWkAADCfP
 - show:
     year: 2025
     id: sterlingheights
+  related-multimedia:
+    postximage:
+      postid: 1941012401547366678
+      imageid: Gu_afEXX0AA4cmI
 - show:
     year: 2025
     id: summerfestmilwaukee
+  related-multimedia:
+    postximage:
+      postid: 1941752700879684093
+      imageid: GvJ62OBXgAA0Uyw
+- media:
+    year: 2025
+    id: metaradi0705
 - show:
     year: 2025
     id: marylandheights
+  related-multimedia:
+    postximage:
+      postid: 1942097146833936737
+      imageid: GvOzH6gXgAAkLEO
 - show:
     year: 2025
     id: chicago
+  related-multimedia:
+    postximage:
+      postid: 1942823657383850069
+      imageid: GvZGqf7XcAAuq0Z
 - show:
     year: 2025
     id: minneapolis
+  related-multimedia:
+    postximage:
+      postid: 1943191162623291405
+      imageid: GveUqy5WAAA40Cs
 - show:
     year: 2025
     id: denver
+  related-multimedia:
+    postximage:
+      postid: 1943926792626040997
+      imageid: Gvo2OfkXEAAbnpj
+- song: konkon
+  related-multimedia:
+    youtubevideo: UxRldWoKlnQ
+- media:
+    year: 2025
+    id: metaradi0712
 - show:
     year: 2025
     id: vancouver
@@ -268,6 +319,7 @@ markers:
 - show:
     year: 2025
     id: phoenix
+- album: metalforth
 - show:
     year: 2025
     id: yokohama1
@@ -320,6 +372,9 @@ markers:
     id: specialarenashowusa
   related-multimedia:
     youtubevideo: HbRO9vuZiKE
+- show:
+    year: 2025
+    id: specialarenashowmexico
 - show:
     year: 2026
     id: specialarenashowjapan

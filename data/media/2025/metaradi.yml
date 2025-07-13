@@ -232,3 +232,51 @@
       postid: 1875488645987365238
       imageid: GgcSW8pa8AEVKP3
 
+- type: mediaaudio
+  year: 2025
+  id: metaradi0628
+  designation: metaradi
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - Kyary Pamyu Pamyu
+  webpage: https://tfm.co.jp/metaradi/
+  published-date: 2025-06-28
+  cover-image:
+    postximage:
+      postid: 1875488645987365238
+      imageid: GgcSW8pa8AEVKP3
+
+- type: mediaaudio
+  year: 2025
+  id: metaradi0705
+  designation: metaradi
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - Kyary Pamyu Pamyu
+  webpage: https://tfm.co.jp/metaradi/
+  published-date: 2025-07-05
+  cover-image:
+    postximage:
+      postid: 1875488645987365238
+      imageid: GgcSW8pa8AEVKP3
+
+- type: mediaaudio
+  year: 2025
+  id: metaradi0712
+  designation: metaradi
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - Kyary Pamyu Pamyu
+  webpage: https://tfm.co.jp/metaradi/
+  published-date: 2025-07-12
+  cover-image:
+    postximage:
+      postid: 1875488645987365238
+      imageid: GgcSW8pa8AEVKP3
+

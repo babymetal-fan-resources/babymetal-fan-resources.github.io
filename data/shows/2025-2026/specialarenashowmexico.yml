@@ -1,0 +1,31 @@
+- type: show
+  year: 2025
+  id: specialarenashowmexico
+
+  fullname: Special Arena Show Mexico
+  sublabel: Mexico, Mexico
+  date: 2025-11-07
+  location: Arena CDMX
+
+  cover-image:
+    localimage:
+      show:
+        year: 2025
+        id: specialarenashowmexico
+      id: cover
+
+- type: localimage
+  show:
+    year: 2025
+    id: specialarenashowmexico
+  id: cover
+  label: cover
+  filename: cover.png
+  published-date: 2025-07-10
+  source:
+    description: BABYMETAL website site
+    url: https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1418&id=292951&lang=en
+  linked-to:
+  - show:
+      year: 2025
+      id: specialarenashowmexico

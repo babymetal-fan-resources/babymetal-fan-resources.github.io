@@ -1,0 +1,12 @@
+type: song
+id: gimichoko
+
+fullname: ギミチョコ!!
+fullname-en: Gimme Chocolate!!
+
+release-date: 2014-02-26
+
+cover-image:
+  localimage:
+    group: siteimages
+    id: kitsume_cover

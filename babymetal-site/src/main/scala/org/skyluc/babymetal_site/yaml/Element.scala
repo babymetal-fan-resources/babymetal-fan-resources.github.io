@@ -1,7 +1,7 @@
 package org.skyluc.babymetal_site.yaml
 
 import org.skyluc.fan_resources.BaseError
-import org.skyluc.fan_resources.SimpleError
+import org.skyluc.fan_resources.TextError
 import org.skyluc.fan_resources.yaml as fr
 import org.virtuslab.yaml.YamlCodec
 
@@ -12,7 +12,7 @@ trait WithProcessor extends fr.WithProcessor {
       case p: Processor[A] =>
         process(p)
       case _ =>
-        Left(SimpleError("A processor for babymetal_site elements is required"))
+        Left(TextError("A processor for babymetal_site elements is required"))
     }
   }
 
