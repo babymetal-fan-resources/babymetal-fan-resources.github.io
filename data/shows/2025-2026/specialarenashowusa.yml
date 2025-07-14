@@ -24,7 +24,7 @@ related:
   id: cover
   label: cover
   filename: cover400.png
-  published-date: 2025-06-02 # TODO: better date
+  published-date: 2025-05-31
   source:
     description: BABYMETAL website site
     url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
@@ -37,6 +37,7 @@ related:
   account: BABYMETAL_JAPAN
   published-date: 2025-06-02
   label: Pre-sale
+  info: TODO - image, which song
   text: |
     Los Angeles! 
     Special US Arena show, Intuit Dome pre-sale begins now! General on-sale is Friday June 6.
@@ -52,7 +53,6 @@ related:
     - show:
         year: 2025
         id: london
-    # TODO: which song ? Gimme Choco ?
 - type: postx
   id: 1931033569100710000
   account: BABYMETAL_JAPAN

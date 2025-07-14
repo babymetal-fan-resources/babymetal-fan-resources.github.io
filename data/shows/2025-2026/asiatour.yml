@@ -26,7 +26,7 @@
     id: cover
     label: cover
     filename: cover400.png
-    published-date: 2025-06-02 # TODO: better date
+    published-date: 2025-05-27
     source:
       description: BABYMETAL website site
       url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
@@ -51,7 +51,7 @@
     id: cover
     label: cover
     filename: cover400.png
-    published-date: 2025-06-02 # TODO: better date
+    published-date: 2025-03-25
     source:
       description: BABYMETAL website site
       url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
@@ -78,7 +78,7 @@
     id: cover
     label: cover
     filename: cover400.png
-    published-date: 2025-06-02 # TODO: better date
+    published-date: 2025-05-13
     source: 
       description: event website
       url: https://busanrockfestival.com/
@@ -150,7 +150,7 @@
   sublabel: Kuala Lumpur, Malaysia
   date: 2025-10-06
   location: Zepp Kuala Lumpur
-  # event-page: TODO:
+  event-page: https://www.zepp.co.jp/hall/kualalumpur/schedule/single/?rid=155565
   cover-image:
     localimage:
       tour: asiatour2025
@@ -179,7 +179,7 @@
     id: cover
     label: cover
     filename: cover400.png
-    published-date: 2025-06-02 # TODO: better date
+    published-date: 2025-05-14
     source:
       description: BABYMETAL website
       url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025

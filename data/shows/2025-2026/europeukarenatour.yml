@@ -48,7 +48,7 @@
     id: cover
     label: cover
     filename: cover400.png
-    published-date: 2025-06-02 # TODO: better date
+    published-date: 2024-10-23
     source:
       description: BABYMETAL website
       url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
@@ -422,6 +422,7 @@
     id: 1924789470085140940
     account: BABYMETAL_JAPAN
     label: Thank you
+    info: TODO - image 1 which song
     published-date: 2025-05-20
     text: |
       Thank you for coming to "BABYMETAL UK & EUROPE ARENA TOUR 2025" in Krakow, Poland🇵🇱 
@@ -432,7 +433,6 @@
     image:
     - id: GrY0XDsXwAA3nGo
       label: On stage
-      # TODO: which song ?
       linked-to:
       - show:
           year: 2025
@@ -606,6 +606,7 @@
     id: 1926791606578872394
     account: BABYMETAL_JAPAN
     label: Thank you
+    info: TODO - check image 3 song
     published-date: 2025-05-26
     text: |
       Thank you for coming to "BABYMETAL UK & EUROPE ARENA TOUR 2025" in Madrid,Spain🇪🇸
@@ -631,7 +632,6 @@
     - id: Gr1UOthXUAAK0Gk
       label: On stage
       info: weeee aaarre, MOA-METAL
-      # TODO: double check which song
       linked-to:
       - show:
           year: 2025
@@ -678,6 +678,7 @@
     id: 1927166535744753912
     account: BABYMETAL_JAPAN
     label: Thank you
+    info: TODO -  check image 1 song. find other image songs
     published-date: 2025-05-27
     text: |
       Thank you for coming to "BABYMETAL UK & EUROPE ARENA TOUR 2025" in Barcelona,Spain🇪🇸 
@@ -692,28 +693,25 @@
       - show:
           year: 2025
           id: barcelona
-      - song: frommetou # TODO: double check song
+      - song: frommetou
     - id: Gr6qVqvXQAA1uZx
       label: On stage
       linked-to:
       - show:
           year: 2025
           id: barcelona
-      # TODO: which song ? BM DEATH ?
     - id: Gr6qZSdXAAEOJMn
       label: On Stage
       linked-to:
       - show:
           year: 2025
           id: barcelona
-      # TODO: which song ? Kon Kon ?
     - id: Gr6qdlFX0AA_1xz
       label: On stage
       linked-to:
       - show:
           year: 2025
           id: barcelona
-      # TODO: which song ? we are ?
 
 - type: show
   year: 2025
@@ -1021,6 +1019,7 @@
     account: BABYMETAL_JAPAN
     published-date: 2025-05-31
     label: Thank you
+    info: TODO - image 1, image 3, which song
     text: |
       🇬🇧🦊🦊🦊
       Thank you sooooo much to everyone who came to our UK & EUROPE ARENA TOUR 2025!! We can’t wait to see you again!!
@@ -1035,7 +1034,6 @@
       - show:
           year: 2025
           id: london
-      # - song: TODO: intro to Sunset Kiss ?
     - id: GsP2twUWEAAYuj1
       label: On stage
       linked-to:
@@ -1049,7 +1047,6 @@
       - show:
           year: 2025
           id: london
-    #  - song: TODO:
     - id: GsP7vPpXUAA5oDq
       label: Arena
       info: from the back of the floor, weeee aaarre !!

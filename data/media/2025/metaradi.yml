@@ -34,8 +34,6 @@
       label: poster
       localCopy: true
 
-  # TODO: videos from youtube
-
 - type: mediaaudio
   year: 2025
   id: metaradi0405
@@ -176,7 +174,7 @@
   show: BABYMETALのメタラジ!
   host: SU-METAL, MOAMETAL, MOMOMETAL
   member:
-  - ??? # TODO:
+  - Demon Kakka (SEIKIMA-II)
   webpage: https://tfm.co.jp/metaradi/
   published-date: 2025-05-31
   cover-image:
