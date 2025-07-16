@@ -1,6 +1,5 @@
 package org.skyluc.babymetal_site.yaml
 
-import org.skyluc.babymetal_site.data.PageId
 import org.skyluc.babymetal_site.yaml.YamlKeys.*
 import org.skyluc.fan_resources.data.Datum
 import org.skyluc.fan_resources.data.Id
