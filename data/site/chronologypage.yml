@@ -298,15 +298,27 @@ markers:
 - show:
     year: 2025
     id: vancouver
+  related-multimedia:
+    postximage:
+      postid: 1945010449134837823
+      imageid: Gv4PqV6XAAAMqVb
 - show:
     year: 2025
     id: kent
+  related-multimedia:
+    postximage:
+      postid: 1945388976216674319
+      imageid: Gv9jQSZWoAEsTba
 - media:
     year: 2025
     id: revolver
 - show:
     year: 2025
     id: sanfrancisco1
+  related-multimedia:
+    postximage:
+      postid: 1946122572518875436
+      imageid: GwICt5haQAASnbq
 - show:
     year: 2025
     id: sanfrancisco2
@@ -319,6 +331,12 @@ markers:
 - show:
     year: 2025
     id: phoenix
+- show:
+    year: 2025
+    id: losangeles
+- media:
+    year: 2025
+    id: kerrang
 - album: metalforth
 - show:
     year: 2025

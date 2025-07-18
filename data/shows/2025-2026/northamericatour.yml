@@ -9,6 +9,7 @@
       id: cover
   multimedia:
     short:
+    - youtubeshort: 0YElROg2MLo
     - youtubeshort: quHJAvM6c8Y
     - youtubeshort: Yhv8ekoNGzo
     - youtubeshort: MdvxYE6JHB8
@@ -215,6 +216,13 @@
     label: Recap
     info:  Chicago, Mineapolis
     published-date: 2025-07-11
+    linked-to:
+    - song: papaya
+  - type: youtubeshort
+    id: 0YElROg2MLo
+    label: Recap
+    info:  Vancouver, Kent
+    published-date: 2025-07-17
     linked-to:
     - song: papaya
 
@@ -1248,6 +1256,63 @@
       tour: northamerica2025
       id: cover
   tour: northamerica2025
+  multimedia:
+    short:
+    - youtubeshort: 0YElROg2MLo
+    image:
+    - postximage:
+        postid: 1945010449134837823
+        imageid: Gv4PPFAa4AAEXpp
+    - postximage:
+        postid: 1945010449134837823
+        imageid: Gv4Pm04aUAAbjTq
+    - postximage:
+        postid: 1945010449134837823
+        imageid: Gv4PoW8WsAA9yUr
+    - postximage:
+        postid: 1945010449134837823
+        imageid: Gv4PqV6XAAAMqVb
+  related:
+  - type: postx
+    id: 1945010449134837823
+    account: BABYMETAL_JAPAN
+    published-date: 2025-07-15
+    label: Thank you
+    info: TODO - image 2, 3, 4. Which song
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026" in Vancouver🇨🇦 
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #Vancouver 
+      📸 
+      @v_trvn
+    image:
+    - id: Gv4PPFAa4AAEXpp
+      label: On stage
+      info: SU-METAL
+      linked-to:
+      - show:
+          year: 2025
+          id: vancouver
+      - song: roadofresistance
+    - id: Gv4Pm04aUAAbjTq
+      label: On stage
+      info: MOAMETAL
+      linked-to:
+      - show:
+          year: 2025
+          id: vancouver
+    - id: Gv4PoW8WsAA9yUr
+      label: On stage
+      info: MOMOMETAL
+      linked-to:
+      - show:
+          year: 2025
+          id: vancouver
+    - id: Gv4PqV6XAAAMqVb
+      label: On stage
+      linked-to:
+      - show:
+          year: 2025
+          id: vancouver
 
 - type: show
   year: 2025
@@ -1261,6 +1326,63 @@
       tour: northamerica2025
       id: cover
   tour: northamerica2025
+  multimedia:
+    short:
+    - youtubeshort: 0YElROg2MLo
+    image:
+    - postximage:
+        postid: 1945388976216674319
+        imageid: Gv9jK2xXQAADjj4
+    - postximage:
+        postid: 1945388976216674319
+        imageid: Gv9jMkXWUAAGmvC
+    - postximage:
+        postid: 1945388976216674319
+        imageid: Gv9jORjXgAAA-ly
+    - postximage:
+        postid: 1945388976216674319
+        imageid: Gv9jQSZWoAEsTba
+  related:
+  - type: postx
+    id: 1945388976216674319
+    account: BABYMETAL_JAPAN
+    published-date: 2025-07-16
+    label: Thank you
+    info: TODO - which song image 2
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Kent🇺🇸 
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #Kent 
+      📸 
+      @v_trvn
+    image:
+    - id: Gv9jK2xXQAADjj4
+      label: On stage
+      linked-to:
+      - show:
+          year: 2025
+          id: kent
+      - song: papaya
+    - id: Gv9jMkXWUAAGmvC
+      label: On stage
+      info: SU-METAL
+      linked-to:
+      - show:
+          year: 2025
+          id: kent
+    - id: Gv9jORjXgAAA-ly
+      label: On stage
+      linked-to:
+      - show:
+          year: 2025
+          id: kent
+      - song: babymetaldeath
+    - id: Gv9jQSZWoAEsTba
+      label: On stage
+      info: weeeeeaaaaa, crowd
+      linked-to:
+      - show:
+          year: 2025
+          id: kent
 
 - type: show
   year: 2025
@@ -1274,6 +1396,62 @@
       tour: northamerica2025
       id: cover
   tour: northamerica2025
+  multimedia:
+    image:
+    - postximage:
+        postid: 1946122572518875436
+        imageid: GwICpoSaMAATMYb
+    - postximage:
+        postid: 1946122572518875436
+        imageid: GwICrRTXcAAwEBs
+    - postximage:
+        postid: 1946122572518875436
+        imageid: GwICsl3WUAA05-e
+    - postximage:
+        postid: 1946122572518875436
+        imageid: GwICt5haQAASnbq
+  related:
+  - type: postx
+    id: 1946122572518875436
+    account: BABYMETAL_JAPAN
+    published-date: 2025-07-18
+    label: Thank you
+    info: TODO - which song image 2, 3
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in San Francisco DAY1🌉
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #SanFrancisco 
+      📸 
+      @v_trvn
+    image:
+    - id: GwICpoSaMAATMYb
+      label: On stage
+      info: MOAMETAL
+      linked-to:
+      - show:
+          year: 2025
+          id: sanfrancisco1
+      - song: bxmxc
+    - id: GwICrRTXcAAwEBs
+      label: On stage
+      info: SU-METAL
+      linked-to:
+      - show:
+          year: 2025
+          id: sanfrancisco1
+    - id: GwICsl3WUAA05-e
+      label: On stage
+      info: MOMOMETAL
+      linked-to:
+      - show:
+          year: 2025
+          id: sanfrancisco1
+    - id: GwICt5haQAASnbq
+      label: On stage
+      info: weeeeeaaaaa
+      linked-to:
+      - show:
+          year: 2025
+          id: sanfrancisco1
 
 - type: show
   year: 2025
@@ -1326,3 +1504,45 @@
       tour: northamerica2025
       id: cover
   tour: northamerica2025
+
+- type: show
+  year: 2025
+  id: losangeles
+  fullname: METAL FORTH Countdown
+  sublabel: Los Angeles, CA, USA
+  date: 2025-07-24
+  location: The Regent Theater
+  cover-image:
+    postximage:
+      postid: 1945891248981832107
+      imageid: GwEvs9JW8AIIQFg
+  tour: northamerica2025
+  related:
+  - type: postx
+    id: 1945891248981832107
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2025-07-17
+    text: |
+      🔥🔥🔥🔥🔥🔥🔥🔥🔥
+      　　　Secret Gig
+      “METAL FORTH Countdown”
+      🔥🔥🔥🔥🔥🔥🔥🔥🔥
+
+      BABYMETAL is coming to Los Angeles for a special show!
+      📍 The Regent Theater
+      🗓 JULY 24
+      🎫 Limited tickets & VIP go on sale tomorrow at 1PM PDT
+      👉 https://babymetal.com//tour
+      This is a Will Call–only event. Tickets must be picked up in person at the box office on the day of the show with a valid ID that matches the name of the original purchaser. Tickets are non-transferable, and ineligible for resale. Any tickets suspected of being purchased for the sole purpose of resale may be cancelled at the discretion of the event organizer.
+
+      #BABYMETAL #LosAngeles #METALFORTH
+    image:
+    - id: GwEvs9JW8AIIQFg
+      label: Poster
+      localCopy: true
+      linked-to:
+      - show:
+          year: 2025
+          id: losangeles
+

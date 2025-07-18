@@ -198,3 +198,22 @@ related:
   id: wWKDN9F1j-g
   label: Signed variants
   published-date: 2025-07-09
+- type: postx
+  id: 1945932036797255731
+  account: BABYMETAL_JAPAN
+  label: Revolver clear edition
+  published-date: 2025-07-17
+  text: |
+    ／
+    📢LIMITED EDITION
+    ＼
+
+    New album "METAL FORTH" Limited edition crystal clear Signed vinyl available NOW on REVOLVER for US only🔥
+
+    https://babymetal.lnk.to/RevolverExclusiveLP
+  image:
+  - id: GwFWFuuWkAAyMG9
+    label: Revolver clear edition
+    linked-to:
+    - album: metalforth
+
