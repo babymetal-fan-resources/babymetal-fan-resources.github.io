@@ -1,14 +1,10 @@
-type: song
-id: ratatata
-
-fullname: RATATATA (BABYMETAL x Electric Callboy)
-shortname: RATATATA
-
-album: metalforth
-
-release-date: 2024-05-23
-
-cover-image:
-  localimage:
-    group: siteimages
-    id: kitsume_cover
+song:
+  id: ratatata
+  fullname: RATATATA (BABYMETAL x Electric Callboy)
+  shortname: RATATATA
+  album: metalforth
+  release-date: 2024-05-23
+  cover-image:
+    localimage:
+      group: siteimages
+      id: kitsume_cover

@@ -1,11 +1,8 @@
-type: song
-id: babymetaldeath
-
-fullname: BABYMETAL DEATH
-
-release-date: 2013-01-09
-
-cover-image:
-  localimage:
-    group: siteimages
-    id: kitsume_cover
+song:
+  id: babymetaldeath
+  fullname: BABYMETAL DEATH
+  release-date: 2013-01-09
+  cover-image:
+    localimage:
+      group: siteimages
+      id: kitsume_cover

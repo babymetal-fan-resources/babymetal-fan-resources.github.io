@@ -1,219 +1,369 @@
-type: album
-id: metalforth
+- album:
+    id: metalforth
+    fullname: METAL FORTH
+    designation: album
+    release-date: 2025-08-08
+    cover-image:
+      postximage:
+        post: 1906725673450037384
+        image: GnWBzbdbgAA2zuP
+    songs:
+    - frommetou
+    - ratatata
+    - song3
+    - konkon
+    - kxaxwxaxixi
+    - sunsetkiss
+    - myqueen
+    - algorism
+    - metali
+    - whiteflame
+    linked-to:
+    - postx: 1906725673450037384
+    - postx: 1914967729335103936
+    - postx: 1915390284151873557
+    - youtubeshort: ooYDiY4J50c
+    - postx: 1918244078157992025
+    - postx: 1919270842812207226
+    - youtubeshort: qpLP--tait4
+    - postx: 1932601871367381291
+    - postx: 1932815090782191989
+    - youtubeshort: iVcwPAE6zLY
+    - youtubeshort: wWKDN9F1j-g
+    - postx: 1945932036797255731
 
-fullname: METAL FORTH
-designation: album
+- postx:
+    id: 1906725673450037384
+    account: BABYMETAL_JAPAN
+    published-date: 2025-04-01
+    label: announcement
+    text: |
+      BABYMETAL returns with METAL FORTH. The renowned Japanese metal band has signed to Capitol Records, which will release the album globally on June 13. Meaning “beyond metal,” METAL FORTH features collaborations with Electric Callboy, Tom Morello, Poppy, Spiritbox, Bloodywood, Polyphia and Slaughter to Prevail. The next single “from me to u (feat. Poppy)" will arrive this Friday, April 4th. Initial album pre-orders are live at http://METALFORTH.com
+      
+      BABYMETAL – METAL FORTH
+      1. from me to u (feat. Poppy)
+      2. RATATATA (BABYMETAL x Electric Callboy)
+      3. Song 3 (BABYMETAL x Slaughter to Prevail)
+      4. Kon! Kon! (feat. Bloodywood)
+      5. KxAxWxAxIxI
+      6. Sunset Kiss (feat. Polyphia)
+      7. My Queen (feat. Spiritbox)
+      8. Algorism
+      9. METALI!! (feat. Tom Morello)
+      10. White Flame ー白炎ー
+      
+    image:
+    - GnWBzbdbgAA2zuP
+    - GnWCAIwaQAAsAww
+    - GnWCBKhbMAAJmAA
+    linked-to:
+    - postximage:
+        post: 1906725673450037384
+        image: GnWBzbdbgAA2zuP
+    - postximage:
+        post: 1906725673450037384
+        image: GnWCAIwaQAAsAww
+    - postximage:
+        post: 1906725673450037384
+        image: GnWCBKhbMAAJmAA
+    - album: metalforth
 
-release-date: 2025-08-08
-
-cover-image:
-  postximage:
-    postid: 1906725673450037384
-    imageid: GnWBzbdbgAA2zuP
-
-songs:
-- frommetou
-- ratatata
-- song3
-- konkon
-- kxaxwxaxixi
-- sunsetkiss
-- myqueen
-- algorism
-- metali
-- whiteflame
-
-multimedia:
-  short:
-
-related:
-- type: postx
-  id: 1906725673450037384
-  account: BABYMETAL_JAPAN
-  published-date: 2025-04-01
-  label: announcement
-  text: |
-    BABYMETAL returns with METAL FORTH. The renowned Japanese metal band has signed to Capitol Records, which will release the album globally on June 13. Meaning “beyond metal,” METAL FORTH features collaborations with Electric Callboy, Tom Morello, Poppy, Spiritbox, Bloodywood, Polyphia and Slaughter to Prevail. The next single “from me to u (feat. Poppy)" will arrive this Friday, April 4th. Initial album pre-orders are live at http://METALFORTH.com
-
-    BABYMETAL – METAL FORTH
-    1. from me to u (feat. Poppy)
-    2. RATATATA (BABYMETAL x Electric Callboy)
-    3. Song 3 (BABYMETAL x Slaughter to Prevail)
-    4. Kon! Kon! (feat. Bloodywood)
-    5. KxAxWxAxIxI
-    6. Sunset Kiss (feat. Polyphia)
-    7. My Queen (feat. Spiritbox)
-    8. Algorism
-    9. METALI!! (feat. Tom Morello)
-    10. White Flame ー白炎ー
-  image:
-  - id: GnWBzbdbgAA2zuP
+- postximage:
+    post: 1906725673450037384
+    id: GnWBzbdbgAA2zuP
     label: cover image
-    localCopy: true
-  - id: GnWCAIwaQAAsAww
+    published-date: 2025-04-01
+    local-copy: true
+    linked-to:
+    - postx: 1906725673450037384
+
+- postximage:
+    post: 1906725673450037384
+    id: GnWCAIwaQAAsAww
     label: vinyl
-  - id: GnWCBKhbMAAJmAA
+    published-date: 2025-04-01
+    linked-to:
+    - postx: 1906725673450037384
+
+- postximage:
+    post: 1906725673450037384
+    id: GnWCBKhbMAAJmAA
     label: CD
-- type: postx
-  id: 1914967729335103936
-  account: BABYMETAL_JAPAN
-  published-date: 2025-04-23
-  label: bonus announcement
-  text: |
-    2025.6.27(金)発売 
-    4th ALBUM「METAL FORTH」各CDショップ別購入者特典詳細と各デザインを公開!! 
-    THE ONE盤「- THE ONE Limited Edition -」の詳細も解禁DEATH !!
+    published-date: 2025-04-01
+    linked-to:
+    - postx: 1906725673450037384
 
-    📢ご予約はこちら 
-    https://umj.lnk.to/BABYMETAL_METALFORTH
+- postx:
+    id: 1914967729335103936
+    account: BABYMETAL_JAPAN
+    published-date: 2025-04-23
+    label: bonus announcement
+    text: |
+      2025.6.27(金)発売 
+      4th ALBUM「METAL FORTH」各CDショップ別購入者特典詳細と各デザインを公開!! 
+      THE ONE盤「- THE ONE Limited Edition -」の詳細も解禁DEATH !!
+      
+      📢ご予約はこちら 
+      https://umj.lnk.to/BABYMETAL_METALFORTH
+      
+      📚THE ONE盤 ご予約はこちら
+      https://asmart.jp/shop/babymetal/product/10046463
+      
+      #BABYMETAL #METALFORTH #THEONE
+      
+    image:
+    - GpNU6shb0AAhOHP
+    - GpNU6shbQAIXMfC
+    linked-to:
+    - postximage:
+        post: 1914967729335103936
+        image: GpNU6shb0AAhOHP
+    - postximage:
+        post: 1914967729335103936
+        image: GpNU6shbQAIXMfC
+    - album: metalforth
 
-    📚THE ONE盤 ご予約はこちら
-    https://asmart.jp/shop/babymetal/product/10046463
-
-    #BABYMETAL #METALFORTH #THEONE
-  image:
-  - id: GpNU6shb0AAhOHP
+- postximage:
+    post: 1914967729335103936
+    id: GpNU6shb0AAhOHP
     label: bonuses
+    published-date: 2025-04-23
     linked-to:
     - album: metalforth
-  - id: GpNU6shbQAIXMfC
+    - postx: 1914967729335103936
+
+- postximage:
+    post: 1914967729335103936
+    id: GpNU6shbQAIXMfC
     label: THE ONE Limited Edition
+    published-date: 2025-04-23
     linked-to:
     - album: metalforth
-- type: postx
-  id: 1915390284151873557
-  account: BABYMETAL_JAPAN
-  published-date: 2025-04-24
-  label: anouncement
-  text: |
-    The new album, METAL FORTH is out June 27! 
-    Pre-order vinyl and CDs now at http://shop.metalforth.com
-  video:
-  - id: 01
-    cover: 1915281840564506624/img/JqQ3I81EaBCDodoK.jpg
+    - postx: 1914967729335103936
+
+- postx:
+    id: 1915390284151873557
+    account: BABYMETAL_JAPAN
+    published-date: 2025-04-24
+    label: anouncement
+    text: |
+      The new album, METAL FORTH is out June 27! 
+      Pre-order vinyl and CDs now at http://shop.metalforth.com
+      
+    video:
+    - 01
+    linked-to:
+    - postxvideo:
+        post: 1915390284151873557
+        video: 01
+    - album: metalforth
+
+- postxvideo:
+    post: 1915390284151873557
+    id: 01
     label: promo
+    cover: 1915281840564506624/img/JqQ3I81EaBCDodoK.jpg
+    published-date: 2025-04-24
     info: vinyl + CD + from me to u
     linked-to:
     - album: metalforth
-- type: youtubeshort
-  id: ooYDiY4J50c
-  published-date: 2025-04-24
-  label: promo
-  info: vinyl + CD + from me to u
-- type: postx
-  id: 1918244078157992025
-  account: BABYMETAL_JAPAN
-  published-date: 2025-05-02
-  label: THE ONE Limited Edition
-  text: |
-    /／
-    📢 4th ALBUM「METAL FORTH」
-    THE ONE盤「- THE ONE Limited Edition -」予約販売受付中!!
-    \ ＼
+    - postx: 1915390284151873557
 
-    🔗ご予約はこちら
-    https://asmart.jp/shop/babymetal/product/10046463
+- youtubeshort:
+    id: ooYDiY4J50c
+    label: promo
+    info: vinyl + CD + from me to u
+    published-date: 2025-04-24
+    linked-to:
+    - album: metalforth
 
-    【特典】
-    📦 THE ONEスペシャルパッケージ仕様
-    📜 特大ポスター（74cm×55cm）
-    📚 撮り下ろし写真集（64ページ）
-    💿 ピクチャーレーベルCD
-
-    #BABYMETAL
-  image:
-  - id: Gp7B0L-awAIBYI2
+- postx:
+    id: 1918244078157992025
+    account: BABYMETAL_JAPAN
+    published-date: 2025-05-02
     label: THE ONE Limited Edition
+    text: |
+      /／
+      📢 4th ALBUM「METAL FORTH」
+      THE ONE盤「- THE ONE Limited Edition -」予約販売受付中!!
+      \ ＼
+      
+      🔗ご予約はこちら
+      https://asmart.jp/shop/babymetal/product/10046463
+      
+      【特典】
+      📦 THE ONEスペシャルパッケージ仕様
+      📜 特大ポスター（74cm×55cm）
+      📚 撮り下ろし写真集（64ページ）
+      💿 ピクチャーレーベルCD
+      
+      #BABYMETAL
+      
+    image:
+    - Gp7B0L-awAIBYI2
+    linked-to:
+    - postximage:
+        post: 1918244078157992025
+        image: Gp7B0L-awAIBYI2
+    - album: metalforth
+
+- postximage:
+    post: 1918244078157992025
+    id: Gp7B0L-awAIBYI2
+    label: THE ONE Limited Edition
+    published-date: 2025-05-02
     linked-to:
     - album: metalforth
-- type: postx
-  id: 1919270842812207226
-  account: BABYMETAL_JAPAN
-  published-date: 2025-05-05
-  label: THE ONE Limited Edition
-  text: |
-    /／
-    📢 明日まで!!
-    4th ALBUM「METAL FORTH」
-    THE ONE盤「- THE ONE Limited Edition -」
-    \ ＼
+    - postx: 1918244078157992025
 
-    ▼ ご予約はこちら
-    https://asmart.jp/shop/babymetal/product/10046463
+- postx:
+    id: 1919270842812207226
+    account: BABYMETAL_JAPAN
+    published-date: 2025-05-05
+    label: THE ONE Limited Edition
+    text: |
+      /／
+      📢 明日まで!!
+      4th ALBUM「METAL FORTH」
+      THE ONE盤「- THE ONE Limited Edition -」
+      \ ＼
+      
+      ▼ ご予約はこちら
+      https://asmart.jp/shop/babymetal/product/10046463
+      
+      【特典】
+      📦 THE ONEスペシャルパッケージ仕様
+      📜 特大ポスター（74cm×55cm）
+      📚 撮り下ろし写真集（64ページ）
+      💿 ピクチャーレーベルCD
+      
+      #BABYMETAL
+      
+    video:
+    - 01
+    linked-to:
+    - postxvideo:
+        post: 1919270842812207226
+        video: 01
+    - album: metalforth
 
-    【特典】
-    📦 THE ONEスペシャルパッケージ仕様
-    📜 特大ポスター（74cm×55cm）
-    📚 撮り下ろし写真集（64ページ）
-    💿 ピクチャーレーベルCD
-
-    #BABYMETAL
-  video:
-  - id: 01
-    cover: 1919134985824444416/img/rcaykVHaKR34sn4u.jpg
+- postxvideo:
+    post: 1919270842812207226
+    id: 01
     label: Edition
+    cover: 1919134985824444416/img/rcaykVHaKR34sn4u.jpg
+    published-date: 2025-05-05
     linked-to:
     - album: metalforth
-- type: youtubeshort
-  id: qpLP--tait4
-  label: More editions
-  published-date: 2025-05-28
-- type: postx
-  id: 1932601871367381291
-  account: BABYMETAL_JAPAN
-  published-date: 2025-06-11
-  label: GLASS FOXES TEE + LP
-  text: |
-    Pre-order the METAL FORTH × GLASS FOXES TEE + LP Fan Pack now.　
-    https://babymetal.store/collections/tour-2024/products/metal-forth-lp-tee
-  image:
-  - id: GtH63AvboAAwlnQ
+    - postx: 1919270842812207226
+
+- youtubeshort:
+    id: qpLP--tait4
+    label: More editions
+    published-date: 2025-05-28
+    linked-to:
+    - album: metalforth
+
+- postx:
+    id: 1932601871367381291
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-11
     label: GLASS FOXES TEE + LP
+    text: |
+      Pre-order the METAL FORTH × GLASS FOXES TEE + LP Fan Pack now.　
+      https://babymetal.store/collections/tour-2024/products/metal-forth-lp-tee
+      
+    image:
+    - GtH63AvboAAwlnQ
     linked-to:
-    - album: metalforth 
-- type: postx
-  id: 1932815090782191989
-  account: BABYMETAL_JAPAN
-  published-date: 2025-06-11
-  label: Limited batch of signed cards
-  text: |
-    We’re dropping a limited batch of signed cards with our new album METAL FORTH 🔥
+    - postximage:
+        post: 1932601871367381291
+        image: GtH63AvboAAwlnQ
+    - album: metalforth
 
-    Hit the link to grab yours now!
+- postximage:
+    post: 1932601871367381291
+    id: GtH63AvboAAwlnQ
+    label: GLASS FOXES TEE + LP
+    published-date: 2025-06-11
+    linked-to:
+    - album: metalforth
+    - postx: 1932601871367381291
 
-    https://babymetal.lnk.to/MetalForth 
+- postx:
+    id: 1932815090782191989
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-11
+    label: Limited batch of signed cards
+    text: |
+      We’re dropping a limited batch of signed cards with our new album METAL FORTH 🔥
+      
+      Hit the link to grab yours now!
+      
+      https://babymetal.lnk.to/MetalForth 
+      
+      #BABYMETAL #METALFORTH
+      
+    video:
+    - 01
+    linked-to:
+    - postxvideo:
+        post: 1932815090782191989
+        video: 01
+    - album: metalforth
 
-    #BABYMETAL #METALFORTH
-  video:
-  - id: 01
-    cover: 1932810368147206147/img/JWSXowAbdMTlFL67.jpg
+- postxvideo:
+    post: 1932815090782191989
+    id: 01
     label: Signed cards edition
+    cover: 1932810368147206147/img/JWSXowAbdMTlFL67.jpg
+    published-date: 2025-06-11
     linked-to:
     - album: metalforth
-- type: youtubeshort
-  id: iVcwPAE6zLY
-  label: Signed cards Edition
-  published-date: 2025-06-11
-- type: youtubeshort
-  id: wWKDN9F1j-g
-  label: Signed variants
-  published-date: 2025-07-09
-- type: postx
-  id: 1945932036797255731
-  account: BABYMETAL_JAPAN
-  label: Revolver clear edition
-  published-date: 2025-07-17
-  text: |
-    ／
-    📢LIMITED EDITION
-    ＼
+    - postx: 1932815090782191989
 
-    New album "METAL FORTH" Limited edition crystal clear Signed vinyl available NOW on REVOLVER for US only🔥
+- youtubeshort:
+    id: iVcwPAE6zLY
+    label: Signed cards Edition
+    published-date: 2025-06-11
+    linked-to:
+    - album: metalforth
 
-    https://babymetal.lnk.to/RevolverExclusiveLP
-  image:
-  - id: GwFWFuuWkAAyMG9
+- youtubeshort:
+    id: wWKDN9F1j-g
+    label: Signed variants
+    published-date: 2025-07-09
+    linked-to:
+    - album: metalforth
+
+- postx:
+    id: 1945932036797255731
+    account: BABYMETAL_JAPAN
+    published-date: 2025-07-17
     label: Revolver clear edition
+    text: |
+      ／
+      📢LIMITED EDITION
+      ＼
+      
+      New album "METAL FORTH" Limited edition crystal clear Signed vinyl available NOW on REVOLVER for US only🔥
+      
+      https://babymetal.lnk.to/RevolverExclusiveLP
+      
+    image:
+    - GwFWFuuWkAAyMG9
+    linked-to:
+    - postximage:
+        post: 1945932036797255731
+        image: GwFWFuuWkAAyMG9
+    - album: metalforth
+
+- postximage:
+    post: 1945932036797255731
+    id: GwFWFuuWkAAyMG9
+    label: Revolver clear edition
+    published-date: 2025-07-17
     linked-to:
     - album: metalforth
+    - postx: 1945932036797255731
 

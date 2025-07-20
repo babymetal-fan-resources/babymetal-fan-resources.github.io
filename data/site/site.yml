@@ -1,36 +1,37 @@
-- type: contentpage
-  id: music
-  name: Music
-  content:
-  - album: metalforth
-  - song: konkon
-  - song: song3
-  - song: frommetou
-  - song: ratatata
-  - song: metali
-  - song: bxmxc
-  - song: papaya
-  - song: karate
-  - song: roadofresistance
-  - song: gimichoko
-  - song: megitsune
-  - song: babymetaldeath
-  start-date: 2010-01-01
-  end-date: 2026-01-31
+- contentpage:
+    id: music
+    label: Music
+    start-date: 2010-01-01
+    end-date: 2026-01-31
+    content:
+    - album: metalforth
+    - song: konkon
+    - song: song3
+    - song: frommetou
+    - song: ratatata
+    - song: metali
+    - song: bxmxc
+    - song: papaya
+    - song: karate
+    - song: roadofresistance
+    - song: gimichoko
+    - song: megitsune
+    - song: babymetaldeath
 
-- type: categoriespage
-  id: shows
-  name: Shows
-  categories:
-  - show
-  - tour
-  start-date: 2010-01-01
-  end-date: 2026-01-31
+- categoriespage:
+    id: shows
+    label: Shows
+    start-date: 2010-01-01
+    end-date: 2026-01-31
+    categories:
+    - show
+    - tour
 
-- type: categoriespage
-  id: media
-  name: Media
-  categories:
-  - media
-  start-date: 2010-01-01
-  end-date: 2026-01-31
+- categoriespage:
+    id: media
+    label: Media
+    start-date: 2010-01-01
+    end-date: 2026-01-31
+    categories:
+    - media
+

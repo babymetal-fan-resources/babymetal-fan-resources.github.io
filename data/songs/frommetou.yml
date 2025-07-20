@@ -1,133 +1,206 @@
-type: song
-id: frommetou
+- song:
+    id: frommetou
+    fullname: from me to u (feat. Poppy)
+    shortname: from me to u
+    album: metalforth
+    release-date: 2025-04-04
+    credits:
+      lyricist: MK-METAL, Jordan Fish, Poppy
+      composer: MK-METAL, Jordan Fish, Poppy
+      source:
+        description: 'JASRAC - work ID: 1V3-1774-9'
+        url: 'https://www2.jasrac.or.jp/'
+    cover-image:
+      postximage:
+        post: 1908172721055469909
+        image: GnsqdGTbQAAkPmf
+    multimedia:
+      video:
+      - youtubevideo: qayP_YUrf9I
+    linked-to:
+    - youtubevideo: qayP_YUrf9I
+    - localimage:
+        youtubevideo: qayP_YUrf9I
+        id: mvcover
+    - youtubeshort: FYwqnTc2TIs
+    - youtubeshort: JdKbr69Xn6I
+    - postx: 1907089900303778232
+    - postx: 1907450207283056684
+    - postx: 1907811061547544665
+    - postx: 1908006616361799954
+    - postx: 1908172721055469909
+    - postx: 1917749117322932480
 
-fullname: from me to u (feat. Poppy)
-shortname: from me to u
-album: metalforth
+- youtubevideo:
+    id: qayP_YUrf9I
+    label: Official Music Video
+    published-date: 2025-04-04
+    linked-to:
+    - song: frommetou
 
-release-date: 2025-04-04
+- localimage:
+    youtubevideo: qayP_YUrf9I
+    id: mvcover
+    label: MV cover
+    filename: mvcover.png
+    published-date: 2025-04-04
+    source:
+      description: YouTube video
+    hidden: true
+    linked-to:
+    - song: frommetou
 
-description:
+- youtubeshort:
+    id: FYwqnTc2TIs
+    label: Teaser 1
+    published-date: 2025-04-02
+    linked-to:
+    - song: frommetou
 
-cover-image:
-  postximage:
-    postid: 1908172721055469909
-    imageid: GnsqdGTbQAAkPmf
+- youtubeshort:
+    id: JdKbr69Xn6I
+    label: Teaser 2
+    published-date: 2025-04-03
+    linked-to:
+    - song: frommetou
 
-credits:
-  lyricist: MK-METAL, Jordan Fish, Poppy
-  composer: MK-METAL, Jordan Fish, Poppy
-  source:
-    description: 'JASRAC - work ID: 1V3-1774-9'
-    url: https://www2.jasrac.or.jp/
+- postx:
+    id: 1907089900303778232
+    account: BABYMETAL_JAPAN
+    published-date: 2025-04-02
+    label: teaser 1
+    text: |
+      from me to u out Friday
+      
+    linked-to:
+    - youtubeshort: FYwqnTc2TIs
+    - song: frommetou
 
-multimedia:
-  video:
-  - youtubevideo: qayP_YUrf9I
+- postx:
+    id: 1907450207283056684
+    account: BABYMETAL_JAPAN
+    published-date: 2025-04-03
+    label: teaser 2
+    text: |
+      BABYMETAL feat. Poppy out // "from me to u" Out Friday
+      
+    linked-to:
+    - youtubeshort: JdKbr69Xn6I
+    - song: frommetou
 
-related:
-# YouTube videos
-- type: youtubevideo
-  id: qayP_YUrf9I
-  label: Official Music Video
-  published-date: 2025-04-04
-- type: localimage
-  youtubevideo: qayP_YUrf9I
-  id: mvcover
-  label: MV cover
-  published-date: 2025-04-04
-  filename: mvcover.png
-  source:
-    description: YouTube video
-  hidden: true
-# YouTube shorts
-- type: youtubeshort
-  id: FYwqnTc2TIs
-  label: Teaser 1
-  published-date: 2025-04-02
-- type: youtubeshort
-  id: JdKbr69Xn6I
-  label: Teaser 2
-  published-date: 2025-04-03
-# X posts
-- type: postx
-  id: 1907089900303778232
-  account: BABYMETAL_JAPAN
-  published-date: 2025-04-02
-  label: teaser 1
-  text: |
-    from me to u out Friday
-  linked-to:
-  - youtubeshort: FYwqnTc2TIs
-- type: postx
-  id: 1907450207283056684
-  account: BABYMETAL_JAPAN
-  published-date: 2025-04-03
-  label: teaser 2
-  text: |
-    BABYMETAL feat. Poppy out // "from me to u" Out Friday
-  linked-to:
-  - youtubeshort: JdKbr69Xn6I
-- type: postx
-  id: 1907811061547544665
-  account: BABYMETAL_JAPAN
-  published-date: 2025-04-04
-  label: released
-  info: Japan time
-  text: |
-    Japan!! New song "from me to u(feat. Poppy)"配信スタートDEATH!!
-    オフィシャルミュージックビデオは4.4(金)13:00(日本時間)にプレミア公開!!
-    http://umj.lnk.to/BABYMETAL_fmtu
+- postx:
+    id: 1907811061547544665
+    account: BABYMETAL_JAPAN
+    published-date: 2025-04-04
+    label: released
+    info: Japan time
+    text: |
+      Japan!! New song "from me to u(feat. Poppy)"配信スタートDEATH!!
+      オフィシャルミュージックビデオは4.4(金)13:00(日本時間)にプレミア公開!!
+      http://umj.lnk.to/BABYMETAL_fmtu
+      
+      #BABYMETAL #METALFORTH #frommetou #Poppy
+      
+    image:
+    - GnnoDBdbkAAegxk
+    linked-to:
+    - postximage:
+        post: 1907811061547544665
+        image: GnnoDBdbkAAegxk
+    - song: frommetou
 
-    #BABYMETAL #METALFORTH #frommetou #Poppy
-  image:
-  - id: GnnoDBdbkAAegxk
+- postximage:
+    post: 1907811061547544665
+    id: GnnoDBdbkAAegxk
     label: Music Video
+    published-date: 2025-04-04
     info: first part background
     linked-to:
     - song: frommetou
-- type: postx
-  id: 1908006616361799954
-  account: BABYMETAL_JAPAN
-  published-date: 2025-04-04
-  label: released
-  info: MV release
-  text: |
-    Watch the official music video for "from me to u" feat. Poppy now at http://YouTube.com/BABYMETAL
+    - postx: 1907811061547544665
 
-    METAL FORTH out June 13. Pre-order at http://METALFORTH.com
+- postx:
+    id: 1908006616361799954
+    account: BABYMETAL_JAPAN
+    published-date: 2025-04-04
+    label: released
+    info: MV release
+    text: |
+      Watch the official music video for "from me to u" feat. Poppy now at http://YouTube.com/BABYMETAL
+      
+      METAL FORTH out June 13. Pre-order at http://METALFORTH.com
+      
+      https://youtube.com/watch?v=qayP_YUrf9I
+      
+    video:
+    - 01
+    linked-to:
+    - postxvideo:
+        post: 1908006616361799954
+        video: 01
+    - song: frommetou
 
-    https://youtube.com/watch?v=qayP_YUrf9I
-  video:
-  - id: 01
+- postxvideo:
+    post: 1908006616361799954
+    id: 01
+    label: MV Short
     cover: 1907985120726040576/pu/img/WXgnjDKx3gmsk4By.jpg
-    label: MV Short
+    published-date: 2025-04-04
     linked-to:
     - song: frommetou
-- type: postx
-  id: 1908172721055469909
-  account: BABYMETAL_JAPAN
-  published-date: 2025-04-04
-  label: released
-  text: |
-    New single "from me to u" feat. Poppy is out now!
+    - postx: 1908006616361799954
 
-    http://METALFORTH.com
-  image:
-  - id: GnsqdGTbQAAkPmf
+- postx:
+    id: 1908172721055469909
+    account: BABYMETAL_JAPAN
+    published-date: 2025-04-04
+    label: released
+    text: |
+      New single "from me to u" feat. Poppy is out now!
+      
+      http://METALFORTH.com
+      
+    image:
+    - GnsqdGTbQAAkPmf
+    linked-to:
+    - postximage:
+        post: 1908172721055469909
+        image: GnsqdGTbQAAkPmf
+    - song: frommetou
+
+- postximage:
+    post: 1908172721055469909
+    id: GnsqdGTbQAAkPmf
     label: cover image
-    localCopy: true
-- type: postx
-  id: 1917749117322932480
-  account: BABYMETAL_JAPAN
-  published-date: 2025-05-01
-  label: short
-  text: |
-    And it goes from me to you.
-    "from me to u" feat. Poppy is from our new album METAL FORTH - out June 27!  Pre-order: http://shop.metalforth.com
-  video:
-  - id: 01
-    cover: 1917748799784771585/img/qZcZu7H_q5eBoVlL.jpg
+    published-date: 2025-04-04
+    local-copy: true
+    linked-to:
+    - postx: 1908172721055469909
+
+- postx:
+    id: 1917749117322932480
+    account: BABYMETAL_JAPAN
+    published-date: 2025-05-01
+    label: short
+    text: |
+      And it goes from me to you.
+      "from me to u" feat. Poppy is from our new album METAL FORTH - out June 27!  Pre-order: http://shop.metalforth.com
+      
+    video:
+    - 01
+    linked-to:
+    - postxvideo:
+        post: 1917749117322932480
+        video: 01
+    - song: frommetou
+
+- postxvideo:
+    post: 1917749117322932480
+    id: 01
     label: MV Short
+    cover: 1917748799784771585/img/qZcZu7H_q5eBoVlL.jpg
+    published-date: 2025-05-01
     linked-to:
     - song: frommetou
+    - postx: 1917749117322932480
+

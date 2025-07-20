@@ -1,11 +1,8 @@
-type: song
-id: roadofresistance
-
-fullname: Road of Resistance
-
-release-date: 2015-02-01
-
-cover-image:
-  localimage:
-    group: siteimages
-    id: kitsume_cover
+song:
+  id: roadofresistance
+  fullname: Road of Resistance
+  release-date: 2015-02-01
+  cover-image:
+    localimage:
+      group: siteimages
+      id: kitsume_cover

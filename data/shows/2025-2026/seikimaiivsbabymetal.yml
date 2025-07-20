@@ -1,19 +1,25 @@
-- type: show
-  year: 2025
-  id: seikimaiivsbabymetalencounter
-  fullname: 「聖飢魔II vs BABYMETAL」悪魔が来たりてベビメタる
-  sublabel: 遭遇 -Encounter-
-  date: 2025-08-30
-  location: K ARENA YOKOHAMA
-  event-page: https://skiivsbbm.com/
-  cover-image:
-    localimage:
-      show:
-        year: 2025
-        id: seikimaiivsbabymetalencounter
-      id: cover
-  related:
-  - type: localimage
+- show:
+    year: 2025
+    id: seikimaiivsbabymetalencounter
+    fullname: 「聖飢魔II vs BABYMETAL」悪魔が来たりてベビメタる
+    sublabel: 遭遇 -Encounter-
+    date: 2025-08-30
+    location: K ARENA YOKOHAMA
+    event-page: 'https://skiivsbbm.com/'
+    cover-image:
+      localimage:
+        show:
+          year: 2025
+          id: seikimaiivsbabymetalencounter
+        id: cover
+    linked-to:
+    - localimage:
+        show:
+          year: 2025
+          id: seikimaiivsbabymetalencounter
+        id: cover
+
+- localimage:
     show:
       year: 2025
       id: seikimaiivsbabymetalencounter
@@ -23,20 +29,24 @@
     published-date: 2025-04-01
     source:
       description: BABYMETAL website site
-      url: https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1431&id=288226&lang=en
-
-
-- type: show
-  year: 2025
-  id: seikimaiivsbabymetalimpact
-  fullname: 「聖飢魔II vs BABYMETAL」悪魔が来たりてベビメタる
-  sublabel: 衝撃 -Impact-
-  date: 2025-08-31
-  location: K ARENA YOKOHAMA
-  event-page: https://skiivsbbm.com/
-  cover-image:
-    localimage:
-      show:
+      url: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1431&id=288226&lang=en'
+    linked-to:
+    - show:
         year: 2025
         id: seikimaiivsbabymetalencounter
-      id: cover
+
+- show:
+    year: 2025
+    id: seikimaiivsbabymetalimpact
+    fullname: 「聖飢魔II vs BABYMETAL」悪魔が来たりてベビメタる
+    sublabel: 衝撃 -Impact-
+    date: 2025-08-31
+    location: K ARENA YOKOHAMA
+    event-page: 'https://skiivsbbm.com/'
+    cover-image:
+      localimage:
+        show:
+          year: 2025
+          id: seikimaiivsbabymetalencounter
+        id: cover
+

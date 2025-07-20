@@ -1,43 +1,71 @@
-type: mediawritten
-year: 2025
-id: revolver
-designation: magazine
-publication: Revolver Magazine
-issue: Summer 2025
-published-date: 2025-07-15
-member:
-- SU-METAL
-- MOAMETAL
-- MOMOMETAL
-cover-image:
-  postximage:
-    postid: 1937905998565380147
-    imageid: GuS6uIQXIAEnr6P
-multimedia:
-  image:
-  - postximage:
-      postid: 1937905998565380147
-      imageid: GuS6uIQXIAEnr6P
-  - postximage:
-      postid: 1937905998565380147
-      imageid: GuTRu-vW0AANJZ7
-related:
-- type: postx
-  id: 1937905998565380147
-  account: BABYMETAL_JAPAN
-  label: announcement
-  published-date: 2024-06-25
-  text: |
-    GO FORTH AND CONQUER
+- mediawritten:
+    year: 2025
+    id: revolver
+    publication: Revolver Magazine
+    issue: Summer 2025
+    designation: magazine
+    member:
+    - SU-METAL
+    - MOAMETAL
+    - MOMOMETAL
+    published-date: 2025-07-15
+    cover-image:
+      postximage:
+        post: 1937905998565380147
+        image: GuS6uIQXIAEnr6P
+    multimedia:
+      image:
+      - postximage:
+          post: 1937905998565380147
+          image: GuS6uIQXIAEnr6P
+      - postximage:
+          post: 1937905998565380147
+          image: GuTRu-vW0AANJZ7
+    linked-to:
+    - postx: 1937905998565380147
 
-    BABYMETAL x Revolver Magazine Summer 2025
+- postx:
+    id: 1937905998565380147
+    account: BABYMETAL_JAPAN
+    published-date: 2024-06-25
+    label: announcement
+    text: |
+      GO FORTH AND CONQUER
+      
+      BABYMETAL x Revolver Magazine Summer 2025
+      
+      Pre-order the issue, available with an exclusive, limited-edition vinyl variant of their new album 'METAL FORTH,' at https://shop.revolvermag.com/collections/babymetal
+      
+    image:
+    - GuS6uIQXIAEnr6P
+    - GuTRu-vW0AANJZ7
+    linked-to:
+    - postximage:
+        post: 1937905998565380147
+        image: GuS6uIQXIAEnr6P
+    - postximage:
+        post: 1937905998565380147
+        image: GuTRu-vW0AANJZ7
+    - media:
+        year: 2025
+        id: revolver
 
-    Pre-order the issue, available with an exclusive, limited-edition vinyl variant of their new album 'METAL FORTH,' at https://shop.revolvermag.com/collections/babymetal
-  image:
-  - id: GuS6uIQXIAEnr6P
+- postximage:
+    post: 1937905998565380147
+    id: GuS6uIQXIAEnr6P
     label: Cover
+    published-date: 2024-06-25
     info: BABYMETAL
-    localCopy: true
-  - id: GuTRu-vW0AANJZ7
+    local-copy: true
+    linked-to:
+    - postx: 1937905998565380147
+
+- postximage:
+    post: 1937905998565380147
+    id: GuTRu-vW0AANJZ7
     label: Vinyl
+    published-date: 2024-06-25
     info: BABYMETAL
+    linked-to:
+    - postx: 1937905998565380147
+

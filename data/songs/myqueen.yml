@@ -1,12 +1,9 @@
-type: song
-id: myqueen
-
-fullname: My Queen (feat. Spiritbox)
-shortname: My Queen
-
-release-date: 2025-08-08
-
-cover-image:
-  postximage:
-    postid: 1906725673450037384
-    imageid: GnWBzbdbgAA2zuP
+song:
+  id: myqueen
+  fullname: My Queen (feat. Spiritbox)
+  shortname: My Queen
+  release-date: 2025-08-08
+  cover-image:
+    postximage:
+      post: 1906725673450037384
+      image: GnWBzbdbgAA2zuP

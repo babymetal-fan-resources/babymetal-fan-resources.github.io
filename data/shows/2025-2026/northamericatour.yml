@@ -1,87 +1,109 @@
-- type: tour
-  id: northamerica2025
-  fullname: North America 2025
-  first-date: 2025-06-13
-  last-date: 2025-07-23
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  multimedia:
-    short:
-    - youtubeshort: 0YElROg2MLo
-    - youtubeshort: quHJAvM6c8Y
-    - youtubeshort: Yhv8ekoNGzo
-    - youtubeshort: MdvxYE6JHB8
-    - youtubeshort: g9lSvZ_FHUw
-    - youtubeshort: 8ebR_x-wgaU
-    - youtubeshort: n1ZPldlIlKs
-    - youtubeshort: IhlCz8gGvvE
-    - youtubeshort: eRBRukKwbv0
+- tour:
+    id: northamerica2025
+    fullname: North America 2025
+    first-date: 2025-06-13
+    last-date: 2025-07-23
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: 0YElROg2MLo
+      - youtubeshort: quHJAvM6c8Y
+      - youtubeshort: Yhv8ekoNGzo
+      - youtubeshort: MdvxYE6JHB8
+      - youtubeshort: g9lSvZ_FHUw
+      - youtubeshort: 8ebR_x-wgaU
+      - youtubeshort: n1ZPldlIlKs
+      - youtubeshort: IhlCz8gGvvE
+      - youtubeshort: eRBRukKwbv0
+      - youtubeshort: q9SCWO3JjAc
+      image:
+      - postximage:
+          post: 1942220423481250038
+          image: GvQnJAyboAAJnnD
+      - postximage:
+          post: 1933901506392080643
+          image: GtaY1E4WYAEsXx-
+      - postximage:
+          post: 1933901658599153909
+          image: GtaZNtkWsAACOO2
+    shows:
+    - year: 2025
+      id: houston
+    - year: 2025
+      id: irving
+    - year: 2025
+      id: tampa
+    - year: 2025
+      id: atlanta
+    - year: 2025
+      id: charlotte
+    - year: 2025
+      id: baltimore
+    - year: 2025
+      id: newyork
+    - year: 2025
+      id: boston
+    - year: 2025
+      id: uncasville
+    - year: 2025
+      id: philadelphia
+    - year: 2025
+      id: laval
+    - year: 2025
+      id: toronto
+    - year: 2025
+      id: sterlingheights
+    - year: 2025
+      id: summerfestmilwaukee
+    - year: 2025
+      id: marylandheights
+    - year: 2025
+      id: chicago
+    - year: 2025
+      id: minneapolis
+    - year: 2025
+      id: denver
+    - year: 2025
+      id: vancouver
+    - year: 2025
+      id: kent
+    - year: 2025
+      id: sanfrancisco1
+    - year: 2025
+      id: sanfrancisco2
+    - year: 2025
+      id: lasvegas
+    - year: 2025
+      id: saltlakecity
+    - year: 2025
+      id: phoenix
+    linked-to:
+    - localimage:
+        tour: northamerica2025
+        id: cover
+    - youtubevideo: sxnNfKoYEsA
+    - youtubeshort: t-xe-Skaidk
+    - localimage:
+        tour: northamerica2025
+        id: merch01
+    - postx: 1933901506392080643
+    - postx: 1933901658599153909
+    - postx: 1942220423481250038
     - youtubeshort: q9SCWO3JjAc
-    image:
-    - postximage: 
-        postid: 1942220423481250038
-        imageid: GvQnJAyboAAJnnD
-    - postximage:
-        postid: 1933901506392080643
-        imageid: GtaY1E4WYAEsXx-
-    - postximage:
-        postid: 1933901658599153909
-        imageid: GtaZNtkWsAACOO2
-  shows:
-  - year: 2025
-    id: houston
-  - year: 2025
-    id: irving
-  - year: 2025
-    id: tampa
-  - year: 2025
-    id: atlanta
-  - year: 2025
-    id: charlotte
-  - year: 2025
-    id: baltimore
-  - year: 2025
-    id: newyork
-  - year: 2025
-    id: boston
-  - year: 2025
-    id: uncasville
-  - year: 2025
-    id: philadelphia
-  - year: 2025
-    id: laval
-  - year: 2025
-    id: toronto
-  - year: 2025
-    id: sterlingheights
-  - year: 2025
-    id: summerfestmilwaukee
-  - year: 2025
-    id: marylandheights
-  - year: 2025
-    id: chicago
-  - year: 2025
-    id: minneapolis
-  - year: 2025
-    id: denver
-  - year: 2025
-    id: vancouver
-  - year: 2025
-    id: kent
-  - year: 2025
-    id: sanfrancisco1
-  - year: 2025
-    id: sanfrancisco2
-  - year: 2025
-    id: lasvegas
-  - year: 2025
-    id: saltlakecity
-  - year: 2025
-    id: phoenix
-  related:
-  - type: localimage
+    - youtubeshort: eRBRukKwbv0
+    - youtubeshort: IhlCz8gGvvE
+    - youtubeshort: n1ZPldlIlKs
+    - youtubeshort: 8ebR_x-wgaU
+    - youtubeshort: g9lSvZ_FHUw
+    - youtubeshort: MdvxYE6JHB8
+    - youtubeshort: Yhv8ekoNGzo
+    - youtubeshort: quHJAvM6c8Y
+    - youtubeshort: 0YElROg2MLo
+
+- localimage:
     tour: northamerica2025
     id: cover
     label: cover
@@ -89,16 +111,25 @@
     published-date: 2025-03-18
     source:
       description: BABYMETAL website site
-      url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
-  - type: youtubevideo
+      url: 'https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025'
+    linked-to:
+    - tour: northamerica2025
+
+- youtubevideo:
     id: sxnNfKoYEsA
     label: Trailer
     published-date: 2025-03-21
-  - type: youtubeshort
+    linked-to:
+    - tour: northamerica2025
+
+- youtubeshort:
     id: t-xe-Skaidk
     label: Trailer
     published-date: 2025-03-21
-  - type: localimage
+    linked-to:
+    - tour: northamerica2025
+
+- localimage:
     tour: northamerica2025
     id: merch01
     label: Merch
@@ -106,8 +137,11 @@
     published-date: 2025-06-12
     source:
       description: BABYMETAL website site
-      url: https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=2301&id=291753&lang=en
-  - type: postx
+      url: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=2301&id=291753&lang=en'
+    linked-to:
+    - tour: northamerica2025
+
+- postx:
     id: 1933901506392080643
     account: BABYMETAL_JAPAN
     published-date: 2025-06-14
@@ -119,11 +153,25 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #HOUSTON 
       📸 
       @Theguyfromthpic
+      
     image:
-    - id: GtaY1E4WYAEsXx-
-      label: We are on tour
-      info: BABYMETAL, Black Veil Brides
-  - type: postx
+    - GtaY1E4WYAEsXx-
+    linked-to:
+    - postximage:
+        post: 1933901506392080643
+        image: GtaY1E4WYAEsXx-
+    - tour: northamerica2025
+
+- postximage:
+    post: 1933901506392080643
+    id: GtaY1E4WYAEsXx-
+    label: We are on tour
+    published-date: 2025-06-14
+    info: BABYMETAL, Black Veil Brides
+    linked-to:
+    - postx: 1933901506392080643
+
+- postx:
     id: 1933901658599153909
     account: BABYMETAL_JAPAN
     published-date: 2025-06-14
@@ -135,11 +183,25 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #HOUSTON
       📸 
       @Theguyfromthpic
+      
     image:
-    - id: GtaZNtkWsAACOO2
-      label: We are on tour
-      info: BABYMETAL, Bloodywood
-  - type: postx
+    - GtaZNtkWsAACOO2
+    linked-to:
+    - postximage:
+        post: 1933901658599153909
+        image: GtaZNtkWsAACOO2
+    - tour: northamerica2025
+
+- postximage:
+    post: 1933901658599153909
+    id: GtaZNtkWsAACOO2
+    label: We are on tour
+    published-date: 2025-06-14
+    info: BABYMETAL, Bloodywood
+    linked-to:
+    - postx: 1933901658599153909
+
+- postx:
     id: 1942220423481250038
     account: BABYMETAL_JAPAN
     published-date: 2025-07-07
@@ -151,108 +213,143 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #MarylandHeights 
       📸 
       @v_trvn
+      
     image:
-    - id: GvQnJAyboAAJnnD
-      label: We are on tour
-      info: BABYMETAL, Jinjer
-  - type: youtubeshort
+    - GvQnJAyboAAJnnD
+    linked-to:
+    - postximage:
+        post: 1942220423481250038
+        image: GvQnJAyboAAJnnD
+    - tour: northamerica2025
+
+- postximage:
+    post: 1942220423481250038
+    id: GvQnJAyboAAJnnD
+    label: We are on tour
+    published-date: 2025-07-07
+    info: BABYMETAL, Jinjer
+    linked-to:
+    - postx: 1942220423481250038
+
+- youtubeshort:
     id: q9SCWO3JjAc
     label: Recap
     info: Houston, Irving
     published-date: 2025-06-17
     linked-to:
     - song: frommetou
-  - type: youtubeshort
+    - tour: northamerica2025
+
+- youtubeshort:
     id: eRBRukKwbv0
     label: Recap
     info: Tampa
     published-date: 2025-06-20
     linked-to:
     - song: song3
-  - type: youtubeshort
+    - tour: northamerica2025
+
+- youtubeshort:
     id: IhlCz8gGvvE
     label: Recap
     info: Charlotte, Baltimore
     published-date: 2025-06-23
     linked-to:
     - song: bxmxc
-  - type: youtubeshort
+    - tour: northamerica2025
+
+- youtubeshort:
     id: n1ZPldlIlKs
     label: Recap
     info: New York, Boston
     published-date: 2025-06-28
     linked-to:
     - song: gimichoko
-  - type: youtubeshort
+    - tour: northamerica2025
+
+- youtubeshort:
     id: 8ebR_x-wgaU
     label: Recap
     info: Uncasville, Philadelphia
     published-date: 2025-06-30
     linked-to:
     - song: megitsune
-  - type: youtubeshort
+    - tour: northamerica2025
+
+- youtubeshort:
     id: g9lSvZ_FHUw
     label: Recap
     info: Laval
     published-date: 2025-07-02
     linked-to:
     - song: frommetou
-  - type: youtubeshort
+    - tour: northamerica2025
+
+- youtubeshort:
     id: MdvxYE6JHB8
     label: Recap
     info: Toronto, Sterling Heights
     published-date: 2025-07-05
     linked-to:
     - song: bxmxc
-  - type: youtubeshort
+    - tour: northamerica2025
+
+- youtubeshort:
     id: Yhv8ekoNGzo
     label: Recap
-    info:  Milwaukee, St Louis
+    info: Milwaukee, St Louis
     published-date: 2025-07-08
     linked-to:
     - song: frommetou
-  - type: youtubeshort
+    - tour: northamerica2025
+
+- youtubeshort:
     id: quHJAvM6c8Y
     label: Recap
-    info:  Chicago, Mineapolis
+    info: Chicago, Mineapolis
     published-date: 2025-07-11
     linked-to:
     - song: papaya
-  - type: youtubeshort
+    - tour: northamerica2025
+
+- youtubeshort:
     id: 0YElROg2MLo
     label: Recap
-    info:  Vancouver, Kent
+    info: Vancouver, Kent
     published-date: 2025-07-17
     linked-to:
     - song: papaya
+    - tour: northamerica2025
 
-- type: show
-  year: 2025
-  id: houston
-  fullname: North America 2025
-  sublabel: Houston, TX, USA
-  date: 2025-06-13
-  location: 713 Music Hall
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: q9SCWO3JjAc
-    image:
-    - postximage:
-        postid: 1933786508722589865
-        imageid: GtYv6GMbwAA7vDf
-    - postximage:
-        postid: 1933786508722589865
-        imageid: GtYv6GHbMAEk1r0
-    - postximage:
-        postid: 1933786508722589865
-        imageid: GtYv6GJbMAQs6hO
-  related:
-  - type: postx
+- show:
+    year: 2025
+    id: houston
+    fullname: North America 2025
+    sublabel: Houston, TX, USA
+    date: 2025-06-13
+    tour: northamerica2025
+    location: 713 Music Hall
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: q9SCWO3JjAc
+      image:
+      - postximage:
+          post: 1933786508722589865
+          image: GtYv6GMbwAA7vDf
+      - postximage:
+          post: 1933786508722589865
+          image: GtYv6GHbMAEk1r0
+      - postximage:
+          post: 1933786508722589865
+          image: GtYv6GJbMAQs6hO
+    linked-to:
+    - postx: 1933786508722589865
+
+- postx:
     id: 1933786508722589865
     account: BABYMETAL_JAPAN
     published-date: 2025-06-14
@@ -264,59 +361,93 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORHTAMERICA #HOUSTON 
       📸 
       @Theguyfromthpic
+      
     image:
-    - id: GtYv6GJbMAQs6hO
-      label: Arena
-      linked-to:
-      - show:
-          year: 2025
-          id: houston
-      - song: bxmxc
-    - id: GtYv6GHbMAEk1r0
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: houston
-      - song: karate
-    - id: GtYv6GMbwAA7vDf
-      label: On stage
-      info: weeeeeaaaaa
-      linked-to:
-      - show:
-          year: 2025
-          id: houston
+    - GtYv6GJbMAQs6hO
+    - GtYv6GHbMAEk1r0
+    - GtYv6GMbwAA7vDf
+    linked-to:
+    - postximage:
+        post: 1933786508722589865
+        image: GtYv6GJbMAQs6hO
+    - postximage:
+        post: 1933786508722589865
+        image: GtYv6GHbMAEk1r0
+    - postximage:
+        post: 1933786508722589865
+        image: GtYv6GMbwAA7vDf
+    - show:
+        year: 2025
+        id: houston
 
-- type: show
-  year: 2025
-  id: irving
-  fullname: North America 2025
-  sublabel: Irving, TX, USA
-  date: 2025-06-14
-  location: The Pavilion at Toyota Music Factory
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: q9SCWO3JjAc
-    image:
-    - postximage:
-        postid: 1934132880441233442
-        imageid: GtdrmaWXgAA5JrD
-    - postximage:
-        postid: 1934132880441233442
-        imageid: GtdrmawWgAAYaRj
-    - postximage:
-        postid: 1934132880441233442
-        imageid: Gtdrma3WoAA55Sq
-    - postximage:
-        postid: 1934132880441233442
-        imageid: GtdrmanWIAAc_Je
-  related:
-  - type: postx
+- postximage:
+    post: 1933786508722589865
+    id: GtYv6GJbMAQs6hO
+    label: Arena
+    published-date: 2025-06-14
+    linked-to:
+    - show:
+        year: 2025
+        id: houston
+    - song: bxmxc
+    - postx: 1933786508722589865
+
+- postximage:
+    post: 1933786508722589865
+    id: GtYv6GHbMAEk1r0
+    label: On stage
+    published-date: 2025-06-14
+    linked-to:
+    - show:
+        year: 2025
+        id: houston
+    - song: karate
+    - postx: 1933786508722589865
+
+- postximage:
+    post: 1933786508722589865
+    id: GtYv6GMbwAA7vDf
+    label: On stage
+    published-date: 2025-06-14
+    info: weeeeeaaaaa
+    linked-to:
+    - show:
+        year: 2025
+        id: houston
+    - postx: 1933786508722589865
+
+- show:
+    year: 2025
+    id: irving
+    fullname: North America 2025
+    sublabel: Irving, TX, USA
+    date: 2025-06-14
+    tour: northamerica2025
+    location: The Pavilion at Toyota Music Factory
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: q9SCWO3JjAc
+      image:
+      - postximage:
+          post: 1934132880441233442
+          image: GtdrmaWXgAA5JrD
+      - postximage:
+          post: 1934132880441233442
+          image: GtdrmawWgAAYaRj
+      - postximage:
+          post: 1934132880441233442
+          image: Gtdrma3WoAA55Sq
+      - postximage:
+          post: 1934132880441233442
+          image: GtdrmanWIAAc_Je
+    linked-to:
+    - postx: 1934132880441233442
+
+- postx:
     id: 1934132880441233442
     account: BABYMETAL_JAPAN
     published-date: 2025-06-15
@@ -327,58 +458,101 @@
       #BABYMETALWORLDTOUR20252026NORTHAMERICA #IRVING 
       📸 
       @Theguyfromthpic
+      
     image:
-    - id: GtdrmaWXgAA5JrD
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: irving
-      - song: metali
-    - id: GtdrmawWgAAYaRj
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: irving
-      - song: song3
-    - id: Gtdrma3WoAA55Sq
-      label: Venue
-      linked-to:
-      - show:
-          year: 2025
-          id: irving
-    - id: GtdrmanWIAAc_Je
-      label: Crowd
-      linked-to:
-      - show:
-          year: 2025
-          id: irving
+    - GtdrmaWXgAA5JrD
+    - GtdrmawWgAAYaRj
+    - Gtdrma3WoAA55Sq
+    - GtdrmanWIAAc_Je
+    linked-to:
+    - postximage:
+        post: 1934132880441233442
+        image: GtdrmaWXgAA5JrD
+    - postximage:
+        post: 1934132880441233442
+        image: GtdrmawWgAAYaRj
+    - postximage:
+        post: 1934132880441233442
+        image: Gtdrma3WoAA55Sq
+    - postximage:
+        post: 1934132880441233442
+        image: GtdrmanWIAAc_Je
+    - show:
+        year: 2025
+        id: irving
 
-- type: show
-  year: 2025
-  id: tampa
-  fullname: North America 2025
-  sublabel: Tampa, FL, USA
-  date: 2025-06-17
-  location: Yuengling Center
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: eRBRukKwbv0
-    image:
-    - postximage:
-        postid: 1935308136358748218
-        imageid: GtuV242WMAAE3hI
-    - postximage:
-        postid: 1935308136358748218
-        imageid: GtuV4X3WMAAcMjj
-  related:
-  - type: postx
+- postximage:
+    post: 1934132880441233442
+    id: GtdrmaWXgAA5JrD
+    label: On stage
+    published-date: 2025-06-15
+    linked-to:
+    - show:
+        year: 2025
+        id: irving
+    - song: metali
+    - postx: 1934132880441233442
+
+- postximage:
+    post: 1934132880441233442
+    id: GtdrmawWgAAYaRj
+    label: On stage
+    published-date: 2025-06-15
+    linked-to:
+    - show:
+        year: 2025
+        id: irving
+    - song: song3
+    - postx: 1934132880441233442
+
+- postximage:
+    post: 1934132880441233442
+    id: Gtdrma3WoAA55Sq
+    label: Venue
+    published-date: 2025-06-15
+    linked-to:
+    - show:
+        year: 2025
+        id: irving
+    - postx: 1934132880441233442
+
+- postximage:
+    post: 1934132880441233442
+    id: GtdrmanWIAAc_Je
+    label: Crowd
+    published-date: 2025-06-15
+    linked-to:
+    - show:
+        year: 2025
+        id: irving
+    - postx: 1934132880441233442
+
+- show:
+    year: 2025
+    id: tampa
+    fullname: North America 2025
+    sublabel: Tampa, FL, USA
+    date: 2025-06-17
+    tour: northamerica2025
+    location: Yuengling Center
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: eRBRukKwbv0
+      image:
+      - postximage:
+          post: 1935308136358748218
+          image: GtuV242WMAAE3hI
+      - postximage:
+          post: 1935308136358748218
+          image: GtuV4X3WMAAcMjj
+    linked-to:
+    - postx: 1935308136358748218
+
+- postx:
     id: 1935308136358748218
     account: BABYMETAL_JAPAN
     published-date: 2025-06-18
@@ -388,49 +562,74 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #TAMPA
       📸 
       @Theguyfromthpic
+      
     image:
-    - id: GtuV242WMAAE3hI
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: tampa
-      - song: bxmxc
-    - id: GtuV4X3WMAAcMjj
-      label: From the back of the stage
-      linked-to:
-      - show:
-          year: 2025
-          id: tampa
-      - song: karate
+    - GtuV242WMAAE3hI
+    - GtuV4X3WMAAcMjj
+    linked-to:
+    - postximage:
+        post: 1935308136358748218
+        image: GtuV242WMAAE3hI
+    - postximage:
+        post: 1935308136358748218
+        image: GtuV4X3WMAAcMjj
+    - show:
+        year: 2025
+        id: tampa
 
-- type: show
-  year: 2025
-  id: atlanta
-  fullname: North America 2025
-  sublabel: Atlanta, GA, USA
-  date: 2025-06-18
-  location: Coca-Cola Roxy
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: eRBRukKwbv0
-    image:
-    - postximage:
-        postid: 1935585150110425156
-        imageid: GtyURlAWQAAsetc
-    - postximage:
-        postid: 1935585150110425156
-        imageid: GtyURlBXgAAsFrl
-    - postximage:
-        postid: 1935585150110425156
-        imageid: GtyUQSGWUAAZ64_
-  related:
-  - type: postx
+- postximage:
+    post: 1935308136358748218
+    id: GtuV242WMAAE3hI
+    label: On stage
+    published-date: 2025-06-18
+    linked-to:
+    - show:
+        year: 2025
+        id: tampa
+    - song: bxmxc
+    - postx: 1935308136358748218
+
+- postximage:
+    post: 1935308136358748218
+    id: GtuV4X3WMAAcMjj
+    label: From the back of the stage
+    published-date: 2025-06-18
+    linked-to:
+    - show:
+        year: 2025
+        id: tampa
+    - song: karate
+    - postx: 1935308136358748218
+
+- show:
+    year: 2025
+    id: atlanta
+    fullname: North America 2025
+    sublabel: Atlanta, GA, USA
+    date: 2025-06-18
+    tour: northamerica2025
+    location: Coca-Cola Roxy
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: eRBRukKwbv0
+      image:
+      - postximage:
+          post: 1935585150110425156
+          image: GtyURlAWQAAsetc
+      - postximage:
+          post: 1935585150110425156
+          image: GtyURlBXgAAsFrl
+      - postximage:
+          post: 1935585150110425156
+          image: GtyUQSGWUAAZ64_
+    linked-to:
+    - postx: 1935585150110425156
+
+- postx:
     id: 1935585150110425156
     account: BABYMETAL_JAPAN
     published-date: 2025-06-19
@@ -440,53 +639,87 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #ATLANTA
       📸 
       @Theguyfromthpic
+      
     image:
-    - id: GtyURlAWQAAsetc
-      label: On stage
-      info: Weeeee aaaaa!!
-      linked-to:
-      - show:
-          year: 2025
-          id: atlanta
-    - id: GtyURlBXgAAsFrl
-      label: From the back of the stage
-      linked-to:
-      - show:
-          year: 2025
-          id: atlanta
-      - song: karate
-    - id: GtyUQSGWUAAZ64_
-      label: Venue
-      linked-to:
-      - show:
-          year: 2025
-          id: atlanta
-      - song: karate
+    - GtyURlAWQAAsetc
+    - GtyURlBXgAAsFrl
+    - GtyUQSGWUAAZ64_
+    linked-to:
+    - postximage:
+        post: 1935585150110425156
+        image: GtyURlAWQAAsetc
+    - postximage:
+        post: 1935585150110425156
+        image: GtyURlBXgAAsFrl
+    - postximage:
+        post: 1935585150110425156
+        image: GtyUQSGWUAAZ64_
+    - show:
+        year: 2025
+        id: atlanta
 
-- type: show
-  year: 2025
-  id: charlotte
-  fullname: North America 2025
-  sublabel: Charlotte, NC, USA
-  date: 2025-06-20
-  location: Skyla Credit Union Amphitheatre
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: IhlCz8gGvvE
-    image:
-    - postximage:
-        postid: 1936307475697045926
-        imageid: Gt8kOz5XYAAzv8u
-    - postximage:
-        postid: 1936307475697045926
-        imageid: Gt8kbtdWgAEaVYh
-  related:
-  - type: postx
+- postximage:
+    post: 1935585150110425156
+    id: GtyURlAWQAAsetc
+    label: On stage
+    published-date: 2025-06-19
+    info: Weeeee aaaaa!!
+    linked-to:
+    - show:
+        year: 2025
+        id: atlanta
+    - postx: 1935585150110425156
+
+- postximage:
+    post: 1935585150110425156
+    id: GtyURlBXgAAsFrl
+    label: From the back of the stage
+    published-date: 2025-06-19
+    linked-to:
+    - show:
+        year: 2025
+        id: atlanta
+    - song: karate
+    - postx: 1935585150110425156
+
+- postximage:
+    post: 1935585150110425156
+    id: GtyUQSGWUAAZ64_
+    label: Venue
+    published-date: 2025-06-19
+    linked-to:
+    - show:
+        year: 2025
+        id: atlanta
+    - song: karate
+    - postx: 1935585150110425156
+
+- show:
+    year: 2025
+    id: charlotte
+    fullname: North America 2025
+    sublabel: Charlotte, NC, USA
+    date: 2025-06-20
+    tour: northamerica2025
+    location: Skyla Credit Union Amphitheatre
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: IhlCz8gGvvE
+      image:
+      - postximage:
+          post: 1936307475697045926
+          image: Gt8kOz5XYAAzv8u
+      - postximage:
+          post: 1936307475697045926
+          image: Gt8kbtdWgAEaVYh
+    linked-to:
+    - postx: 1936307475697045926
+
+- postx:
     id: 1936307475697045926
     account: BABYMETAL_JAPAN
     published-date: 2025-06-21
@@ -497,43 +730,68 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #CHARLOTTE
       📸 
       @Theguyfromthpic
+      
     image:
-    - id: Gt8kOz5XYAAzv8u
-      label: On Stage
-      linked-to:
-      - show:
-          year: 2025
-          id: charlotte
-      - song: metali
-    - id: Gt8kbtdWgAEaVYh
-      label: Venue
-      linked-to:
-      - show:
-          year: 2025
-          id: charlotte
-      - song: babymetaldeath
-
-- type: show
-  year: 2025
-  id: baltimore
-  fullname: North America 2025
-  sublabel: Baltimore, MD, USA
-  date: 2025-06-21
-  location: Pier Six Pavilion
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: IhlCz8gGvvE
-    image:
+    - Gt8kOz5XYAAzv8u
+    - Gt8kbtdWgAEaVYh
+    linked-to:
     - postximage:
-        postid: 1936658376798454181
-        imageid: GuBimuGXUAAKFkt
-  related:
-  - type: postx
+        post: 1936307475697045926
+        image: Gt8kOz5XYAAzv8u
+    - postximage:
+        post: 1936307475697045926
+        image: Gt8kbtdWgAEaVYh
+    - show:
+        year: 2025
+        id: charlotte
+
+- postximage:
+    post: 1936307475697045926
+    id: Gt8kOz5XYAAzv8u
+    label: On Stage
+    published-date: 2025-06-21
+    linked-to:
+    - show:
+        year: 2025
+        id: charlotte
+    - song: metali
+    - postx: 1936307475697045926
+
+- postximage:
+    post: 1936307475697045926
+    id: Gt8kbtdWgAEaVYh
+    label: Venue
+    published-date: 2025-06-21
+    linked-to:
+    - show:
+        year: 2025
+        id: charlotte
+    - song: babymetaldeath
+    - postx: 1936307475697045926
+
+- show:
+    year: 2025
+    id: baltimore
+    fullname: North America 2025
+    sublabel: Baltimore, MD, USA
+    date: 2025-06-21
+    tour: northamerica2025
+    location: Pier Six Pavilion
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: IhlCz8gGvvE
+      image:
+      - postximage:
+          post: 1936658376798454181
+          image: GuBimuGXUAAKFkt
+    linked-to:
+    - postx: 1936658376798454181
+
+- postx:
     id: 1936658376798454181
     account: BABYMETAL_JAPAN
     published-date: 2025-06-22
@@ -543,38 +801,54 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #BALTIMORE
       📸 
       @Theguyfromthpic
+      
     image:
-    - id: GuBimuGXUAAKFkt
-      label: Venue
-      linked-to:
-      - show:
-          year: 2025
-          id: baltimore
+    - GuBimuGXUAAKFkt
+    linked-to:
+    - postximage:
+        post: 1936658376798454181
+        image: GuBimuGXUAAKFkt
+    - show:
+        year: 2025
+        id: baltimore
 
-- type: show
-  year: 2025
-  id: newyork
-  fullname: North America 2025
-  sublabel: New York, NY, USA
-  date: 2025-06-24
-  location: The Theater at Madison Square Garden
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short: 
-    - youtubeshort: n1ZPldlIlKs
-    image:
-    - postximage:
-        postid: 1937866458744201622
-        imageid: GuSu9ZcWoAAigk1
-    - postximage:
-        postid: 1937866458744201622
-        imageid: GuSvK8KWIAA305c
-  related:
-  - type: postx
+- postximage:
+    post: 1936658376798454181
+    id: GuBimuGXUAAKFkt
+    label: Venue
+    published-date: 2025-06-22
+    linked-to:
+    - show:
+        year: 2025
+        id: baltimore
+    - postx: 1936658376798454181
+
+- show:
+    year: 2025
+    id: newyork
+    fullname: North America 2025
+    sublabel: New York, NY, USA
+    date: 2025-06-24
+    tour: northamerica2025
+    location: The Theater at Madison Square Garden
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: n1ZPldlIlKs
+      image:
+      - postximage:
+          post: 1937866458744201622
+          image: GuSu9ZcWoAAigk1
+      - postximage:
+          post: 1937866458744201622
+          image: GuSvK8KWIAA305c
+    linked-to:
+    - postx: 1937866458744201622
+
+- postx:
     id: 1937866458744201622
     account: BABYMETAL_JAPAN
     published-date: 2025-06-25
@@ -585,46 +859,71 @@
       
       📸 
       @Theguyfromthpic
+      
     image:
-    - id: GuSu9ZcWoAAigk1
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: newyork
-      - song: papaya
-    - id: GuSvK8KWIAA305c
-      label: Crowd & Stage
-      linked-to:
-      - show:
-          year: 2025
-          id: newyork
-      - song: papaya
+    - GuSu9ZcWoAAigk1
+    - GuSvK8KWIAA305c
+    linked-to:
+    - postximage:
+        post: 1937866458744201622
+        image: GuSu9ZcWoAAigk1
+    - postximage:
+        post: 1937866458744201622
+        image: GuSvK8KWIAA305c
+    - show:
+        year: 2025
+        id: newyork
 
-- type: show
-  year: 2025
-  id: boston
-  fullname: North America 2025
-  sublabel: Boston, MA, USA
-  date: 2025-06-25
-  location: MGM Music Hall at Fenway
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: n1ZPldlIlKs
-    image:
-    - postximage:
-        postid: 1938105140915179620
-        imageid: GuWFesMW4AAZCKm
-    - postximage:
-        postid: 1938105140915179620
-        imageid: GuWFgTsXgAACcTr
-  related:
-  - type: postx
+- postximage:
+    post: 1937866458744201622
+    id: GuSu9ZcWoAAigk1
+    label: On stage
+    published-date: 2025-06-25
+    linked-to:
+    - show:
+        year: 2025
+        id: newyork
+    - song: papaya
+    - postx: 1937866458744201622
+
+- postximage:
+    post: 1937866458744201622
+    id: GuSvK8KWIAA305c
+    label: Crowd & Stage
+    published-date: 2025-06-25
+    linked-to:
+    - show:
+        year: 2025
+        id: newyork
+    - song: papaya
+    - postx: 1937866458744201622
+
+- show:
+    year: 2025
+    id: boston
+    fullname: North America 2025
+    sublabel: Boston, MA, USA
+    date: 2025-06-25
+    tour: northamerica2025
+    location: MGM Music Hall at Fenway
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: n1ZPldlIlKs
+      image:
+      - postximage:
+          post: 1938105140915179620
+          image: GuWFesMW4AAZCKm
+      - postximage:
+          post: 1938105140915179620
+          image: GuWFgTsXgAACcTr
+    linked-to:
+    - postx: 1938105140915179620
+
+- postx:
     id: 1938105140915179620
     account: BABYMETAL_JAPAN
     published-date: 2025-06-26
@@ -634,46 +933,71 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #BOSTON
       📸 
       @Theguyfromthpic
+      
     image:
-    - id: GuWFesMW4AAZCKm
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: boston
-      - song: roadofresistance
-    - id: GuWFgTsXgAACcTr
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: boston
-      - song: bxmxc
+    - GuWFesMW4AAZCKm
+    - GuWFgTsXgAACcTr
+    linked-to:
+    - postximage:
+        post: 1938105140915179620
+        image: GuWFesMW4AAZCKm
+    - postximage:
+        post: 1938105140915179620
+        image: GuWFgTsXgAACcTr
+    - show:
+        year: 2025
+        id: boston
 
-- type: show
-  year: 2025
-  id: uncasville
-  fullname: North America 2025
-  sublabel: Uncasville, CT, USA
-  date: 2025-06-27
-  location: Mohegan Sun Arena
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: 8ebR_x-wgaU
-    image:
-    - postximage:
-        postid: 1938827798744867171
-        imageid: GugZVxXWMAAQlcN
-    - postximage:
-        postid: 1938827798744867171
-        imageid: GugZYjCXUAAtwkm
-  related:
-  - type: postx
+- postximage:
+    post: 1938105140915179620
+    id: GuWFesMW4AAZCKm
+    label: On stage
+    published-date: 2025-06-26
+    linked-to:
+    - show:
+        year: 2025
+        id: boston
+    - song: roadofresistance
+    - postx: 1938105140915179620
+
+- postximage:
+    post: 1938105140915179620
+    id: GuWFgTsXgAACcTr
+    label: On stage
+    published-date: 2025-06-26
+    linked-to:
+    - show:
+        year: 2025
+        id: boston
+    - song: bxmxc
+    - postx: 1938105140915179620
+
+- show:
+    year: 2025
+    id: uncasville
+    fullname: North America 2025
+    sublabel: Uncasville, CT, USA
+    date: 2025-06-27
+    tour: northamerica2025
+    location: Mohegan Sun Arena
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: 8ebR_x-wgaU
+      image:
+      - postximage:
+          post: 1938827798744867171
+          image: GugZVxXWMAAQlcN
+      - postximage:
+          post: 1938827798744867171
+          image: GugZYjCXUAAtwkm
+    linked-to:
+    - postx: 1938827798744867171
+
+- postx:
     id: 1938827798744867171
     account: BABYMETAL_JAPAN
     published-date: 2025-06-28
@@ -683,43 +1007,68 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #UNCASVILLE 
       📸 
       @Theguyfromthpic
+      
     image:
-    - id: GugZVxXWMAAQlcN
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: uncasville
-      - song: papaya
-    - id: GugZYjCXUAAtwkm
-      label: Venue
-      linked-to:
-      - show:
-          year: 2025
-          id: uncasville
-      - song: song3
-
-- type: show
-  year: 2025
-  id: philadelphia
-  fullname: North America 2025
-  sublabel: Philadelphia, PA, USA
-  date: 2025-06-28
-  location: TD Pavilion at The Mann Center
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: 8ebR_x-wgaU
-    image:
+    - GugZVxXWMAAQlcN
+    - GugZYjCXUAAtwkm
+    linked-to:
     - postximage:
-        postid: 1939182070535753920
-        imageid: GulbRctXEAAOF4y
-  related:
-  - type: postx
+        post: 1938827798744867171
+        image: GugZVxXWMAAQlcN
+    - postximage:
+        post: 1938827798744867171
+        image: GugZYjCXUAAtwkm
+    - show:
+        year: 2025
+        id: uncasville
+
+- postximage:
+    post: 1938827798744867171
+    id: GugZVxXWMAAQlcN
+    label: On stage
+    published-date: 2025-06-28
+    linked-to:
+    - show:
+        year: 2025
+        id: uncasville
+    - song: papaya
+    - postx: 1938827798744867171
+
+- postximage:
+    post: 1938827798744867171
+    id: GugZYjCXUAAtwkm
+    label: Venue
+    published-date: 2025-06-28
+    linked-to:
+    - show:
+        year: 2025
+        id: uncasville
+    - song: song3
+    - postx: 1938827798744867171
+
+- show:
+    year: 2025
+    id: philadelphia
+    fullname: North America 2025
+    sublabel: Philadelphia, PA, USA
+    date: 2025-06-28
+    tour: northamerica2025
+    location: TD Pavilion at The Mann Center
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: 8ebR_x-wgaU
+      image:
+      - postximage:
+          post: 1939182070535753920
+          image: GulbRctXEAAOF4y
+    linked-to:
+    - postx: 1939182070535753920
+
+- postx:
     id: 1939182070535753920
     account: BABYMETAL_JAPAN
     published-date: 2025-06-29
@@ -729,39 +1078,55 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #Philadelphia
       📸 
       @Theguyfromthpic
+      
     image:
-    - id: GulbRctXEAAOF4y
-      label: On stage
-      info: weeeeeaaaaa
-      linked-to:
-      - show:
-          year: 2025
-          id: philadelphia
+    - GulbRctXEAAOF4y
+    linked-to:
+    - postximage:
+        post: 1939182070535753920
+        image: GulbRctXEAAOF4y
+    - show:
+        year: 2025
+        id: philadelphia
 
-- type: show
-  year: 2025
-  id: laval
-  fullname: North America 2025
-  sublabel: Laval, QC, Canada
-  date: 2025-06-30
-  location: Place Bell
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: g9lSvZ_FHUw
-    image:
-    - postximage:
-        postid: 1939909432864805220
-        imageid: GuvwbhnW8AAfDfW
-    - postximage:
-        postid: 1939909432864805220
-        imageid: Guvwcu8XUAAzAa8
-  related:
-  - type: postx
+- postximage:
+    post: 1939182070535753920
+    id: GulbRctXEAAOF4y
+    label: On stage
+    published-date: 2025-06-29
+    info: weeeeeaaaaa
+    linked-to:
+    - show:
+        year: 2025
+        id: philadelphia
+    - postx: 1939182070535753920
+
+- show:
+    year: 2025
+    id: laval
+    fullname: North America 2025
+    sublabel: Laval, QC, Canada
+    date: 2025-06-30
+    tour: northamerica2025
+    location: Place Bell
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: g9lSvZ_FHUw
+      image:
+      - postximage:
+          post: 1939909432864805220
+          image: GuvwbhnW8AAfDfW
+      - postximage:
+          post: 1939909432864805220
+          image: Guvwcu8XUAAzAa8
+    linked-to:
+    - postx: 1939909432864805220
+
+- postx:
     id: 1939909432864805220
     account: BABYMETAL_JAPAN
     published-date: 2025-07-01
@@ -772,45 +1137,70 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #LAVAL #Montreal
       📸 
       @Theguyfromthpic
+      
     image:
-    - id: GuvwbhnW8AAfDfW
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: laval
-    - id: Guvwcu8XUAAzAa8
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: laval
-      - song: babymetaldeath
+    - GuvwbhnW8AAfDfW
+    - Guvwcu8XUAAzAa8
+    linked-to:
+    - postximage:
+        post: 1939909432864805220
+        image: GuvwbhnW8AAfDfW
+    - postximage:
+        post: 1939909432864805220
+        image: Guvwcu8XUAAzAa8
+    - show:
+        year: 2025
+        id: laval
 
-- type: show
-  year: 2025
-  id: toronto
-  fullname: North America 2025
-  sublabel: Toronto, ON, Canada
-  date: 2025-07-02
-  location: Coca-Cola Coliseum
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: MdvxYE6JHB8
-    image:
-    - postximage:
-        postid: 1940644829270364498
-        imageid: Gu6NzIVWkAADCfP
-    - postximage:
-        postid: 1940644829270364498
-        imageid: Gu6N0OLXsAAlGuJ
-  related:
-  - type: postx
+- postximage:
+    post: 1939909432864805220
+    id: GuvwbhnW8AAfDfW
+    label: On stage
+    published-date: 2025-07-01
+    linked-to:
+    - show:
+        year: 2025
+        id: laval
+    - postx: 1939909432864805220
+
+- postximage:
+    post: 1939909432864805220
+    id: Guvwcu8XUAAzAa8
+    label: On stage
+    published-date: 2025-07-01
+    linked-to:
+    - show:
+        year: 2025
+        id: laval
+    - song: babymetaldeath
+    - postx: 1939909432864805220
+
+- show:
+    year: 2025
+    id: toronto
+    fullname: North America 2025
+    sublabel: Toronto, ON, Canada
+    date: 2025-07-02
+    tour: northamerica2025
+    location: Coca-Cola Coliseum
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: MdvxYE6JHB8
+      image:
+      - postximage:
+          post: 1940644829270364498
+          image: Gu6NzIVWkAADCfP
+      - postximage:
+          post: 1940644829270364498
+          image: Gu6N0OLXsAAlGuJ
+    linked-to:
+    - postx: 1940644829270364498
+
+- postx:
     id: 1940644829270364498
     account: BABYMETAL_JAPAN
     published-date: 2025-07-03
@@ -821,45 +1211,70 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026 #Toronto 
       📸 
       @Theguyfromthpic
+      
     image:
-    - id: Gu6NzIVWkAADCfP
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: laval
-      - song: papaya
-    - id: Gu6N0OLXsAAlGuJ
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: laval
+    - Gu6NzIVWkAADCfP
+    - Gu6N0OLXsAAlGuJ
+    linked-to:
+    - postximage:
+        post: 1940644829270364498
+        image: Gu6NzIVWkAADCfP
+    - postximage:
+        post: 1940644829270364498
+        image: Gu6N0OLXsAAlGuJ
+    - show:
+        year: 2025
+        id: toronto
 
-- type: show
-  year: 2025
-  id: sterlingheights
-  fullname: North America 2025
-  sublabel: Sterling Heights, MI, USA
-  date: 2025-07-03
-  location: Michigan Lottery Amphitheatre
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: MdvxYE6JHB8
-    image:
-    - postximage:
-        postid: 1941012401547366678
-        imageid: Gu_adzLWAAAkyVE
-    - postximage:
-        postid: 1941012401547366678
-        imageid: Gu_afEXX0AA4cmI
-  related:
-  - type: postx
+- postximage:
+    post: 1940644829270364498
+    id: Gu6NzIVWkAADCfP
+    label: On stage
+    published-date: 2025-07-03
+    linked-to:
+    - show:
+        year: 2025
+        id: laval
+    - song: papaya
+    - postx: 1940644829270364498
+
+- postximage:
+    post: 1940644829270364498
+    id: Gu6N0OLXsAAlGuJ
+    label: On stage
+    published-date: 2025-07-03
+    linked-to:
+    - show:
+        year: 2025
+        id: laval
+    - postx: 1940644829270364498
+
+- show:
+    year: 2025
+    id: sterlingheights
+    fullname: North America 2025
+    sublabel: Sterling Heights, MI, USA
+    date: 2025-07-03
+    tour: northamerica2025
+    location: Michigan Lottery Amphitheatre
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: MdvxYE6JHB8
+      image:
+      - postximage:
+          post: 1941012401547366678
+          image: Gu_adzLWAAAkyVE
+      - postximage:
+          post: 1941012401547366678
+          image: Gu_afEXX0AA4cmI
+    linked-to:
+    - postx: 1941012401547366678
+
+- postx:
     id: 1941012401547366678
     account: BABYMETAL_JAPAN
     published-date: 2025-07-04
@@ -870,54 +1285,80 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #SterlingHeights 
       📸 
       @Theguyfromthpic
+      
     image:
-    - id: Gu_adzLWAAAkyVE
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: sterlingheights
-      - song: papaya
-    - id: Gu_afEXX0AA4cmI
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: sterlingheights
-      - song: karate
+    - Gu_adzLWAAAkyVE
+    - Gu_afEXX0AA4cmI
+    linked-to:
+    - postximage:
+        post: 1941012401547366678
+        image: Gu_adzLWAAAkyVE
+    - postximage:
+        post: 1941012401547366678
+        image: Gu_afEXX0AA4cmI
+    - show:
+        year: 2025
+        id: sterlingheights
 
-- type: show
-  year: 2025
-  id: summerfestmilwaukee
-  fullname: Summerfest Milwaukee
-  date: 2025-07-05
-  location: "-"
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: Yhv8ekoNGzo
-    image:
-    - postximage:
-        postid: 1941752700879684093
-        imageid: GvJ6xPgWEAAPk0d
-    - postximage:
-        postid: 1941752700879684093
-        imageid: GvJ6z0tWIAEb4kb
-    - postximage:
-        postid: 1941752700879684093
-        imageid: GvJ62OBXgAA0Uyw
-    - postximage:
-        postid: 1941752700879684093
-        imageid: GvJ65QWXAAAo0Of
-    - postximage:
-        postid: 1941930972557021327
-        imageid: GvL_0eNXMAAc62Q
-  related:
-  - type: postx
+- postximage:
+    post: 1941012401547366678
+    id: Gu_adzLWAAAkyVE
+    label: On stage
+    published-date: 2025-07-04
+    linked-to:
+    - show:
+        year: 2025
+        id: sterlingheights
+    - song: papaya
+    - postx: 1941012401547366678
+
+- postximage:
+    post: 1941012401547366678
+    id: Gu_afEXX0AA4cmI
+    label: On stage
+    published-date: 2025-07-04
+    linked-to:
+    - show:
+        year: 2025
+        id: sterlingheights
+    - song: karate
+    - postx: 1941012401547366678
+
+- show:
+    year: 2025
+    id: summerfestmilwaukee
+    fullname: Summerfest Milwaukee
+    date: 2025-07-05
+    tour: northamerica2025
+    location: '-'
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: Yhv8ekoNGzo
+      image:
+      - postximage:
+          post: 1941752700879684093
+          image: GvJ6xPgWEAAPk0d
+      - postximage:
+          post: 1941752700879684093
+          image: GvJ6z0tWIAEb4kb
+      - postximage:
+          post: 1941752700879684093
+          image: GvJ62OBXgAA0Uyw
+      - postximage:
+          post: 1941752700879684093
+          image: GvJ65QWXAAAo0Of
+      - postximage:
+          post: 1941930972557021327
+          image: GvL_0eNXMAAc62Q
+    linked-to:
+    - postx: 1941752700879684093
+    - postx: 1941930972557021327
+
+- postx:
     id: 1941752700879684093
     account: BABYMETAL_JAPAN
     published-date: 2025-07-06
@@ -930,153 +1371,252 @@
       
       📸 
       @v_trvn
+      
     image:
-    - id: GvJ6xPgWEAAPk0d
-      label: On stage
-      info: weeeeeaaaaa
-      linked-to:
-      - show:
-          year: 2025
-          id: summerfestmilwaukee
-    - id: GvJ6z0tWIAEb4kb
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: summerfestmilwaukee
-    - id: GvJ62OBXgAA0Uyw
-      label: On stage
-      info: weeeeeaaaaa
-      linked-to:
-      - show:
-          year: 2025
-          id: summerfestmilwaukee
-    - id: GvJ65QWXAAAo0Of
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: summerfestmilwaukee
-  - type: postx
+    - GvJ6xPgWEAAPk0d
+    - GvJ6z0tWIAEb4kb
+    - GvJ62OBXgAA0Uyw
+    - GvJ65QWXAAAo0Of
+    linked-to:
+    - postximage:
+        post: 1941752700879684093
+        image: GvJ6xPgWEAAPk0d
+    - postximage:
+        post: 1941752700879684093
+        image: GvJ6z0tWIAEb4kb
+    - postximage:
+        post: 1941752700879684093
+        image: GvJ62OBXgAA0Uyw
+    - postximage:
+        post: 1941752700879684093
+        image: GvJ65QWXAAAo0Of
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
+
+- postximage:
+    post: 1941752700879684093
+    id: GvJ6xPgWEAAPk0d
+    label: On stage
+    published-date: 2025-07-06
+    info: weeeeeaaaaa
+    linked-to:
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
+    - postx: 1941752700879684093
+
+- postximage:
+    post: 1941752700879684093
+    id: GvJ6z0tWIAEb4kb
+    label: On stage
+    published-date: 2025-07-06
+    linked-to:
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
+    - postx: 1941752700879684093
+
+- postximage:
+    post: 1941752700879684093
+    id: GvJ62OBXgAA0Uyw
+    label: On stage
+    published-date: 2025-07-06
+    info: weeeeeaaaaa
+    linked-to:
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
+    - postx: 1941752700879684093
+
+- postximage:
+    post: 1941752700879684093
+    id: GvJ65QWXAAAo0Of
+    label: On stage
+    published-date: 2025-07-06
+    linked-to:
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
+    - postx: 1941752700879684093
+
+- postx:
     id: 1941930972557021327
     account: BABYMETAL_JAPAN
-    label: With The Warning
     published-date: 2025-07-06
+    label: With The Warning
     text: |
       Thank you 
       @TheWarningBand2
       🦊🦊🦊
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #Milwaukee #Summerfest
+      
     image:
-    - id: GvL_0eNXMAAc62Q
-      label: With The Warning
-      info: BABYMETAL, The Warning
-      linked-to:
-      - show:
-          year: 2025
-          id: summerfestmilwaukee
+    - GvL_0eNXMAAc62Q
+    linked-to:
+    - postximage:
+        post: 1941930972557021327
+        image: GvL_0eNXMAAc62Q
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
 
+- postximage:
+    post: 1941930972557021327
+    id: GvL_0eNXMAAc62Q
+    label: With The Warning
+    published-date: 2025-07-06
+    info: BABYMETAL, The Warning
+    linked-to:
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
+    - postx: 1941930972557021327
 
-- type: show
-  year: 2025
-  id: marylandheights
-  fullname: North America 2025
-  sublabel: Marylands Heights, MO, USA
-  date: 2025-07-06
-  location: Saint Louis Music Park
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: Yhv8ekoNGzo
-    image:
-    - postximage:
-        postid: 1942097146833936737
-        imageid: GvOzE45WAAA28-r
-    - postximage:
-        postid: 1942097146833936737
-        imageid: GvOzGlpW0AAmzPN
-    - postximage:
-        postid: 1942097146833936737
-        imageid: GvOzH6gXgAAkLEO
-    - postximage:
-        postid: 1942097146833936737
-        imageid: GvOzJxiWoAABj99
-  related:
-  - type: postx
+- show:
+    year: 2025
+    id: marylandheights
+    fullname: North America 2025
+    sublabel: Marylands Heights, MO, USA
+    date: 2025-07-06
+    tour: northamerica2025
+    location: Saint Louis Music Park
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: Yhv8ekoNGzo
+      image:
+      - postximage:
+          post: 1942097146833936737
+          image: GvOzE45WAAA28-r
+      - postximage:
+          post: 1942097146833936737
+          image: GvOzGlpW0AAmzPN
+      - postximage:
+          post: 1942097146833936737
+          image: GvOzH6gXgAAkLEO
+      - postximage:
+          post: 1942097146833936737
+          image: GvOzJxiWoAABj99
+    linked-to:
+    - postx: 1942097146833936737
+
+- postx:
     id: 1942097146833936737
     account: BABYMETAL_JAPAN
     published-date: 2025-07-07
     label: Thank you
-    info: 
     text: |
       Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Maryland Heights🇺🇸 
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #MarylandHeights
       📸 
       @v_trvn
+      
     image:
-    - id: GvOzE45WAAA28-r
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: marylandheights
-      - song: bxmxc
-    - id: GvOzGlpW0AAmzPN
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: marylandheights
-      - song: babymetaldeath
-    - id: GvOzH6gXgAAkLEO
-      label: On stage
-      info: weeeeeaaaaa
-      linked-to:
-      - show:
-          year: 2025
-          id: marylandheights
-    - id: GvOzJxiWoAABj99
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: marylandheights
-      - song: song3
+    - GvOzE45WAAA28-r
+    - GvOzGlpW0AAmzPN
+    - GvOzH6gXgAAkLEO
+    - GvOzJxiWoAABj99
+    linked-to:
+    - postximage:
+        post: 1942097146833936737
+        image: GvOzE45WAAA28-r
+    - postximage:
+        post: 1942097146833936737
+        image: GvOzGlpW0AAmzPN
+    - postximage:
+        post: 1942097146833936737
+        image: GvOzH6gXgAAkLEO
+    - postximage:
+        post: 1942097146833936737
+        image: GvOzJxiWoAABj99
+    - show:
+        year: 2025
+        id: marylandheights
 
-- type: show
-  year: 2025
-  id: chicago
-  fullname: North America 2025
-  sublabel: Chicago, IL, USA
-  date: 2025-07-08
-  location: Byline Bank Aragon Ballroom
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: quHJAvM6c8Y
-    image:
-    - postximage:
-        postid: 1942823657383850069
-        imageid: GvZGk22XQAAyFHH
-    - postximage:
-        postid: 1942823657383850069
-        imageid: GvZGn3SXwAAFI2w
-    - postximage:
-        postid: 1942823657383850069
-        imageid: GvZGpKQX0AAD6NN
-    - postximage:
-        postid: 1942823657383850069
-        imageid: GvZGqf7XcAAuq0Z
-  related:
-  - type: postx
+- postximage:
+    post: 1942097146833936737
+    id: GvOzE45WAAA28-r
+    label: On stage
+    published-date: 2025-07-07
+    linked-to:
+    - show:
+        year: 2025
+        id: marylandheights
+    - song: bxmxc
+    - postx: 1942097146833936737
+
+- postximage:
+    post: 1942097146833936737
+    id: GvOzGlpW0AAmzPN
+    label: On stage
+    published-date: 2025-07-07
+    linked-to:
+    - show:
+        year: 2025
+        id: marylandheights
+    - song: babymetaldeath
+    - postx: 1942097146833936737
+
+- postximage:
+    post: 1942097146833936737
+    id: GvOzH6gXgAAkLEO
+    label: On stage
+    published-date: 2025-07-07
+    info: weeeeeaaaaa
+    linked-to:
+    - show:
+        year: 2025
+        id: marylandheights
+    - postx: 1942097146833936737
+
+- postximage:
+    post: 1942097146833936737
+    id: GvOzJxiWoAABj99
+    label: On stage
+    published-date: 2025-07-07
+    linked-to:
+    - show:
+        year: 2025
+        id: marylandheights
+    - song: song3
+    - postx: 1942097146833936737
+
+- show:
+    year: 2025
+    id: chicago
+    fullname: North America 2025
+    sublabel: Chicago, IL, USA
+    date: 2025-07-08
+    tour: northamerica2025
+    location: Byline Bank Aragon Ballroom
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: quHJAvM6c8Y
+      image:
+      - postximage:
+          post: 1942823657383850069
+          image: GvZGk22XQAAyFHH
+      - postximage:
+          post: 1942823657383850069
+          image: GvZGn3SXwAAFI2w
+      - postximage:
+          post: 1942823657383850069
+          image: GvZGpKQX0AAD6NN
+      - postximage:
+          post: 1942823657383850069
+          image: GvZGqf7XcAAuq0Z
+    linked-to:
+    - postx: 1942823657383850069
+
+- postx:
     id: 1942823657383850069
     account: BABYMETAL_JAPAN
     published-date: 2025-07-09
@@ -1087,64 +1627,107 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #Chicago 
       📸 
       @v_trvn
+      
     image:
-    - id: GvZGk22XQAAyFHH
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: chicago
-    - id: GvZGn3SXwAAFI2w
-      label: On stage
-      info: weeeeeaaaaa
-      linked-to:
-      - show:
-          year: 2025
-          id: chicago
-    - id: GvZGpKQX0AAD6NN
-      label: Crowd
-      linked-to:
-      - show:
-          year: 2025
-          id: chicago
-    - id: GvZGqf7XcAAuq0Z
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: chicago
-      - song: karate
+    - GvZGk22XQAAyFHH
+    - GvZGn3SXwAAFI2w
+    - GvZGpKQX0AAD6NN
+    - GvZGqf7XcAAuq0Z
+    linked-to:
+    - postximage:
+        post: 1942823657383850069
+        image: GvZGk22XQAAyFHH
+    - postximage:
+        post: 1942823657383850069
+        image: GvZGn3SXwAAFI2w
+    - postximage:
+        post: 1942823657383850069
+        image: GvZGpKQX0AAD6NN
+    - postximage:
+        post: 1942823657383850069
+        image: GvZGqf7XcAAuq0Z
+    - show:
+        year: 2025
+        id: chicago
 
-- type: show
-  year: 2025
-  id: minneapolis
-  fullname: North America 2025
-  sublabel: Minneapolis, MN, USA
-  date: 2025-07-09
-  location: The Armory
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: quHJAvM6c8Y
-    image:
-    - postximage:
-        postid: 1943191162623291405
-        imageid: GveUnOlWIAAQvNo
-    - postximage:
-        postid: 1943191162623291405
-        imageid: GveUopCWwAAn2-V
-    - postximage:
-        postid: 1943191162623291405
-        imageid: GveUqy5WAAA40Cs
-    - postximage:
-        postid: 1943191162623291405
-        imageid: GveUsT8XYAAdlgc
-  related:
-  - type: postx
+- postximage:
+    post: 1942823657383850069
+    id: GvZGk22XQAAyFHH
+    label: On stage
+    published-date: 2025-07-09
+    linked-to:
+    - show:
+        year: 2025
+        id: chicago
+    - postx: 1942823657383850069
+
+- postximage:
+    post: 1942823657383850069
+    id: GvZGn3SXwAAFI2w
+    label: On stage
+    published-date: 2025-07-09
+    info: weeeeeaaaaa
+    linked-to:
+    - show:
+        year: 2025
+        id: chicago
+    - postx: 1942823657383850069
+
+- postximage:
+    post: 1942823657383850069
+    id: GvZGpKQX0AAD6NN
+    label: Crowd
+    published-date: 2025-07-09
+    linked-to:
+    - show:
+        year: 2025
+        id: chicago
+    - postx: 1942823657383850069
+
+- postximage:
+    post: 1942823657383850069
+    id: GvZGqf7XcAAuq0Z
+    label: On stage
+    published-date: 2025-07-09
+    linked-to:
+    - show:
+        year: 2025
+        id: chicago
+    - song: karate
+    - postx: 1942823657383850069
+
+- show:
+    year: 2025
+    id: minneapolis
+    fullname: North America 2025
+    sublabel: Minneapolis, MN, USA
+    date: 2025-07-09
+    tour: northamerica2025
+    location: The Armory
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: quHJAvM6c8Y
+      image:
+      - postximage:
+          post: 1943191162623291405
+          image: GveUnOlWIAAQvNo
+      - postximage:
+          post: 1943191162623291405
+          image: GveUopCWwAAn2-V
+      - postximage:
+          post: 1943191162623291405
+          image: GveUqy5WAAA40Cs
+      - postximage:
+          post: 1943191162623291405
+          image: GveUsT8XYAAdlgc
+    linked-to:
+    - postx: 1943191162623291405
+
+- postx:
     id: 1943191162623291405
     account: BABYMETAL_JAPAN
     published-date: 2025-07-10
@@ -1154,126 +1737,212 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #Minneapolis 
       📸 
       @v_trvn
+      
     image:
-    - id: GveUnOlWIAAQvNo
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: minneapolis
-      - song: roadofresistance
-    - id: GveUopCWwAAn2-V
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: minneapolis
-      - song: frommetou
-    - id: GveUqy5WAAA40Cs
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: minneapolis
-      - song: karate
-    - id: GveUsT8XYAAdlgc
-      label: On stage
-      info: weeeeeaaaaa
-      linked-to:
-      - show:
-          year: 2025
-          id: minneapolis
+    - GveUnOlWIAAQvNo
+    - GveUopCWwAAn2-V
+    - GveUqy5WAAA40Cs
+    - GveUsT8XYAAdlgc
+    linked-to:
+    - postximage:
+        post: 1943191162623291405
+        image: GveUnOlWIAAQvNo
+    - postximage:
+        post: 1943191162623291405
+        image: GveUopCWwAAn2-V
+    - postximage:
+        post: 1943191162623291405
+        image: GveUqy5WAAA40Cs
+    - postximage:
+        post: 1943191162623291405
+        image: GveUsT8XYAAdlgc
+    - show:
+        year: 2025
+        id: minneapolis
 
-- type: show
-  year: 2025
-  id: denver
-  fullname: North America 2025
-  sublabel: Denver, CO, USA
-  date: 2025-07-11
-  location: The JunkYard
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    image:
-    - postximage:
-        postid: 1943926792626040997
-        imageid: Gvo2OfkXEAAbnpj
-    - postximage:
-        postid: 1943926792626040997
-        imageid: Gvo2QvzXYAAHob5
-    - postximage:
-        postid: 1943926792626040997
-        imageid: Gvo2Y1fW4AA1Uji
-    - postximage:
-        postid: 1943926792626040997
-        imageid: Gvo2awxXwAAjQ0g
-  related:
-  - type: postx
+- postximage:
+    post: 1943191162623291405
+    id: GveUnOlWIAAQvNo
+    label: On stage
+    published-date: 2025-07-10
+    linked-to:
+    - show:
+        year: 2025
+        id: minneapolis
+    - song: roadofresistance
+    - postx: 1943191162623291405
+
+- postximage:
+    post: 1943191162623291405
+    id: GveUopCWwAAn2-V
+    label: On stage
+    published-date: 2025-07-10
+    linked-to:
+    - show:
+        year: 2025
+        id: minneapolis
+    - song: frommetou
+    - postx: 1943191162623291405
+
+- postximage:
+    post: 1943191162623291405
+    id: GveUqy5WAAA40Cs
+    label: On stage
+    published-date: 2025-07-10
+    linked-to:
+    - show:
+        year: 2025
+        id: minneapolis
+    - song: karate
+    - postx: 1943191162623291405
+
+- postximage:
+    post: 1943191162623291405
+    id: GveUsT8XYAAdlgc
+    label: On stage
+    published-date: 2025-07-10
+    info: weeeeeaaaaa
+    linked-to:
+    - show:
+        year: 2025
+        id: minneapolis
+    - postx: 1943191162623291405
+
+- show:
+    year: 2025
+    id: denver
+    fullname: North America 2025
+    sublabel: Denver, CO, USA
+    date: 2025-07-11
+    tour: northamerica2025
+    location: The JunkYard
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      image:
+      - postximage:
+          post: 1943926792626040997
+          image: Gvo2OfkXEAAbnpj
+      - postximage:
+          post: 1943926792626040997
+          image: Gvo2QvzXYAAHob5
+      - postximage:
+          post: 1943926792626040997
+          image: Gvo2Y1fW4AA1Uji
+      - postximage:
+          post: 1943926792626040997
+          image: Gvo2awxXwAAjQ0g
+    linked-to:
+    - postx: 1943926792626040997
+
+- postx:
     id: 1943926792626040997
     account: BABYMETAL_JAPAN
     published-date: 2025-07-10
     label: Thank you
     text: |
       Thank you, Denver. Stay safe.
+      
     image:
-    - id: Gvo2OfkXEAAbnpj
-      label: BABYMETAL
-      linked-to:
-      - show:
-          year: 2025
-          id: denver
-    - id: Gvo2QvzXYAAHob5
-      label: Fans
-      linked-to:
-      - show:
-          year: 2025
-          id: denver
-    - id: Gvo2Y1fW4AA1Uji
-      label: Fans
-      linked-to:
-      - show:
-          year: 2025
-          id: denver
-    - id: Gvo2awxXwAAjQ0g
-      label: Fans
-      linked-to:
-      - show:
-          year: 2025
-          id: denver
+    - Gvo2OfkXEAAbnpj
+    - Gvo2QvzXYAAHob5
+    - Gvo2Y1fW4AA1Uji
+    - Gvo2awxXwAAjQ0g
+    linked-to:
+    - postximage:
+        post: 1943926792626040997
+        image: Gvo2OfkXEAAbnpj
+    - postximage:
+        post: 1943926792626040997
+        image: Gvo2QvzXYAAHob5
+    - postximage:
+        post: 1943926792626040997
+        image: Gvo2Y1fW4AA1Uji
+    - postximage:
+        post: 1943926792626040997
+        image: Gvo2awxXwAAjQ0g
+    - show:
+        year: 2025
+        id: denver
 
-- type: show
-  year: 2025
-  id: vancouver
-  fullname: North America 2025
-  sublabel: Vancouver, ON, Canada
-  date: 2025-07-14
-  location: Doug Mitchell Thunderbird Sports Centre
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: 0YElROg2MLo
-    image:
-    - postximage:
-        postid: 1945010449134837823
-        imageid: Gv4PPFAa4AAEXpp
-    - postximage:
-        postid: 1945010449134837823
-        imageid: Gv4Pm04aUAAbjTq
-    - postximage:
-        postid: 1945010449134837823
-        imageid: Gv4PoW8WsAA9yUr
-    - postximage:
-        postid: 1945010449134837823
-        imageid: Gv4PqV6XAAAMqVb
-  related:
-  - type: postx
+- postximage:
+    post: 1943926792626040997
+    id: Gvo2OfkXEAAbnpj
+    label: BABYMETAL
+    published-date: 2025-07-10
+    linked-to:
+    - show:
+        year: 2025
+        id: denver
+    - postx: 1943926792626040997
+
+- postximage:
+    post: 1943926792626040997
+    id: Gvo2QvzXYAAHob5
+    label: Fans
+    published-date: 2025-07-10
+    linked-to:
+    - show:
+        year: 2025
+        id: denver
+    - postx: 1943926792626040997
+
+- postximage:
+    post: 1943926792626040997
+    id: Gvo2Y1fW4AA1Uji
+    label: Fans
+    published-date: 2025-07-10
+    linked-to:
+    - show:
+        year: 2025
+        id: denver
+    - postx: 1943926792626040997
+
+- postximage:
+    post: 1943926792626040997
+    id: Gvo2awxXwAAjQ0g
+    label: Fans
+    published-date: 2025-07-10
+    linked-to:
+    - show:
+        year: 2025
+        id: denver
+    - postx: 1943926792626040997
+
+- show:
+    year: 2025
+    id: vancouver
+    fullname: North America 2025
+    sublabel: Vancouver, ON, Canada
+    date: 2025-07-14
+    tour: northamerica2025
+    location: Doug Mitchell Thunderbird Sports Centre
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: 0YElROg2MLo
+      image:
+      - postximage:
+          post: 1945010449134837823
+          image: Gv4PPFAa4AAEXpp
+      - postximage:
+          post: 1945010449134837823
+          image: Gv4Pm04aUAAbjTq
+      - postximage:
+          post: 1945010449134837823
+          image: Gv4PoW8WsAA9yUr
+      - postximage:
+          post: 1945010449134837823
+          image: Gv4PqV6XAAAMqVb
+    linked-to:
+    - postx: 1945010449134837823
+
+- postx:
     id: 1945010449134837823
     account: BABYMETAL_JAPAN
     published-date: 2025-07-15
@@ -1284,66 +1953,109 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026 #Vancouver 
       📸 
       @v_trvn
+      
     image:
-    - id: Gv4PPFAa4AAEXpp
-      label: On stage
-      info: SU-METAL
-      linked-to:
-      - show:
-          year: 2025
-          id: vancouver
-      - song: roadofresistance
-    - id: Gv4Pm04aUAAbjTq
-      label: On stage
-      info: MOAMETAL
-      linked-to:
-      - show:
-          year: 2025
-          id: vancouver
-    - id: Gv4PoW8WsAA9yUr
-      label: On stage
-      info: MOMOMETAL
-      linked-to:
-      - show:
-          year: 2025
-          id: vancouver
-    - id: Gv4PqV6XAAAMqVb
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: vancouver
+    - Gv4PPFAa4AAEXpp
+    - Gv4Pm04aUAAbjTq
+    - Gv4PoW8WsAA9yUr
+    - Gv4PqV6XAAAMqVb
+    linked-to:
+    - postximage:
+        post: 1945010449134837823
+        image: Gv4PPFAa4AAEXpp
+    - postximage:
+        post: 1945010449134837823
+        image: Gv4Pm04aUAAbjTq
+    - postximage:
+        post: 1945010449134837823
+        image: Gv4PoW8WsAA9yUr
+    - postximage:
+        post: 1945010449134837823
+        image: Gv4PqV6XAAAMqVb
+    - show:
+        year: 2025
+        id: vancouver
 
-- type: show
-  year: 2025
-  id: kent
-  fullname: North America 2025
-  sublabel: Kent, WA, USA
-  date: 2025-07-15
-  location: Accesso ShoWare Center
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    short:
-    - youtubeshort: 0YElROg2MLo
-    image:
-    - postximage:
-        postid: 1945388976216674319
-        imageid: Gv9jK2xXQAADjj4
-    - postximage:
-        postid: 1945388976216674319
-        imageid: Gv9jMkXWUAAGmvC
-    - postximage:
-        postid: 1945388976216674319
-        imageid: Gv9jORjXgAAA-ly
-    - postximage:
-        postid: 1945388976216674319
-        imageid: Gv9jQSZWoAEsTba
-  related:
-  - type: postx
+- postximage:
+    post: 1945010449134837823
+    id: Gv4PPFAa4AAEXpp
+    label: On stage
+    published-date: 2025-07-15
+    info: SU-METAL
+    linked-to:
+    - show:
+        year: 2025
+        id: vancouver
+    - song: roadofresistance
+    - postx: 1945010449134837823
+
+- postximage:
+    post: 1945010449134837823
+    id: Gv4Pm04aUAAbjTq
+    label: On stage
+    published-date: 2025-07-15
+    info: MOAMETAL
+    linked-to:
+    - show:
+        year: 2025
+        id: vancouver
+    - postx: 1945010449134837823
+
+- postximage:
+    post: 1945010449134837823
+    id: Gv4PoW8WsAA9yUr
+    label: On stage
+    published-date: 2025-07-15
+    info: MOMOMETAL
+    linked-to:
+    - show:
+        year: 2025
+        id: vancouver
+    - postx: 1945010449134837823
+
+- postximage:
+    post: 1945010449134837823
+    id: Gv4PqV6XAAAMqVb
+    label: On stage
+    published-date: 2025-07-15
+    linked-to:
+    - show:
+        year: 2025
+        id: vancouver
+    - postx: 1945010449134837823
+
+- show:
+    year: 2025
+    id: kent
+    fullname: North America 2025
+    sublabel: Kent, WA, USA
+    date: 2025-07-15
+    tour: northamerica2025
+    location: Accesso ShoWare Center
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      short:
+      - youtubeshort: 0YElROg2MLo
+      image:
+      - postximage:
+          post: 1945388976216674319
+          image: Gv9jK2xXQAADjj4
+      - postximage:
+          post: 1945388976216674319
+          image: Gv9jMkXWUAAGmvC
+      - postximage:
+          post: 1945388976216674319
+          image: Gv9jORjXgAAA-ly
+      - postximage:
+          post: 1945388976216674319
+          image: Gv9jQSZWoAEsTba
+    linked-to:
+    - postx: 1945388976216674319
+
+- postx:
     id: 1945388976216674319
     account: BABYMETAL_JAPAN
     published-date: 2025-07-16
@@ -1354,64 +2066,107 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #Kent 
       📸 
       @v_trvn
+      
     image:
-    - id: Gv9jK2xXQAADjj4
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: kent
-      - song: papaya
-    - id: Gv9jMkXWUAAGmvC
-      label: On stage
-      info: SU-METAL
-      linked-to:
-      - show:
-          year: 2025
-          id: kent
-    - id: Gv9jORjXgAAA-ly
-      label: On stage
-      linked-to:
-      - show:
-          year: 2025
-          id: kent
-      - song: babymetaldeath
-    - id: Gv9jQSZWoAEsTba
-      label: On stage
-      info: weeeeeaaaaa, crowd
-      linked-to:
-      - show:
-          year: 2025
-          id: kent
+    - Gv9jK2xXQAADjj4
+    - Gv9jMkXWUAAGmvC
+    - Gv9jORjXgAAA-ly
+    - Gv9jQSZWoAEsTba
+    linked-to:
+    - postximage:
+        post: 1945388976216674319
+        image: Gv9jK2xXQAADjj4
+    - postximage:
+        post: 1945388976216674319
+        image: Gv9jMkXWUAAGmvC
+    - postximage:
+        post: 1945388976216674319
+        image: Gv9jORjXgAAA-ly
+    - postximage:
+        post: 1945388976216674319
+        image: Gv9jQSZWoAEsTba
+    - show:
+        year: 2025
+        id: kent
 
-- type: show
-  year: 2025
-  id: sanfrancisco1
-  fullname: North America 2025
-  sublabel: San Francisco, CA, USA
-  date: 2025-07-17
-  location: The Masonic
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
-  multimedia:
-    image:
-    - postximage:
-        postid: 1946122572518875436
-        imageid: GwICpoSaMAATMYb
-    - postximage:
-        postid: 1946122572518875436
-        imageid: GwICrRTXcAAwEBs
-    - postximage:
-        postid: 1946122572518875436
-        imageid: GwICsl3WUAA05-e
-    - postximage:
-        postid: 1946122572518875436
-        imageid: GwICt5haQAASnbq
-  related:
-  - type: postx
+- postximage:
+    post: 1945388976216674319
+    id: Gv9jK2xXQAADjj4
+    label: On stage
+    published-date: 2025-07-16
+    linked-to:
+    - show:
+        year: 2025
+        id: kent
+    - song: papaya
+    - postx: 1945388976216674319
+
+- postximage:
+    post: 1945388976216674319
+    id: Gv9jMkXWUAAGmvC
+    label: On stage
+    published-date: 2025-07-16
+    info: SU-METAL
+    linked-to:
+    - show:
+        year: 2025
+        id: kent
+    - postx: 1945388976216674319
+
+- postximage:
+    post: 1945388976216674319
+    id: Gv9jORjXgAAA-ly
+    label: On stage
+    published-date: 2025-07-16
+    linked-to:
+    - show:
+        year: 2025
+        id: kent
+    - song: babymetaldeath
+    - postx: 1945388976216674319
+
+- postximage:
+    post: 1945388976216674319
+    id: Gv9jQSZWoAEsTba
+    label: On stage
+    published-date: 2025-07-16
+    info: weeeeeaaaaa, crowd
+    linked-to:
+    - show:
+        year: 2025
+        id: kent
+    - postx: 1945388976216674319
+
+- show:
+    year: 2025
+    id: sanfrancisco1
+    fullname: North America 2025
+    sublabel: San Francisco, CA, USA
+    date: 2025-07-17
+    tour: northamerica2025
+    location: The Masonic
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+    multimedia:
+      image:
+      - postximage:
+          post: 1946122572518875436
+          image: GwICpoSaMAATMYb
+      - postximage:
+          post: 1946122572518875436
+          image: GwICrRTXcAAwEBs
+      - postximage:
+          post: 1946122572518875436
+          image: GwICsl3WUAA05-e
+      - postximage:
+          post: 1946122572518875436
+          image: GwICt5haQAASnbq
+    linked-to:
+    - postx: 1946122572518875436
+
+- postx:
     id: 1946122572518875436
     account: BABYMETAL_JAPAN
     published-date: 2025-07-18
@@ -1422,127 +2177,184 @@
       #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #SanFrancisco 
       📸 
       @v_trvn
+      
     image:
-    - id: GwICpoSaMAATMYb
-      label: On stage
-      info: MOAMETAL
-      linked-to:
-      - show:
-          year: 2025
-          id: sanfrancisco1
-      - song: bxmxc
-    - id: GwICrRTXcAAwEBs
-      label: On stage
-      info: SU-METAL
-      linked-to:
-      - show:
-          year: 2025
-          id: sanfrancisco1
-    - id: GwICsl3WUAA05-e
-      label: On stage
-      info: MOMOMETAL
-      linked-to:
-      - show:
-          year: 2025
-          id: sanfrancisco1
-    - id: GwICt5haQAASnbq
-      label: On stage
-      info: weeeeeaaaaa
-      linked-to:
-      - show:
-          year: 2025
-          id: sanfrancisco1
+    - GwICpoSaMAATMYb
+    - GwICrRTXcAAwEBs
+    - GwICsl3WUAA05-e
+    - GwICt5haQAASnbq
+    linked-to:
+    - postximage:
+        post: 1946122572518875436
+        image: GwICpoSaMAATMYb
+    - postximage:
+        post: 1946122572518875436
+        image: GwICrRTXcAAwEBs
+    - postximage:
+        post: 1946122572518875436
+        image: GwICsl3WUAA05-e
+    - postximage:
+        post: 1946122572518875436
+        image: GwICt5haQAASnbq
+    - show:
+        year: 2025
+        id: sanfrancisco1
 
-- type: show
-  year: 2025
-  id: sanfrancisco2
-  fullname: North America 2025
-  sublabel: San Francisco, CA, USA
-  date: 2025-07-18
-  location: The Masonic
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
+- postximage:
+    post: 1946122572518875436
+    id: GwICpoSaMAATMYb
+    label: On stage
+    published-date: 2025-07-18
+    info: MOAMETAL
+    linked-to:
+    - show:
+        year: 2025
+        id: sanfrancisco1
+    - song: bxmxc
+    - postx: 1946122572518875436
 
-- type: show
-  year: 2025
-  id: lasvegas
-  fullname: North America 2025
-  sublabel: Las Vegas, NV, USA
-  date: 2025-07-20
-  location: The Pearl
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
+- postximage:
+    post: 1946122572518875436
+    id: GwICrRTXcAAwEBs
+    label: On stage
+    published-date: 2025-07-18
+    info: SU-METAL
+    linked-to:
+    - show:
+        year: 2025
+        id: sanfrancisco1
+    - postx: 1946122572518875436
 
-- type: show
-  year: 2025
-  id: saltlakecity
-  fullname: North America 2025
-  sublabel: Salt Lake City, UT, USA
-  date: 2025-07-21
-  location: Utah First Credit Union Amphitheatre
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
+- postximage:
+    post: 1946122572518875436
+    id: GwICsl3WUAA05-e
+    label: On stage
+    published-date: 2025-07-18
+    info: MOMOMETAL
+    linked-to:
+    - show:
+        year: 2025
+        id: sanfrancisco1
+    - postx: 1946122572518875436
 
-- type: show
-  year: 2025
-  id: phoenix
-  fullname: North America 2025
-  sublabel: Phoenix, AZ, USA
-  date: 2025-07-23
-  location: Arizona Financial Theatre
-  cover-image:
-    localimage:
-      tour: northamerica2025
-      id: cover
-  tour: northamerica2025
+- postximage:
+    post: 1946122572518875436
+    id: GwICt5haQAASnbq
+    label: On stage
+    published-date: 2025-07-18
+    info: weeeeeaaaaa
+    linked-to:
+    - show:
+        year: 2025
+        id: sanfrancisco1
+    - postx: 1946122572518875436
 
-- type: show
-  year: 2025
-  id: losangeles
-  fullname: METAL FORTH Countdown
-  sublabel: Los Angeles, CA, USA
-  date: 2025-07-24
-  location: The Regent Theater
-  cover-image:
-    postximage:
-      postid: 1945891248981832107
-      imageid: GwEvs9JW8AIIQFg
-  tour: northamerica2025
-  related:
-  - type: postx
+- show:
+    year: 2025
+    id: sanfrancisco2
+    fullname: North America 2025
+    sublabel: San Francisco, CA, USA
+    date: 2025-07-18
+    tour: northamerica2025
+    location: The Masonic
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+
+- show:
+    year: 2025
+    id: lasvegas
+    fullname: North America 2025
+    sublabel: Las Vegas, NV, USA
+    date: 2025-07-20
+    tour: northamerica2025
+    location: The Pearl
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+
+- show:
+    year: 2025
+    id: saltlakecity
+    fullname: North America 2025
+    sublabel: Salt Lake City, UT, USA
+    date: 2025-07-21
+    tour: northamerica2025
+    location: Utah First Credit Union Amphitheatre
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+
+- show:
+    year: 2025
+    id: phoenix
+    fullname: North America 2025
+    sublabel: Phoenix, AZ, USA
+    date: 2025-07-23
+    tour: northamerica2025
+    location: Arizona Financial Theatre
+    cover-image:
+      localimage:
+        tour: northamerica2025
+        id: cover
+
+- show:
+    year: 2025
+    id: losangeles
+    fullname: METAL FORTH Countdown
+    sublabel: Los Angeles, CA, USA
+    date: 2025-07-24
+    tour: northamerica2025
+    location: The Regent Theater
+    cover-image:
+      postximage:
+        post: 1945891248981832107
+        image: GwEvs9JW8AIIQFg
+    linked-to:
+    - postx: 1945891248981832107
+
+- postx:
     id: 1945891248981832107
     account: BABYMETAL_JAPAN
-    label: Announcement
     published-date: 2025-07-17
+    label: Announcement
     text: |
       🔥🔥🔥🔥🔥🔥🔥🔥🔥
       　　　Secret Gig
       “METAL FORTH Countdown”
       🔥🔥🔥🔥🔥🔥🔥🔥🔥
-
+      
       BABYMETAL is coming to Los Angeles for a special show!
       📍 The Regent Theater
       🗓 JULY 24
       🎫 Limited tickets & VIP go on sale tomorrow at 1PM PDT
       👉 https://babymetal.com//tour
       This is a Will Call–only event. Tickets must be picked up in person at the box office on the day of the show with a valid ID that matches the name of the original purchaser. Tickets are non-transferable, and ineligible for resale. Any tickets suspected of being purchased for the sole purpose of resale may be cancelled at the discretion of the event organizer.
-
+      
       #BABYMETAL #LosAngeles #METALFORTH
+      
     image:
-    - id: GwEvs9JW8AIIQFg
-      label: Poster
-      localCopy: true
-      linked-to:
-      - show:
-          year: 2025
-          id: losangeles
+    - GwEvs9JW8AIIQFg
+    linked-to:
+    - postximage:
+        post: 1945891248981832107
+        image: GwEvs9JW8AIIQFg
+    - show:
+        year: 2025
+        id: losangeles
+
+- postximage:
+    post: 1945891248981832107
+    id: GwEvs9JW8AIIQFg
+    label: Poster
+    published-date: 2025-07-17
+    local-copy: true
+    linked-to:
+    - show:
+        year: 2025
+        id: losangeles
+    - postx: 1945891248981832107
 

@@ -4,16 +4,13 @@ import org.skyluc.babymetal_site.checks.CheckLocalAssetExists
 import org.skyluc.babymetal_site.checks.PopulateRelatedTo
 import org.skyluc.babymetal_site.data.Data
 import org.skyluc.babymetal_site.data2Page.DataToPage
-import org.skyluc.babymetal_site.element2data.ElementToData
 import org.skyluc.babymetal_site.html.CompiledDataGeneratorBuilder
-import org.skyluc.babymetal_site.yaml.NodeToElement
+import org.skyluc.fan_resources.Main.displayErrors
 import org.skyluc.fan_resources.checks.DataCheck
 import org.skyluc.fan_resources.checks.MoreDataCheck
 import org.skyluc.fan_resources.data as frData
 import org.skyluc.fan_resources.data.Path
-import org.skyluc.fan_resources.element2data.DataTransformer
 import org.skyluc.fan_resources.html.SiteOutput
-import org.skyluc.fan_resources.yaml.YamlReader
 
 object Main {
 
@@ -30,24 +27,9 @@ object Main {
     val staticFrFolder = rootPath.resolve("fan-resources", STATIC_PATH)
     val outputFolder = rootPath.resolve(TARGET_PATH, SITE_PATH)
 
-    val (parserErrors, elements) = YamlReader.load(dataFolder.asFilePath(), new NodeToElement())
+    val (parserErrors, datums) = BabymetalSite.Parser001.parseFolder(dataFolder.asFilePath())
 
-    println("--------------")
-
-    println("PARSER ERRORS: ")
-    parserErrors.foreach { e =>
-      println("  " + e)
-    }
-    println("--------------")
-
-    val (toDataErrors, datums) =
-      DataTransformer.toData(elements, ElementToData)
-
-    println("TODATA ERRORS: ")
-    toDataErrors.foreach { e =>
-      println("  " + e)
-    }
-    println("--------------")
+    displayErrors("PARSER ERRORS", parserErrors)
 
     val (checkErrors, checkedDatums) =
       DataCheck.check(datums, PopulateRelatedTo, CheckLocalAssetExists(rootPath.resolve(BASE_IMAGE_ASSET_PATH)), false)
@@ -56,11 +38,7 @@ object Main {
 
     val moreCheckerrors = MoreDataCheck.check(data)
 
-    println("CHECKS ERRORS: ")
-    (checkErrors ++ moreCheckerrors).foreach { e =>
-      println("  " + e)
-    }
-    println("--------------")
+    displayErrors("CHECKS ERRORS", checkErrors ++ moreCheckerrors)
 
     val generator = CompiledDataGeneratorBuilder.generator(data)
 

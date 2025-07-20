@@ -1,11 +1,8 @@
-type: song
-id: bxmxc
-
-fullname: BxMxC
-
-release-date: 2019-10-08
-
-cover-image:
-  localimage:
-    group: siteimages
-    id: kitsume_cover
+song:
+  id: bxmxc
+  fullname: BxMxC
+  release-date: 2019-10-08
+  cover-image:
+    localimage:
+      group: siteimages
+      id: kitsume_cover

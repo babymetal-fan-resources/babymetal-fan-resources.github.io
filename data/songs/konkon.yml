@@ -1,51 +1,56 @@
-- type: song
-  id: konkon
+- song:
+    id: konkon
+    fullname: Kon! Kon! (feat. Bloodywood)
+    shortname: Kon! Kon!
+    release-date: 2025-07-11
+    cover-image:
+      localimage:
+        song: konkon
+        id: cover
+    multimedia:
+      video:
+      - youtubevideo: UxRldWoKlnQ
 
-  fullname: Kon! Kon! (feat. Bloodywood)
-  shortname: Kon! Kon!
+- localimage:
+    song: konkon
+    id: cover
+    label: Cover
+    filename: cover.png
+    published-date: 2025-07-11
+    source:
+      description: BABYMETAL website site
+      url: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1418&id=293012&lang=en'
 
-  release-date: 2025-07-11
+- youtubevideo:
+    id: UxRldWoKlnQ
+    label: Official Music Video
+    published-date: 2025-07-11
 
-  cover-image:
-    localimage:
-      song: konkon
-      id: cover
-
-  multimedia:
-    video:
-    - youtubevideo: UxRldWoKlnQ
-
-- type: localimage
-  song: konkon
-  id: cover
-  label: Cover
-  filename: cover.png
-  published-date: 2025-07-11
-  source:
-    description: BABYMETAL website site
-    url: https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1418&id=293012&lang=en
-
-- type: youtubevideo
-  id: UxRldWoKlnQ
-  label: Official Music Video
-  published-date: 2025-07-11
-
-- type: postx
-  id: 1943324343754191179
-  account: BABYMETAL_JAPAN
-  label: MV Teaser
-  published-date: 2025-07-10
-  text: |
-    「Kon! Kon!(feat. Bloodywood)」配信開始DEATH🦊
-    https://Babymetal.lnk.to/KonKon
-
-    #MVTeaser #20250711_9pmPT #20250712_1pmJST #Konkon #METALFORTH
-  video:
-  - id: 01
-    cover: 1943308838805082114/img/GCG_tg5LUKpwZqH1.jpg
+- postx:
+    id: 1943324343754191179
+    account: BABYMETAL_JAPAN
+    published-date: 2025-07-10
     label: MV Teaser
+    text: |
+      「Kon! Kon!(feat. Bloodywood)」配信開始DEATH🦊
+      https://Babymetal.lnk.to/KonKon
+      
+      #MVTeaser #20250711_9pmPT #20250712_1pmJST #Konkon #METALFORTH
+      
+    video:
+    - 01
+    linked-to:
+    - postxvideo:
+        post: 1943324343754191179
+        video: 01
+
+- postxvideo:
+    post: 1943324343754191179
+    id: 01
+    label: MV Teaser
+    cover: 1943308838805082114/img/GCG_tg5LUKpwZqH1.jpg
+    published-date: 2025-07-10
     linked-to:
     - song: konkon
-
-
+    - postx: 1943324343754191179
 

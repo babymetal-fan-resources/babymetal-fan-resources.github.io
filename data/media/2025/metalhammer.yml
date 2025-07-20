@@ -1,30 +1,48 @@
-type: mediawritten
-year: 2025
-id: metalhammer
-designation: magazine
-publication: METAL HAMMER
-issue: Vol. 18
-published-date: 2025-06-13
-webpage: https://www.rittor-music.co.jp/magazine/detail/3124238002/index.php
-member:
-- SU-METAL
-- MOAMETAL
-- MOMOMETAL
-cover-image:
-  postximage:
-    postid: 1914970177814634783
-    imageid: GpNXH9MbkAA2Ot3
-related:
-- type: postx
-  id: 1914970177814634783
-  account: BABYMETAL_JAPAN
-  label: Announcement
-  published-date: 2025-04-23
-  text: |
-    世界を席巻する新生BABYMETAL
-    〜ライヴフォトコレクション＆最新インタビュー
-    https://amzn.to/44mZxzZ
-  image:
-  - id: GpNXH9MbkAA2Ot3
+- mediawritten:
+    year: 2025
+    id: metalhammer
+    publication: METAL HAMMER
+    issue: Vol. 18
+    designation: magazine
+    member:
+    - SU-METAL
+    - MOAMETAL
+    - MOMOMETAL
+    webpage: 'https://www.rittor-music.co.jp/magazine/detail/3124238002/index.php'
+    published-date: 2025-06-13
+    cover-image:
+      postximage:
+        post: 1914970177814634783
+        image: GpNXH9MbkAA2Ot3
+    linked-to:
+    - postx: 1914970177814634783
+
+- postx:
+    id: 1914970177814634783
+    account: BABYMETAL_JAPAN
+    published-date: 2025-04-23
+    label: Announcement
+    text: |
+      世界を席巻する新生BABYMETAL
+      〜ライヴフォトコレクション＆最新インタビュー
+      https://amzn.to/44mZxzZ
+      
+    image:
+    - GpNXH9MbkAA2Ot3
+    linked-to:
+    - postximage:
+        post: 1914970177814634783
+        image: GpNXH9MbkAA2Ot3
+    - media:
+        year: 2025
+        id: metalhammer
+
+- postximage:
+    post: 1914970177814634783
+    id: GpNXH9MbkAA2Ot3
     label: cover
-    localCopy: true
+    published-date: 2025-04-23
+    local-copy: true
+    linked-to:
+    - postx: 1914970177814634783
+

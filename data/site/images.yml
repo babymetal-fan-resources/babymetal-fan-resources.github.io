@@ -1,12 +1,19 @@
-type: group
-id: siteimages
-label: site images
-related:
-- type: localimage
-  group: siteimages
-  id: kitsume_cover
-  filename: kitsume512.png
-  label: Kitsume Logo for cover
-  published-date: 2025-04-01
-  source:
-    description: Created for the site
+- group:
+    id: siteimages
+    label: site images
+    linked-to:
+    - localimage:
+        group: siteimages
+        id: kitsume_cover
+
+- localimage:
+    group: siteimages
+    id: kitsume_cover
+    label: Kitsume Logo for cover
+    filename: kitsume512.png
+    published-date: 2025-04-01
+    source:
+      description: Created for the site
+    linked-to:
+    - group: siteimages
+

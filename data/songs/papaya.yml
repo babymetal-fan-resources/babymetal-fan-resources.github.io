@@ -1,11 +1,8 @@
-type: song
-id: papaya
-
-fullname: PA PA YA!!
-
-release-date: 2019-06-28
-
-cover-image:
-  localimage:
-    group: siteimages
-    id: kitsume_cover
+song:
+  id: papaya
+  fullname: PA PA YA!!
+  release-date: 2019-06-28
+  cover-image:
+    localimage:
+      group: siteimages
+      id: kitsume_cover

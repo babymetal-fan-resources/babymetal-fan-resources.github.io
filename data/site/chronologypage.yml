@@ -1,398 +1,1306 @@
-type: page
-id: chronology
-start-date: 2010-01-01
-end-date: 2026-01-31
-markers:
-- event: foxday2025
-- song: frommetou
-  related-multimedia:
-    youtubevideo: qayP_YUrf9I
-- youtubevideo: qayP_YUrf9I
-  parent-key: song
-  cover-image: 
-    localimage:
+- chronologypage:
+    id: chronology
+    start-date: 2010-01-01
+    end-date: 2026-01-31
+    markers:
+    - event: foxday2025
+    - song: frommetou
+    - youtubevideo: qayP_YUrf9I
+    - media:
+        year: 2025
+        id: metaradi0405
+    - media:
+        year: 2025
+        id: metaradi0412
+    - media:
+        year: 2025
+        id: metaradi0419
+    - media:
+        year: 2025
+        id: metaradi0426
+    - media:
+        year: 2025
+        id: metaradi0503
+    - show:
+        year: 2025
+        id: brussels
+    - tour: ukeuropearenatour2025
+    - media:
+        year: 2025
+        id: metaradi0510
+    - show:
+        year: 2025
+        id: hamburg
+    - show:
+        year: 2025
+        id: amsterdam
+    - show:
+        year: 2025
+        id: frankfurt
+    - media:
+        year: 2025
+        id: metaradi0517
+    - show:
+        year: 2025
+        id: berlin
+    - show:
+        year: 2025
+        id: krakow
+    - show:
+        year: 2025
+        id: nuremberg
+    - media:
+        year: 2025
+        id: pmc
+    - show:
+        year: 2025
+        id: zurich
+    - media:
+        year: 2025
+        id: metaradi0524
+    - show:
+        year: 2025
+        id: madrid
+    - show:
+        year: 2025
+        id: barcelona
+    - song: song3
+    - show:
+        year: 2025
+        id: paris
+    - show:
+        year: 2025
+        id: london
+    - media:
+        year: 2025
+        id: metaradi0531
+    - media:
+        year: 2025
+        id: metaradi0607
+    - show:
+        year: 2025
+        id: houston
+    - tour: northamerica2025
+    - media:
+        year: 2025
+        id: metalhammer
+    - media:
+        year: 2025
+        id: metaradi0614
+    - show:
+        year: 2025
+        id: irving
+    - show:
+        year: 2025
+        id: tampa
+    - show:
+        year: 2025
+        id: atlanta
+    - show:
+        year: 2025
+        id: charlotte
+    - show:
+        year: 2025
+        id: baltimore
+    - media:
+        year: 2025
+        id: metaradi0621
+    - show:
+        year: 2025
+        id: newyork
+    - show:
+        year: 2025
+        id: boston
+    - media:
+        year: 2025
+        id: rollingstonejp
+    - show:
+        year: 2025
+        id: uncasville
+    - show:
+        year: 2025
+        id: philadelphia
+    - media:
+        year: 2025
+        id: metaradi0628
+    - show:
+        year: 2025
+        id: laval
+    - show:
+        year: 2025
+        id: toronto
+    - show:
+        year: 2025
+        id: sterlingheights
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
+    - media:
+        year: 2025
+        id: metaradi0705
+    - show:
+        year: 2025
+        id: marylandheights
+    - show:
+        year: 2025
+        id: chicago
+    - show:
+        year: 2025
+        id: minneapolis
+    - show:
+        year: 2025
+        id: denver
+    - song: konkon
+    - media:
+        year: 2025
+        id: metaradi0712
+    - show:
+        year: 2025
+        id: vancouver
+    - show:
+        year: 2025
+        id: kent
+    - media:
+        year: 2025
+        id: revolver
+    - show:
+        year: 2025
+        id: sanfrancisco1
+    - show:
+        year: 2025
+        id: sanfrancisco2
+    - show:
+        year: 2025
+        id: lasvegas
+    - show:
+        year: 2025
+        id: saltlakecity
+    - show:
+        year: 2025
+        id: phoenix
+    - show:
+        year: 2025
+        id: losangeles
+    - media:
+        year: 2025
+        id: kerrang
+    - album: metalforth
+    - show:
+        year: 2025
+        id: yokohama1
+    - tour: japansummertour2025
+    - show:
+        year: 2025
+        id: yokohama2
+    - show:
+        year: 2025
+        id: summersonictokyo
+    - show:
+        year: 2025
+        id: summersonicosaka
+    - show:
+        year: 2025
+        id: nagoya
+    - show:
+        year: 2025
+        id: osaka
+    - show:
+        year: 2025
+        id: summersonicbangkok
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+    - show:
+        year: 2025
+        id: busanrockfestival
+    - tour: asiatour2025
+    - show:
+        year: 2025
+        id: hongkong
+    - show:
+        year: 2025
+        id: taipei
+    - show:
+        year: 2025
+        id: f1singaporegrandprix
+    - show:
+        year: 2025
+        id: kualalumpur
+    - show:
+        year: 2025
+        id: manila
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    - show:
+        year: 2025
+        id: specialarenashowmexico
+    - show:
+        year: 2026
+        id: specialarenashowjapan
+    linked-to:
+    - marker:
+        event: foxday2025
+    - marker:
+        song: frommetou
+    - marker:
+        youtubevideo: qayP_YUrf9I
+    - marker:
+        media:
+          year: 2025
+          id: metaradi0405
+    - marker:
+        media:
+          year: 2025
+          id: metaradi0412
+    - marker:
+        media:
+          year: 2025
+          id: metaradi0419
+    - marker:
+        media:
+          year: 2025
+          id: metaradi0426
+    - marker:
+        media:
+          year: 2025
+          id: metaradi0503
+    - marker:
+        show:
+          year: 2025
+          id: brussels
+    - marker:
+        tour: ukeuropearenatour2025
+    - marker:
+        media:
+          year: 2025
+          id: metaradi0510
+    - marker:
+        show:
+          year: 2025
+          id: hamburg
+    - marker:
+        show:
+          year: 2025
+          id: amsterdam
+    - marker:
+        show:
+          year: 2025
+          id: frankfurt
+    - marker:
+        media:
+          year: 2025
+          id: metaradi0517
+    - marker:
+        show:
+          year: 2025
+          id: berlin
+    - marker:
+        show:
+          year: 2025
+          id: krakow
+    - marker:
+        show:
+          year: 2025
+          id: nuremberg
+    - marker:
+        media:
+          year: 2025
+          id: pmc
+    - marker:
+        show:
+          year: 2025
+          id: zurich
+    - marker:
+        media:
+          year: 2025
+          id: metaradi0524
+    - marker:
+        show:
+          year: 2025
+          id: madrid
+    - marker:
+        show:
+          year: 2025
+          id: barcelona
+    - marker:
+        song: song3
+    - marker:
+        show:
+          year: 2025
+          id: paris
+    - marker:
+        show:
+          year: 2025
+          id: london
+    - marker:
+        media:
+          year: 2025
+          id: metaradi0531
+    - marker:
+        media:
+          year: 2025
+          id: metaradi0607
+    - marker:
+        show:
+          year: 2025
+          id: houston
+    - marker:
+        tour: northamerica2025
+    - marker:
+        media:
+          year: 2025
+          id: metalhammer
+    - marker:
+        media:
+          year: 2025
+          id: metaradi0614
+    - marker:
+        show:
+          year: 2025
+          id: irving
+    - marker:
+        show:
+          year: 2025
+          id: tampa
+    - marker:
+        show:
+          year: 2025
+          id: atlanta
+    - marker:
+        show:
+          year: 2025
+          id: charlotte
+    - marker:
+        show:
+          year: 2025
+          id: baltimore
+    - marker:
+        media:
+          year: 2025
+          id: metaradi0621
+    - marker:
+        show:
+          year: 2025
+          id: newyork
+    - marker:
+        show:
+          year: 2025
+          id: boston
+    - marker:
+        media:
+          year: 2025
+          id: rollingstonejp
+    - marker:
+        show:
+          year: 2025
+          id: uncasville
+    - marker:
+        show:
+          year: 2025
+          id: philadelphia
+    - marker:
+        media:
+          year: 2025
+          id: metaradi0628
+    - marker:
+        show:
+          year: 2025
+          id: laval
+    - marker:
+        show:
+          year: 2025
+          id: toronto
+    - marker:
+        show:
+          year: 2025
+          id: sterlingheights
+    - marker:
+        show:
+          year: 2025
+          id: summerfestmilwaukee
+    - marker:
+        media:
+          year: 2025
+          id: metaradi0705
+    - marker:
+        show:
+          year: 2025
+          id: marylandheights
+    - marker:
+        show:
+          year: 2025
+          id: chicago
+    - marker:
+        show:
+          year: 2025
+          id: minneapolis
+    - marker:
+        show:
+          year: 2025
+          id: denver
+    - marker:
+        song: konkon
+    - marker:
+        media:
+          year: 2025
+          id: metaradi0712
+    - marker:
+        show:
+          year: 2025
+          id: vancouver
+    - marker:
+        show:
+          year: 2025
+          id: kent
+    - marker:
+        media:
+          year: 2025
+          id: revolver
+    - marker:
+        show:
+          year: 2025
+          id: sanfrancisco1
+    - marker:
+        show:
+          year: 2025
+          id: sanfrancisco2
+    - marker:
+        show:
+          year: 2025
+          id: lasvegas
+    - marker:
+        show:
+          year: 2025
+          id: saltlakecity
+    - marker:
+        show:
+          year: 2025
+          id: phoenix
+    - marker:
+        show:
+          year: 2025
+          id: losangeles
+    - marker:
+        media:
+          year: 2025
+          id: kerrang
+    - marker:
+        album: metalforth
+    - marker:
+        show:
+          year: 2025
+          id: yokohama1
+    - marker:
+        tour: japansummertour2025
+    - marker:
+        show:
+          year: 2025
+          id: yokohama2
+    - marker:
+        show:
+          year: 2025
+          id: summersonictokyo
+    - marker:
+        show:
+          year: 2025
+          id: summersonicosaka
+    - marker:
+        show:
+          year: 2025
+          id: nagoya
+    - marker:
+        show:
+          year: 2025
+          id: osaka
+    - marker:
+        show:
+          year: 2025
+          id: summersonicbangkok
+    - marker:
+        show:
+          year: 2025
+          id: seikimaiivsbabymetalencounter
+    - marker:
+        show:
+          year: 2025
+          id: seikimaiivsbabymetalimpact
+    - marker:
+        show:
+          year: 2025
+          id: busanrockfestival
+    - marker:
+        tour: asiatour2025
+    - marker:
+        show:
+          year: 2025
+          id: hongkong
+    - marker:
+        show:
+          year: 2025
+          id: taipei
+    - marker:
+        show:
+          year: 2025
+          id: f1singaporegrandprix
+    - marker:
+        show:
+          year: 2025
+          id: kualalumpur
+    - marker:
+        show:
+          year: 2025
+          id: manila
+    - marker:
+        show:
+          year: 2025
+          id: specialarenashowusa
+    - marker:
+        show:
+          year: 2025
+          id: specialarenashowmexico
+    - marker:
+        show:
+          year: 2026
+          id: specialarenashowjapan
+
+- marker:
+    event: foxday2025
+    linked-to:
+    - page: chronology
+
+- marker:
+    song: frommetou
+    related-multimedia:
       youtubevideo: qayP_YUrf9I
-      id: mvcover
-- media:
-    year: 2025
-    id: metaradi0405
-- media:
-    year: 2025
-    id: metaradi0412
-- media:
-    year: 2025
-    id: metaradi0419
-- media:
-    year: 2025
-    id: metaradi0426
-- media:
-    year: 2025
-    id: metaradi0503
-- show:
-    year: 2025
-    id: brussels
-  related-multimedia:
-    postximage:
-      postid: 1921378662311436476
-      imageid: GqobJj1XAAAoK2h
-- tour: ukeuropearenatour2025
-- media:
-    year: 2025
-    id: metaradi0510
-- show:
-    year: 2025
-    id: hamburg
-  related-multimedia:
-    postximage:
-      postid: 1922220340970668112
-      imageid: Gq0W87iXwAA3oxm
-- show:
-    year: 2025
-    id: amsterdam
-  related-multimedia:
-    postximage:
-      postid: 1922456138966085924
-      imageid: Gq3ucSIasAA-t3f
-- show:
-    year: 2025
-    id: frankfurt
-  related-multimedia:
-    postximage:
-      postid: 1923533279652872569
-      imageid: GrHB1SwWgAA-d8G
-- media:
-    year: 2025
-    id: metaradi0517
-- show:
-    year: 2025
-    id: berlin
-  related-multimedia:
-    postximage:
-      postid: 1924035966840533209
-      imageid: GrOMgFHXsAAXD-b
-- show:
-    year: 2025
-    id: krakow
-  related-multimedia:
-    postximage:
-      postid: 1924789470085140940
-      imageid: GrY0XDsXwAA3nGo
-- show:
-    year: 2025
-    id: nuremberg
-  related-multimedia:
-    postximage:
-      postid: 1924984455510557164
-      imageid: GrbpXs1bAAAydOs
-- media:
-    year: 2025
-    id: pmc
-  related-multimedia:
-    postximage:
-      postid: 1925023744986058905
-      imageid: GrYhyIzbwAAP05r
-- show:
-    year: 2025
-    id: zurich
-  related-multimedia:
-    postximage:
-      postid: 1925707721447203038
-      imageid: Grl7uB-XEAA6h9j
-- media:
-    year: 2025
-    id: metaradi0524
-- show:
-    year: 2025
-    id: madrid
-  related-multimedia:
-    postximage:
-      postid: 1926791606578872394
-      imageid: Gr1UakcWgAAjDZV
-- show:
-    year: 2025
-    id: barcelona
-  related-multimedia:
-    postximage:
-      postid: 1927166535744753912
-      imageid: Gr6qVqvXQAA1uZx
-- song: song3
-  related-multimedia:
-    youtubevideo: KEMVgy51kPE
-- show:
-    year: 2025
-    id: paris
-  related-multimedia:
-    postximage:
-      postid: 1927881848094437402
-      imageid: GsE0ZHDWwAAhLtb
-- show:
-    year: 2025
-    id: london
-  related-multimedia:
-    postximage:
-      postid: 1928663024081997836
-      imageid: GsP2prsXAAEh5WO
-- media:
-    year: 2025
-    id: metaradi0531
-- media:
-    year: 2025
-    id: metaradi0607
-- show:
-    year: 2025
-    id: houston
-  related-multimedia:
-    postximage:
-      postid: 1933786508722589865
-      imageid: GtYv6GMbwAA7vDf
-- tour: northamerica2025
-  related-multimedia:
-    youtubevideo: sxnNfKoYEsA
-- media: 
-    year: 2025
-    id: metalhammer
-  related-multimedia:
-    postximage:
-      postid: 1933786508722589865
-      imageid: GtYv6GJbMAQs6hO
-- media:
-    year: 2025
-    id: metaradi0614
-- show:
-    year: 2025
-    id: irving
-  related-multimedia:
-    postximage:
-      postid: 1934132880441233442
-      imageid: Gtdrma3WoAA55Sq
-- show:
-    year: 2025
-    id: tampa
-  related-multimedia:
-    postximage:
-      postid: 1935308136358748218
-      imageid: GtuV4X3WMAAcMjj
-- show:
-    year: 2025
-    id: atlanta
-  related-multimedia:
-    postximage:
-      postid: 1935585150110425156
-      imageid: GtyURlAWQAAsetc
-- show:
-    year: 2025
-    id: charlotte
-  related-multimedia:
-    postximage:
-      postid: 1936307475697045926
-      imageid: Gt8kbtdWgAEaVYh
-- show:
-    year: 2025
-    id: baltimore
-  related-multimedia:
-    postximage:
-      postid: 1936658376798454181
-      imageid: GuBimuGXUAAKFkt
-- media:
-    year: 2025
-    id: metaradi0621
-- show:
-    year: 2025
-    id: newyork
-  related-multimedia:
-    postximage:
-      postid: 1937866458744201622
-      imageid: GuSu9ZcWoAAigk1
-- show:
-    year: 2025
-    id: boston
-  related-multimedia:
-    postximage:
-      postid: 1938105140915179620
-      imageid: GuWFgTsXgAACcTr
-- media:
-    year: 2025
-    id: rollingstonejp
-- show:
-    year: 2025
-    id: uncasville
-  related-multimedia:
-    postximage:
-      postid: 1938827798744867171
-      imageid: GugZYjCXUAAtwkm
-- show:
-    year: 2025
-    id: philadelphia
-  related-multimedia:
-    postximage:
-      postid: 1939182070535753920
-      imageid: GulbRctXEAAOF4y
-- media:
-    year: 2025
-    id: metaradi0628
-- show:
-    year: 2025
-    id: laval
-  related-multimedia:
-    postximage:
-      postid: 1939909432864805220
-      imageid: Guvwcu8XUAAzAa8
-- show:
-    year: 2025
-    id: toronto
-  related-multimedia:
-    postximage:
-      postid: 1940644829270364498
-      imageid: Gu6NzIVWkAADCfP
-- show:
-    year: 2025
-    id: sterlingheights
-  related-multimedia:
-    postximage:
-      postid: 1941012401547366678
-      imageid: Gu_afEXX0AA4cmI
-- show:
-    year: 2025
-    id: summerfestmilwaukee
-  related-multimedia:
-    postximage:
-      postid: 1941752700879684093
-      imageid: GvJ62OBXgAA0Uyw
-- media:
-    year: 2025
-    id: metaradi0705
-- show:
-    year: 2025
-    id: marylandheights
-  related-multimedia:
-    postximage:
-      postid: 1942097146833936737
-      imageid: GvOzH6gXgAAkLEO
-- show:
-    year: 2025
-    id: chicago
-  related-multimedia:
-    postximage:
-      postid: 1942823657383850069
-      imageid: GvZGqf7XcAAuq0Z
-- show:
-    year: 2025
-    id: minneapolis
-  related-multimedia:
-    postximage:
-      postid: 1943191162623291405
-      imageid: GveUqy5WAAA40Cs
-- show:
-    year: 2025
-    id: denver
-  related-multimedia:
-    postximage:
-      postid: 1943926792626040997
-      imageid: Gvo2OfkXEAAbnpj
-- song: konkon
-  related-multimedia:
-    youtubevideo: UxRldWoKlnQ
-- media:
-    year: 2025
-    id: metaradi0712
-- show:
-    year: 2025
-    id: vancouver
-  related-multimedia:
-    postximage:
-      postid: 1945010449134837823
-      imageid: Gv4PqV6XAAAMqVb
-- show:
-    year: 2025
-    id: kent
-  related-multimedia:
-    postximage:
-      postid: 1945388976216674319
-      imageid: Gv9jQSZWoAEsTba
-- media:
-    year: 2025
-    id: revolver
-- show:
-    year: 2025
-    id: sanfrancisco1
-  related-multimedia:
-    postximage:
-      postid: 1946122572518875436
-      imageid: GwICt5haQAASnbq
-- show:
-    year: 2025
-    id: sanfrancisco2
-- show:
-    year: 2025
-    id: lasvegas
-- show:
-    year: 2025
-    id: saltlakecity
-- show:
-    year: 2025
-    id: phoenix
-- show:
-    year: 2025
-    id: losangeles
-- media:
-    year: 2025
-    id: kerrang
-- album: metalforth
-- show:
-    year: 2025
-    id: yokohama1
-- tour: japansummertour2025
-- show:
-    year: 2025
-    id: yokohama2
-- show:
-    year: 2025
-    id: summersonictokyo
-- show:
-    year: 2025
-    id: summersonicosaka
-- show:
-    year: 2025
-    id: nagoya
-- show:
-    year: 2025
-    id: osaka
-- show:
-    year: 2025
-    id: summersonicbangkok
-- show:
-    year: 2025
-    id: seikimaiivsbabymetalencounter
-- show:
-    year: 2025
-    id: seikimaiivsbabymetalimpact
-- show:
-    year: 2025
-    id: busanrockfestival
-- tour: asiatour2025
-- show:
-    year: 2025
-    id: hongkong
-- show:
-    year: 2025
-    id: taipei
-- show:
-    year: 2025
-    id: f1singaporegrandprix
-- show:
-    year: 2025
-    id: kualalumpur
-- show:
-    year: 2025
-    id: manila
-- show:
-    year: 2025
-    id: specialarenashowusa
-  related-multimedia:
-    youtubevideo: HbRO9vuZiKE
-- show:
-    year: 2025
-    id: specialarenashowmexico
-- show:
-    year: 2026
-    id: specialarenashowjapan
+    linked-to:
+    - page: chronology
+
+- marker:
+    youtubevideo: qayP_YUrf9I
+    cover-image:
+      localimage:
+        youtubevideo: qayP_YUrf9I
+        id: mvcover
+    parent-key: song
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metaradi0405
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metaradi0412
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metaradi0419
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metaradi0426
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metaradi0503
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: brussels
+    related-multimedia:
+      postximage:
+        post: 1921378662311436476
+        image: GqobJj1XAAAoK2h
+    linked-to:
+    - page: chronology
+
+- marker:
+    tour: ukeuropearenatour2025
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metaradi0510
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: hamburg
+    related-multimedia:
+      postximage:
+        post: 1922220340970668112
+        image: Gq0W87iXwAA3oxm
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: amsterdam
+    related-multimedia:
+      postximage:
+        post: 1922456138966085924
+        image: Gq3ucSIasAA-t3f
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: frankfurt
+    related-multimedia:
+      postximage:
+        post: 1923533279652872569
+        image: GrHB1SwWgAA-d8G
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metaradi0517
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: berlin
+    related-multimedia:
+      postximage:
+        post: 1924035966840533209
+        image: GrOMgFHXsAAXD-b
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: krakow
+    related-multimedia:
+      postximage:
+        post: 1924789470085140940
+        image: GrY0XDsXwAA3nGo
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: nuremberg
+    related-multimedia:
+      postximage:
+        post: 1924984455510557164
+        image: GrbpXs1bAAAydOs
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: pmc
+    related-multimedia:
+      postximage:
+        post: 1925023744986058905
+        image: GrYhyIzbwAAP05r
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: zurich
+    related-multimedia:
+      postximage:
+        post: 1925707721447203038
+        image: Grl7uB-XEAA6h9j
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metaradi0524
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: madrid
+    related-multimedia:
+      postximage:
+        post: 1926791606578872394
+        image: Gr1UakcWgAAjDZV
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: barcelona
+    related-multimedia:
+      postximage:
+        post: 1927166535744753912
+        image: Gr6qVqvXQAA1uZx
+    linked-to:
+    - page: chronology
+
+- marker:
+    song: song3
+    related-multimedia:
+      youtubevideo: KEMVgy51kPE
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: paris
+    related-multimedia:
+      postximage:
+        post: 1927881848094437402
+        image: GsE0ZHDWwAAhLtb
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: london
+    related-multimedia:
+      postximage:
+        post: 1928663024081997836
+        image: GsP2prsXAAEh5WO
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metaradi0531
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metaradi0607
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: houston
+    related-multimedia:
+      postximage:
+        post: 1933786508722589865
+        image: GtYv6GMbwAA7vDf
+    linked-to:
+    - page: chronology
+
+- marker:
+    tour: northamerica2025
+    related-multimedia:
+      youtubevideo: sxnNfKoYEsA
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metalhammer
+    related-multimedia:
+      postximage:
+        post: 1933786508722589865
+        image: GtYv6GJbMAQs6hO
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metaradi0614
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: irving
+    related-multimedia:
+      postximage:
+        post: 1934132880441233442
+        image: Gtdrma3WoAA55Sq
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: tampa
+    related-multimedia:
+      postximage:
+        post: 1935308136358748218
+        image: GtuV4X3WMAAcMjj
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: atlanta
+    related-multimedia:
+      postximage:
+        post: 1935585150110425156
+        image: GtyURlAWQAAsetc
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: charlotte
+    related-multimedia:
+      postximage:
+        post: 1936307475697045926
+        image: Gt8kbtdWgAEaVYh
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: baltimore
+    related-multimedia:
+      postximage:
+        post: 1936658376798454181
+        image: GuBimuGXUAAKFkt
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metaradi0621
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: newyork
+    related-multimedia:
+      postximage:
+        post: 1937866458744201622
+        image: GuSu9ZcWoAAigk1
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: boston
+    related-multimedia:
+      postximage:
+        post: 1938105140915179620
+        image: GuWFgTsXgAACcTr
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: rollingstonejp
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: uncasville
+    related-multimedia:
+      postximage:
+        post: 1938827798744867171
+        image: GugZYjCXUAAtwkm
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: philadelphia
+    related-multimedia:
+      postximage:
+        post: 1939182070535753920
+        image: GulbRctXEAAOF4y
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metaradi0628
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: laval
+    related-multimedia:
+      postximage:
+        post: 1939909432864805220
+        image: Guvwcu8XUAAzAa8
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: toronto
+    related-multimedia:
+      postximage:
+        post: 1940644829270364498
+        image: Gu6NzIVWkAADCfP
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: sterlingheights
+    related-multimedia:
+      postximage:
+        post: 1941012401547366678
+        image: Gu_afEXX0AA4cmI
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: summerfestmilwaukee
+    related-multimedia:
+      postximage:
+        post: 1941752700879684093
+        image: GvJ62OBXgAA0Uyw
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metaradi0705
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: marylandheights
+    related-multimedia:
+      postximage:
+        post: 1942097146833936737
+        image: GvOzH6gXgAAkLEO
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: chicago
+    related-multimedia:
+      postximage:
+        post: 1942823657383850069
+        image: GvZGqf7XcAAuq0Z
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: minneapolis
+    related-multimedia:
+      postximage:
+        post: 1943191162623291405
+        image: GveUqy5WAAA40Cs
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: denver
+    related-multimedia:
+      postximage:
+        post: 1943926792626040997
+        image: Gvo2OfkXEAAbnpj
+    linked-to:
+    - page: chronology
+
+- marker:
+    song: konkon
+    related-multimedia:
+      youtubevideo: UxRldWoKlnQ
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: metaradi0712
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: vancouver
+    related-multimedia:
+      postximage:
+        post: 1945010449134837823
+        image: Gv4PqV6XAAAMqVb
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: kent
+    related-multimedia:
+      postximage:
+        post: 1945388976216674319
+        image: Gv9jQSZWoAEsTba
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: revolver
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: sanfrancisco1
+    related-multimedia:
+      postximage:
+        post: 1946122572518875436
+        image: GwICt5haQAASnbq
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: sanfrancisco2
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: lasvegas
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: saltlakecity
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: phoenix
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: losangeles
+    linked-to:
+    - page: chronology
+
+- marker:
+    media:
+      year: 2025
+      id: kerrang
+    linked-to:
+    - page: chronology
+
+- marker:
+    album: metalforth
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: yokohama1
+    linked-to:
+    - page: chronology
+
+- marker:
+    tour: japansummertour2025
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: yokohama2
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: summersonictokyo
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: summersonicosaka
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: nagoya
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: osaka
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: summersonicbangkok
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: seikimaiivsbabymetalencounter
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: seikimaiivsbabymetalimpact
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: busanrockfestival
+    linked-to:
+    - page: chronology
+
+- marker:
+    tour: asiatour2025
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: hongkong
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: taipei
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: f1singaporegrandprix
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: kualalumpur
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: manila
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: specialarenashowusa
+    related-multimedia:
+      youtubevideo: HbRO9vuZiKE
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2025
+      id: specialarenashowmexico
+    linked-to:
+    - page: chronology
+
+- marker:
+    show:
+      year: 2026
+      id: specialarenashowjapan
+    linked-to:
+    - page: chronology
+

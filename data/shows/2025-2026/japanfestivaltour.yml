@@ -1,34 +1,40 @@
-- type: show
-  year: 2025
-  id: summersonicosaka
-  fullname: SUMMER SONIC 2025
-  sublabel: Tokyo, Japan
-  date: 2025-08-16
-  location: ZOZO Marine Stadium & Makuhari Messe
-  event-page: https://www.summersonic.com/
-  cover-image:
-    localimage:
-      show:
-        year: 2025
-        id: summersonictokyo
-      id: cover
+- show:
+    year: 2025
+    id: summersonicosaka
+    fullname: SUMMER SONIC 2025
+    sublabel: Tokyo, Japan
+    date: 2025-08-16
+    location: ZOZO Marine Stadium & Makuhari Messe
+    event-page: 'https://www.summersonic.com/'
+    cover-image:
+      localimage:
+        show:
+          year: 2025
+          id: summersonictokyo
+        id: cover
 
-- type: show
-  year: 2025
-  id: summersonictokyo
-  fullname: SUMMER SONIC 2025
-  sublabel: Osaka, Japan
-  date: 2025-08-17
-  location: EXPO’70 COMMEMORATIVE PARK
-  event-page: https://www.summersonic.com/
-  cover-image:
-    localimage:
-      show:
-        year: 2025
-        id: summersonictokyo
-      id: cover
-  related:
-  - type: localimage
+- show:
+    year: 2025
+    id: summersonictokyo
+    fullname: SUMMER SONIC 2025
+    sublabel: Osaka, Japan
+    date: 2025-08-17
+    location: EXPO’70 COMMEMORATIVE PARK
+    event-page: 'https://www.summersonic.com/'
+    cover-image:
+      localimage:
+        show:
+          year: 2025
+          id: summersonictokyo
+        id: cover
+    linked-to:
+    - localimage:
+        show:
+          year: 2025
+          id: summersonictokyo
+        id: cover
+
+- localimage:
     show:
       year: 2025
       id: summersonictokyo
@@ -38,4 +44,9 @@
     published-date: 2025-02-27
     source:
       description: BABYMETAL website site
-      url: https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025
+      url: 'https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025'
+    linked-to:
+    - show:
+        year: 2025
+        id: summersonictokyo
+
