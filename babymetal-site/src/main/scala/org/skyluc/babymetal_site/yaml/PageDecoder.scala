@@ -2,7 +2,7 @@ package org.skyluc.babymetal_site.yaml
 
 import org.skyluc.babymetal_site.data as d
 import org.skyluc.fan_resources.data as dfr
-import org.skyluc.fan_resources.yaml.YamlReader.ParserError
+import org.skyluc.fan_resources.yaml.ParserError
 import org.skyluc.fan_resources.yaml.{YamlKeys as yk, *}
 import org.skyluc.scala.EitherOps
 import org.skyluc.yaml.*

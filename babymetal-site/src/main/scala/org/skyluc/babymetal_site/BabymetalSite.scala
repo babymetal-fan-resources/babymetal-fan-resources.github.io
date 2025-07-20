@@ -1,35 +1,21 @@
 package org.skyluc.babymetal_site
 
-import org.skyluc.babymetal_site.element2data.ElementToData
 import org.skyluc.babymetal_site.yaml.BabymetalSiteDecoders
-import org.skyluc.babymetal_site.yaml.NodeToElement
 import org.skyluc.fan_resources.BaseError
 import org.skyluc.fan_resources.data.Datum
-import org.skyluc.fan_resources.element2data.DataTransformer
 import org.skyluc.fan_resources.yaml.ItemDecoder
 import org.skyluc.fan_resources.yaml.YamlReader
-import org.skyluc.fan_resources.yaml.YamlReaderNew
 import org.skyluc.yaml.Parser
 
 import java.nio.file.Path
 
 object BabymetalSite {
 
-  object ParserOld extends Parser[Datum[?]] {
-
-    override def parseFile(file: Path, filename: String): (Seq[BaseError], Seq[Datum[?]]) = {
-      val (parserErrors, elementTrees) = YamlReader.load(file, filename, NodeToElement())
-      val (toDataErrors, datums) = DataTransformer.toData(elementTrees, ElementToData)
-      (parserErrors ++ toDataErrors, datums)
-    }
-
-  }
-
   /* Switching off of old parser */
   object Parser001 extends Parser[Datum[?]] {
 
     override def parseFile(file: Path, filename: String): (Seq[BaseError], Seq[Datum[?]]) = {
-      YamlReaderNew.load(file, filename, ItemDecoder, BabymetalSiteDecoders)
+      YamlReader.load(file, filename, ItemDecoder, BabymetalSiteDecoders)
     }
 
   }
