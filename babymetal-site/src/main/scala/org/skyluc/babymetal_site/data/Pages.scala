@@ -1,6 +1,5 @@
 package org.skyluc.babymetal_site.data
 
-import org.skyluc.fan_resources.BaseError
 import org.skyluc.fan_resources.data as fr
 
 import fr.Date
@@ -37,10 +36,6 @@ case class ChronologyPage(
   override def process[T](processor: ProcessorElement[T]): T =
     processor.processChronologyPage(this)
 
-  override def process[A](processor: ProcessorWithError[A]): Either[BaseError, A] = {
-    processor.processChronologyPage(this)
-  }
-
 }
 
 case class CategoriesPage(
@@ -68,10 +63,6 @@ case class CategoriesPage(
 
   override def process[T](processor: ProcessorElement[T]): T =
     processor.processCategoriesPage(this)
-
-  override def process[A](processor: ProcessorWithError[A]): Either[BaseError, A] = {
-    processor.processCategoriesPage(this)
-  }
 }
 
 case class ContentPage(
@@ -99,10 +90,6 @@ case class ContentPage(
 
   override def process[T](processor: ProcessorElement[T]): T =
     processor.processContentPage(this)
-
-  override def process[A](processor: ProcessorWithError[A]): Either[BaseError, A] = {
-    processor.processContentPage(this)
-  }
 }
 
 object Pages {
