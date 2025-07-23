@@ -1,29 +1,29 @@
 package org.skyluc.babymetal_site.html.pages
 
-import org.skyluc.babymetal_site.data as d
-import org.skyluc.babymetal_site.html.ChronologyMarkerCompiledDataGenerator
 import org.skyluc.babymetal_site.html.PageDescription
-import org.skyluc.babymetal_site.html.Site
 import org.skyluc.babymetal_site.html.SitePage
 import org.skyluc.fan_resources.Common
+import org.skyluc.fan_resources.data as dfr
 import org.skyluc.fan_resources.data.Path
 import org.skyluc.fan_resources.html.CompiledDataGenerator
 import org.skyluc.fan_resources.html.TitleAndDescription
 import org.skyluc.fan_resources.html.component.ChronologySection
 import org.skyluc.fan_resources.html.component.ChronologySection.*
 import org.skyluc.html.BodyElement
+import org.skyluc.fan_resources.html.component.MainIntro
 
-class ContentPage(years: Seq[ChronologyYear], description: PageDescription) extends SitePage(description) {
-
-  var yearCounter: Boolean = false
-  var monthCounter: Boolean = true
-  var dayCounter: Boolean = false
-
-  var blockId: Int = 0
+class ContentPage(
+    description: String,
+    years: Seq[ChronologyYear],
+    withLinks: Boolean,
+    withSubElements: Boolean,
+    pageDescription: PageDescription,
+) extends SitePage(pageDescription) {
 
   override def elementContent(): Seq[BodyElement[?]] = {
     Seq(
-      ChronologySection.generate(years, true, true)
+      MainIntro.generate(description),
+      ChronologySection.generate(years, withLinks, withSubElements),
     )
   }
 
@@ -31,26 +31,36 @@ class ContentPage(years: Seq[ChronologyYear], description: PageDescription) exte
 
 object ContentPage {
 
-  def pageFor(contentPage: d.ContentPage, generator: CompiledDataGenerator): Seq[SitePage] = {
+  def pageFor(contentPage: dfr.ContentPage, generator: CompiledDataGenerator): Seq[SitePage] = {
 
     val byYears = ChronologySection.compiledDataIds(
       contentPage.startDate,
       contentPage.endDate,
       contentPage.content,
-      new ChronologyMarkerCompiledDataGenerator(generator),
       generator,
     )
+
+    val (withLinks, withSubElements) = if (contentPage.displayType == "content") {
+      (true, true)
+    } else if (contentPage.displayType == "choronology") {
+      (false, false)
+    } else {
+      (false, true)
+    }
 
     val path = Path(contentPage.id.id)
 
     val mainPage =
-      MusicPage(
+      ContentPage(
+        contentPage.description,
         byYears,
+        withLinks,
+        withSubElements,
         PageDescription(
           TitleAndDescription.formattedTitle(
             None,
             None,
-            contentPage.name,
+            contentPage.label,
             None,
             None,
             None,
@@ -58,12 +68,12 @@ object ContentPage {
           TitleAndDescription.formattedDescription(
             None,
             None,
-            contentPage.name,
+            contentPage.label,
             None,
             None,
             None,
           ),
-          SitePage.absoluteUrl(Site.DEFAULT_COVER_IMAGE.source),
+          SitePage.absoluteUrl(generator.getMultiMedia(contentPage.coverImage.image).image.source),
           SitePage.canonicalUrlFor(path),
           path.withExtension(Common.HTML_EXTENSION),
           None,

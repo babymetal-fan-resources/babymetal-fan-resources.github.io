@@ -1,6 +1,5 @@
 package org.skyluc.babymetal_site.html.pages
 
-import org.skyluc.babymetal_site.html.ChronologyMarkerCompiledDataGenerator
 import org.skyluc.babymetal_site.html.PageDescription
 import org.skyluc.babymetal_site.html.SitePage
 import org.skyluc.fan_resources.Common
@@ -82,7 +81,6 @@ object TourPage {
       tour.firstDate,
       tour.lastDate,
       shows,
-      new ChronologyMarkerCompiledDataGenerator(generator),
       generator,
     )
 

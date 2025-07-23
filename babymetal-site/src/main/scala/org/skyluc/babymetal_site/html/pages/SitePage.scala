@@ -83,10 +83,10 @@ object SitePage {
   val MICROSOFT_VERIFICATION_CODE = "B6C2BBE1BBDED01F740330EB10DEAEF8"
 
   // javascript
-  private val SRC_MAIN_JAVASCRIPT = "/asset/javascript/main.js"
+  private val SRC_CONTENT_JAVASCRIPT = "/asset/javascript/content.js"
   private val SRC_FR_MAIN_JAVASCRIPT = "/asset/javascript/frmain.js"
   private val SRC_OVERLAY_JAVASCRIPT = "/asset/javascript/overlay.js"
-  val JAVASCRIPT_FILES = Seq(Url(SRC_FR_MAIN_JAVASCRIPT), Url(SRC_MAIN_JAVASCRIPT), Url(SRC_OVERLAY_JAVASCRIPT))
+  val JAVASCRIPT_FILES = Seq(Url(SRC_FR_MAIN_JAVASCRIPT), Url(SRC_CONTENT_JAVASCRIPT), Url(SRC_OVERLAY_JAVASCRIPT))
 
   val DARK_PATH = Path("dark")
 

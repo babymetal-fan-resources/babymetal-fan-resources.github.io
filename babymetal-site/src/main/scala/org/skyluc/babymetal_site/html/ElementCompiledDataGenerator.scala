@@ -10,6 +10,7 @@ class ElementCompiledDataGenerator(generator: fr.CompiledDataGenerator) extends 
   protected val processor: ElementCompiledDataGeneratorProcessor = new ElementCompiledDataGeneratorProcessor(generator)
 
   val missingCompiledData: fr.ElementCompiledData = fr.ElementCompiledData(
+    Common.MISSING,
     Common.SPACE,
     Common.MISSING,
     None,
@@ -21,16 +22,11 @@ class ElementCompiledDataGenerator(generator: fr.CompiledDataGenerator) extends 
     Site.MISSING_IMAGE,
     Nil,
     Site.MISSING_URL,
+    fr.DelayedElementCompiledDataSeq.EMPTY,
+    fr.DelayedMultimediaCompiledData.EMPTY,
   )
 }
 
 class ElementCompiledDataGeneratorProcessor(generator: fr.CompiledDataGenerator)
     extends fr.ElementCompiledDataGeneratorProcessor(generator)
-    with Processor[fr.ElementCompiledData] {
-
-  override def processCategoriesPage(categoriesPage: CategoriesPage): fr.ElementCompiledData = ???
-
-  override def processContentPage(contentPage: ContentPage): fr.ElementCompiledData = ???
-
-  override def processChronologyPage(chronologyPage: ChronologyPage): fr.ElementCompiledData = ???
-}
+    with Processor[fr.ElementCompiledData] {}

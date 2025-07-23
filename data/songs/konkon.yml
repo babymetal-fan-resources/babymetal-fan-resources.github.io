@@ -8,6 +8,8 @@
         song: konkon
         id: cover
     multimedia:
+      main:
+        youtubevideo: UxRldWoKlnQ
       video:
       - youtubevideo: UxRldWoKlnQ
 

@@ -1,8 +1,13 @@
 - contentpage:
     id: music
     label: Music
+    description: The songs and albums from BABYMETAL, and the other collab songs.
     start-date: 2010-01-01
     end-date: 2026-01-31
+    cover-image:
+      localimage:
+        group: siteimages
+        id: kitsume_cover
     content:
     - album: metalforth
     - song: konkon
@@ -21,8 +26,13 @@
 - categoriespage:
     id: shows
     label: Shows
+    description: All the shows where BABYMETAL performed and will be performing.
     start-date: 2010-01-01
     end-date: 2026-01-31
+    cover-image:
+      localimage:
+        group: siteimages
+        id: kitsume_cover
     categories:
     - show
     - tour
@@ -30,8 +40,13 @@
 - categoriespage:
     id: media
     label: Media
+    description: Media, interviews, shows featuring BABYMETAL.
     start-date: 2010-01-01
     end-date: 2026-01-31
+    cover-image:
+      localimage:
+        group: siteimages
+        id: kitsume_cover
     categories:
     - media
 

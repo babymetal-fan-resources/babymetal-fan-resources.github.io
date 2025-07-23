@@ -1,29 +1,24 @@
 package org.skyluc.babymetal_site.html.pages
 
-import org.skyluc.babymetal_site.data as d
-import org.skyluc.babymetal_site.html.ChronologyMarkerCompiledDataGenerator
 import org.skyluc.babymetal_site.html.PageDescription
-import org.skyluc.babymetal_site.html.Site
 import org.skyluc.babymetal_site.html.SitePage
 import org.skyluc.fan_resources.Common
+import org.skyluc.fan_resources.data as dfr
 import org.skyluc.fan_resources.data.Path
 import org.skyluc.fan_resources.html.CompiledDataGenerator
 import org.skyluc.fan_resources.html.TitleAndDescription
 import org.skyluc.fan_resources.html.component.ChronologySection
 import org.skyluc.fan_resources.html.component.ChronologySection.*
 import org.skyluc.html.BodyElement
+import org.skyluc.fan_resources.html.component.MainIntro
 
-class CategoriesPage(years: Seq[ChronologyYear], description: PageDescription) extends SitePage(description) {
-
-  var yearCounter: Boolean = false
-  var monthCounter: Boolean = true
-  var dayCounter: Boolean = false
-
-  var blockId: Int = 0
+class CategoriesPage(description: String, years: Seq[ChronologyYear], pageDescription: PageDescription)
+    extends SitePage(pageDescription) {
 
   override def elementContent(): Seq[BodyElement[?]] = {
     Seq(
-      ChronologySection.generate(years, true, false)
+      MainIntro.generate(description),
+      ChronologySection.generate(years, true, false),
     )
   }
 
@@ -31,26 +26,26 @@ class CategoriesPage(years: Seq[ChronologyYear], description: PageDescription) e
 
 object CategoriesPage {
 
-  def pageFor(categoriesPage: d.CategoriesPage, generator: CompiledDataGenerator): Seq[SitePage] = {
+  def pageFor(categoriesPage: dfr.CategoriesPage, generator: CompiledDataGenerator): Seq[SitePage] = {
 
     val byYears = ChronologySection.compiledDataCategories(
       categoriesPage.startDate,
       categoriesPage.endDate,
       categoriesPage.categories,
-      new ChronologyMarkerCompiledDataGenerator(generator),
       generator,
     )
 
     val path = Path(categoriesPage.id.id)
 
     val mainPage =
-      MusicPage(
+      CategoriesPage(
+        categoriesPage.description,
         byYears,
         PageDescription(
           TitleAndDescription.formattedTitle(
             None,
             None,
-            categoriesPage.name,
+            categoriesPage.label,
             None,
             None,
             None,
@@ -58,12 +53,12 @@ object CategoriesPage {
           TitleAndDescription.formattedDescription(
             None,
             None,
-            categoriesPage.name,
+            categoriesPage.label,
             None,
             None,
             None,
           ),
-          SitePage.absoluteUrl(Site.DEFAULT_COVER_IMAGE.source),
+          SitePage.absoluteUrl(generator.getMultiMedia(categoriesPage.coverImage.image).image.source),
           SitePage.canonicalUrlFor(path),
           path.withExtension(Common.HTML_EXTENSION),
           None,

@@ -1,6 +1,5 @@
 package org.skyluc.babymetal_site.html.pages
 
-import org.skyluc.babymetal_site.html.ChronologyMarkerCompiledDataGenerator
 import org.skyluc.babymetal_site.html.PageDescription
 import org.skyluc.babymetal_site.html.SitePage
 import org.skyluc.fan_resources.Common
@@ -95,7 +94,6 @@ object AlbumPage {
       ordered.head.releaseDate,
       ordered.last.releaseDate,
       songs,
-      new ChronologyMarkerCompiledDataGenerator(generator),
       generator,
     )
 

@@ -9,11 +9,4 @@ import fr.CheckError
 
 class CheckLocalAssetExists(baseAssetImagePath: Path)
     extends fr.CheckLocalAssetExists(baseAssetImagePath)
-    with Processor[Seq[CheckError]] {
-
-  override def processContentPage(contentPage: ContentPage): Seq[CheckError] = Nil
-
-  override def processCategoriesPage(categoriesPage: CategoriesPage): Seq[CheckError] = Nil
-
-  override def processChronologyPage(chronologyPage: ChronologyPage): Seq[CheckError] = Nil
-}
+    with Processor[Seq[CheckError]] {}

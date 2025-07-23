@@ -15,6 +15,8 @@
         post: 1908172721055469909
         image: GnsqdGTbQAAkPmf
     multimedia:
+      main:
+        youtubevideo: qayP_YUrf9I
       video:
       - youtubevideo: qayP_YUrf9I
     linked-to:
@@ -37,6 +39,16 @@
     published-date: 2025-04-04
     linked-to:
     - song: frommetou
+
+- multimedia-event:
+    id: fromtetoumv
+    youtubevideo: qayP_YUrf9I
+    parent:
+      song: frommetou
+    cover-image: 
+      localimage:
+        youtubevideo: qayP_YUrf9I
+        id: mvcover
 
 - localimage:
     youtubevideo: qayP_YUrf9I

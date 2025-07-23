@@ -1,22 +1,18 @@
 package org.skyluc.babymetal_site.data2Page
 
-import org.skyluc.babymetal_site.data.{
-  CategoriesPage as dCategoriesPage,
-  ContentPage as dContentPage,
-  ChronologyPage as dChronologyPage,
-  *,
-}
+import org.skyluc.babymetal_site.data.*
 import org.skyluc.babymetal_site.html.SitePage
 import org.skyluc.babymetal_site.html.pages.*
-import org.skyluc.fan_resources.data.{ProcessorElement as _, *}
+import org.skyluc.fan_resources.data as dfr
 import org.skyluc.fan_resources.html.CompiledDataGenerator
 import org.skyluc.fan_resources.html.Page
 import org.skyluc.fan_resources.html.pages.CssPage
 import org.skyluc.fan_resources.html.pages.SitemapPage
+import dfr.Path
 
 class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[SitePage]] {
 
-  def generate(rootPath: Path, data: Data): Seq[Page] = {
+  def generate(rootPath: Path, data: dfr.Data): Seq[Page] = {
 
     val cssStyles = CssPage(
       rootPath.resolve("static_pieces", "css"),
@@ -42,40 +38,39 @@ class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[
       "styles.css",
     )
     val allPages =
-      data.elements.values.filterNot(_.hasError).map(_.process(this)).flatten.toSeq // ++ MusicPage.pageFor(generator)
+      data.elements.values.filterNot(_.hasError).map(_.process(this)).flatten.toSeq
 
     allPages ++ Seq(cssStyles, SitemapPage(allPages))
   }
-  override def processAlbum(album: Album): Seq[SitePage] =
+  override def processAlbum(album: dfr.Album): Seq[SitePage] =
     AlbumPage.pagesFor(album, generator)
 
-  override def processCategoriesPage(categoriesPage: dCategoriesPage): Seq[SitePage] =
+  override def processCategoriesPage(categoriesPage: dfr.CategoriesPage): Seq[SitePage] =
     CategoriesPage.pageFor(categoriesPage, generator)
 
-  override def processContentPage(contentPage: dContentPage): Seq[SitePage] =
+  override def processContentPage(contentPage: dfr.ContentPage): Seq[SitePage] =
     ContentPage.pageFor(contentPage, generator)
 
-  override def processChronologyPage(chronologyPage: dChronologyPage): Seq[SitePage] =
-    AllPage.pageFor(chronologyPage, generator)
-
-  override def processEvent(event: Event): Seq[SitePage] =
+  override def processEvent(event: dfr.Event): Seq[SitePage] =
     EventPage.pagesFor(event, generator)
 
-  override def processGroup(group: Group): Seq[SitePage] = NO_DATA
+  override def processGroup(group: dfr.Group): Seq[SitePage] = NO_DATA
 
-  override def processMediaAudio(mediaAudio: MediaAudio): Seq[SitePage] =
+  override def processMediaAudio(mediaAudio: dfr.MediaAudio): Seq[SitePage] =
     MediaPage.pagesFor(mediaAudio, generator)
 
-  override def processMediaWritten(mediaWritten: MediaWritten): Seq[SitePage] =
+  override def processMediaWritten(mediaWritten: dfr.MediaWritten): Seq[SitePage] =
     MediaPage.pagesFor(mediaWritten, generator)
 
-  override def processShow(show: Show): Seq[SitePage] =
+  override def processMultiMediaEvent(multimediaEvent: dfr.MultiMediaEvent): Seq[SitePage] = Nil
+
+  override def processShow(show: dfr.Show): Seq[SitePage] =
     ShowPage.pagesFor(show, generator)
 
-  override def processSong(song: Song): Seq[SitePage] =
+  override def processSong(song: dfr.Song): Seq[SitePage] =
     SongPage.pagesFor(song, generator)
 
-  override def processTour(tour: Tour): Seq[SitePage] =
+  override def processTour(tour: dfr.Tour): Seq[SitePage] =
     TourPage.pagesFor(tour, generator)
 
   // ----------
