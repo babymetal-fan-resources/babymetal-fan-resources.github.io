@@ -183,8 +183,8 @@
 - show:
     year: 2025
     id: brussels
-    fullname: UK & Europe Arena Tour 2025
-    sublabel: Brussels, Belgium
+    fullname: Brussels, Belgium
+    sublabel: UK & Europe Arena Tour 2025
     date: 2025-05-10
     tour: ukeuropearenatour2025
     location: Forest National
@@ -260,8 +260,8 @@
 - show:
     year: 2025
     id: hamburg
-    fullname: UK & Europe Arena Tour 2025
-    sublabel: Hamburg, Germany
+    fullname: Hamburg, Germany
+    sublabel: UK & Europe Arena Tour 2025
     date: 2025-05-12
     tour: ukeuropearenatour2025
     location: Barclays Arena
@@ -338,8 +338,8 @@
 - show:
     year: 2025
     id: amsterdam
-    fullname: UK & Europe Arena Tour 2025
-    sublabel: Amsterdam, Netherlands
+    fullname: Amsterdam, Netherlands
+    sublabel: UK & Europe Arena Tour 2025
     date: 2025-05-14
     tour: ukeuropearenatour2025
     location: AFAS Live
@@ -454,8 +454,8 @@
 - show:
     year: 2025
     id: frankfurt
-    fullname: UK & Europe Arena Tour 2025
-    sublabel: Frankfurt, Germany
+    fullname: Frankfurt, Germany
+    sublabel: UK & Europe Arena Tour 2025
     date: 2025-05-16
     tour: ukeuropearenatour2025
     location: Jahrhunderthalle
@@ -550,8 +550,8 @@
 - show:
     year: 2025
     id: berlin
-    fullname: UK & Europe Arena Tour 2025
-    sublabel: Berlin, Germany
+    fullname: Berlin, Germany
+    sublabel: UK & Europe Arena Tour 2025
     date: 2025-05-17
     tour: ukeuropearenatour2025
     location: Velodrom
@@ -609,8 +609,8 @@
 - show:
     year: 2025
     id: krakow
-    fullname: UK & Europe Arena Tour 2025
-    sublabel: Krakow, Poland
+    fullname: Krakow, Poland
+    sublabel: UK & Europe Arena Tour 2025
     date: 2025-05-19
     tour: ukeuropearenatour2025
     location: Tauron Arena
@@ -717,8 +717,8 @@
 - show:
     year: 2025
     id: nuremberg
-    fullname: UK & Europe Arena Tour 2025
-    sublabel: Nüremberg, Germany
+    fullname: Nüremberg, Germany
+    sublabel: UK & Europe Arena Tour 2025
     date: 2025-05-20
     tour: ukeuropearenatour2025
     location: Arena Nüremberger
@@ -795,8 +795,8 @@
 - show:
     year: 2025
     id: zurich
-    fullname: UK & Europe Arena Tour 2025
-    sublabel: Zurich, Switzerland
+    fullname: Zurich, Switzerland
+    sublabel: UK & Europe Arena Tour 2025
     date: 2025-05-22
     tour: ukeuropearenatour2025
     location: The Hall
@@ -910,8 +910,8 @@
 - show:
     year: 2025
     id: madrid
-    fullname: UK & Europe Arena Tour 2025
-    sublabel: Madrid, Spain
+    fullname: Madrid, Spain
+    sublabel: UK & Europe Arena Tour 2025
     date: 2025-05-25
     tour: ukeuropearenatour2025
     location: Vistalegre
@@ -1029,8 +1029,8 @@
 - show:
     year: 2025
     id: barcelona
-    fullname: UK & Europe Arena Tour 2025
-    sublabel: Barcelona, Spain
+    fullname: Barcelona, Spain
+    sublabel: UK & Europe Arena Tour 2025
     date: 2025-05-26
     tour: ukeuropearenatour2025
     location: Poble Espanyol
@@ -1144,8 +1144,8 @@
 - show:
     year: 2025
     id: paris
-    fullname: UK & Europe Arena Tour 2025
-    sublabel: Paris, France
+    fullname: Paris, France
+    sublabel: UK & Europe Arena Tour 2025
     date: 2025-05-28
     tour: ukeuropearenatour2025
     location: Zénith Paris-La Villette
@@ -1289,8 +1289,8 @@
 - show:
     year: 2025
     id: london
-    fullname: UK & Europe Arena Tour 2025
-    sublabel: London, United Kingdom
+    fullname: London, United Kingdom
+    sublabel: UK & Europe Arena Tour 2025
     date: 2025-05-30
     tour: ukeuropearenatour2025
     location: The O2
@@ -1298,6 +1298,7 @@
       postximage:
         post: 1928044340867178916
         image: GsHI5cJaUAEzOpm
+    categories: mainshowtour
     multimedia:
       main:
         postximage:

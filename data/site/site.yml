@@ -8,6 +8,7 @@
       localimage:
         group: siteimages
         id: kitsume_cover
+    categories: []
     content:
     - album: metalforth
     - song: konkon
@@ -34,6 +35,13 @@
         group: siteimages
         id: kitsume_cover
     categories:
+    - id: show
+      label: Shows
+    - id: tour
+      label: Tours
+    - id: mainshowtour
+      label: Main shows and tours
+    id-prefix:
     - show
     - tour
 
@@ -47,6 +55,7 @@
       localimage:
         group: siteimages
         id: kitsume_cover
-    categories:
+    categories: []
+    id-prefix:
     - media
 

@@ -11,14 +11,19 @@ import org.skyluc.fan_resources.html.component.ChronologySection
 import org.skyluc.fan_resources.html.component.ChronologySection.*
 import org.skyluc.html.BodyElement
 import org.skyluc.fan_resources.html.component.MainIntro
+import dfr.CategoryDescriptor
 
-class CategoriesPage(description: String, years: Seq[ChronologyYear], pageDescription: PageDescription)
-    extends SitePage(pageDescription) {
+class CategoriesPage(
+    description: String,
+    categories: Seq[CategoryDescriptor],
+    years: Seq[ChronologyYear],
+    pageDescription: PageDescription,
+) extends SitePage(pageDescription) {
 
   override def elementContent(): Seq[BodyElement[?]] = {
     Seq(
       MainIntro.generate(description),
-      ChronologySection.generate(years, true, false),
+      ChronologySection.generate(years, categories, true, false),
     )
   }
 
@@ -31,7 +36,7 @@ object CategoriesPage {
     val byYears = ChronologySection.compiledDataCategories(
       categoriesPage.startDate,
       categoriesPage.endDate,
-      categoriesPage.categories,
+      categoriesPage.idPrefix,
       generator,
     )
 
@@ -40,6 +45,7 @@ object CategoriesPage {
     val mainPage =
       CategoriesPage(
         categoriesPage.description,
+        categoriesPage.categories,
         byYears,
         PageDescription(
           TitleAndDescription.formattedTitle(

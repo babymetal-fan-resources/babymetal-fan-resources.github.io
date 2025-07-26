@@ -9,6 +9,25 @@ contentpage:
     localimage:
       group: siteimages
       id: kitsume_cover
+  categories:
+  - id: event
+    label: Events
+  - id: song
+    label: Songs
+  - id: album
+    label: Albums
+  - id: show
+    label: Shows
+  - id: tour
+    label: Tours
+  - id: mainshowtour
+    label: Main shows and tours
+  - id: writtenmedia
+    label: Written Media
+  - id: audiomedia
+    label: Audio Media
+  - id: video
+    label: Videos
   content:
   - show:
       year: 2026

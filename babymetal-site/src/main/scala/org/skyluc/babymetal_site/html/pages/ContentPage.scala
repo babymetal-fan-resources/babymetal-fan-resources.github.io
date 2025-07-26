@@ -11,9 +11,11 @@ import org.skyluc.fan_resources.html.component.ChronologySection
 import org.skyluc.fan_resources.html.component.ChronologySection.*
 import org.skyluc.html.BodyElement
 import org.skyluc.fan_resources.html.component.MainIntro
+import dfr.CategoryDescriptor
 
 class ContentPage(
     description: String,
+    categories: Seq[CategoryDescriptor],
     years: Seq[ChronologyYear],
     withLinks: Boolean,
     withSubElements: Boolean,
@@ -23,7 +25,7 @@ class ContentPage(
   override def elementContent(): Seq[BodyElement[?]] = {
     Seq(
       MainIntro.generate(description),
-      ChronologySection.generate(years, withLinks, withSubElements),
+      ChronologySection.generate(years, categories, withLinks, withSubElements),
     )
   }
 
@@ -53,6 +55,7 @@ object ContentPage {
     val mainPage =
       ContentPage(
         contentPage.description,
+        contentPage.categories,
         byYears,
         withLinks,
         withSubElements,

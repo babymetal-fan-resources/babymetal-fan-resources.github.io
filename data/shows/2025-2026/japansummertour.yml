@@ -36,8 +36,8 @@
 - show:
     year: 2025
     id: yokohama1
-    fullname: Summer Tour In Japan
-    sublabel: Yokohama, Japan
+    fullname: Yokohama, Japan
+    sublabel: Summer Tour In Japan
     date: 2025-08-13
     location: KT Zepp Yokohama
     event-page: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=0028&id=292132&lang=en'
@@ -49,8 +49,8 @@
 - show:
     year: 2025
     id: yokohama2
-    fullname: Summer Tour In Japan
-    sublabel: Yokohama, Japan
+    fullname: Yokohama, Japan
+    sublabel: Summer Tour In Japan
     date: 2025-08-14
     location: KT Zepp Yokohama
     event-page: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=0028&id=292132&lang=en'
@@ -62,8 +62,8 @@
 - show:
     year: 2025
     id: nagoya
-    fullname: Summer Tour In Japan
-    sublabel: Nagoya, Japan
+    fullname: Nagoya, Japan
+    sublabel: Summer Tour In Japan
     date: 2025-08-20
     location: COMTEC PORTBASE NAGOYA
     event-page: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=0028&id=292132&lang=en'
@@ -75,8 +75,8 @@
 - show:
     year: 2025
     id: osaka
-    fullname: Summer Tour In Japan
-    sublabel: Osaka, Japan
+    fullname: Osaka, Japan
+    sublabel: Summer Tour In Japan
     date: 2025-08-21
     location: Zepp Osaka Bayside
     event-page: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=0028&id=292132&lang=en'

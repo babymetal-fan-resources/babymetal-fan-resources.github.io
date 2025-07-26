@@ -37,45 +37,12 @@
     linked-to:
     - tour: asiatour2025
 
-- show:
-    year: 2025
-    id: summersonicbangkok
-    fullname: SUMMER SONIC BANGKOK 2025
-    date: 2025-08-24
-    location: IMPACT CHALLENGER HALL
-    cover-image:
-      localimage:
-        show:
-          year: 2025
-          id: summersonicbangkok
-        id: cover
-    linked-to:
-    - localimage:
-        show:
-          year: 2025
-          id: summersonicbangkok
-        id: cover
-
-- localimage:
-    show:
-      year: 2025
-      id: summersonicbangkok
-    id: cover
-    label: cover
-    filename: cover400.png
-    published-date: 2025-03-25
-    source:
-      description: BABYMETAL website site
-      url: 'https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025'
-    linked-to:
-    - show:
-        year: 2025
-        id: summersonicbangkok
 
 - show:
     year: 2025
     id: busanrockfestival
     fullname: Busan International Rock Festival
+    sublabel: Asia Tour 2025
     date: 2025-09-27
     tour: asiatour2025
     location: SAMNAK PARK
@@ -146,8 +113,8 @@
 - show:
     year: 2025
     id: hongkong
-    fullname: Asia Tour 2025
-    sublabel: Hong Kong
+    fullname: Hong Kong
+    sublabel: Asia Tour 2025
     date: 2025-09-30
     tour: asiatour2025
     location: AsiaWorld-Expo Arena
@@ -160,8 +127,8 @@
 - show:
     year: 2025
     id: taipei
-    fullname: Asia Tour 2025
-    sublabel: Taipei, Taiwan
+    fullname: Taipei, Taiwan
+    sublabel: Asia Tour 2025
     date: 2025-10-02
     tour: asiatour2025
     location: ZEPP NEW TAIPEI
@@ -198,8 +165,8 @@
 - show:
     year: 2025
     id: kualalumpur
-    fullname: Asia Tour 2025
-    sublabel: Kuala Lumpur, Malaysia
+    fullname: Kuala Lumpur, Malaysia
+    sublabel: Asia Tour 2025
     date: 2025-10-06
     tour: asiatour2025
     location: Zepp Kuala Lumpur
@@ -213,6 +180,7 @@
     year: 2025
     id: f1singaporegrandprix
     fullname: F1 SINGAPORE GRAND PRIX
+    sublabel: Asia Tour 2025
     date: 2025-10-04
     tour: asiatour2025
     location: MARINA BAY STREET CIRCUIT
@@ -249,8 +217,8 @@
 - show:
     year: 2025
     id: manila
-    fullname: Asia Tour 2025
-    sublabel: Manila, Philippines
+    fullname: Manila, Philippines
+    sublabel: Asia Tour 2025
     date: 2025-10-08
     tour: asiatour2025
     location: ARENETA COLISEUM

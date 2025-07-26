@@ -32,7 +32,7 @@ class AlbumPage(
 
     val songsSection: Seq[BodyElement[?]] = Seq(
       SectionHeader.generate(SECTION_SONGS),
-      ChronologySection.generate(songsByYears, true, false),
+      ChronologySection.generate(songsByYears, Nil, true, false),
     )
 
     val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, Album.FROM_KEY)

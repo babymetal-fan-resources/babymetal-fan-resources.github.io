@@ -33,7 +33,7 @@ class TourPage(
 
     val showsSections: Seq[BodyElement[?]] = Seq(
       SectionHeader.generate(SECTION_SHOWS),
-      ChronologySection.generate(showsByYears, true, false),
+      ChronologySection.generate(showsByYears, Nil, true, false),
     )
 
     Seq(

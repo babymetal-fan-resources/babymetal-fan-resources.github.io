@@ -2,7 +2,7 @@
     id: northamerica2025
     fullname: North America 2025
     first-date: 2025-06-13
-    last-date: 2025-07-23
+    last-date: 2025-07-24
     cover-image:
       localimage:
         tour: northamerica2025
@@ -82,6 +82,8 @@
       id: saltlakecity
     - year: 2025
       id: phoenix
+    - year: 2025
+      id: losangeles
     linked-to:
     - localimage:
         tour: northamerica2025
@@ -326,8 +328,8 @@
 - show:
     year: 2025
     id: houston
-    fullname: North America 2025
-    sublabel: Houston, TX, USA
+    fullname: Houston, TX, USA
+    sublabel: North America 2025
     date: 2025-06-13
     tour: northamerica2025
     location: 713 Music Hall
@@ -425,8 +427,8 @@
 - show:
     year: 2025
     id: irving
-    fullname: North America 2025
-    sublabel: Irving, TX, USA
+    fullname: Irving, TX, USA
+    sublabel: North America 2025
     date: 2025-06-14
     tour: northamerica2025
     location: The Pavilion at Toyota Music Factory
@@ -540,8 +542,8 @@
 - show:
     year: 2025
     id: tampa
-    fullname: North America 2025
-    sublabel: Tampa, FL, USA
+    fullname: Tampa, FL, USA
+    sublabel: North America 2025
     date: 2025-06-17
     tour: northamerica2025
     location: Yuengling Center
@@ -618,8 +620,8 @@
 - show:
     year: 2025
     id: atlanta
-    fullname: North America 2025
-    sublabel: Atlanta, GA, USA
+    fullname: Atlanta, GA, USA
+    sublabel: North America 2025
     date: 2025-06-18
     tour: northamerica2025
     location: Coca-Cola Roxy
@@ -715,8 +717,8 @@
 - show:
     year: 2025
     id: charlotte
-    fullname: North America 2025
-    sublabel: Charlotte, NC, USA
+    fullname: Charlotte, NC, USA
+    sublabel: North America 2025
     date: 2025-06-20
     tour: northamerica2025
     location: Skyla Credit Union Amphitheatre
@@ -794,8 +796,8 @@
 - show:
     year: 2025
     id: baltimore
-    fullname: North America 2025
-    sublabel: Baltimore, MD, USA
+    fullname: Baltimore, MD, USA
+    sublabel: North America 2025
     date: 2025-06-21
     tour: northamerica2025
     location: Pier Six Pavilion
@@ -852,8 +854,8 @@
 - show:
     year: 2025
     id: newyork
-    fullname: North America 2025
-    sublabel: New York, NY, USA
+    fullname: New York, NY, USA
+    sublabel: North America 2025
     date: 2025-06-24
     tour: northamerica2025
     location: The Theater at Madison Square Garden
@@ -931,8 +933,8 @@
 - show:
     year: 2025
     id: boston
-    fullname: North America 2025
-    sublabel: Boston, MA, USA
+    fullname: Boston, MA, USA
+    sublabel: North America 2025
     date: 2025-06-25
     tour: northamerica2025
     location: MGM Music Hall at Fenway
@@ -1009,8 +1011,8 @@
 - show:
     year: 2025
     id: uncasville
-    fullname: North America 2025
-    sublabel: Uncasville, CT, USA
+    fullname: Uncasville, CT, USA
+    sublabel: North America 2025
     date: 2025-06-27
     tour: northamerica2025
     location: Mohegan Sun Arena
@@ -1087,8 +1089,8 @@
 - show:
     year: 2025
     id: philadelphia
-    fullname: North America 2025
-    sublabel: Philadelphia, PA, USA
+    fullname: Philadelphia, PA, USA
+    sublabel: North America 2025
     date: 2025-06-28
     tour: northamerica2025
     location: TD Pavilion at The Mann Center
@@ -1146,8 +1148,8 @@
 - show:
     year: 2025
     id: laval
-    fullname: North America 2025
-    sublabel: Laval, QC, Canada
+    fullname: Laval, QC, Canada
+    sublabel: North America 2025
     date: 2025-06-30
     tour: northamerica2025
     location: Place Bell
@@ -1224,8 +1226,8 @@
 - show:
     year: 2025
     id: toronto
-    fullname: North America 2025
-    sublabel: Toronto, ON, Canada
+    fullname: Toronto, ON, Canada
+    sublabel: North America 2025
     date: 2025-07-02
     tour: northamerica2025
     location: Coca-Cola Coliseum
@@ -1302,8 +1304,8 @@
 - show:
     year: 2025
     id: sterlingheights
-    fullname: North America 2025
-    sublabel: Sterling Heights, MI, USA
+    fullname: Sterling Heights, MI, USA
+    sublabel: North America 2025
     date: 2025-07-03
     tour: northamerica2025
     location: Michigan Lottery Amphitheatre
@@ -1382,6 +1384,7 @@
     year: 2025
     id: summerfestmilwaukee
     fullname: Summerfest Milwaukee
+    sublabel: North America 2025
     date: 2025-07-05
     tour: northamerica2025
     location: '-'
@@ -1534,8 +1537,8 @@
 - show:
     year: 2025
     id: marylandheights
-    fullname: North America 2025
-    sublabel: Marylands Heights, MO, USA
+    fullname: Marylands Heights, MO, USA
+    sublabel: North America 2025
     date: 2025-07-06
     tour: northamerica2025
     location: Saint Louis Music Park
@@ -1650,8 +1653,8 @@
 - show:
     year: 2025
     id: chicago
-    fullname: North America 2025
-    sublabel: Chicago, IL, USA
+    fullname: Chicago, IL, USA
+    sublabel: North America 2025
     date: 2025-07-08
     tour: northamerica2025
     location: Byline Bank Aragon Ballroom
@@ -1765,8 +1768,8 @@
 - show:
     year: 2025
     id: minneapolis
-    fullname: North America 2025
-    sublabel: Minneapolis, MN, USA
+    fullname: Minneapolis, MN, USA
+    sublabel: North America 2025
     date: 2025-07-09
     tour: northamerica2025
     location: The Armory
@@ -1881,8 +1884,8 @@
 - show:
     year: 2025
     id: denver
-    fullname: North America 2025
-    sublabel: Denver, CO, USA
+    fullname: Denver, CO, USA
+    sublabel: North America 2025
     date: 2025-07-11
     tour: northamerica2025
     location: The JunkYard
@@ -1988,8 +1991,8 @@
 - show:
     year: 2025
     id: vancouver
-    fullname: North America 2025
-    sublabel: Vancouver, ON, Canada
+    fullname: Vancouver, ON, Canada
+    sublabel: North America 2025
     date: 2025-07-14
     tour: northamerica2025
     location: Doug Mitchell Thunderbird Sports Centre
@@ -2105,8 +2108,8 @@
 - show:
     year: 2025
     id: kent
-    fullname: North America 2025
-    sublabel: Kent, WA, USA
+    fullname: Kent, WA, USA
+    sublabel: North America 2025
     date: 2025-07-15
     tour: northamerica2025
     location: Accesso ShoWare Center
@@ -2222,8 +2225,8 @@
 - show:
     year: 2025
     id: sanfrancisco1
-    fullname: North America 2025
-    sublabel: San Francisco, CA, USA
+    fullname: San Francisco, CA, USA
+    sublabel: North America 2025
     date: 2025-07-17
     tour: northamerica2025
     location: The Masonic
@@ -2338,8 +2341,8 @@
 - show:
     year: 2025
     id: sanfrancisco2
-    fullname: North America 2025
-    sublabel: San Francisco, CA, USA
+    fullname: San Francisco, CA, USA
+    sublabel: North America 2025
     date: 2025-07-18
     tour: northamerica2025
     location: The Masonic
@@ -2351,8 +2354,8 @@
 - show:
     year: 2025
     id: lasvegas
-    fullname: North America 2025
-    sublabel: Las Vegas, NV, USA
+    fullname: Las Vegas, NV, USA
+    sublabel: North America 2025
     date: 2025-07-20
     tour: northamerica2025
     location: The Pearl
@@ -2364,8 +2367,8 @@
 - show:
     year: 2025
     id: saltlakecity
-    fullname: North America 2025
-    sublabel: Salt Lake City, UT, USA
+    fullname: Salt Lake City, UT, USA
+    sublabel: North America 2025
     date: 2025-07-21
     tour: northamerica2025
     location: Utah First Credit Union Amphitheatre
@@ -2377,8 +2380,8 @@
 - show:
     year: 2025
     id: phoenix
-    fullname: North America 2025
-    sublabel: Phoenix, AZ, USA
+    fullname: Phoenix, AZ, USA
+    sublabel: North America 2025
     date: 2025-07-23
     tour: northamerica2025
     location: Arizona Financial Theatre
@@ -2390,8 +2393,8 @@
 - show:
     year: 2025
     id: losangeles
-    fullname: METAL FORTH Countdown
-    sublabel: Los Angeles, CA, USA
+    fullname: An evening with BABYMETAL
+    sublabel: Los Angeles, CA, USA - North America 2025
     date: 2025-07-24
     tour: northamerica2025
     location: The Regent Theater
