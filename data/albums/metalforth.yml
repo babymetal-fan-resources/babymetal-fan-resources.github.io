@@ -367,3 +367,121 @@
     - album: metalforth
     - postx: 1945932036797255731
 
+- postx:
+    id: 1947355895903465757
+    account: BABYMETAL_JAPAN
+    label: US Indie Store Release Event 
+    published-date: 2025-07-21
+    text: |
+      🎉 US Indie Store Release Event 🎉
+      Join us for the exclusive release event at participating indie stores across the U.S. to celebrate the launch of METAL FORTH!
+
+      🛒 Event Details:
+      * Location: Selected Indie Stores in the U.S.
+      * Date: Aug 8-10
+    image:
+    - GwZaGJLXQAAI8w6
+    - GwZaGJMWsAAfq53
+
+- postximage:
+    post: 1947355895903465757
+    id: GwZaGJLXQAAI8w6
+    label: Us stores poster
+    published-date: 2025-07-21
+    linked-to:
+    - album: metalforth
+
+- postximage:
+    post: 1947355895903465757
+    id: GwZaGJMWsAAfq53
+    label: US stores
+    published-date: 2025-07-21
+    linked-to:
+    - album: metalforth
+
+- postx:
+    id: 1947790676302958961
+    account: BABYMETAL_JAPAN
+    label: UK Listening Event
+    published-date: 2025-07-23
+    text: |
+      🇬🇧UK Listening Event🇬🇧
+
+      JOIN UK Listening Event at one of 8 stores to hear new album "METAL FORTH"   -　 BEFORE IT'S RELEASED🔥
+
+      PRE-ORDER NOW TO SECURE YOUR PLACE!
+
+      FULL DETAILS: http://ow.ly/il4N50Wp5un
+      #HMVLIVE
+    image:
+    - GwfxOUNaQAAzYlR
+
+- postximage:
+    post: 1947790676302958961
+    id: GwfxOUNaQAAzYlR
+    label: UK Listening Event
+    published-date: 2025-07-23
+    linked-to:
+    - album: metalforth
+
+- postx:
+    id: 1948781770754973790
+    account: BABYMETAL_JAPAN
+    label: TOWER RECORDS bonus
+    published-date: 2025-07-25
+    text: |
+      ニューアルバム『METAL FORTH』リリース&結成15周年記念！タワーレコード オンライン限定「BABYMETAL x TOWER RECORDS オフィシャルコラボTシャツ」抽選プレゼントキャンペーン開催決定！
+      👕詳細はこちら👇
+      https://babymetal.com/towerrecord_collab/
+
+      #BABYMETAL #METALFORTH #TOWERRECORDS
+    image:
+    - Gwt2sT2aoAALq_L
+
+- postximage:
+    post: 1948781770754973790
+    id: Gwt2sT2aoAALq_L
+    label: bonus
+    info: TOWER RECORDS
+    published-date: 2025-07-25
+    linked-to:
+    - album: metalforth
+
+- youtubeshort:
+    id: WuonIkofg6M
+    label: Signed cards in UK
+    published-date: 2025-07-25
+    linked-to:
+    - album: metalforth
+
+- postx:
+    id: 1948784040678683057
+    account: BABYMETAL_JAPAN
+    label: Signed cards in UK
+    published-date: 2025-07-25
+    text: |
+      🇬🇧 LIMITED SIGNED ART CARDS AVAILABLE NOW IN THE UK 🇬🇧
+      Get yours with a CD / Vinyl / Cassette purchase! (1 card per order)
+      👉 UK Store: https://polydor.co.uk/collections/babymetal
+    linked-to:
+    - youtubeshort: WuonIkofg6M
+
+- youtubeshort:
+    id: MhiLi4tDFgQ
+    label: Signed cards in DE
+    published-date: 2025-07-25
+    linked-to:
+    - album: metalforth
+
+- postx:
+    id: 1948784632969003090
+    account: BABYMETAL_JAPAN
+    label: Signed cards in DE
+    published-date: 2025-07-25
+    text: |
+      🇩🇪LIMITED SIGNED ART CARDS AVAILABLE NOW IN GERMANY🇩🇪 Get yours now with a purchase of the alternative cover red vinyl
+
+      https://thecircle.de/collections/babymetal
+    linked-to:
+    - youtubeshort: MhiLi4tDFgQ
+

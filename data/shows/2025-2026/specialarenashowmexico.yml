@@ -93,3 +93,26 @@
         id: specialarenashowmexico
     - postx: 1945604355219935396
 
+- youtubeshort:
+    id: ApCwqt2ecfw
+    label: Sold out
+    published-date: 2025-07-22
+    linked-to:
+    - show:
+        year: 2025
+        id: specialarenashowmexico
+
+- postx:
+    id: 1947449593748181444
+    account: BABYMETAL_JAPAN
+    label: Sold out
+    published-date: 2025-07-22
+    text: |
+      Gracias por el SOLD OUT show !!!!!🤘🦊🤘
+      Nosotras estamos muy emocionadas de verlos !!!!!
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #Mexico
+    linked-to:
+    - youtubeshort: ApCwqt2ecfw
+
+
+

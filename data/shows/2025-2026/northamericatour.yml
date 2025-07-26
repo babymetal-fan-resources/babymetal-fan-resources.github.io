@@ -23,6 +23,12 @@
       - youtubeshort: q9SCWO3JjAc
       image:
       - postximage:
+          post: 1948581219345830051
+          image: GwrAIp_bgAQ6nF4
+      - postximage:
+          post: 1948581219345830051
+          image: GwrAKR0agAAXvFG
+      - postximage:
           post: 1942220423481250038
           image: GvQnJAyboAAJnnD
       - postximage:
@@ -324,6 +330,42 @@
     linked-to:
     - song: papaya
     - tour: northamerica2025
+
+- postx:
+    id: 1948581219345830051
+    account: BABYMETAL_JAPAN
+    label: Thank you Bloodywood, Jinjer
+    published-date: 2025-07-25
+    text: |
+      Thank youuuuu!!!!! 
+      @Bloodywood2
+      
+      @jinjerofficial
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #phoenix
+    image:
+    - GwrAIp_bgAQ6nF4
+    - GwrAKR0agAAXvFG
+
+- postximage:
+    post: 1948581219345830051
+    id: GwrAIp_bgAQ6nF4
+    label: Thank you
+    info: BABYMETAL, Bloodywood
+    published-date: 2025-07-25
+    linked-to:
+    - tour: northamerica2025
+
+- postximage:
+    post: 1948581219345830051
+    id: GwrAKR0agAAXvFG
+    label: Thank you
+    info: BABYMETAL, Jinjer
+    published-date: 2025-07-25
+    linked-to:
+    - tour: northamerica2025
+
+
 
 - show:
     year: 2025
@@ -2350,6 +2392,57 @@
       localimage:
         tour: northamerica2025
         id: cover
+    multimedia:
+      main:
+        postximage:
+          post: 1946479530727923789
+          image: GwNHE5nWQAE29zj
+      image:
+      - postximage:
+          post: 1946479530727923789
+          image: GwNHDo-XcAEJ-3s
+      - postximage:
+          post: 1946479530727923789
+          image: GwNHE5nWQAE29zj
+      - postximage:
+          post: 1946479530727923789
+          image: GwNHF-nW4AA_gUn
+
+- postx:
+    id: 1946479530727923789
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-07-19
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in San Francisco DAY2🌉 
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #SanFrancisco 
+      📸 
+      @v_trvn
+    image:
+    - GwNHDo-XcAEJ-3s
+    - GwNHE5nWQAE29zj
+    - GwNHF-nW4AA_gUn
+
+- postximage:
+    post: 1946479530727923789
+    id: GwNHDo-XcAEJ-3s
+    label: On stage
+    info: SU-METAL
+    published-date: 2025-07-19
+
+- postximage:
+    post: 1946479530727923789
+    id: GwNHE5nWQAE29zj
+    label: On stage
+    info: MOAMETAL
+    published-date: 2025-07-19
+
+- postximage:
+    post: 1946479530727923789
+    id: GwNHF-nW4AA_gUn
+    label: On stage
+    info: MOMOMETAL
+    published-date: 2025-07-19
 
 - show:
     year: 2025
@@ -2363,6 +2456,51 @@
       localimage:
         tour: northamerica2025
         id: cover
+    multimedia:
+      main:
+        postximage:
+          post: 1947199156407427201
+          image: GwXVlMnX0AAQu5o
+      image:
+      - postximage:
+          post: 1947199156407427201
+          image: GwXVlMnX0AAQu5o
+      - postximage:
+          post: 1947199156407427201
+          image: GwXVmeqXEAAB6Gb
+
+
+- postx:
+    id: 1947199156407427201
+    account: BABYMETAL_JAPAN
+    label: Thanks you
+    published-date: 2025-07-21
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Las Vegas🎰
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #LasVegas 
+      📸 
+      @v_trvn
+    image:
+    - GwXVlMnX0AAQu5o
+    - GwXVmeqXEAAB6Gb
+
+- postximage:
+    post: 1947199156407427201
+    id: GwXVlMnX0AAQu5o
+    label: On stage
+    published-date: 2025-07-21
+    linked-to:
+    - song: babymetaldeath
+
+- postximage:
+    post: 1947199156407427201
+    id: GwXVmeqXEAAB6Gb
+    label: On stage
+    published-date: 2025-07-21
+    linked-to:
+    - song: babymetaldeath
+
+
 
 - show:
     year: 2025
@@ -2376,6 +2514,72 @@
       localimage:
         tour: northamerica2025
         id: cover
+    multimedia:
+      main:
+        postximage:
+          post: 1947541959742017686
+          image: GwcNyV6WUAEV32q
+      image:
+      - postximage:
+          post: 1947541959742017686
+          image: GwcNvQcW4AAI-pq
+      - postximage:
+          post: 1947541959742017686
+          image: GwcNxGQXUAAL9w-
+      - postximage:
+          post: 1947541959742017686
+          image: GwcNyV6WUAEV32q
+
+
+- postx:
+    id: 1947541959742017686
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    info: TODO - songs for image 2 and 3 headbanger ?
+    published-date: 2025-07-22
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Salt Lake City🏔️
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #SaltLakeCity
+      📸 
+      @v_trvn
+    image:
+    - GwcNvQcW4AAI-pq
+    - GwcNxGQXUAAL9w-
+    - GwcNyV6WUAEV32q
+
+- postximage:
+    post: 1947541959742017686
+    id: GwcNvQcW4AAI-pq
+    label: On stage
+    info: SU-METAL
+    published-date: 2025-07-22
+    linked-to:
+    - show:
+        year: 2025
+        id: saltlakecity
+    - song: konkon
+
+- postximage:
+    post: 1947541959742017686
+    id: GwcNxGQXUAAL9w-
+    label: On stage
+    info: MOAMETAL
+    published-date: 2025-07-22
+    linked-to:
+    - show:
+        year: 2025
+        id: saltlakecity
+
+- postximage:
+    post: 1947541959742017686
+    id: GwcNyV6WUAEV32q
+    label: On stage
+    info: MOMOMETAL
+    published-date: 2025-07-22
+    linked-to:
+    - show:
+        year: 2025
+        id: saltlakecity
 
 - show:
     year: 2025
@@ -2389,6 +2593,90 @@
       localimage:
         tour: northamerica2025
         id: cover
+    multimedia:
+      main:
+        postximage:
+          post: 1948284475466817789
+          image: GwmrQ78asAAdksM
+      image:
+      - postximage:
+          post: 1948284475466817789
+          image: Gwmq9NuaoAAf_zs
+      - postximage:
+          post: 1948284475466817789
+          image: GwmrNbzbIAAq6R7
+      - postximage:
+          post: 1948284475466817789
+          image: GwmrPq7boAAN-qi
+      - postximage:
+          post: 1948284475466817789
+          image: GwmrQ78asAAdksM
+
+- postx:
+    id: 1948284475466817789
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    info: TODO - image 2 which song
+    published-date: 2025-07-24
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA"TOUR FINAL in Phoenix !!!!!!⚡️🦊🦊🦊⚡️
+      It's been a very exciting NORTH AMERICA Tour!!
+      Thank you very much!!
+      We hope to see you again🪩
+
+      See you at BABYMETAL WORLD TOUR 2025-2026 SUMMER TOUR in JAPAN🇯🇵
+
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #phoenix 
+      📸 
+      @v_trvn
+    image:
+    - Gwmq9NuaoAAf_zs
+    - GwmrNbzbIAAq6R7
+    - GwmrPq7boAAN-qi
+    - GwmrQ78asAAdksM
+
+- postximage:
+    post: 1948284475466817789
+    id: Gwmq9NuaoAAf_zs
+    label: On stage
+    published-date: 2025-07-24
+    linked-to:
+    - show:
+        year: 2025
+        id: phoenix
+    - song: papaya
+
+- postximage:
+    post: 1948284475466817789
+    id: GwmrNbzbIAAq6R7
+    label: On stage
+    published-date: 2025-07-24
+    linked-to:
+    - show:
+        year: 2025
+        id: phoenix
+
+- postximage:
+    post: 1948284475466817789
+    id: GwmrPq7boAAN-qi
+    label: On stage
+    published-date: 2025-07-24
+    linked-to:
+    - show:
+        year: 2025
+        id: phoenix
+    - song: karate
+
+- postximage:
+    post: 1948284475466817789
+    id: GwmrQ78asAAdksM
+    label: On Stage
+    published-date: 2025-07-24
+    linked-to:
+    - show:
+        year: 2025
+        id: phoenix
+    - song: roadofresistance
 
 - show:
     year: 2025
@@ -2402,6 +2690,18 @@
       postximage:
         post: 1945891248981832107
         image: GwEvs9JW8AIIQFg
+    multimedia:
+      main:
+        postximage:
+          post: 1948781027755000246
+          image: Gwt043dbgAUofoY
+      image:
+      - postximage:
+          post: 1948781027755000246
+          image: Gwt043dbgAUofoY
+      - postximage:
+          post: 1948781027755000246
+          image: Gwt06GjbgAA0_84
     linked-to:
     - postx: 1945891248981832107
 
@@ -2446,4 +2746,111 @@
         year: 2025
         id: losangeles
     - postx: 1945891248981832107
+
+- postx:
+    id: 1947008607737831513
+    account: BABYMETAL_JAPAN
+    label: Merch announcement
+    published-date: 2025-07-20
+    text: |
+      Secret Gig “METAL FORTH Countdown” Merchandise Announcement🪩
+      https://babymetal.com/secretgigmerch/
+
+      #BABYMETAL #BABYMETALWORLDTOUR20252026
+    image:
+    - GwSaKfeXMAA_Yf-
+
+- postximage:
+    post: 1947008607737831513
+    id: GwSaKfeXMAA_Yf-
+    label: Merch
+    published-date: 2025-07-20
+    linked-to:
+    - show:
+        year: 2025
+        id: losangeles
+
+- postx:
+    id: 1947367057655316932
+    account: BABYMETAL_JAPAN
+    label: Sold out
+    published-date: 2025-07-21
+    text: |
+      Los Angeles is now "sold out"
+      #BABYMETAL #METALFORTH #LA
+    image:
+    - GwZvm_0WAAAfaFP
+
+- postximage:
+    post: 1947367057655316932
+    id: GwZvm_0WAAAfaFP
+    label: Poster sold out
+    published-date: 2025-07-21
+    linked-to:
+    - show:
+        year: 2025
+        id: losangeles
+
+- postx:
+    id: 1948781027755000246
+    account: BABYMETAL_JAPAN
+    label: Countdown to Intuit Dome show
+    published-date: 2025-07-25
+    text: |
+      🔥 The countdown to Intuit Dome this November has officially begun!🔥
+
+      To fully enjoy the Intuit Dome show, make sure to blast METAL FORTH—dropping August 8! 💥
+
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #LosAngeles #METALFORTH
+      📸 
+      @v_trvn
+    image:
+    - Gwt043dbgAUofoY
+    - Gwt06GjbgAA0_84
+
+- postximage:
+    post: 1948781027755000246
+    id: Gwt043dbgAUofoY
+    label: On stage
+    published-date: 2025-07-25
+    linked-to:
+    - show:
+        year: 2025
+        id: losangeles
+    - song: frommetou
+
+- postximage:
+    post: 1948781027755000246
+    id: Gwt06GjbgAA0_84
+    label: On stage
+    published-date: 2025-07-25
+    linked-to:
+    - show:
+        year: 2025
+        id: losangeles
+    - song: roadofresistance
+
+- postx:
+    id: 1948907621140103421
+    account: BABYMETAL_JAPAN
+    label: Thank you. Preorder album.
+    published-date: 2025-07-26
+    text: |
+      Thank you for coming to our LA secret show yesterday! The show kicked off our 15 day countdown to METAL FORTH, cebebrating our 15th anniversary. Pre-order a signed copy of the album now! 
+      🔗https://Babymetal.lnk.to/USASTORE
+
+      #BABYMETAL #METALFORTH
+    video:
+    - 01
+
+- postxvideo:
+    post: 1948907621140103421
+    id: 01
+    cover: 1948906125056978944/img/R7cfPzv6QaLHODg1.jpg
+    label: Signed cards
+    published-date: 2025-07-26
+    linked-to:
+    - album: metalforth
+
+
 

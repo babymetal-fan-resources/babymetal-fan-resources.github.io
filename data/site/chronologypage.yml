@@ -89,6 +89,9 @@ contentpage:
   - media:
       year: 2025
       id: kerrang
+  - media:
+      year: 2025
+      id: metaradi0726
   - show:
       year: 2025
       id: losangeles
@@ -101,6 +104,9 @@ contentpage:
   - show:
       year: 2025
       id: lasvegas
+  - media:
+      year: 2025
+      id: metaradi0719
   - show:
       year: 2025
       id: sanfrancisco2

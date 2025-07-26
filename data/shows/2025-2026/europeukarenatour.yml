@@ -1305,6 +1305,9 @@
           post: 1928663024081997836
           image: GsP2prsXAAEh5WO
       short:
+      - postxvideo: 
+          post: 1947060377281560607
+          video: 01
       - youtubeshort: gVpbtku2yJY
       - postxvideo:
           post: 1928785133810679817
@@ -1809,6 +1812,35 @@
       
     linked-to:
     - youtubeshort: pQdQzFk-syw
+    - show:
+        year: 2025
+        id: london
+
+- postx:
+    id: 1947060377281560607
+    account: BABYMETAL_JAPAN
+    label: on WOWOW tonight
+    published-date: 2025-07-21
+    text: |
+      #BABYMETAL が5月に開催したO2アリーナでのライブを
+      本日、7.21(月・祝) 21:00より #WOWOW で放送＆配信DEATH!!📡
+
+      また、WOWOWでは3カ月連続特集として、2024年の沖縄公演やMV集もお届け
+      詳細はこちら👇
+      https://wowow.co.jp/music/babymetal/
+
+      @wowow_mj
+      #BABYMETALWORLDTOUR
+    video:
+    - 01
+
+- postxvideo:
+    post: 1947060377281560607
+    id: 01
+    cover: 1947057019006898179/img/lZTA31E0v9NjVjwf.jpg
+    label: Trailer WOWOW
+    published-date: 2025-07-21
+    linked-to:
     - show:
         year: 2025
         id: london
