@@ -18,6 +18,11 @@
     - algorism
     - metali
     - whiteflame
+    multimedia:
+      main:
+        youtubeshort: fIpzS0i9pEQ
+      short:
+      - youtubeshort: fIpzS0i9pEQ
     linked-to:
     - postx: 1906725673450037384
     - postx: 1914967729335103936
@@ -484,4 +489,26 @@
       https://thecircle.de/collections/babymetal
     linked-to:
     - youtubeshort: MhiLi4tDFgQ
+
+- youtubeshort:
+    id: fIpzS0i9pEQ
+    label: Signing a card
+    published-date: 2025-07-27
+    linked-to:
+    - album: metalforth
+
+- postx:
+    id: 1949293700473082185
+    account: BABYMETAL_JAPAN
+    label: Signing a card
+    published-date: 2025-07-27
+    text: |
+      Only 13 days left to METAL FORTH!
+      Pre-order your signed Album today and let’s celebrate the release of METAL FORTH together on August 8th!!
+
+      https://Babymetal.lnk.to/USASTORE
+
+      #BABYMETAL #METALFORTH
+    linked-to:
+    - youtubeshort: fIpzS0i9pEQ
 
