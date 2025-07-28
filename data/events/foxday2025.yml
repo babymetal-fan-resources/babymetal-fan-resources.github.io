@@ -45,6 +45,8 @@
     label: Legend Map
     published-date: 2025-04-01
     local-copy: true
+    context:
+    - event: foxday2025
     linked-to:
     - postx: 1906723180129005981
 

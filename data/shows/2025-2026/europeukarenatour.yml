@@ -77,6 +77,8 @@
     id: ZL8yLAJcJhM
     label: Trailer
     published-date: 2024-05-02
+    context:
+    - tour: ukeuropearenatour2025
     linked-to:
     - tour: ukeuropearenatour2025
 
@@ -97,6 +99,8 @@
     label: We are on tour
     info: BABYMETAL, Poppy
     published-date: 2025-05-11
+    context:
+    - tour: ukeuropearenatour2025
     linked-to:
     - tour: ukeuropearenatour2025
 
@@ -105,6 +109,8 @@
     label: We are on tour
     info: BABYMETAL, Bambie Thug
     published-date: 2025-05-12
+    context:
+    - tour: ukeuropearenatour2025
     linked-to:
     - tour: ukeuropearenatour2025
 
@@ -113,6 +119,9 @@
     label: Recap
     info: Brussel, Hamburg, Amsterdam
     published-date: 2025-05-15
+    context:
+    - tour: ukeuropearenatour2025
+    - song: frommetou
     linked-to:
     - song: frommetou
     - tour: ukeuropearenatour2025
@@ -122,6 +131,9 @@
     label: Recap
     info: Frankfurt, Berlin
     published-date: 2025-05-18
+    context:
+    - song: bxmxc
+    - tour: ukeuropearenatour2025
     linked-to:
     - song: bxmxc
     - tour: ukeuropearenatour2025
@@ -131,6 +143,9 @@
     label: Recap
     info: Krakow, Nürnberg
     published-date: 2025-05-22
+    context:
+    - song: roadofresistance
+    - tour: ukeuropearenatour2025
     linked-to:
     - song: roadofresistance
     - tour: ukeuropearenatour2025
@@ -140,6 +155,9 @@
     label: Recap
     info: Zurich
     published-date: 2025-05-24
+    context:
+    - song: karate
+    - tour: ukeuropearenatour2025
     linked-to:
     - song: karate
     - tour: ukeuropearenatour2025
@@ -149,6 +167,9 @@
     label: Recap
     info: Madrid, Barcelona
     published-date: 2025-05-27
+    context:
+    - song: bxmxc
+    - tour: ukeuropearenatour2025
     linked-to:
     - song: bxmxc
     - tour: ukeuropearenatour2025
@@ -158,6 +179,9 @@
     label: Recap
     info: Paris
     published-date: 2025-05-30
+    context:
+    - song: ratatata
+    - tour: ukeuropearenatour2025
     linked-to:
     - song: ratatata
     - tour: ukeuropearenatour2025
@@ -167,6 +191,9 @@
     label: Recap
     info: London
     published-date: 2025-06-03
+    context:
+    - song: bxmxc
+    - tour: ukeuropearenatour2025
     linked-to:
     - song: bxmxc
     - tour: ukeuropearenatour2025
@@ -176,6 +203,9 @@
     label: Recap
     info: Europe & UK
     published-date: 2025-06-06
+    context:
+    - song: frommetou
+    - tour: ukeuropearenatour2025
     linked-to:
     - song: frommetou
     - tour: ukeuropearenatour2025
@@ -239,6 +269,10 @@
     id: GqobJj1XAAAoK2h
     label: Arena
     published-date: 2025-05-09
+    context:
+    - show:
+        year: 2025
+        id: brussels
     linked-to:
     - show:
         year: 2025
@@ -250,6 +284,11 @@
     id: GqobKr7W8AA-aWi
     label: On stage
     published-date: 2025-05-09
+    context:
+    - show:
+        year: 2025
+        id: brussels
+    - song: megitsune
     linked-to:
     - show:
         year: 2025
@@ -317,6 +356,11 @@
     id: Gq0W87iXwAA3oxm
     label: On stage
     published-date: 2025-05-13
+    context:
+    - show:
+        year: 2025
+        id: hamburg
+    - song: roadofresistance
     linked-to:
     - show:
         year: 2025
@@ -329,6 +373,10 @@
     id: Gq0XPhEXYAAg7xB
     label: Crowd
     published-date: 2025-05-13
+    context:
+    - show:
+        year: 2025
+        id: hamburg
     linked-to:
     - show:
         year: 2025
@@ -410,6 +458,10 @@
     label: On stage
     published-date: 2025-05-14
     info: SU-METAL
+    context:
+    - show:
+        year: 2025
+        id: amsterdam
     linked-to:
     - show:
         year: 2025
@@ -422,6 +474,10 @@
     label: On stage
     published-date: 2025-05-14
     info: MOAMETAL
+    context:
+    - show:
+        year: 2025
+        id: amsterdam
     linked-to:
     - show:
         year: 2025
@@ -434,6 +490,10 @@
     label: On stage
     published-date: 2025-05-14
     info: MOMOMETAL
+    context:
+    - show:
+        year: 2025
+        id: amsterdam
     linked-to:
     - show:
         year: 2025
@@ -445,6 +505,10 @@
     id: Gq3uhjqbAAEUMFt
     label: Arena
     published-date: 2025-05-14
+    context:
+    - show:
+        year: 2025
+        id: amsterdam
     linked-to:
     - show:
         year: 2025
@@ -517,6 +581,10 @@
     id: GrHBuj9WwAAr1p_
     label: Crowd
     published-date: 2025-05-17
+    context:
+    - show:
+        year: 2025
+        id: frankfurt
     linked-to:
     - show:
         year: 2025
@@ -528,6 +596,11 @@
     id: GrHByaDX0AAQxE3
     label: On stage
     published-date: 2025-05-17
+    context:
+    - show:
+        year: 2025
+        id: frankfurt
+    - song: roadofresistance
     linked-to:
     - show:
         year: 2025
@@ -541,6 +614,10 @@
     label: On stage
     published-date: 2025-05-17
     info: weee aaaare
+    context:
+    - show:
+        year: 2025
+        id: frankfurt
     linked-to:
     - show:
         year: 2025
@@ -600,6 +677,10 @@
     id: GrOMgFHXsAAXD-b
     label: Arena
     published-date: 2025-05-17
+    context:
+    - show:
+        year: 2025
+        id: berlin
     linked-to:
     - show:
         year: 2025
@@ -675,6 +756,10 @@
     id: GrY0XDsXwAA3nGo
     label: On stage
     published-date: 2025-05-20
+    context:
+    - show:
+        year: 2025
+        id: krakow
     linked-to:
     - show:
         year: 2025
@@ -686,6 +771,10 @@
     id: GrY0ZqUXgAAzv4m
     label: Young girl
     published-date: 2025-05-20
+    context:
+    - show:
+        year: 2025
+        id: krakow
     linked-to:
     - show:
         year: 2025
@@ -697,6 +786,10 @@
     id: GrY0ybHXQAAcr74
     label: Barrier
     published-date: 2025-05-20
+    context:
+    - show:
+        year: 2025
+        id: krakow
     linked-to:
     - show:
         year: 2025
@@ -708,6 +801,10 @@
     id: GrY04swXYAAuDIs
     label: Outside
     published-date: 2025-05-20
+    context:
+    - show:
+        year: 2025
+        id: krakow
     linked-to:
     - show:
         year: 2025
@@ -774,6 +871,11 @@
     id: GrbpXs1bAAAydOs
     label: On stage
     published-date: 2025-05-21
+    context:
+    - show:
+        year: 2025
+        id: nuremberg
+    - song: papaya
     linked-to:
     - show:
         year: 2025
@@ -786,6 +888,10 @@
     id: GrbpZctaEAAGQWB
     label: Crowd
     published-date: 2025-05-21
+    context:
+    - show:
+        year: 2025
+        id: nuremberg
     linked-to:
     - show:
         year: 2025
@@ -864,6 +970,11 @@
     id: Grl7pBtWUAAqn9G
     label: On stage
     published-date: 2025-05-23
+    context:
+    - show:
+        year: 2025
+        id: zurich
+    - song: megitsune
     linked-to:
     - show:
         year: 2025
@@ -877,6 +988,11 @@
     label: On stage
     published-date: 2025-05-23
     info: SU-METAL
+    context:
+    - show:
+        year: 2025
+        id: zurich
+    - song: bxmxc
     linked-to:
     - show:
         year: 2025
@@ -889,6 +1005,10 @@
     id: Grl7sgaXQAADNoV
     label: Crowd
     published-date: 2025-05-23
+    context:
+    - show:
+        year: 2025
+        id: zurich
     linked-to:
     - show:
         year: 2025
@@ -900,6 +1020,11 @@
     id: Grl7uB-XEAA6h9j
     label: On stage
     published-date: 2025-05-23
+    context:
+    - show:
+        year: 2025
+        id: zurich
+    - song: babymetaldeath
     linked-to:
     - show:
         year: 2025
@@ -982,6 +1107,11 @@
     id: Gr1UObxWMAAv3lH
     label: On stage
     published-date: 2025-05-26
+    context:
+    - show:
+        year: 2025
+        id: madrid
+    - song: roadofresistance
     linked-to:
     - show:
         year: 2025
@@ -994,6 +1124,11 @@
     id: Gr1UObPWoAABiAS
     label: Crowd
     published-date: 2025-05-26
+    context:
+    - show:
+        year: 2025
+        id: madrid
+    - song: karate
     linked-to:
     - show:
         year: 2025
@@ -1007,6 +1142,10 @@
     label: On stage
     published-date: 2025-05-26
     info: weeee aaarre, MOA-METAL
+    context:
+    - show:
+        year: 2025
+        id: madrid
     linked-to:
     - show:
         year: 2025
@@ -1019,6 +1158,11 @@
     label: On stage
     published-date: 2025-05-26
     info: MOMOMETAL
+    context:
+    - show:
+        year: 2025
+        id: madrid
+    - song: metali
     linked-to:
     - show:
         year: 2025
@@ -1101,6 +1245,11 @@
     id: Gr6qRwjWkAAiw0K
     label: On stage
     published-date: 2025-05-27
+    context:
+    - show:
+        year: 2025
+        id: barcelona
+    - song: frommetou
     linked-to:
     - show:
         year: 2025
@@ -1113,6 +1262,10 @@
     id: Gr6qVqvXQAA1uZx
     label: On stage
     published-date: 2025-05-27
+    context:
+    - show:
+        year: 2025
+        id: barcelona
     linked-to:
     - show:
         year: 2025
@@ -1124,6 +1277,10 @@
     id: Gr6qZSdXAAEOJMn
     label: On Stage
     published-date: 2025-05-27
+    context:
+    - show:
+        year: 2025
+        id: barcelona
     linked-to:
     - show:
         year: 2025
@@ -1135,6 +1292,10 @@
     id: Gr6qdlFX0AA_1xz
     label: On stage
     published-date: 2025-05-27
+    context:
+    - show:
+        year: 2025
+        id: barcelona
     linked-to:
     - show:
         year: 2025
@@ -1203,6 +1364,10 @@
     published-date: 2025-05-27
     info: sold out
     local-copy: true
+    context:
+    - show:
+        year: 2025
+        id: paris
     linked-to:
     - postx: 1927273572768116988
 
@@ -1244,6 +1409,11 @@
     id: GsE0WAJXUAELhja
     label: On stage
     published-date: 2025-05-29
+    context:
+    - show:
+        year: 2025
+        id: paris
+    - song: bxmxc
     linked-to:
     - show:
         year: 2025
@@ -1257,6 +1427,10 @@
     label: On stage
     published-date: 2025-05-29
     info: weeee aaarre!!
+    context:
+    - show:
+        year: 2025
+        id: paris
     linked-to:
     - show:
         year: 2025
@@ -1268,6 +1442,11 @@
     id: GsE0cROXYAAIOJs
     label: Crowd
     published-date: 2025-05-29
+    context:
+    - show:
+        year: 2025
+        id: paris
+    - song: karate
     linked-to:
     - show:
         year: 2025
@@ -1280,6 +1459,10 @@
     id: GsE0eAHXAAAI7k2
     label: Crowd
     published-date: 2025-05-29
+    context:
+    - show:
+        year: 2025
+        id: paris
     linked-to:
     - show:
         year: 2025
@@ -1392,6 +1575,10 @@
     id: Gnp9cloaYAAlHNs
     label: Live viewing
     published-date: 2025-04-04
+    context:
+    - show:
+        year: 2025
+        id: london
     linked-to:
     - show:
         year: 2025
@@ -1458,6 +1645,10 @@
     id: Gq4QmS8XwAApzMB
     label: Live viewing merch
     published-date: 2025-05-16
+    context:
+    - show:
+        year: 2025
+        id: london
     linked-to:
     - show:
         year: 2025
@@ -1533,6 +1724,10 @@
     id: Gr_Q58gXMAADG3o
     label: Low Tickets poster
     published-date: 2025-05-28
+    context:
+    - show:
+        year: 2025
+        id: london
     linked-to:
     - show:
         year: 2025
@@ -1564,6 +1759,10 @@
     id: GsEXovsWYAAUeLb
     label: Pop Up Merch
     published-date: 2025-05-28
+    context:
+    - show:
+        year: 2025
+        id: london
     linked-to:
     - show:
         year: 2025
@@ -1596,6 +1795,10 @@
     label: Cover sold out
     published-date: 2025-05-29
     local-copy: true
+    context:
+    - show:
+        year: 2025
+        id: london
     linked-to:
     - show:
         year: 2025
@@ -1626,6 +1829,10 @@
     id: GsNGaWdWQAAJpfD
     label: JAL model
     published-date: 2025-05-30
+    context:
+    - show:
+        year: 2025
+        id: london
     linked-to:
     - show:
         year: 2025
@@ -1636,6 +1843,10 @@
     id: pQdQzFk-syw
     label: Pop Up Store
     published-date: 2025-05-31
+    context:
+    - show:
+        year: 2025
+        id: london
     linked-to:
     - show:
         year: 2025
@@ -1682,6 +1893,10 @@
     label: Arena
     published-date: 2025-05-31
     info: from the upper levels
+    context:
+    - show:
+        year: 2025
+        id: london
     linked-to:
     - show:
         year: 2025
@@ -1693,6 +1908,11 @@
     id: GsP2twUWEAAYuj1
     label: On stage
     published-date: 2025-05-31
+    context:
+    - show:
+        year: 2025
+        id: london
+    - song: frommetou
     linked-to:
     - show:
         year: 2025
@@ -1705,6 +1925,10 @@
     id: GsP2waLXYAA0QmT
     label: On stage
     published-date: 2025-05-31
+    context:
+    - show:
+        year: 2025
+        id: london
     linked-to:
     - show:
         year: 2025
@@ -1717,6 +1941,10 @@
     label: Arena
     published-date: 2025-05-31
     info: from the back of the floor, weeee aaarre !!
+    context:
+    - show:
+        year: 2025
+        id: london
     linked-to:
     - show:
         year: 2025
@@ -1753,6 +1981,10 @@
     id: GsRr0AiWIAExcJc
     label: Wall of signature
     published-date: 2025-05-31
+    context:
+    - show:
+        year: 2025
+        id: london
     linked-to:
     - show:
         year: 2025
@@ -1765,6 +1997,10 @@
     label: Signed wall
     cover: 1928785081671249920/img/eheuZvHzZMwP2kHT.jpg
     published-date: 2025-05-31
+    context:
+    - show:
+        year: 2025
+        id: london
     linked-to:
     - show:
         year: 2025
@@ -1840,6 +2076,10 @@
     cover: 1947057019006898179/img/lZTA31E0v9NjVjwf.jpg
     label: Trailer WOWOW
     published-date: 2025-07-21
+    context:
+    - show:
+        year: 2025
+        id: london
     linked-to:
     - show:
         year: 2025

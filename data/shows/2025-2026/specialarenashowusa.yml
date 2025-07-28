@@ -46,6 +46,10 @@
     id: HbRO9vuZiKE
     label: Trailer
     published-date: 2025-05-31
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
     linked-to:
     - show:
         year: 2025
@@ -81,6 +85,10 @@
     id: GsdAxWcb0AAMBm3
     label: On stage
     published-date: 2025-06-02
+    context:
+    - show:
+        year: 2025
+        id: london
     linked-to:
     - show:
         year: 2025
@@ -118,6 +126,11 @@
     id: Vu1m40iw7yM
     label: Trailer
     published-date: 2025-06-06
+    context:
+    - song: frommetou
+    - show:
+        year: 2025
+        id: specialarenashowusa
     linked-to:
     - song: frommetou
     - show:

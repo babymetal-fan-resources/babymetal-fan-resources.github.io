@@ -29,7 +29,7 @@ class TourPage(
   override def elementContent(): Seq[BodyElement[?]] = {
     val largeDetails = LargeDetails.generate(tourCompiledData)
 
-    val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, Tour.FROM_KEY)
+    val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, tourCompiledData.uId)
 
     val showsSections: Seq[BodyElement[?]] = Seq(
       SectionHeader.generate(SECTION_SHOWS),
@@ -54,7 +54,7 @@ class TourExtraPage(
     val mediaSection =
       MultiMediaCard.generateExtraMediaSection(
         multimediaBlock,
-        Tour.FROM_KEY,
+        tour.uId,
       )
 
     Seq(

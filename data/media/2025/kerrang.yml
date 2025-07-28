@@ -46,6 +46,10 @@
     label: cover
     published-date: 2025-07-17
     local-copy: true
+    context:
+    - media:
+        year: 2025
+        id: kerrang
     linked-to:
     - postx: 1945884294406369469
 

@@ -22,7 +22,7 @@
     linked-to:
     - youtubevideo: qayP_YUrf9I
     - localimage:
-        youtubevideo: qayP_YUrf9I
+        song: frommetou
         id: mvcover
     - youtubeshort: FYwqnTc2TIs
     - youtubeshort: JdKbr69Xn6I
@@ -37,6 +37,8 @@
     id: qayP_YUrf9I
     label: Official Music Video
     published-date: 2025-04-04
+    context:
+    - song: frommetou
     linked-to:
     - song: frommetou
 
@@ -47,12 +49,12 @@
       song: frommetou
     cover-image: 
       localimage:
-        youtubevideo: qayP_YUrf9I
+        song: frommetou
         id: mvcover
     categories: video
 
 - localimage:
-    youtubevideo: qayP_YUrf9I
+    song: frommetou
     id: mvcover
     label: MV cover
     filename: mvcover.png
@@ -67,6 +69,8 @@
     id: FYwqnTc2TIs
     label: Teaser 1
     published-date: 2025-04-02
+    context:
+    - song: frommetou
     linked-to:
     - song: frommetou
 
@@ -74,6 +78,8 @@
     id: JdKbr69Xn6I
     label: Teaser 2
     published-date: 2025-04-03
+    context:
+    - song: frommetou
     linked-to:
     - song: frommetou
 
@@ -128,6 +134,8 @@
     label: Music Video
     published-date: 2025-04-04
     info: first part background
+    context:
+    - song: frommetou
     linked-to:
     - song: frommetou
     - postx: 1907811061547544665
@@ -159,6 +167,8 @@
     label: MV Short
     cover: 1907985120726040576/pu/img/WXgnjDKx3gmsk4By.jpg
     published-date: 2025-04-04
+    context:
+    - song: frommetou
     linked-to:
     - song: frommetou
     - postx: 1908006616361799954
@@ -187,6 +197,8 @@
     label: cover image
     published-date: 2025-04-04
     local-copy: true
+    context:
+    - song: frommetou
     linked-to:
     - postx: 1908172721055469909
 
@@ -213,6 +225,8 @@
     label: MV Short
     cover: 1917748799784771585/img/qZcZu7H_q5eBoVlL.jpg
     published-date: 2025-05-01
+    context:
+    - song: frommetou
     linked-to:
     - song: frommetou
     - postx: 1917749117322932480

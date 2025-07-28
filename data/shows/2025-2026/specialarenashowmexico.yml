@@ -59,6 +59,10 @@
     id: Gvy0eR1bgAAkfN_
     label: Poster
     published-date: 2025-07-14
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowmexico
     linked-to:
     - show:
         year: 2025
@@ -87,6 +91,10 @@
     id: Gv_iY7wXsAUHBKv
     label: Sold out
     published-date: 2025-07-17
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowmexico
     linked-to:
     - show:
         year: 2025
@@ -97,6 +105,10 @@
     id: ApCwqt2ecfw
     label: Sold out
     published-date: 2025-07-22
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowmexico
     linked-to:
     - show:
         year: 2025

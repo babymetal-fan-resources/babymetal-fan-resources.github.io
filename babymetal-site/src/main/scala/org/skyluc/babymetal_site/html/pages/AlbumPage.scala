@@ -35,9 +35,9 @@ class AlbumPage(
       ChronologySection.generate(songsByYears, Nil, true, false),
     )
 
-    val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, Album.FROM_KEY)
+    val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, album.uId)
 
-    val additionalSection = MultiMediaCard.generateAdditionalSection(multimediaBlock, Album.FROM_KEY)
+    val additionalSection = MultiMediaCard.generateAdditionalSection(multimediaBlock, album.uId)
 
     Seq(
       largeDetails
@@ -58,7 +58,7 @@ class AlbumExtraPage(
     val mediaSection =
       MultiMediaCard.generateExtraMediaSection(
         multimediaBlock,
-        Album.FROM_KEY,
+        album.uId,
       )
 
     Seq(

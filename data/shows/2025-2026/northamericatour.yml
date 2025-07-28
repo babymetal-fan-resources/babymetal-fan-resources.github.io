@@ -129,6 +129,8 @@
     id: sxnNfKoYEsA
     label: Trailer
     published-date: 2025-03-21
+    context:
+    - tour: northamerica2025
     linked-to:
     - tour: northamerica2025
 
@@ -136,6 +138,8 @@
     id: t-xe-Skaidk
     label: Trailer
     published-date: 2025-03-21
+    context:
+    - tour: northamerica2025
     linked-to:
     - tour: northamerica2025
 
@@ -178,6 +182,8 @@
     label: We are on tour
     published-date: 2025-06-14
     info: BABYMETAL, Black Veil Brides
+    context:
+    - tour: northamerica2025
     linked-to:
     - postx: 1933901506392080643
 
@@ -208,6 +214,8 @@
     label: We are on tour
     published-date: 2025-06-14
     info: BABYMETAL, Bloodywood
+    context:
+    - tour: northamerica2025
     linked-to:
     - postx: 1933901658599153909
 
@@ -238,6 +246,8 @@
     label: We are on tour
     published-date: 2025-07-07
     info: BABYMETAL, Jinjer
+    context:
+    - tour: northamerica2025
     linked-to:
     - postx: 1942220423481250038
 
@@ -246,6 +256,9 @@
     label: Recap
     info: Houston, Irving
     published-date: 2025-06-17
+    context:
+    - song: frommetou
+    - tour: northamerica2025
     linked-to:
     - song: frommetou
     - tour: northamerica2025
@@ -255,6 +268,9 @@
     label: Recap
     info: Tampa
     published-date: 2025-06-20
+    context:
+    - song: song3
+    - tour: northamerica2025
     linked-to:
     - song: song3
     - tour: northamerica2025
@@ -264,6 +280,9 @@
     label: Recap
     info: Charlotte, Baltimore
     published-date: 2025-06-23
+    context:
+    - song: bxmxc
+    - tour: northamerica2025
     linked-to:
     - song: bxmxc
     - tour: northamerica2025
@@ -273,6 +292,9 @@
     label: Recap
     info: New York, Boston
     published-date: 2025-06-28
+    context:
+    - song: gimichoko
+    - tour: northamerica2025
     linked-to:
     - song: gimichoko
     - tour: northamerica2025
@@ -282,6 +304,9 @@
     label: Recap
     info: Uncasville, Philadelphia
     published-date: 2025-06-30
+    context:
+    - song: megitsune
+    - tour: northamerica2025
     linked-to:
     - song: megitsune
     - tour: northamerica2025
@@ -291,6 +316,9 @@
     label: Recap
     info: Laval
     published-date: 2025-07-02
+    context:
+    - song: frommetou
+    - tour: northamerica2025
     linked-to:
     - song: frommetou
     - tour: northamerica2025
@@ -300,6 +328,9 @@
     label: Recap
     info: Toronto, Sterling Heights
     published-date: 2025-07-05
+    context:
+    - song: bxmxc
+    - tour: northamerica2025
     linked-to:
     - song: bxmxc
     - tour: northamerica2025
@@ -309,6 +340,9 @@
     label: Recap
     info: Milwaukee, St Louis
     published-date: 2025-07-08
+    context:
+    - song: frommetou
+    - tour: northamerica2025
     linked-to:
     - song: frommetou
     - tour: northamerica2025
@@ -318,6 +352,9 @@
     label: Recap
     info: Chicago, Mineapolis
     published-date: 2025-07-11
+    context:
+    - song: papaya
+    - tour: northamerica2025
     linked-to:
     - song: papaya
     - tour: northamerica2025
@@ -327,6 +364,9 @@
     label: Recap
     info: Vancouver, Kent
     published-date: 2025-07-17
+    context:
+    - song: papaya
+    - tour: northamerica2025
     linked-to:
     - song: papaya
     - tour: northamerica2025
@@ -353,6 +393,8 @@
     label: Thank you
     info: BABYMETAL, Bloodywood
     published-date: 2025-07-25
+    context:
+    - tour: northamerica2025
     linked-to:
     - tour: northamerica2025
 
@@ -362,6 +404,8 @@
     label: Thank you
     info: BABYMETAL, Jinjer
     published-date: 2025-07-25
+    context:
+    - tour: northamerica2025
     linked-to:
     - tour: northamerica2025
 
@@ -435,6 +479,11 @@
     id: GtYv6GJbMAQs6hO
     label: Arena
     published-date: 2025-06-14
+    context:
+    - show:
+        year: 2025
+        id: houston
+    - song: bxmxc
     linked-to:
     - show:
         year: 2025
@@ -447,6 +496,11 @@
     id: GtYv6GHbMAEk1r0
     label: On stage
     published-date: 2025-06-14
+    context:
+    - show:
+        year: 2025
+        id: houston
+    - song: karate
     linked-to:
     - show:
         year: 2025
@@ -460,6 +514,10 @@
     label: On stage
     published-date: 2025-06-14
     info: weeeeeaaaaa
+    context:
+    - show:
+        year: 2025
+        id: houston
     linked-to:
     - show:
         year: 2025
@@ -540,6 +598,11 @@
     id: GtdrmaWXgAA5JrD
     label: On stage
     published-date: 2025-06-15
+    context:
+    - show:
+        year: 2025
+        id: irving
+    - song: metali
     linked-to:
     - show:
         year: 2025
@@ -552,6 +615,11 @@
     id: GtdrmawWgAAYaRj
     label: On stage
     published-date: 2025-06-15
+    context:
+    - show:
+        year: 2025
+        id: irving
+    - song: song3
     linked-to:
     - show:
         year: 2025
@@ -564,6 +632,10 @@
     id: Gtdrma3WoAA55Sq
     label: Venue
     published-date: 2025-06-15
+    context:
+    - show:
+        year: 2025
+        id: irving
     linked-to:
     - show:
         year: 2025
@@ -575,6 +647,10 @@
     id: GtdrmanWIAAc_Je
     label: Crowd
     published-date: 2025-06-15
+    context:
+    - show:
+        year: 2025
+        id: irving
     linked-to:
     - show:
         year: 2025
@@ -640,6 +716,11 @@
     id: GtuV242WMAAE3hI
     label: On stage
     published-date: 2025-06-18
+    context:
+    - show:
+        year: 2025
+        id: tampa
+    - song: bxmxc
     linked-to:
     - show:
         year: 2025
@@ -652,6 +733,11 @@
     id: GtuV4X3WMAAcMjj
     label: From the back of the stage
     published-date: 2025-06-18
+    context:
+    - show:
+        year: 2025
+        id: tampa
+    - song: karate
     linked-to:
     - show:
         year: 2025
@@ -726,6 +812,10 @@
     label: On stage
     published-date: 2025-06-19
     info: Weeeee aaaaa!!
+    context:
+    - show:
+        year: 2025
+        id: atlanta
     linked-to:
     - show:
         year: 2025
@@ -737,6 +827,11 @@
     id: GtyURlBXgAAsFrl
     label: From the back of the stage
     published-date: 2025-06-19
+    context:
+    - show:
+        year: 2025
+        id: atlanta
+    - song: karate
     linked-to:
     - show:
         year: 2025
@@ -749,6 +844,11 @@
     id: GtyUQSGWUAAZ64_
     label: Venue
     published-date: 2025-06-19
+    context:
+    - show:
+        year: 2025
+        id: atlanta
+    - song: karate
     linked-to:
     - show:
         year: 2025
@@ -816,6 +916,11 @@
     id: Gt8kOz5XYAAzv8u
     label: On Stage
     published-date: 2025-06-21
+    context:
+    - show:
+        year: 2025
+        id: charlotte
+    - song: metali
     linked-to:
     - show:
         year: 2025
@@ -828,6 +933,11 @@
     id: Gt8kbtdWgAEaVYh
     label: Venue
     published-date: 2025-06-21
+    context:
+    - show:
+        year: 2025
+        id: charlotte
+    - song: babymetaldeath
     linked-to:
     - show:
         year: 2025
@@ -887,6 +997,10 @@
     id: GuBimuGXUAAKFkt
     label: Venue
     published-date: 2025-06-22
+    context:
+    - show:
+        year: 2025
+        id: baltimore
     linked-to:
     - show:
         year: 2025
@@ -953,6 +1067,11 @@
     id: GuSu9ZcWoAAigk1
     label: On stage
     published-date: 2025-06-25
+    context:
+    - show:
+        year: 2025
+        id: newyork
+    - song: papaya
     linked-to:
     - show:
         year: 2025
@@ -965,6 +1084,11 @@
     id: GuSvK8KWIAA305c
     label: Crowd & Stage
     published-date: 2025-06-25
+    context:
+    - show:
+        year: 2025
+        id: newyork
+    - song: papaya
     linked-to:
     - show:
         year: 2025
@@ -1031,6 +1155,11 @@
     id: GuWFesMW4AAZCKm
     label: On stage
     published-date: 2025-06-26
+    context:
+    - show:
+        year: 2025
+        id: boston
+    - song: roadofresistance
     linked-to:
     - show:
         year: 2025
@@ -1043,6 +1172,11 @@
     id: GuWFgTsXgAACcTr
     label: On stage
     published-date: 2025-06-26
+    context:
+    - show:
+        year: 2025
+        id: boston
+    - song: bxmxc
     linked-to:
     - show:
         year: 2025
@@ -1109,6 +1243,11 @@
     id: GugZVxXWMAAQlcN
     label: On stage
     published-date: 2025-06-28
+    context:
+    - show:
+        year: 2025
+        id: uncasville
+    - song: papaya
     linked-to:
     - show:
         year: 2025
@@ -1121,6 +1260,11 @@
     id: GugZYjCXUAAtwkm
     label: Venue
     published-date: 2025-06-28
+    context:
+    - show:
+        year: 2025
+        id: uncasville
+    - song: song3
     linked-to:
     - show:
         year: 2025
@@ -1181,6 +1325,10 @@
     label: On stage
     published-date: 2025-06-29
     info: weeeeeaaaaa
+    context:
+    - show:
+        year: 2025
+        id: philadelphia
     linked-to:
     - show:
         year: 2025
@@ -1247,6 +1395,10 @@
     id: GuvwbhnW8AAfDfW
     label: On stage
     published-date: 2025-07-01
+    context:
+    - show:
+        year: 2025
+        id: laval
     linked-to:
     - show:
         year: 2025
@@ -1258,6 +1410,11 @@
     id: Guvwcu8XUAAzAa8
     label: On stage
     published-date: 2025-07-01
+    context:
+    - show:
+        year: 2025
+        id: laval
+    - song: babymetaldeath
     linked-to:
     - show:
         year: 2025
@@ -1325,6 +1482,11 @@
     id: Gu6NzIVWkAADCfP
     label: On stage
     published-date: 2025-07-03
+    context:
+    - show:
+        year: 2025
+        id: laval
+    - song: papaya
     linked-to:
     - show:
         year: 2025
@@ -1337,6 +1499,10 @@
     id: Gu6N0OLXsAAlGuJ
     label: On stage
     published-date: 2025-07-03
+    context:
+    - show:
+        year: 2025
+        id: laval
     linked-to:
     - show:
         year: 2025
@@ -1403,6 +1569,11 @@
     id: Gu_adzLWAAAkyVE
     label: On stage
     published-date: 2025-07-04
+    context:
+    - show:
+        year: 2025
+        id: sterlingheights
+    - song: papaya
     linked-to:
     - show:
         year: 2025
@@ -1415,6 +1586,11 @@
     id: Gu_afEXX0AA4cmI
     label: On stage
     published-date: 2025-07-04
+    context:
+    - show:
+        year: 2025
+        id: sterlingheights
+    - song: karate
     linked-to:
     - show:
         year: 2025
@@ -1503,6 +1679,10 @@
     label: On stage
     published-date: 2025-07-06
     info: weeeeeaaaaa
+    context:
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
     linked-to:
     - show:
         year: 2025
@@ -1514,6 +1694,10 @@
     id: GvJ6z0tWIAEb4kb
     label: On stage
     published-date: 2025-07-06
+    context:
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
     linked-to:
     - show:
         year: 2025
@@ -1526,6 +1710,10 @@
     label: On stage
     published-date: 2025-07-06
     info: weeeeeaaaaa
+    context:
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
     linked-to:
     - show:
         year: 2025
@@ -1537,6 +1725,10 @@
     id: GvJ65QWXAAAo0Of
     label: On stage
     published-date: 2025-07-06
+    context:
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
     linked-to:
     - show:
         year: 2025
@@ -1570,6 +1762,10 @@
     label: With The Warning
     published-date: 2025-07-06
     info: BABYMETAL, The Warning
+    context:
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
     linked-to:
     - show:
         year: 2025
@@ -1649,6 +1845,11 @@
     id: GvOzE45WAAA28-r
     label: On stage
     published-date: 2025-07-07
+    context:
+    - show:
+        year: 2025
+        id: marylandheights
+    - song: bxmxc
     linked-to:
     - show:
         year: 2025
@@ -1661,6 +1862,11 @@
     id: GvOzGlpW0AAmzPN
     label: On stage
     published-date: 2025-07-07
+    context:
+    - show:
+        year: 2025
+        id: marylandheights
+    - song: babymetaldeath
     linked-to:
     - show:
         year: 2025
@@ -1674,6 +1880,10 @@
     label: On stage
     published-date: 2025-07-07
     info: weeeeeaaaaa
+    context:
+    - show:
+        year: 2025
+        id: marylandheights
     linked-to:
     - show:
         year: 2025
@@ -1685,6 +1895,11 @@
     id: GvOzJxiWoAABj99
     label: On stage
     published-date: 2025-07-07
+    context:
+    - show:
+        year: 2025
+        id: marylandheights
+    - song: song3
     linked-to:
     - show:
         year: 2025
@@ -1766,6 +1981,10 @@
     id: GvZGk22XQAAyFHH
     label: On stage
     published-date: 2025-07-09
+    context:
+    - show:
+        year: 2025
+        id: chicago
     linked-to:
     - show:
         year: 2025
@@ -1778,6 +1997,10 @@
     label: On stage
     published-date: 2025-07-09
     info: weeeeeaaaaa
+    context:
+    - show:
+        year: 2025
+        id: chicago
     linked-to:
     - show:
         year: 2025
@@ -1789,6 +2012,10 @@
     id: GvZGpKQX0AAD6NN
     label: Crowd
     published-date: 2025-07-09
+    context:
+    - show:
+        year: 2025
+        id: chicago
     linked-to:
     - show:
         year: 2025
@@ -1800,6 +2027,11 @@
     id: GvZGqf7XcAAuq0Z
     label: On stage
     published-date: 2025-07-09
+    context:
+    - show:
+        year: 2025
+        id: chicago
+    - song: karate
     linked-to:
     - show:
         year: 2025
@@ -1880,6 +2112,11 @@
     id: GveUnOlWIAAQvNo
     label: On stage
     published-date: 2025-07-10
+    context:
+    - show:
+        year: 2025
+        id: minneapolis
+    - song: roadofresistance
     linked-to:
     - show:
         year: 2025
@@ -1892,6 +2129,11 @@
     id: GveUopCWwAAn2-V
     label: On stage
     published-date: 2025-07-10
+    context:
+    - show:
+        year: 2025
+        id: minneapolis
+    - song: frommetou
     linked-to:
     - show:
         year: 2025
@@ -1904,6 +2146,11 @@
     id: GveUqy5WAAA40Cs
     label: On stage
     published-date: 2025-07-10
+    context:
+    - show:
+        year: 2025
+        id: minneapolis
+    - song: karate
     linked-to:
     - show:
         year: 2025
@@ -1917,6 +2164,10 @@
     label: On stage
     published-date: 2025-07-10
     info: weeeeeaaaaa
+    context:
+    - show:
+        year: 2025
+        id: minneapolis
     linked-to:
     - show:
         year: 2025
@@ -1991,6 +2242,10 @@
     id: Gvo2OfkXEAAbnpj
     label: BABYMETAL
     published-date: 2025-07-10
+    context:
+    - show:
+        year: 2025
+        id: denver
     linked-to:
     - show:
         year: 2025
@@ -2002,6 +2257,10 @@
     id: Gvo2QvzXYAAHob5
     label: Fans
     published-date: 2025-07-10
+    context:
+    - show:
+        year: 2025
+        id: denver
     linked-to:
     - show:
         year: 2025
@@ -2013,6 +2272,10 @@
     id: Gvo2Y1fW4AA1Uji
     label: Fans
     published-date: 2025-07-10
+    context:
+    - show:
+        year: 2025
+        id: denver
     linked-to:
     - show:
         year: 2025
@@ -2024,6 +2287,10 @@
     id: Gvo2awxXwAAjQ0g
     label: Fans
     published-date: 2025-07-10
+    context:
+    - show:
+        year: 2025
+        id: denver
     linked-to:
     - show:
         year: 2025
@@ -2105,6 +2372,11 @@
     label: On stage
     published-date: 2025-07-15
     info: SU-METAL
+    context:
+    - show:
+        year: 2025
+        id: vancouver
+    - song: roadofresistance
     linked-to:
     - show:
         year: 2025
@@ -2118,6 +2390,10 @@
     label: On stage
     published-date: 2025-07-15
     info: MOAMETAL
+    context:
+    - show:
+        year: 2025
+        id: vancouver
     linked-to:
     - show:
         year: 2025
@@ -2130,6 +2406,10 @@
     label: On stage
     published-date: 2025-07-15
     info: MOMOMETAL
+    context:
+    - show:
+        year: 2025
+        id: vancouver
     linked-to:
     - show:
         year: 2025
@@ -2141,6 +2421,10 @@
     id: Gv4PqV6XAAAMqVb
     label: On stage
     published-date: 2025-07-15
+    context:
+    - show:
+        year: 2025
+        id: vancouver
     linked-to:
     - show:
         year: 2025
@@ -2221,6 +2505,11 @@
     id: Gv9jK2xXQAADjj4
     label: On stage
     published-date: 2025-07-16
+    context:
+    - show:
+        year: 2025
+        id: kent
+    - song: papaya
     linked-to:
     - show:
         year: 2025
@@ -2234,6 +2523,10 @@
     label: On stage
     published-date: 2025-07-16
     info: SU-METAL
+    context:
+    - show:
+        year: 2025
+        id: kent
     linked-to:
     - show:
         year: 2025
@@ -2245,6 +2538,11 @@
     id: Gv9jORjXgAAA-ly
     label: On stage
     published-date: 2025-07-16
+    context:
+    - show:
+        year: 2025
+        id: kent
+    - song: babymetaldeath
     linked-to:
     - show:
         year: 2025
@@ -2258,6 +2556,10 @@
     label: On stage
     published-date: 2025-07-16
     info: weeeeeaaaaa, crowd
+    context:
+    - show:
+        year: 2025
+        id: kent
     linked-to:
     - show:
         year: 2025
@@ -2337,6 +2639,11 @@
     label: On stage
     published-date: 2025-07-18
     info: MOAMETAL
+    context:
+    - show:
+        year: 2025
+        id: sanfrancisco1
+    - song: bxmxc
     linked-to:
     - show:
         year: 2025
@@ -2350,6 +2657,10 @@
     label: On stage
     published-date: 2025-07-18
     info: SU-METAL
+    context:
+    - show:
+        year: 2025
+        id: sanfrancisco1
     linked-to:
     - show:
         year: 2025
@@ -2362,6 +2673,10 @@
     label: On stage
     published-date: 2025-07-18
     info: MOMOMETAL
+    context:
+    - show:
+        year: 2025
+        id: sanfrancisco1
     linked-to:
     - show:
         year: 2025
@@ -2374,6 +2689,10 @@
     label: On stage
     published-date: 2025-07-18
     info: weeeeeaaaaa
+    context:
+    - show:
+        year: 2025
+        id: sanfrancisco1
     linked-to:
     - show:
         year: 2025
@@ -2429,6 +2748,10 @@
     label: On stage
     info: SU-METAL
     published-date: 2025-07-19
+    context:
+    - show:
+        year: 2025
+        id: sanfrancisco2
 
 - postximage:
     post: 1946479530727923789
@@ -2436,6 +2759,10 @@
     label: On stage
     info: MOAMETAL
     published-date: 2025-07-19
+    context:
+    - show:
+        year: 2025
+        id: sanfrancisco2
 
 - postximage:
     post: 1946479530727923789
@@ -2443,6 +2770,10 @@
     label: On stage
     info: MOMOMETAL
     published-date: 2025-07-19
+    context:
+    - show:
+        year: 2025
+        id: sanfrancisco2
 
 - show:
     year: 2025
@@ -2489,16 +2820,32 @@
     id: GwXVlMnX0AAQu5o
     label: On stage
     published-date: 2025-07-21
+    context:
+    - song: babymetaldeath
+    - show:
+        year: 2025
+        id: lasvegas
     linked-to:
     - song: babymetaldeath
+    - show:
+        year: 2025
+        id: lasvegas
 
 - postximage:
     post: 1947199156407427201
     id: GwXVmeqXEAAB6Gb
     label: On stage
     published-date: 2025-07-21
+    context:
+    - song: babymetaldeath
+    - show:
+        year: 2025
+        id: lasvegas
     linked-to:
     - song: babymetaldeath
+    - show:
+        year: 2025
+        id: lasvegas
 
 
 
@@ -2553,6 +2900,11 @@
     label: On stage
     info: SU-METAL
     published-date: 2025-07-22
+    context:
+    - show:
+        year: 2025
+        id: saltlakecity
+    - song: konkon
     linked-to:
     - show:
         year: 2025
@@ -2565,6 +2917,10 @@
     label: On stage
     info: MOAMETAL
     published-date: 2025-07-22
+    context:
+    - show:
+        year: 2025
+        id: saltlakecity
     linked-to:
     - show:
         year: 2025
@@ -2576,6 +2932,10 @@
     label: On stage
     info: MOMOMETAL
     published-date: 2025-07-22
+    context:
+    - show:
+        year: 2025
+        id: saltlakecity
     linked-to:
     - show:
         year: 2025
@@ -2640,6 +3000,11 @@
     id: Gwmq9NuaoAAf_zs
     label: On stage
     published-date: 2025-07-24
+    context:
+    - show:
+        year: 2025
+        id: phoenix
+    - song: papaya
     linked-to:
     - show:
         year: 2025
@@ -2651,6 +3016,10 @@
     id: GwmrNbzbIAAq6R7
     label: On stage
     published-date: 2025-07-24
+    context:
+    - show:
+        year: 2025
+        id: phoenix
     linked-to:
     - show:
         year: 2025
@@ -2661,6 +3030,11 @@
     id: GwmrPq7boAAN-qi
     label: On stage
     published-date: 2025-07-24
+    context:
+    - show:
+        year: 2025
+        id: phoenix
+    - song: karate
     linked-to:
     - show:
         year: 2025
@@ -2672,6 +3046,11 @@
     id: GwmrQ78asAAdksM
     label: On Stage
     published-date: 2025-07-24
+    context:
+    - show:
+        year: 2025
+        id: phoenix
+    - song: roadofresistance
     linked-to:
     - show:
         year: 2025
@@ -2741,6 +3120,10 @@
     label: Poster
     published-date: 2025-07-17
     local-copy: true
+    context:
+    - show:
+        year: 2025
+        id: losangeles
     linked-to:
     - show:
         year: 2025
@@ -2765,6 +3148,10 @@
     id: GwSaKfeXMAA_Yf-
     label: Merch
     published-date: 2025-07-20
+    context:
+    - show:
+        year: 2025
+        id: losangeles
     linked-to:
     - show:
         year: 2025
@@ -2786,6 +3173,10 @@
     id: GwZvm_0WAAAfaFP
     label: Poster sold out
     published-date: 2025-07-21
+    context:
+    - show:
+        year: 2025
+        id: losangeles
     linked-to:
     - show:
         year: 2025
@@ -2813,6 +3204,11 @@
     id: Gwt043dbgAUofoY
     label: On stage
     published-date: 2025-07-25
+    context:
+    - show:
+        year: 2025
+        id: losangeles
+    - song: frommetou
     linked-to:
     - show:
         year: 2025
@@ -2824,6 +3220,11 @@
     id: Gwt06GjbgAA0_84
     label: On stage
     published-date: 2025-07-25
+    context:
+    - show:
+        year: 2025
+        id: losangeles
+    - song: roadofresistance
     linked-to:
     - show:
         year: 2025
@@ -2849,6 +3250,8 @@
     cover: 1948906125056978944/img/R7cfPzv6QaLHODg1.jpg
     label: Signed cards
     published-date: 2025-07-26
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
 

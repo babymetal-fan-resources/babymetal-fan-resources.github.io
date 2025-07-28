@@ -48,6 +48,10 @@
     label: poster
     published-date: 2025-01-04
     local-copy: true
+    context:
+    - media:
+        year: 2025
+        id: metaradi0104
     linked-to:
     - postx: 1875488645987365238
 
@@ -344,6 +348,10 @@
     id: GwMExemaUAA5-zd
     label: FLOW
     published-date: 2025-07-19
+    context:
+    - media:
+        year: 2025
+        id: metaradi0719
 
 - mediaaudio:
     year: 2025

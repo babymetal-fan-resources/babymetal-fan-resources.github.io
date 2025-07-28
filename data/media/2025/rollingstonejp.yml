@@ -57,6 +57,10 @@
     published-date: 2024-06-14
     info: BABYMETAL
     local-copy: true
+    context:
+    - media:
+        year: 2025
+        id: rollingstonejp
     linked-to:
     - postx: 1933722747072622685
 
@@ -96,6 +100,10 @@
     cover: 1937370953820106752/img/Gaq9K_x-HzQGjHYs.jpg
     published-date: 2024-06-15
     info: BABYMETAL
+    context:
+    - media:
+        year: 2025
+        id: rollingstonejp
     linked-to:
     - media:
         year: 2025

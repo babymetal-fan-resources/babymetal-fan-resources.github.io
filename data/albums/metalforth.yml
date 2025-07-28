@@ -79,6 +79,8 @@
     label: cover image
     published-date: 2025-04-01
     local-copy: true
+    context:
+    - album: metalforth
     linked-to:
     - postx: 1906725673450037384
 
@@ -87,6 +89,8 @@
     id: GnWCAIwaQAAsAww
     label: vinyl
     published-date: 2025-04-01
+    context:
+    - album: metalforth
     linked-to:
     - postx: 1906725673450037384
 
@@ -95,6 +99,8 @@
     id: GnWCBKhbMAAJmAA
     label: CD
     published-date: 2025-04-01
+    context:
+    - album: metalforth
     linked-to:
     - postx: 1906725673450037384
 
@@ -133,6 +139,8 @@
     id: GpNU6shb0AAhOHP
     label: bonuses
     published-date: 2025-04-23
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
     - postx: 1914967729335103936
@@ -142,6 +150,8 @@
     id: GpNU6shbQAIXMfC
     label: THE ONE Limited Edition
     published-date: 2025-04-23
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
     - postx: 1914967729335103936
@@ -170,6 +180,8 @@
     cover: 1915281840564506624/img/JqQ3I81EaBCDodoK.jpg
     published-date: 2025-04-24
     info: vinyl + CD + from me to u
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
     - postx: 1915390284151873557
@@ -179,6 +191,8 @@
     label: promo
     info: vinyl + CD + from me to u
     published-date: 2025-04-24
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
 
@@ -217,6 +231,8 @@
     id: Gp7B0L-awAIBYI2
     label: THE ONE Limited Edition
     published-date: 2025-05-02
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
     - postx: 1918244078157992025
@@ -258,6 +274,8 @@
     label: Edition
     cover: 1919134985824444416/img/rcaykVHaKR34sn4u.jpg
     published-date: 2025-05-05
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
     - postx: 1919270842812207226
@@ -266,6 +284,8 @@
     id: qpLP--tait4
     label: More editions
     published-date: 2025-05-28
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
 
@@ -291,6 +311,8 @@
     id: GtH63AvboAAwlnQ
     label: GLASS FOXES TEE + LP
     published-date: 2025-06-11
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
     - postx: 1932601871367381291
@@ -323,6 +345,8 @@
     label: Signed cards edition
     cover: 1932810368147206147/img/JWSXowAbdMTlFL67.jpg
     published-date: 2025-06-11
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
     - postx: 1932815090782191989
@@ -331,6 +355,8 @@
     id: iVcwPAE6zLY
     label: Signed cards Edition
     published-date: 2025-06-11
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
 
@@ -338,6 +364,8 @@
     id: wWKDN9F1j-g
     label: Signed variants
     published-date: 2025-07-09
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
 
@@ -368,6 +396,8 @@
     id: GwFWFuuWkAAyMG9
     label: Revolver clear edition
     published-date: 2025-07-17
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
     - postx: 1945932036797255731
@@ -393,6 +423,8 @@
     id: GwZaGJLXQAAI8w6
     label: Us stores poster
     published-date: 2025-07-21
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
 
@@ -401,6 +433,8 @@
     id: GwZaGJMWsAAfq53
     label: US stores
     published-date: 2025-07-21
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
 
@@ -426,6 +460,8 @@
     id: GwfxOUNaQAAzYlR
     label: UK Listening Event
     published-date: 2025-07-23
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
 
@@ -449,6 +485,8 @@
     label: bonus
     info: TOWER RECORDS
     published-date: 2025-07-25
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
 
@@ -456,6 +494,8 @@
     id: WuonIkofg6M
     label: Signed cards in UK
     published-date: 2025-07-25
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
 
@@ -475,6 +515,8 @@
     id: MhiLi4tDFgQ
     label: Signed cards in DE
     published-date: 2025-07-25
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
 
@@ -494,6 +536,8 @@
     id: fIpzS0i9pEQ
     label: Signing a card
     published-date: 2025-07-27
+    context:
+    - album: metalforth
     linked-to:
     - album: metalforth
 

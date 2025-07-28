@@ -4,7 +4,6 @@ import org.skyluc.babymetal_site.html.PageDescription
 import org.skyluc.babymetal_site.html.SitePage
 import org.skyluc.fan_resources.Common
 import org.skyluc.fan_resources.data.Media
-import org.skyluc.fan_resources.data.Show
 import org.skyluc.fan_resources.html.CompiledDataGenerator
 import org.skyluc.fan_resources.html.ElementCompiledData
 import org.skyluc.fan_resources.html.MultiMediaBlockCompiledData
@@ -24,9 +23,9 @@ class MediaPage(
   override def elementContent(): Seq[BodyElement[?]] = {
     val largeDetails = LargeDetails.generate(mediaCompiledData)
 
-    val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, Show.FROM_KEY)
+    val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, mediaCompiledData.uId)
 
-    val additionalSection = MultiMediaCard.generateAdditionalSection(multimediaBlock, Show.FROM_KEY)
+    val additionalSection = MultiMediaCard.generateAdditionalSection(multimediaBlock, mediaCompiledData.uId)
 
     Seq(
       largeDetails
@@ -46,7 +45,7 @@ class MediaExtraPage(
     val mediaSection =
       MultiMediaCard.generateExtraMediaSection(
         multimediaBlock,
-        Show.FROM_KEY,
+        mediaCompiledData.uId,
       )
 
     Seq(

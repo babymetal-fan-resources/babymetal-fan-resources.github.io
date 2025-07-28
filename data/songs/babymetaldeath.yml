@@ -4,5 +4,5 @@ song:
   release-date: 2013-01-09
   cover-image:
     localimage:
-      group: siteimages
+      event: siteimages
       id: kitsume_cover

@@ -7,12 +7,12 @@ import org.skyluc.fan_resources.data.Show
 import org.skyluc.fan_resources.html.CompiledDataGenerator
 import org.skyluc.fan_resources.html.ElementCompiledData
 import org.skyluc.fan_resources.html.MultiMediaBlockCompiledData
+import org.skyluc.fan_resources.html.TitleAndDescription
 import org.skyluc.fan_resources.html.component.LargeDetails
+import org.skyluc.fan_resources.html.component.LineCard
+import org.skyluc.fan_resources.html.component.MainTitle
 import org.skyluc.fan_resources.html.component.MultiMediaCard
 import org.skyluc.html.BodyElement
-import org.skyluc.fan_resources.html.TitleAndDescription
-import org.skyluc.fan_resources.html.component.MainTitle
-import org.skyluc.fan_resources.html.component.LineCard
 
 class ShowPage(
     showCompiledData: ElementCompiledData,
@@ -23,9 +23,9 @@ class ShowPage(
   override def elementContent(): Seq[BodyElement[?]] = {
     val largeDetails = LargeDetails.generate(showCompiledData)
 
-    val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, Show.FROM_KEY)
+    val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, showCompiledData.uId)
 
-    val additionalSection = MultiMediaCard.generateAdditionalSection(multimediaBlock, Show.FROM_KEY)
+    val additionalSection = MultiMediaCard.generateAdditionalSection(multimediaBlock, showCompiledData.uId)
 
     Seq(
       largeDetails
@@ -45,7 +45,7 @@ class ShowExtraPage(
     val mediaSection =
       MultiMediaCard.generateExtraMediaSection(
         multimediaBlock,
-        Show.FROM_KEY,
+        show.uId,
       )
 
     Seq(

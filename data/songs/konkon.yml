@@ -27,6 +27,8 @@
     id: UxRldWoKlnQ
     label: Official Music Video
     published-date: 2025-07-11
+    context:
+    - song: konkon
 
 - postx:
     id: 1943324343754191179
@@ -52,6 +54,8 @@
     label: MV Teaser
     cover: 1943308838805082114/img/GCG_tg5LUKpwZqH1.jpg
     published-date: 2025-07-10
+    context:
+    - song: konkon
     linked-to:
     - song: konkon
     - postx: 1943324343754191179
@@ -60,5 +64,7 @@
     id: 22Qt0lgukKI
     label: Music Video
     published-date: 2025-07-18
+    context:
+    - song: konkon
     linked-to:
     - song: konkon

@@ -104,6 +104,10 @@
     id: GtskrwhWoAMXjbI
     label: 2nd lineup
     published-date: 2025-06-18
+    context:
+    - show:
+        year: 2025
+        id: busanrockfestival
     linked-to:
     - show:
         year: 2025
@@ -270,6 +274,10 @@
     label: Poster
     published-date: 2025-05-28
     local-copy: true
+    context:
+    - show:
+        year: 2025
+        id: manila
     linked-to:
     - show:
         year: 2025
@@ -281,6 +289,10 @@
     id: GsAEJTlXcAE47LG
     label: Seat map
     published-date: 2025-05-28
+    context:
+    - show:
+        year: 2025
+        id: manila
     linked-to:
     - show:
         year: 2025

@@ -5,6 +5,7 @@ import org.skyluc.babymetal_site.checks.PopulateRelatedTo
 import org.skyluc.babymetal_site.data.Data
 import org.skyluc.babymetal_site.data2Page.DataToPage
 import org.skyluc.babymetal_site.html.CompiledDataGeneratorBuilder
+import org.skyluc.fan_resources.ErrorsHolder
 import org.skyluc.fan_resources.Main.displayErrors
 import org.skyluc.fan_resources.checks.DataCheck
 import org.skyluc.fan_resources.checks.MoreDataCheck
@@ -27,9 +28,11 @@ object Main {
     val staticFrFolder = rootPath.resolve("fan-resources", STATIC_PATH)
     val outputFolder = rootPath.resolve(TARGET_PATH, SITE_PATH)
 
+    val errors = ErrorsHolder()
+
     val (parserErrors, datums) = BabymetalSite.Parser001.parseFolder(dataFolder.asFilePath())
 
-    displayErrors("PARSER ERRORS", parserErrors)
+    errors.append("PARSER ERRORS", parserErrors)
 
     val (checkErrors, checkedDatums) =
       DataCheck.check(datums, PopulateRelatedTo, CheckLocalAssetExists(rootPath.resolve(BASE_IMAGE_ASSET_PATH)), false)
@@ -38,7 +41,9 @@ object Main {
 
     val moreCheckerrors = MoreDataCheck.check(data)
 
-    displayErrors("CHECKS ERRORS", checkErrors ++ moreCheckerrors)
+    errors.append("CHECKS ERRORS", checkErrors ++ moreCheckerrors)
+
+    displayErrors(errors, 10)
 
     val generator = CompiledDataGeneratorBuilder.generator(data)
 

@@ -9,11 +9,11 @@ import org.skyluc.fan_resources.html.ElementCompiledData
 import org.skyluc.fan_resources.html.MultiMediaBlockCompiledData
 import org.skyluc.fan_resources.html.TitleAndDescription
 import org.skyluc.fan_resources.html.component.LargeDetails
+import org.skyluc.fan_resources.html.component.LineCard
 import org.skyluc.fan_resources.html.component.LyricsSection
+import org.skyluc.fan_resources.html.component.MainTitle
 import org.skyluc.fan_resources.html.component.MultiMediaCard
 import org.skyluc.html.*
-import org.skyluc.fan_resources.html.component.LineCard
-import org.skyluc.fan_resources.html.component.MainTitle
 
 class SongPage(
     song: Song,
@@ -26,11 +26,11 @@ class SongPage(
     val largeDetails =
       LargeDetails.generate(songCompiledData)
 
-    val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, Song.FROM_KEY)
+    val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, songCompiledData.uId)
 
     val lyricsSection = song.lyrics.map(LyricsSection.generate).getOrElse(Seq())
 
-    val additionalSection = MultiMediaCard.generateAdditionalSection(multimediaBlock, Song.FROM_KEY)
+    val additionalSection = MultiMediaCard.generateAdditionalSection(multimediaBlock, songCompiledData.uId)
 
     Seq(
       largeDetails
@@ -51,7 +51,7 @@ class SongExtraPage(
     val mediaSection =
       MultiMediaCard.generateExtraMediaSection(
         multimediaBlock,
-        Song.FROM_KEY,
+        song.uId,
       )
 
     Seq(

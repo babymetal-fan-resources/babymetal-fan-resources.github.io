@@ -5,5 +5,5 @@ song:
   release-date: 2023-08-18
   cover-image:
     localimage:
-      group: siteimages
+      event: siteimages
       id: kitsume_cover

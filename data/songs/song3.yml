@@ -43,6 +43,8 @@
     id: OlHVOlRBOnM
     label: 'Teaser #0'
     published-date: 2025-05-23
+    context:
+    - song: song3
     linked-to:
     - song: song3
 
@@ -73,6 +75,8 @@
     label: Trailer
     cover: 1925944823044812801/img/Q5OCNYEqNoB_KBfr.jpg
     published-date: 2025-05-23
+    context:
+    - song: song3
     linked-to:
     - song: song3
     - postx: 1925944898294812963
@@ -101,6 +105,8 @@
     label: 3 days
     cover: 1926651017774456832/img/cIaCeGins2YXeWjU.jpg
     published-date: 2025-05-25
+    context:
+    - song: song3
     linked-to:
     - song: song3
     - postx: 1926654515031200142
@@ -109,6 +115,8 @@
     id: Deo897Pw71o
     label: 'Teaser #1'
     published-date: 2025-05-26
+    context:
+    - song: song3
     linked-to:
     - song: song3
 
@@ -116,6 +124,8 @@
     id: omIy1HhQDfQ
     label: 'Teaser #2'
     published-date: 2025-05-27
+    context:
+    - song: song3
     linked-to:
     - song: song3
 
@@ -143,6 +153,8 @@
     label: 33 hours
     cover: 1927243044488622080/img/9m-T-muf14eQFSxu.jpg
     published-date: 2025-05-27
+    context:
+    - song: song3
     linked-to:
     - song: song3
     - postx: 1927243499176329352
@@ -152,6 +164,8 @@
     label: VS
     info: MOMOMETAL vs Alex Terrible
     published-date: 2025-05-27
+    context:
+    - song: song3
     linked-to:
     - song: song3
 
@@ -159,6 +173,8 @@
     id: '-p_T7ci9j48'
     label: 'Teaser #3'
     published-date: 2025-05-28
+    context:
+    - song: song3
     linked-to:
     - song: song3
 
@@ -166,6 +182,8 @@
     id: KEMVgy51kPE
     label: Music Video
     published-date: 2025-05-28
+    context:
+    - song: song3
     linked-to:
     - song: song3
 
@@ -194,6 +212,8 @@
     info: BABYMETAL, Slaughter To Prevail
     published-date: 2025-05-28
     local-copy: true
+    context:
+    - song: song3
     linked-to:
     - postyoutube: Ugkx9s1Spc90uUxKTukNacDarzBVcwTnHXKc
 
@@ -222,6 +242,8 @@
     id: Gspa8hBasAMb2_U
     label: BABYMETALxStP Merch
     published-date: 2025-06-05
+    context:
+    - song: song3
     linked-to:
     - song: song3
     - postx: 1930459568804639211

@@ -57,6 +57,10 @@
     published-date: 2024-06-25
     info: BABYMETAL
     local-copy: true
+    context:
+    - media:
+        year: 2025
+        id: revolver
     linked-to:
     - postx: 1937905998565380147
 
@@ -66,6 +70,10 @@
     label: Vinyl
     published-date: 2024-06-25
     info: BABYMETAL
+    context:
+    - media:
+        year: 2025
+        id: revolver
     linked-to:
     - postx: 1937905998565380147
 

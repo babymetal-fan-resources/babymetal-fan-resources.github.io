@@ -67,6 +67,10 @@
     label: cover
     published-date: 2025-04-23
     local-copy: true
+    context:
+    - media:
+        year: 2025
+        id: pmc
     linked-to:
     - postx: 1914876896082583656
 
@@ -101,6 +105,10 @@
     id: GrYhyIWbAAQ_HF2
     label: cover
     published-date: 2025-05-21
+    context:
+    - media:
+        year: 2025
+        id: pmc
     linked-to:
     - postx: 1925023744986058905
 
@@ -109,6 +117,10 @@
     id: GrYhyIzbwAAP05r
     label: inside
     published-date: 2025-05-21
+    context:
+    - media:
+        year: 2025
+        id: pmc
     linked-to:
     - postx: 1925023744986058905
 
@@ -140,6 +152,10 @@
     label: Billboard
     published-date: 2025-06-09
     info: Shibuya Station
+    context:
+    - media:
+        year: 2025
+        id: pmc
     linked-to:
     - postx: 1931924215965356195
 
@@ -174,6 +190,10 @@
     id: GtoFCX1a0AQgQ2W
     label: Store front
     published-date: 2025-06-17
+    context:
+    - media:
+        year: 2025
+        id: pmc
     linked-to:
     - postx: 1934898813619065008
 
@@ -182,6 +202,10 @@
     id: GtoFDiGboAAaC0w
     label: Store window
     published-date: 2025-06-17
+    context:
+    - media:
+        year: 2025
+        id: pmc
     linked-to:
     - postx: 1934898813619065008
 

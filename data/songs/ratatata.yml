@@ -6,5 +6,5 @@ song:
   release-date: 2024-05-23
   cover-image:
     localimage:
-      group: siteimages
+      event: siteimages
       id: kitsume_cover

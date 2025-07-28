@@ -2,18 +2,27 @@
     id: siteimages
     label: site images
     linked-to:
+    - event: siteimages
     - localimage:
-        group: siteimages
+        event: siteimages
+        id: kitsume_cover
+
+- event:
+    id: siteimages
+    label: Holder for site image
+    date: 2009-12-31
+    cover-image:
+      localimage:
+        event: siteimages
         id: kitsume_cover
 
 - localimage:
-    group: siteimages
+    event: siteimages
     id: kitsume_cover
+    hidden: true
     label: Kitsume Logo for cover
     filename: kitsume512.png
-    published-date: 2025-04-01
+    published-date: 2009-12-31
     source:
       description: Created for the site
-    linked-to:
-    - group: siteimages
 
