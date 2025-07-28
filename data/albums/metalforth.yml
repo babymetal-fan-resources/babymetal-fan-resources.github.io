@@ -20,8 +20,9 @@
     - whiteflame
     multimedia:
       main:
-        youtubeshort: fIpzS0i9pEQ
+        youtubeshort: fpr6eCKAPww
       short:
+      - youtubeshort: fpr6eCKAPww
       - youtubeshort: fIpzS0i9pEQ
     linked-to:
     - postx: 1906725673450037384
@@ -555,4 +556,62 @@
       #BABYMETAL #METALFORTH
     linked-to:
     - youtubeshort: fIpzS0i9pEQ
+
+- youtubeshort:
+    id: fpr6eCKAPww
+    label: Vinyl versions
+    published-date: 2025-07-28
+    context:
+    - album: metalforth
+
+- postx:
+    id: 1949645138097279340
+    account: BABYMETAL_JAPAN
+    label: Vinyl versions
+    published-date: 2025-07-28
+    text: |
+      12 days to METAL FORTH!
+      The signed variants are selling quickly. 
+      You can pre-order your copy here:
+
+      https://Babymetal.lnk.to/USASTORE
+
+      #BABYMETAL #METALFORTH
+    image:
+    - Gw6HPsKbgAAs7lA
+    - Gw6HRAqbwAADKZ3
+    - Gw6HSspaMAAGnCh
+    - Gw6HUAebMAAZQX_
+
+- postximage:
+    post: 1949645138097279340
+    id: Gw6HPsKbgAAs7lA
+    label: Red transparent edition
+    published-date: 2025-07-28
+    context:
+    - album: metalforth
+
+- postximage:
+    post: 1949645138097279340
+    id: Gw6HRAqbwAADKZ3
+    label: clear edition
+    published-date: 2025-07-28
+    context:
+    - album: metalforth
+
+- postximage:
+    post: 1949645138097279340
+    id: Gw6HSspaMAAGnCh
+    label: blackout edition
+    published-date: 2025-07-28
+    context:
+    - album: metalforth
+
+- postximage:
+    post: 1949645138097279340
+    id: Gw6HUAebMAAZQX_
+    label: vinyls
+    published-date: 2025-07-28
+    context:
+    - album: metalforth
 
