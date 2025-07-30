@@ -9,8 +9,9 @@ import org.skyluc.fan_resources.html.CompiledDataGenerator
 import org.skyluc.fan_resources.html.TitleAndDescription
 import org.skyluc.fan_resources.html.component.ChronologySection
 import org.skyluc.fan_resources.html.component.ChronologySection.*
-import org.skyluc.html.BodyElement
 import org.skyluc.fan_resources.html.component.MainIntro
+import org.skyluc.html.BodyElement
+
 import dfr.CategoryDescriptor
 
 class ContentPage(
@@ -50,7 +51,15 @@ object ContentPage {
       (false, true)
     }
 
-    val path = Path(contentPage.id.id)
+    val (path, canonicalUrl, isRoot) =
+      if (contentPage.id.id == "index")
+        (Path("index.html"), SitePage.canonicalUrlFor(Path()), true)
+      else
+        (
+          Path(contentPage.id.id).withExtension(Common.HTML_EXTENSION),
+          SitePage.canonicalUrlFor(Path(contentPage.id.id)),
+          false,
+        )
 
     val mainPage =
       ContentPage(
@@ -77,11 +86,12 @@ object ContentPage {
             None,
           ),
           SitePage.absoluteUrl(generator.getMultiMedia(contentPage.coverImage.image).image.source),
-          SitePage.canonicalUrlFor(path),
-          path.withExtension(Common.HTML_EXTENSION),
+          canonicalUrl,
+          path,
           None,
           None,
           false,
+          isRoot,
         ),
       )
 
