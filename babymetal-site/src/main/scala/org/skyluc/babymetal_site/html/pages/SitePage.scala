@@ -1,6 +1,7 @@
 package org.skyluc.babymetal_site.html
 
 import org.skyluc.babymetal_site.Config
+import org.skyluc.babymetal_site.html.components.Footer
 import org.skyluc.babymetal_site.html.components.NavigationBar
 import org.skyluc.fan_resources.Common
 import org.skyluc.fan_resources.data.Path
@@ -13,7 +14,6 @@ import fr.component.OpenGraphSection
 import fr.Url
 import fr.component.ExtraSection
 import fr.component.MainIntro
-import org.skyluc.babymetal_site.html.components.Footer
 
 abstract class SitePage(override val description: PageDescription) extends fr.SitePage {
 
@@ -79,7 +79,7 @@ object SitePage {
   val HREF_ICON_512 = Url(Path("head400.png"))
   val DOMAIN_NAME_BMFR = "babymetal.fan-resources.com"
 
-  val GOOGLE_VERIFICATION_CODE = "DrE-ZbcyBV3lPatFCBja2O4ymKzfqFXDZjkfkTpvY_8"
+  val GOOGLE_VERIFICATION_CODE = "5DUf4g9lYSa_jzwy0JIrwsfTppM2uM5culgvgkbXj7U"
   val MICROSOFT_VERIFICATION_CODE = "B6C2BBE1BBDED01F740330EB10DEAEF8"
 
   // javascript
