@@ -7,10 +7,22 @@ footer {
   box-sizing: border-box;
 }
 
+
 .footer-bottom-right {
   position: absolute;
   bottom: 0.1rem;
-  right: 0.3rem;
+  right: 0.2rem;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  height: 5rem;
+  width: 5rem;
+  box-sizing: border-box;
+  background-size: contain;
+  text-align: right;
+  padding: 0 0.05rem 0.2rem 0.05rem;
+  text-shadow: 0 0 0.2rem black;
+  border: solid 0.1rem var(--color-text);
 }
 
 .footer-bottom-left {
@@ -28,6 +40,26 @@ footer {
 
 .footer-content {
   text-align: center;
+}
+
+.footer-bottom-right {
+  /* background: linear-gradient(135deg, transparent, transparent 20%, black); */
+  background-image: url("/asset/image/logo/fanresources.png");
+}
+
+.footer-bottom-right-text-top {
+  color: red;
+  stroke: black;
+  font-size: 0.8rem;
+  line-height: 0.8rem;
+  font-weight: 600;
+}
+
+.footer-bottom-right-text-bottom {
+  color: white;
+  font-size: 0.9rem;
+  line-height: 0.9rem;
+  font-weight: 600;
 }
 
 .footer-bottom-left {

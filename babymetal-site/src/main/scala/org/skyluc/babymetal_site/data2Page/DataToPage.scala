@@ -8,6 +8,7 @@ import org.skyluc.fan_resources.html.CompiledDataGenerator
 import org.skyluc.fan_resources.html.Page
 import org.skyluc.fan_resources.html.pages.CssPage
 import org.skyluc.fan_resources.html.pages.SitemapPage
+
 import dfr.Path
 
 class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[SitePage]] {
@@ -24,6 +25,7 @@ class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[
         Path("nav.css"),
         Path("footer.css"),
         Path("maincontent.css"),
+        Path("aboutpage.css"),
         Path("chronologypage.css"),
         Path("component", "chronology.css"),
         Path("component", "coverimage.css"),
@@ -33,12 +35,13 @@ class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[
         Path("component", "mediumcard.css"),
         Path("component", "mediumdetails.css"),
         Path("component", "multimediacard.css"),
+        Path("component", "socialmediacard.css"),
         Path("component", "overlay.css"),
       ),
       "styles.css",
     )
     val allPages =
-      data.elements.values.filterNot(_.hasError).map(_.process(this)).flatten.toSeq
+      data.elements.values.filterNot(_.hasError).map(_.process(this)).flatten.toSeq ++ AboutPage.pages()
 
     allPages ++ Seq(cssStyles, SitemapPage(allPages))
   }

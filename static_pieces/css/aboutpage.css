@@ -1,0 +1,25 @@
+/* about page layout */
+
+.about-section {
+  margin: 0 0 0 1rem;
+}
+
+.about-kitsune {
+  float: left;
+  margin: 0 1rem 1rem 0;
+}
+
+.about-kitsune>img {
+  width: 8rem;
+}
+
+/* about page styling */
+
+.about-section {
+  font-size: 1rem;
+  line-height: normal;
+}
+
+.about-lyrics-manekineko {
+  color: var(--color-cocoro-dark);
+}

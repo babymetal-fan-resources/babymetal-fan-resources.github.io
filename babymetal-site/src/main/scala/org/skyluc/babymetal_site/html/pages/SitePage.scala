@@ -13,6 +13,7 @@ import fr.component.OpenGraphSection
 import fr.Url
 import fr.component.ExtraSection
 import fr.component.MainIntro
+import org.skyluc.babymetal_site.html.components.Footer
 
 abstract class SitePage(override val description: PageDescription) extends fr.SitePage {
 
@@ -62,8 +63,7 @@ abstract class SitePage(override val description: PageDescription) extends fr.Si
   }
 
   override def footerContent(): Seq[BodyElement[?]] =
-    Seq(text("Footer"))
-    // Footer.generate(description.oppositePage)
+    Footer.generate(description.oppositePage)
 
 }
 
