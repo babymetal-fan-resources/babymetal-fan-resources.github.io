@@ -22,7 +22,10 @@
     multimedia:
       main:
         youtubeshort: fpr6eCKAPww
-      short:
+      additional:
+      - youtubeshort: 3KW6iCvH-QI
+      - youtubeshort: 18Bg6v9_Nto
+      - youtubeshort: qeW9TR4jrmA
       - youtubeshort: fpr6eCKAPww
       - youtubeshort: fIpzS0i9pEQ
     linked-to:
@@ -616,3 +619,23 @@
     context:
     - album: metalforth
 
+- youtubeshort:
+    id: qeW9TR4jrmA
+    label: Collectible cards
+    published-date: 2025-07-28
+    context:
+    - album: metalforth
+
+- youtubeshort:
+    id: 18Bg6v9_Nto
+    label: Vinyl versions
+    published-date: 2025-07-30
+    context:
+    - album: metalforth
+
+- youtubeshort:
+    id: 3KW6iCvH-QI
+    label: Vinyl versions
+    published-date: 2025-07-31
+    context:
+    - album: metalforth

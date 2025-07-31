@@ -17,7 +17,7 @@
       - youtubevideo: KEMVgy51kPE
       short:
       - youtubeshort: GUzoQPMhUB4
-      addtional:
+      additional:
       - youtubeshort: '-p_T7ci9j48'
       - youtubeshort: omIy1HhQDfQ
       - postxvideo:
@@ -249,4 +249,12 @@
     linked-to:
     - song: song3
     - postx: 1930459568804639211
+
+- youtubeshort:
+    id: 4TXy9LcLTiQ
+    label: Promo
+    info: BABYMETAL, Bloodywood
+    published-date: 2025-07-30
+    context:
+    - song: song3
 
