@@ -1,0 +1,48 @@
+- album:
+    id: babymetalxkibaofakiba
+    fullname: BABYMETAL × KIBA OF AKIBA
+    designation: single
+    release-date: 2012-03-07
+    cover-image:
+      localimage:
+        album: babymetalxkibaofakiba
+        id: cover
+    songs:
+      - iine
+      - partyatthebbs
+      - kimitoanimegamitai
+      - dokidokimorningkibaofakiba
+        
+- localimage:
+    album: babymetalxkibaofakiba
+    id: cover
+    label: Cover
+    filename: cover.png
+    published-date: 2012-03-07
+    source:
+      description: TOY'S FACTORY item page
+      url: https://www.toysfactory.co.jp/artist/babymetal/disco/2
+
+- song:
+    id: partyatthebbs
+    fullname: Party @ The BBS
+    fullname-en: KIBA OF AKIBA
+    album: babymetalxkibaofakiba
+    release-date: 2012-03-07
+    cover-image:
+      localimage:
+        album: babymetalxkibaofakiba
+        id: cover
+
+- song:
+    id: dokidokimorningkibaofakiba
+    fullname: ド・キ・ド・キ☆モーニング
+    fullname-en: Doki Doki☆Morning - KIBA OF AKIBA
+    album: babymetalxkibaofakiba
+    release-date: 2012-03-07
+    cover-image:
+      localimage:
+        album: babymetalxkibaofakiba
+        id: cover
+    description:
+    - Cover by キバオブアキバ (KIBA OF AKIBA) of Doki Doki☆Morning.
