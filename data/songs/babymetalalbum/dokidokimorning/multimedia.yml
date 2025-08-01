@@ -14,3 +14,10 @@
     published-date: 2012-11-08
     context:
     - song: dokidokimorning
+    
+- youtubevideo:
+    id: h-fesmi6bL8
+    label: Live
+    published-date: 2024-07-12
+    context:
+    - song: dokidokimorning

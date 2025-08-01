@@ -1,0 +1,26 @@
+song:
+  id: ijimedamezettai
+  fullname: イジメ、ダメ、ゼッタイ
+  fullname-en: Ijime, Dame, Zettai
+  release-date: 2013-01-09
+  album: ijimedamezettai
+  cover-image:
+    localimage:
+      album: ijimedamezettai
+      id: cover
+  credits:
+    lyricist: NAKAMETAL, TSUBOMETAL
+    composer: KxBxMETAL, TAKEMETAL, TSUBOMETAL
+    source:
+      description: 'JASRAC - work ID: 706-5327-5'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Ijime,_Dame,_Zettai
+  multimedia:
+    main:
+      youtubevideo: Ro-_cbfdrYE
+    video:
+    - youtubevideo: nDqaTXqCN-Q
+    - youtubevideo: Ro-_cbfdrYE
+    additional:
+    - youtubevideo: sccpYnvNV2Y

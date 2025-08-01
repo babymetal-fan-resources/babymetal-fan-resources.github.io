@@ -1,0 +1,23 @@
+song:
+  id: headbanger
+  fullname: ヘドバンギャー！！
+  fullname-en: Headbanger!!!!!
+  release-date: 2012-07-04
+  album: headbanger
+  cover-image:
+    localimage:
+      album: headbanger
+      id: cover
+  credits:
+    lyricist: 江戸　メタル (EDO METAL), ナカメタル (NAKAMETAL)
+    composer: Narasaki
+    source:
+      description: 'JASRAC - work ID: 705-1597-2'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Headbanger!!
+  multimedia:
+    main:
+      youtubevideo: 2IzR_ClTE8Y
+    video:
+    - youtubevideo: 2IzR_ClTE8Y

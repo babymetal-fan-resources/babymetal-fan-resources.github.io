@@ -1,0 +1,17 @@
+song:
+  id: 4nouta
+  fullname: 4の歌
+  fullname-en: Song 4
+  release-date: 2014-02-26
+  cover-image:
+    localimage:
+      album: babymetal
+      id: cover
+  credits:
+    lyricist: BLACK BABYMETAL
+    composer: BLACK BABYMETAL
+    source:
+      description: 'JASRAC - work ID: 709-5557-3'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Song_4

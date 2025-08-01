@@ -1,0 +1,81 @@
+- album:
+    id: megitsune
+    fullname: メギツネ
+    alt-name: megitsune
+    designation: single
+    release-date: 2013-06-19
+    cover-image:
+      localimage:
+        album: megitsune
+        id: cover
+    songs:
+    - megitsune
+    - akatsuki
+
+- localimage:
+    album: megitsune
+    id: cover
+    filename: cover.png
+    label: Cover
+    published-date: 2013-06-19
+    source:
+      description: TOY'S FACTORY item page
+      url: https://www.toysfactory.co.jp/artist/babymetal/disco/1019
+
+- album:
+    id: megitsunefirstpress
+    fullname: メギツネ（初回生産限定盤）
+    alt-name: megitsune (First Press Limited Edition)
+    designation: single
+    release-date: 2013-06-19
+    cover-image:
+      localimage:
+        album: megitsune
+        id: covertsu
+    songs:
+    - megitsune
+    - onedaridaisakusen
+    multimedia:
+      image:
+      - localimage:
+          album: megitsune
+          id: coverki
+      - localimage:
+          album: megitsune
+          id: covertsu
+      - localimage:
+          album: megitsune
+          id: coverne
+
+- localimage:
+    album: megitsune
+    id: coverki
+    filename: coverki.png
+    label: Cover
+    info: キ盤 (ki edition), SU-METAL
+    published-date: 2013-06-19
+    source:
+      description: TOY'S FACTORY item page
+      url: https://www.toysfactory.co.jp/artist/babymetal/disco/1016
+
+- localimage:
+    album: megitsune
+    id: covertsu
+    filename: covertsu.png
+    label: Cover
+    info: ツ盤 (tsu edition), YUIMETAL
+    published-date: 2013-06-19
+    source:
+      description: TOY'S FACTORY item page
+      url: https://www.toysfactory.co.jp/artist/babymetal/disco/1016
+
+- localimage:
+    album: megitsune
+    id: coverne
+    filename: coverne.png
+    label: Cover
+    info: ネ盤 (ne edtition) MOAMETAL
+    published-date: 2013-06-19
+    source:
+      description: TOY'S FACTORY item page
+      url: https://www.toysfactory.co.jp/artist/babymetal/disco/1016

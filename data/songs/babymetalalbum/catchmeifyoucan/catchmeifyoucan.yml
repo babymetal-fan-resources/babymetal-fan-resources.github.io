@@ -1,0 +1,18 @@
+song:
+  id: catchmeifyoucan
+  fullname: Catch me if you can
+  release-date: 2013-01-09
+  album: ijimedamezettai
+  cover-image:
+    localimage:
+      album: ijimedamezettai
+      id: cover
+  credits:
+    lyricist: EDOMETAL
+    composer: NARASAKI
+    source:
+      description: 'JASRAC - work ID: 706-5806-4'
+      url: https://www2.jasrac.or.jp/
+  wiki: https://babymetal.fandom.com/wiki/Catch_me_if_you_can
+
+  

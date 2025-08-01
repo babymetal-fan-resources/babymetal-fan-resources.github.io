@@ -1,0 +1,14 @@
+- youtubevideo:
+    id: WIKqgE4BwAY
+    label: Official Music Video
+    published-date: 2014-02-26
+    context:
+    - song: gimichoko
+
+- youtubevideo:
+    id: rt9bEzh5r-Y
+    label: Live
+    published-date: 2024-12-19
+    context:
+    - song: gimichoko
+

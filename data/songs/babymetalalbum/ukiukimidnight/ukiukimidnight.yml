@@ -1,0 +1,17 @@
+song:
+  id: ukiukimidnight
+  fullname: ウ・キ・ウ・キ★ミッドナイト
+  fullname-en: Uki Uki★Midnight
+  release-date: 2014-02-26
+  cover-image:
+    localimage:
+      album: babymetal
+      id: cover
+  credits:
+    lyricist: RYU-METAL, FUJI-METAL, 中田　カオス
+    composer: TEAM-K
+    source:
+      description: 'JASRAC - work ID: 705-1596-4'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Uki_Uki_%E2%98%85_Midnight

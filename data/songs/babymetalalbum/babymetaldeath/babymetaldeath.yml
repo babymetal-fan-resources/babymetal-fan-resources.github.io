@@ -1,0 +1,20 @@
+song:
+  id: babymetaldeath
+  fullname: BABYMETAL DEATH
+  release-date: 2013-01-09
+  cover-image:
+    localimage:
+      album: ijimedamezettai
+      id: coveri
+  credits:
+    lyricist: KITSUNE OF METAL GOD
+    composer: KITSUNE OF METAL GOD
+    source:
+      description: 'JASRAC - work ID: 191-7418-7'
+      url: https://www2.jasrac.or.jp/
+  wiki: https://babymetal.fandom.com/wiki/BABYMETAL_DEATH
+  multimedia:
+    main:
+      youtubevideo: DHA_HuGA-Mc
+    live:
+    - youtubevideo: DHA_HuGA-Mc

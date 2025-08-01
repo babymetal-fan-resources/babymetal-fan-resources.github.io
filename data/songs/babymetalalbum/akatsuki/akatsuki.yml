@@ -1,0 +1,16 @@
+song:
+  id: akatsuki
+  fullname: 紅月－アカツキ－
+  fullname-en: Akatsuki
+  release-date: 2013-06-19
+  cover-image:
+    localimage:
+      album: megitsune
+      id: cover
+  credits:
+    lyricist: NAKAMETAL, TSUBOMETAL
+    composer: TSUBOMETAL
+    source:
+      description: 'JASRAC - work ID: 194-0474-3'
+      url: https://www2.jasrac.or.jp/
+  wiki: https://babymetal.fandom.com/wiki/Akatsuki

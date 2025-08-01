@@ -1,0 +1,24 @@
+song:
+  id: megitsune
+  fullname: メギツネ
+  fullname-en: Megitsune
+  release-date: 2013-06-19
+  cover-image:
+    localimage:
+      album: megitsune
+      id: cover
+  credits:
+    lyricist: MK-METAL, NORIMETAL
+    composer: NORIMETAL
+    source:
+      description: 'JASRAC - work ID: 707-6631-2'
+      url: https://www2.jasrac.or.jp/
+  wiki: https://babymetal.fandom.com/wiki/Megitsune
+  choreographer: MIKIKO
+  multimedia:
+    main:
+      youtubevideo: cK3NMZAUKGw
+    video:
+    - youtubevideo: cK3NMZAUKGw
+    live:
+    - youtubevideo: zXmQHajCs4U

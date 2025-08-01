@@ -1,0 +1,17 @@
+song:
+  id: onedaridaisakusen
+  fullname: おねだり大作戦
+  fullname-en: Onedari Daisakusen
+  release-date: 2013-06-19
+  cover-image:
+    localimage:
+      album: megitsune
+      id: coverne
+  credits:
+    lyricist: 中田　カオス, RYU-METAL, FUJI-METAL
+    composer: TEAM-K
+    source:
+      description: 'JASRAC - work ID: 194-0465-4'
+      url: https://www2.jasrac.or.jp/
+  wiki: https://babymetal.fandom.com/wiki/Onedari_Daisakusen
+  
