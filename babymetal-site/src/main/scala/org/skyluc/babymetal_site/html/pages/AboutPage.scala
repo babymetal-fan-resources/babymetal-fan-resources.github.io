@@ -113,6 +113,12 @@ class AboutPage(description: PageDescription) extends SitePage(description) {
         .appendElements(
           p().appendElements(
             text("For any questions, suggestions, requests, please use "),
+            a()
+              .withHref("mailto:babymetal-contact@fan-resources.net")
+              .appendElements(
+                text("babymetal-contact@fan-resources.net")
+              ),
+            text(" or "),
             SocialMediaCard.generate(
               "babymetal-fan-resources.github.io/issues",
               "https://github.com/babymetal-fan-resources/",
