@@ -1,46 +1,4 @@
-- album:
-    id: metalforth
-    fullname: METAL FORTH
-    designation: album
-    release-date: 2025-08-08
-    cover-image:
-      postximage:
-        post: 1906725673450037384
-        image: GnWBzbdbgAA2zuP
-    wiki: https://babymetal.fandom.com/wiki/METAL_FORTH
-    songs:
-    - frommetou
-    - ratatata
-    - song3
-    - konkon
-    - kxaxwxaxixi
-    - sunsetkiss
-    - myqueen
-    - algorism
-    - metali
-    - whiteflame
-    multimedia:
-      main:
-        youtubeshort: fpr6eCKAPww
-      additional:
-      - youtubeshort: 3KW6iCvH-QI
-      - youtubeshort: 18Bg6v9_Nto
-      - youtubeshort: qeW9TR4jrmA
-      - youtubeshort: fpr6eCKAPww
-      - youtubeshort: fIpzS0i9pEQ
-    linked-to:
-    - postx: 1906725673450037384
-    - postx: 1914967729335103936
-    - postx: 1915390284151873557
-    - youtubeshort: ooYDiY4J50c
-    - postx: 1918244078157992025
-    - postx: 1919270842812207226
-    - youtubeshort: qpLP--tait4
-    - postx: 1932601871367381291
-    - postx: 1932815090782191989
-    - youtubeshort: iVcwPAE6zLY
-    - youtubeshort: wWKDN9F1j-g
-    - postx: 1945932036797255731
+
 
 - postx:
     id: 1906725673450037384
@@ -537,105 +495,29 @@
     linked-to:
     - youtubeshort: MhiLi4tDFgQ
 
-- youtubeshort:
-    id: fIpzS0i9pEQ
-    label: Signing a card
-    published-date: 2025-07-27
-    context:
-    - album: metalforth
-    linked-to:
-    - album: metalforth
-
 - postx:
-    id: 1949293700473082185
+    id: 1951191028242760186
     account: BABYMETAL_JAPAN
-    label: Signing a card
-    published-date: 2025-07-27
+    label: Meeting Spiritbox
+    published-date: 2025-08-01
     text: |
-      Only 13 days left to METAL FORTH!
-      Pre-order your signed Album today and let’s celebrate the release of METAL FORTH together on August 8th!!
+      BABYMETAL 🤝 SPIRITBOX
+      I'm really glad to meet you. You're recommended to me by some people.
 
-      https://Babymetal.lnk.to/USASTORE
+      #BABYMETAL #fyp #viral #trending
+    video:
+    - 01
 
-      #BABYMETAL #METALFORTH
-    linked-to:
-    - youtubeshort: fIpzS0i9pEQ
-
-- youtubeshort:
-    id: fpr6eCKAPww
-    label: Vinyl versions
-    published-date: 2025-07-28
+- postxvideo:
+    post: 1951191028242760186
+    id: 01
+    cover: 1951190735392481280/img/dSbDn4-dq1rorpG7.jpg
+    label: Meeting Spiritbox
+    info: Courtney, BABYMETAL
+    published-date: 2025-08-01
     context:
     - album: metalforth
 
-- postx:
-    id: 1949645138097279340
-    account: BABYMETAL_JAPAN
-    label: Vinyl versions
-    published-date: 2025-07-28
-    text: |
-      12 days to METAL FORTH!
-      The signed variants are selling quickly. 
-      You can pre-order your copy here:
 
-      https://Babymetal.lnk.to/USASTORE
 
-      #BABYMETAL #METALFORTH
-    image:
-    - Gw6HPsKbgAAs7lA
-    - Gw6HRAqbwAADKZ3
-    - Gw6HSspaMAAGnCh
-    - Gw6HUAebMAAZQX_
 
-- postximage:
-    post: 1949645138097279340
-    id: Gw6HPsKbgAAs7lA
-    label: Red transparent edition
-    published-date: 2025-07-28
-    context:
-    - album: metalforth
-
-- postximage:
-    post: 1949645138097279340
-    id: Gw6HRAqbwAADKZ3
-    label: clear edition
-    published-date: 2025-07-28
-    context:
-    - album: metalforth
-
-- postximage:
-    post: 1949645138097279340
-    id: Gw6HSspaMAAGnCh
-    label: blackout edition
-    published-date: 2025-07-28
-    context:
-    - album: metalforth
-
-- postximage:
-    post: 1949645138097279340
-    id: Gw6HUAebMAAZQX_
-    label: vinyls
-    published-date: 2025-07-28
-    context:
-    - album: metalforth
-
-- youtubeshort:
-    id: qeW9TR4jrmA
-    label: Collectible cards
-    published-date: 2025-07-28
-    context:
-    - album: metalforth
-
-- youtubeshort:
-    id: 18Bg6v9_Nto
-    label: Vinyl versions
-    published-date: 2025-07-30
-    context:
-    - album: metalforth
-
-- youtubeshort:
-    id: 3KW6iCvH-QI
-    label: Vinyl versions
-    published-date: 2025-07-31
-    context:
-    - album: metalforth

@@ -1,0 +1,107 @@
+
+- youtubeshort:
+    id: fIpzS0i9pEQ
+    label: Signing a card
+    published-date: 2025-07-27
+    context:
+    - album: metalforth
+    - song: konkon
+
+
+- youtubeshort:
+    id: fpr6eCKAPww
+    label: Vinyl versions
+    published-date: 2025-07-28
+    context:
+    - album: metalforth
+    - song: frommetou
+
+- postx:
+    id: 1949645138097279340
+    account: BABYMETAL_JAPAN
+    label: Vinyl versions
+    published-date: 2025-07-28
+    text: |
+      12 days to METAL FORTH!
+      The signed variants are selling quickly. 
+      You can pre-order your copy here:
+
+      https://Babymetal.lnk.to/USASTORE
+
+      #BABYMETAL #METALFORTH
+    image:
+    - Gw6HPsKbgAAs7lA
+    - Gw6HRAqbwAADKZ3
+    - Gw6HSspaMAAGnCh
+    - Gw6HUAebMAAZQX_
+
+- postximage:
+    post: 1949645138097279340
+    id: Gw6HPsKbgAAs7lA
+    label: Red transparent edition
+    published-date: 2025-07-28
+    context:
+    - album: metalforth
+
+- postximage:
+    post: 1949645138097279340
+    id: Gw6HRAqbwAADKZ3
+    label: clear edition
+    published-date: 2025-07-28
+    context:
+    - album: metalforth
+
+- postximage:
+    post: 1949645138097279340
+    id: Gw6HSspaMAAGnCh
+    label: blackout edition
+    published-date: 2025-07-28
+    context:
+    - album: metalforth
+
+- postximage:
+    post: 1949645138097279340
+    id: Gw6HUAebMAAZQX_
+    label: vinyls
+    published-date: 2025-07-28
+    context:
+    - album: metalforth
+
+
+- youtubeshort:
+    id: qeW9TR4jrmA
+    label: Collectible cards
+    published-date: 2025-07-28
+    context:
+    - album: metalforth
+    - song: frommetou
+
+- youtubeshort:
+    id: 18Bg6v9_Nto
+    label: Vinyl versions
+    published-date: 2025-07-30
+    context:
+    - album: metalforth
+
+- youtubeshort:
+    id: 3KW6iCvH-QI
+    label: Vinyl versions
+    published-date: 2025-07-31
+    context:
+    - album: metalforth
+
+- youtubeshort:
+    id: IwfGkBsD3aI
+    label: Signed albums
+    published-date: 2025-08-01
+    context:
+    - album: metalforth
+    - song: myqueen
+
+- youtubeshort:
+    id: jRjkwLBsPeM
+    label: Signed albums
+    published-date: 2025-08-02
+    context:
+    - album: metalforth
+    - song: sunsetkiss
