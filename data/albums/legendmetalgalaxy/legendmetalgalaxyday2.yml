@@ -1,0 +1,24 @@
+album:
+  id: legendmetalgalaxyday2
+  fullname: LEGEND - METAL GALAXY [DAY-2]
+  designation: Live Album
+  release-date: 2020-09-09
+  is-studio: false
+  cover-image:
+    localimage:
+      album: legendmetalgalaxyday2
+      id: cover
+  wiki: https://babymetal.fandom.com/wiki/LEGEND_-_METAL_GALAXY
+  songs:
+  - futuremetal
+  - distortion
+  - papaya
+  - karate
+  - kagerou
+  - bxmxc
+  - syncopation
+  - headbanger
+  - starlight
+  - shine
+  - arkadia
+  - ijimedamezettai

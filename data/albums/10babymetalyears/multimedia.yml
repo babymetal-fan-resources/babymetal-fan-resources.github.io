@@ -1,0 +1,44 @@
+- localimage:
+    album: 10babymetalyears
+    id: cover
+    filename: cover.png
+    published-date: 2020-12-23
+    label: Cover
+    source:
+      description: TOY'S FACTORY item page
+      url: https://www.toysfactory.co.jp/artist/babymetal/disco/2214
+
+- localimage:
+    album: 10babymetalyears
+    id: covereditiona
+    filename: covereditiona.png
+    published-date: 2020-12-23
+    label: Cover
+    info: Limited Edition A 「ALL MUSIC CLIPS」
+    source:
+      description: TOY'S FACTORY item page
+      url: https://www.toysfactory.co.jp/artist/babymetal/disco/2216
+
+- localimage:
+    album: 10babymetalyears
+    id: covereditionb
+    filename: covereditionb.png
+    published-date: 2020-12-23
+    label: Cover
+    info: Limited Edition B 「10 LEGEND ARTWORKS」
+    source:
+      description: TOY'S FACTORY item page
+      url: https://www.toysfactory.co.jp/artist/babymetal/disco/2217
+
+- localimage:
+    album: 10babymetalyears
+    id: covereditionc
+    filename: covereditionc.png
+    published-date: 2020-12-23
+    label: Cover
+    info: Limited Edition C 「10 LEGEND MOVIES」
+    source:
+      description: TOY'S FACTORY item page
+      url: https://www.toysfactory.co.jp/artist/babymetal/disco/2218
+
+
