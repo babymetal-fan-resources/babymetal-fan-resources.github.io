@@ -1,0 +1,13 @@
+- youtubevideo:
+    id: ng8mh6JUIqY
+    label: Official Music Video
+    published-date: 2020-12-09
+    context:
+    - song: bxmxc
+
+- youtubevideo:
+    id: _4G5pa1sd2c
+    label: Official Live Video
+    published-date: 2020-12-09
+    context:
+    - song: bxmxc
