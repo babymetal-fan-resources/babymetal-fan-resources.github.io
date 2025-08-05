@@ -1,0 +1,25 @@
+album:
+  id: liveatwembley
+  fullname: LIVE AT WEMBLEY
+  designation: Live Album
+  release-date: 2016-12-28
+  is-studio: false
+  cover-image:
+    localimage:
+      album: liveatwembley
+      id: cover
+  wiki: https://babymetal.fandom.com/wiki/LIVE_AT_WEMBLEY
+  songs:
+  - babymetaldeath
+  - awadamafever
+  - yava
+  - gj
+  - dokidokimorning
+  - metataro
+  - amore
+  - megitsune
+  - karate
+  - ijimedamezettai
+  - gimichoko
+  - theone
+  - roadofresistance

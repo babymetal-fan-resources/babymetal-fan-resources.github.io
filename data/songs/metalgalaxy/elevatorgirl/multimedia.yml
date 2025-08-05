@@ -1,0 +1,16 @@
+- localimage:
+    song: elevatorgirl
+    id: cover
+    filename: cover.png
+    label: Cover
+    published-date: 2019-05-10
+    source:
+      description: TOY'S FACTORY item page
+      url: https://www.toysfactory.co.jp/artist/babymetal/disco/2020
+
+- youtubevideo:
+    id: Q48bwxyqVpQ
+    label: Official Live Video
+    published-date: 2019-08-16
+    context:
+    - song: elevatorgirl

@@ -1,0 +1,29 @@
+- localimage:
+    album: metalgalaxy
+    id: cover
+    filename: cover.png
+    label: Cover
+    published-date: 2019-10-11
+    source:
+      description: TOY'S FACTORY item page
+      url: https://www.toysfactory.co.jp/artist/babymetal/disco/2053
+
+- localimage:
+    album: metalgalaxy
+    id: covermoon
+    filename: covermoon.png
+    label: Cover MOON
+    published-date: 2019-10-11
+    source:
+      description: TOY'S FACTORY item page
+      url: https://www.toysfactory.co.jp/artist/babymetal/disco/2058
+
+- localimage:
+    album: metalgalaxy
+    id: coversun
+    filename: coversun.png
+    label: Cover SUN
+    published-date: 2019-10-11
+    source:
+      description: TOY'S FACTORY item page
+      url: https://www.toysfactory.co.jp/artist/babymetal/disco/2057

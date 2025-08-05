@@ -8,7 +8,7 @@ contentpage:
   cover-image:
     localimage:
       event: siteimages
-      id: kitsume_cover
+      id: kitsune_cover
   categories:
   - id: event
     label: Events
@@ -277,6 +277,33 @@ contentpage:
   - song: frommetou
   - event: foxday2025
 
+  - album: metalgalaxy
+  - song: arkadia
+  - song: shine
+  - song: kagerou
+  - song: bxmxc
+  - song: inthenameof
+  - song: nightnightburn
+  - song: bbab
+  - song: brandnewday
+  - song: ohmajinai
+  - song: shantishantishanti
+  - song: dadadance
+  - song: futuremetal
+# october
+  - song: papaya
+# june
+  - song: elevatorgirl
+# may
+# 2019
+  - song: starlight
+# october
+  - song: distortion
+# may
+# 2018
+# 2017
+  - album: liveatwembley
+# december
   - album: metalresistance
   - song: theone
   - song: talesofthedestinies

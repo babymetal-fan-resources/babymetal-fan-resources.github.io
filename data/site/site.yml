@@ -9,7 +9,7 @@
     cover-image:
       localimage:
         event: siteimages
-        id: kitsume_cover
+        id: kitsune_cover
     categories:
     - id: show
       label: Shows
@@ -30,7 +30,7 @@
     cover-image:
       localimage:
         event: siteimages
-        id: kitsume_cover
+        id: kitsune_cover
     categories: []
     id-prefix:
     - media

@@ -5,7 +5,7 @@
     - event: siteimages
     - localimage:
         event: siteimages
-        id: kitsume_cover
+        id: kitsune_cover
 
 - event:
     id: siteimages
@@ -14,14 +14,14 @@
     cover-image:
       localimage:
         event: siteimages
-        id: kitsume_cover
+        id: kitsune_cover
 
 - localimage:
     event: siteimages
-    id: kitsume_cover
+    id: kitsune_cover
     hidden: true
-    label: Kitsume Logo for cover
-    filename: kitsume512.png
+    label: Kitsune Logo for cover
+    filename: kitsune512.png
     published-date: 2009-12-31
     source:
       description: Created for the site

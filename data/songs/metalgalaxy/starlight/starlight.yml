@@ -1,0 +1,22 @@
+song:
+  id: starlight
+  fullname: Starlight
+  album: metalgalaxy
+  release-date: 2018-10-19
+  cover-image:
+    localimage:
+      song: starlight
+      id: cover
+  credits:
+    lyricist: METAL SAINTS
+    composer: MEGMETAL, METAL SKYWALKER
+    source:
+      description: 'JASRAC - work ID: 724-5292-7'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Starlight
+  multimedia:
+    main:
+      youtubevideo: hPVx7IazcEw
+    video:
+    - youtubevideo: hPVx7IazcEw

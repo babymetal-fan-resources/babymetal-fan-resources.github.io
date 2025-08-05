@@ -1,0 +1,17 @@
+song:
+  id: brandnewday
+  fullname: Brand New Day (feat. Tim Henson and Scott LePage)
+  release-date: 2019-10-11
+  album: metalgalaxy
+  cover-image:
+    localimage:
+      album: metalgalaxy
+      id: cover
+  credits:
+    lyricist: MK-METAL
+    composer: MEGMETAL
+    source:
+      description: 'JASRAC - work ID: 248-8123-6'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Brand_New_Day

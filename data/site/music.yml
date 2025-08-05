@@ -7,7 +7,7 @@
     cover-image:
       localimage:
         event: siteimages
-        id: kitsume_cover
+        id: kitsune_cover
     categories: []
     content:
     - album: metalforth
@@ -17,7 +17,14 @@
     - song: ratatata
     - song: metali
     - song: bxmxc
+
+    - album: metalgalaxy
+
     - song: papaya
+    - song: elevatorgirl
+    - song: starlight
+    - song: distortion
+    - album: liveatwembley
     - album: metalresistance
     - song: karate
     - song: roadofresistance
