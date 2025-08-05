@@ -1,0 +1,26 @@
+album:
+  id: theotherone
+  fullname: THE OTHER ONE
+  designation: Album
+  release-date: 2023-03-24
+  cover-image:
+    localimage:
+      album: theotherone
+      id: cover
+  wiki: https://babymetal.fandom.com/wiki/THE_OTHER_ONE
+  songs:
+  - metalkingdom
+  - divineattack
+  - mirrormirror
+  - maya
+  - timewave
+  - believing
+  - metalizm
+  - monochrome
+  - lightanddarkness
+  - thelegend
+  multimedia:
+    image:
+    - localimage:
+        album: theotherone
+        id: coverlimitededition

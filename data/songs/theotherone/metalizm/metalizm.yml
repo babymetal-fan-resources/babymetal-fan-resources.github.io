@@ -1,0 +1,22 @@
+song:
+  id: metalizm
+  fullname: Metalizm
+  release-date: 2023-03-24
+  album: theotherone
+  cover-image:
+    localimage:
+      album: theotherone
+      id: cover
+  credits:
+    lyricist: METALIAN, RYU-METAL
+    composer: RYU-METAL, MEGMETAL
+    source:
+      description: 'JASRAC - work ID: 281-8934-5'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/METALIZM
+  multimedia:
+    main:
+      youtubevideo: Gz9_j1SpX5E
+    video:
+    - youtubevideo: Gz9_j1SpX5E

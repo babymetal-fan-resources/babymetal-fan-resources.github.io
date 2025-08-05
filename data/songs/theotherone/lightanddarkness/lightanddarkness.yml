@@ -1,0 +1,22 @@
+song:
+  id: lightanddarkness
+  fullname: Light and Darkness
+  release-date: 2023-02-24
+  album: theotherone
+  cover-image:
+    localimage:
+      album: theotherone
+      id: cover
+  credits:
+    lyricist: MK-METAL, TAKEMETAL
+    composer: TAKEMETAL
+    source:
+      description: 'JASRAC - work ID: 765-5043-5'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Light_and_Darkness
+  multimedia:
+    main:
+      youtubevideo: VavzD_bTov4
+    video:
+    - youtubevideo: VavzD_bTov4

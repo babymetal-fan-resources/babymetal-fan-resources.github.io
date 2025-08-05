@@ -1,0 +1,23 @@
+song:
+  id: divineattack
+  fullname: Divine Attack - 神撃 -
+  release-date: 2022-10-21
+  album: metalgalaxy
+  cover-image:
+    localimage:
+      song: divineattack
+      id: cover
+  credits:
+    lyricist: SU-METAL, MEGMETAL
+    composer: HAYAMETAL
+    source:
+      description: 'JASRAC - work ID: 760-4698-2'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Divine_Attack_-_Shingeki_-
+  multimedia:
+    main:
+      youtubevideo: INRPP78SvXs
+    video:
+    - youtubevideo: INRPP78SvXs
+    - youtubevideo: _gUW2OnPvHI

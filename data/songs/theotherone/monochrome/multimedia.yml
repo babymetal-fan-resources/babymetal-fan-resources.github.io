@@ -1,0 +1,24 @@
+- localimage:
+    song: monochrome
+    id: cover
+    filename: cover.png
+    label: Cover
+    published-date: 2022-11-18
+    source:
+      description: TOY'S FACTORY item page
+      url: https://www.toysfactory.co.jp/artist/babymetal/disco/2498
+
+- youtubevideo:
+    id: FpPBPQUdFx8
+    label: Official Lyrics Video
+    published-date: 2022-11-17
+    context:
+    - song: monochrome
+
+- youtubevideo:
+    id: h-hPGRSjgms
+    label: THE FIRST TAKE
+    published-date: 2023-04-14
+    context:
+    - song: monochrome
+

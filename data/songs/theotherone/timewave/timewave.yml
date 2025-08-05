@@ -1,0 +1,17 @@
+song:
+  id: timewave
+  fullname: Time Wave
+  release-date: 2023-03-24
+  album: theotherone
+  cover-image:
+    localimage:
+      album: theotherone
+      id: cover
+  credits:
+    lyricist: MK-METAL, TMETAL
+    composer: TATSUOMETAL
+    source:
+      description: 'JASRAC - work ID: 281-8932-9'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Time_Wave

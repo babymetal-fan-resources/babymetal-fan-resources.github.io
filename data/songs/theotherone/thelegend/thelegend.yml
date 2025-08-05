@@ -1,0 +1,17 @@
+song:
+  id: thelegend
+  fullname: THE LEGEND
+  release-date: 2023-03-24
+  album: theotherone
+  cover-image:
+    localimage:
+      album: theotherone
+      id: cover
+  credits:
+    lyricist: KITSUNE OF METAL GOD
+    composer: RYU_METAL, MEGMETAL
+    source:
+      description: 'JASRAC - work ID: 281-8935-3'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/THE_LEGEND
