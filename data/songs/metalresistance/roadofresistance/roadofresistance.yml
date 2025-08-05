@@ -1,0 +1,22 @@
+song:
+  id: roadofresistance
+  fullname: Road of Resistance
+  release-date: 2015-02-01
+  album: metalresistance
+  cover-image:
+    localimage:
+      song: roadofresistance
+      id: cover
+  credits:
+    lyricist: MK-METAL, KxBxMETAL, KISTUNE OF METAL GOD
+    composer: MISH-MOSH, KYT-METAL, NORIMETAL
+    source:
+      description: 'JASRAC - work ID: 711-7809-1'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Road_of_Resistance
+  multimedia:
+    main:
+      youtubevideo: zTEYUFgLveY
+    live:
+    - youtubevideo: zTEYUFgLveY

@@ -1,0 +1,17 @@
+song:
+  id: sisanger
+  fullname: Sis. Anger
+  album: metalresistance
+  release-date: 2016-04-01
+  cover-image:
+    localimage:
+      album: metalresistance
+      id: cover
+  credits:
+    lyricist: TSUBOMETAL, TMETAL
+    composer: TSUBOMETAL
+    source:
+      description: 'JASRAC - work ID: 714-7104-9'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Sis._Anger

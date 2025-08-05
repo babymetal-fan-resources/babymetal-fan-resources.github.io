@@ -1,0 +1,13 @@
+- youtubevideo:
+    id: GvD3CHA48pA
+    label: Official Music Video
+    published-date: 2016-03-18
+    context:
+    - song: karate
+
+- youtubevideo:
+    id: c2qTDJcU15w
+    label: LEGEND - 43
+    published-date: 2024-12-10
+    context:
+    - song: karate

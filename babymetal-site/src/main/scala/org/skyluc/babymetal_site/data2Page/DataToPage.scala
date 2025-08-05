@@ -40,10 +40,19 @@ class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[
       ),
       "styles.css",
     )
+
+    val cssStylesFr = CssPage(
+      rootPath.resolve("fan-resources", "static_pieces", "css"),
+      Seq(
+        Path("component", "smallcard.css")
+      ),
+      "styles-fr.css",
+    )
+
     val allPages =
       data.elements.values.filterNot(_.hasError).map(_.process(this)).flatten.toSeq ++ AboutPage.pages()
 
-    allPages ++ Seq(cssStyles, SitemapPage(allPages))
+    allPages ++ Seq(cssStyles, cssStylesFr, SitemapPage(allPages))
   }
   override def processAlbum(album: dfr.Album): Seq[SitePage] =
     AlbumPage.pagesFor(album, generator)

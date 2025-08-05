@@ -1,0 +1,18 @@
+song:
+  id: awadamafever
+  fullname: あわだまフィーバー
+  fullname-en: Adawada Fever
+  album: metalresistance
+  release-date: 2016-04-01
+  cover-image:
+    localimage:
+      album: metalresistance
+      id: cover
+  credits:
+    lyricist: MK-METAL, KxBxMETAL
+    composer: TAKESHI UEDA
+    source:
+      description: 'JASRAC - work ID: 501-1340-2'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Awadama_Fever

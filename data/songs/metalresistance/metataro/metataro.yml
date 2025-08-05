@@ -1,0 +1,18 @@
+song:
+  id: metataro
+  fullname: META！メタ太郎
+  fullname-en: Meta Taro
+  album: metalresistance
+  release-date: 2016-04-01
+  cover-image:
+    localimage:
+      album: metalresistance
+      id: cover
+  credits:
+    lyricist: KxBxMETAL, RYU-METAL
+    composer: RYU-METAL
+    source:
+      description: 'JASRAC - work ID: 714-7105-7'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Meta_Taro

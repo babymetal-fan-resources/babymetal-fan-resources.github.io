@@ -15,10 +15,13 @@ import org.skyluc.fan_resources.html.component.LineCard
 import org.skyluc.fan_resources.html.component.MainTitle
 import org.skyluc.fan_resources.html.component.MultiMediaCard
 import org.skyluc.fan_resources.html.component.SectionHeader
+import org.skyluc.fan_resources.html.component.SmallCard
 import org.skyluc.html.BodyElement
 
 class AlbumPage(
     album: ElementCompiledData,
+    isStudio: Boolean,
+    songs: Seq[ElementCompiledData],
     songsByYears: Seq[ChronologyYear],
     multimediaBlock: MultiMediaBlockCompiledData,
     description: PageDescription,
@@ -30,10 +33,18 @@ class AlbumPage(
     val largeDetails =
       LargeDetails.generate(album)
 
-    val songsSection: Seq[BodyElement[?]] = Seq(
-      SectionHeader.generate(SECTION_SONGS),
-      ChronologySection.generate(songsByYears, Nil, true, false),
-    )
+    val songsSection: Seq[BodyElement[?]] = if (isStudio) {
+      Seq(
+        SectionHeader.generate(SECTION_SONGS),
+        ChronologySection.generate(songsByYears, Nil, true, false),
+      )
+    } else {
+      Seq(
+        SectionHeader.generate(SECTION_SONGS),
+        SmallCard.generateList(songs),
+      )
+
+    }
 
     val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, album.uId)
 
@@ -99,6 +110,8 @@ object AlbumPage {
 
     val mainPage = AlbumPage(
       compiledData,
+      album.isStudio,
+      songs.map(generator.getElement),
       songByYears,
       multimediaBlock,
       PageDescription(

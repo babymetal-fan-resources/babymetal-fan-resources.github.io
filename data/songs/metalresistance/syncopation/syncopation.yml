@@ -1,0 +1,23 @@
+song:
+  id: syncopation
+  fullname: シンコペーション
+  fullname-en: Syncopation
+  album: metalresistance
+  release-date: 2016-04-01
+  cover-image:
+    localimage:
+      album: metalresistance
+      id: cover
+  credits:
+    lyricist: KxBxMETAL, NORIMETAL
+    composer: NORIMETAL
+    source:
+      description: 'JASRAC - work ID: 714-7100-6'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Syncopation
+  multimedia:
+    main:
+      youtubevideo: 4hSiQHPbsbE
+    live:
+    - youtubevideo: 4hSiQHPbsbE

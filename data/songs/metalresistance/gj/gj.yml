@@ -1,0 +1,17 @@
+song:
+  id: gj
+  fullname: GJ！
+  album: metalresistance
+  release-date: 2016-04-01
+  cover-image:
+    localimage:
+      album: metalresistance
+      id: cover
+  credits:
+    lyricist: 中田 カオス, YUYOYUPPE
+    composer: YUYOYUPPE
+    source:
+      description: 'JASRAC - work ID: 714-7106-5'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/GJ!

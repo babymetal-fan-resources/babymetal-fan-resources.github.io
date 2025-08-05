@@ -1,0 +1,17 @@
+song:
+  id: talesofthedestinies
+  fullname: Tales of The Destinies
+  album: metalresistance
+  release-date: 2016-04-01
+  cover-image:
+    localimage:
+      album: metalresistance
+      id: cover
+  credits:
+    lyricist: KxBxMETAL, KISTUNE OF METAL GOD
+    composer: MISH-MOSH
+    source:
+      description: 'JASRAC - work ID: 714-7103-1'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Tales_of_The_Destinies

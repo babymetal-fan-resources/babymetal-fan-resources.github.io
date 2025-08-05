@@ -80,9 +80,10 @@
 }
 
 .marker-card-type-album,
-.marker-card-type-single {
+.marker-card-type-single,
+.marker-card-type-livealbum {
   background-color: #202060;
-  background: linear-gradient(160deg, transparent 0rem, transparent 20%, #202060);
+  background: linear-gradient(160deg, transparent 0rem, transparent 20%, #2b2b86);
 }
 
 .marker-card-type-multimedia {

@@ -5,10 +5,10 @@
   --color-not-black: darkslategray;
   --color-not-gray: #d0d0d0;
 
-  --color-designation: rgb(128, 0, 0);
+  --color-designation: #d90009;
   --color-text: rgb(190, 190, 190);
   --color-text-less: gray;
-  --color-text-red: #FF5733;
+  --color-text-red: #d90009;
   --color-bg-cover: var(--color-almost-black);
 
   --color-group-border: grey;
