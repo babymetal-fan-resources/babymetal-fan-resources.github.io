@@ -1,0 +1,24 @@
+song:
+  id: ratatata
+  fullname: RATATATA (BABYMETAL x Electric Callboy)
+  shortname: RATATATA
+  album: metalforth
+  release-date: 2024-05-23
+  cover-image:
+    postximage:
+      post: 1792208596262166999
+      image: GN71UVjbcAADENF
+  credits:
+    lyricist: Kevin Ratajczak, Nico Sallach, Pascal Schillo, Daniel Haniß, MK-METAL
+    composer: NORIMETAL, Kevin Ratajczak, Nico Sallach, Pascal Schillo, Daniel Haniß
+    source:
+      description: Music video description
+      url: https://www.youtube.com/watch?v=EDnIEWyVIlE
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/RATATATA
+  multimedia:
+    main:
+      youtubevideo: EDnIEWyVIlE
+    video: 
+    - youtubevideo: ChmVcJK7N-c
+    - youtubevideo: EDnIEWyVIlE

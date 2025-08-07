@@ -1,0 +1,25 @@
+- localimage:
+    song: metali
+    id: cover
+    filename: cover.png
+    label: Cover
+    published-date: 2023-08-18
+    source:
+      description: TOY'S FACTORY item page
+      url: https://www.toysfactory.co.jp/artist/babymetal/disco/2619
+
+- youtubevideo:
+    id: hkij4LvACZ0
+    label: Official Music Video
+    published-date: 2023-08-18
+    context:
+    - song: metali
+
+- youtubevideo:
+    id: RIgjfGHgwDc
+    label: Official Live Video
+    published-date: 2024-01-22
+    context:
+    - song: metali
+
+

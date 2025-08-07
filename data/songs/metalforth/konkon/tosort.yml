@@ -1,20 +1,3 @@
-- song:
-    id: konkon
-    fullname: Kon! Kon! (feat. Bloodywood)
-    shortname: Kon! Kon!
-    release-date: 2025-07-11
-    cover-image:
-      localimage:
-        song: konkon
-        id: cover
-    album: metalforth
-    wiki: https://babymetal.fandom.com/wiki/Kon!_Kon!
-    multimedia:
-      main:
-        youtubevideo: UxRldWoKlnQ
-      video:
-      - youtubevideo: UxRldWoKlnQ
-
 - localimage:
     song: konkon
     id: cover

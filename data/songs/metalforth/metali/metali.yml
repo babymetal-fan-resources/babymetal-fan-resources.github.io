@@ -1,0 +1,25 @@
+song:
+  id: metali
+  fullname: メタり!! (feat. Tom Morello)
+  fullname-en: METALI!! 
+  shortname: メタり!!
+  release-date: 2023-08-18
+  cover-image:
+    localimage:
+      song: metali
+      id: cover
+  album: metalforth
+  credits:
+    lyricist: METAL-NIKI
+    composer: RYU-METAL, NORIMETAL
+    source:
+      description: 'JASRAC - work ID: 772-1687-3'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/METALI!!
+  multimedia:
+    main:
+      youtubevideo: RIgjfGHgwDc
+    video:
+    - youtubevideo: hkij4LvACZ0
+    - youtubevideo: RIgjfGHgwDc
