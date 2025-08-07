@@ -9,3 +9,101 @@ song:
       image: GnWBzbdbgAA2zuP
   album: metalforth
   wiki: https://babymetal.fandom.com/wiki/White_Flame_-%E7%99%BD%E7%82%8E-
+
+  lyrics:
+    status:
+      code: warning
+      description: data copied from the sources. Not cross checked.
+    languages:
+    - id: ol
+      name: original lyrics
+      details: (from genius.com)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: from genius.com
+        url: https://genius.com/Babymetal-white-flame-lyrics
+    sections:
+    - lines:
+      - ol:
+        - (Time) 時を超えて (Shine) 輝く
+      - ol:
+        - 走り続け 届けた蒼い星
+      - ol:
+        - (Dance) 胸が躍る (Chance) いつの日にか
+      - ol:
+        - ひかる明日をつかまえたい
+
+    - lines:
+      - ol:
+        - 遠く遠ざかる
+      - ol:
+        - 夜空の星よ
+      - ol:
+        - 次に出会える日まで
+      - ol:
+        - 長い夜を越えて
+
+    - lines:
+      - ol:
+        - Sunlight
+      - ol:
+        - 煌めく光の中
+      - ol:
+        - Sunlight
+      - ol:
+        - 白い太陽が揺れた
+      - ol:
+        - さんさんと照らせよもっと
+      - ol:
+        - こぼれてく眩しさを
+      - ol:
+        - 集めて踊るよ
+      - ol:
+        - Sunlight
+
+    - lines:
+      - ol:
+        - (Sign) ときを告げる (Chime) 鐘の音
+      - ol:
+        - 待ちわびてた 抱いた 淡い夢
+      - ol:
+        - (Chase) 追い求めた (Faith) 強い心
+      - ol:
+        - 二度と離さず つかまえたい
+
+    - lines:
+      - ol:
+        - (Oh)
+      - ol:
+        - (Oh)
+
+    - lines:
+      - ol:
+        - 長い夜を超えて
+      - ol:
+        - 地平線の彼方へ
+
+    - lines:
+      - ol:
+        - Sunlight
+      - ol:
+        - 煌めく光の中
+      - ol:
+        - Sunlight
+      - ol:
+        - 白い太陽が揺れた
+      - ol:
+        - さんさんと照らせよもっと
+      - ol:
+        - あふれだす眩しさを
+      - ol:
+        - 集めて踊るよ
+      - ol:
+        - Sunlight
+
+    - lines:
+      - ol:
+        - 照らせ
+

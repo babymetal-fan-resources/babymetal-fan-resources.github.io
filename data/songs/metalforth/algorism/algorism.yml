@@ -8,3 +8,121 @@ song:
       image: GnWBzbdbgAA2zuP
   album: metalforth
   wiki: https://babymetal.fandom.com/wiki/Algorism
+
+
+  lyrics:
+    status:
+      code: warning
+      description: data copied from the sources. Not cross checked.
+    languages:
+    - id: ol
+      name: original lyrics
+      details: (from genius.com)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: from genius.com
+        url: https://genius.com/Babymetal-algorism-lyrics
+    sections:
+    - lines:
+      - ol:
+        - 心の 傷跡を
+      - ol:
+        - えぐった 冷たい夜
+      - ol:
+        - No pain, no gain, 全てを賭け
+      - ol:
+        - 震える 手を伸ばした
+
+    - lines:
+      - ol:
+        - (サマヨウ) ヒカリ
+      - ol:
+        - (テラシタ) セカイ
+      - ol:
+        - (アフレタ) イタミ
+      - ol:
+        - (コロシテ)
+
+    - lines:
+      - ol:
+        - 繰り返す このリズム そう 愛はアルゴリズム
+      - ol:
+        - 叫んでも 消えない 過去も未来も
+      - ol:
+        - 隠された このリズム そう 愛はアルゴリズム
+      - ol:
+        - Desire, desire, 焼き尽くせよ 炎 burning heart
+
+    - lines:
+      - ol:
+        - 記憶の 深い場所
+      - ol:
+        - 突き刺す 虚な笑顔
+      - ol:
+        - No choice, no escape, 探し続け
+      - ol:
+        - 絡まる 迷路の中
+
+    - lines:
+      - ol:
+        - (コゴエタ) カラダ
+      - ol:
+        - (ユラシテ) ヒトリ
+      - ol:
+        - (クルシミ) オソレ
+      - ol:
+        - (キリツケ)
+
+    - lines:
+      - ol:
+        - 試された このパズル そう 愛はアルゴリズム
+      - ol:
+        - 誰にも 解けない 悩ましいほど
+      - ol:
+        - 囚われた このリズム そう 愛はアルゴリズム
+      - ol:
+        - Desire, desire, 解き放てよ
+
+    - lines:
+      - ol:
+        - Don't break it now, don't turn away
+      - ol:
+        - Don't break it now, don't leave me now
+      - ol:
+        - Don't break it now, don't turn away
+      - ol:
+        - Don't break it now, no pain, no gain, no pain, no gain
+
+    - lines:
+      - ol:
+        - 夜がささやき 闇にとけて消えてゆく
+      - ol:
+        - 後ろ姿さえ
+      - ol:
+        - 閉じた瞳に 焼き付けていたいから
+      - ol:
+        - 今も
+
+    - lines:
+      - ol:
+        - 止まらない メカニズム そう 愛はアルゴリズム
+      - ol:
+        - 願っても 尽きない 狂おしいほど
+      - ol:
+        - 託された このリズム そう 愛はアルゴリズム
+      - ol:
+        - Desire, desire, 燃え上がれよ
+
+    - lines:
+      - ol:
+        - 壊れそうな 愛のシルエット
+      - ol:
+        - あぁ このまま目を閉じれば
+      - ol:
+        - 繰り返す 愛のビート
+      - ol:
+        - あぁ リアルが刻むリズム
+      - ol:
+        - 時を焦がせ burning love

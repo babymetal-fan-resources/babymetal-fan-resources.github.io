@@ -31,7 +31,10 @@ contentpage:
   content:
   - show:
       year: 2026
-      id: specialarenashowjapan
+      id: specialarenashowjapan2
+  - show:
+      year: 2026
+      id: specialarenashowjapan1
   - show:
       year: 2025
       id: specialarenashowmexico

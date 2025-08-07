@@ -9,3 +9,77 @@ song:
       image: GnWBzbdbgAA2zuP
   album: metalforth
   wiki: https://babymetal.fandom.com/wiki/My_Queen
+
+
+  lyrics:
+    status:
+      code: warning
+      description: data copied from the sources. Not cross checked.
+    languages:
+    - id: ol
+      name: original lyrics
+      details: (from genius.com)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: from genius.com
+        url: https://genius.com/Babymetal-and-polyphia-sunset-kiss-lyrics
+    sections:
+    - lines:
+      - ol:
+        - 忍び寄る影 この夜に溶け
+      - ol:
+        - 僕の元 君の元にも
+      - ol:
+        - 消えた後にも 化けて出でます
+      - ol:
+        - 踊りませんか？
+
+    - lines:
+      - ol:
+        - 妖艶 dazzling 繁栄 eternity
+      - ol:
+        - 孤高 my queen
+      - ol:
+        - この苦しみから 解き放って
+
+    - lines:
+      - ol:
+        - 身に余る光栄 選ばれたのさ
+      - ol:
+        - 僕の声 君の叫びも
+      - ol:
+        - 微かに残る 過去の栄華に
+      - ol:
+        - 縋ることは無い
+
+    - lines:
+      - ol:
+        - 妖艶 dazzling 繁栄 eternity
+      - ol:
+        - 孤高 my queen
+      - ol:
+        - この苦しみから 解き放って
+      - ol:
+        - 掲げた掌に 秘めたる心に
+      - ol:
+        - 救済の鼓動を 過激に宿して
+      - ol:
+        - 燃やし尽くして
+
+    - lines:
+      - ol:
+        - 妖艶 dazzling 繁栄 eternity
+      - ol:
+        - 孤高 my queen
+      - ol:
+        - この苦しみから 解き放って
+      - ol:
+        - 掲げた掌に 秘めたる心に
+      - ol:
+        - 救済の鼓動を 過激に宿して
+      - ol:
+        - 燃やし尽くして
+      - ol:
+        - 解き放って

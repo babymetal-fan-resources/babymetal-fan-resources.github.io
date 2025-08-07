@@ -1,36 +1,53 @@
 - show:
     year: 2026
-    id: specialarenashowjapan
+    id: specialarenashowjapan1
     fullname: Special Arena Show in Japan
-    date: 2026-01-15
+    date: 2026-01-10
     location: Saitama Super Arena, Japan
     cover-image:
       localimage:
         show:
           year: 2026
-          id: specialarenashowjapan
+          id: specialarenashowjapan1
         id: cover
     categories: mainshowtour
     linked-to:
     - localimage:
         show:
           year: 2026
-          id: specialarenashowjapan
+          id: specialarenashowjapan1
+        id: cover
+
+- show:
+    year: 2026
+    id: specialarenashowjapan2
+    fullname: Special Arena Show in Japan
+    date: 2026-01-11
+    location: Saitama Super Arena, Japan
+    cover-image:
+      localimage:
+        show:
+          year: 2026
+          id: specialarenashowjapan1
+        id: cover
+    categories: mainshowtour
+    linked-to:
+    - localimage:
+        show:
+          year: 2026
+          id: specialarenashowjapan1
         id: cover
 
 - localimage:
     show:
       year: 2026
-      id: specialarenashowjapan
+      id: specialarenashowjapan1
     id: cover
     label: cover
-    filename: cover400.png
-    published-date: 2025-04-01
+    filename: cover.png
+    published-date: 2025-08-07
     source:
       description: BABYMETAL website site
-      url: 'https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025'
-    linked-to:
-    - show:
-        year: 2026
-        id: specialarenashowjapan
+      url: https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1736&id=294120&lang=en
+
 

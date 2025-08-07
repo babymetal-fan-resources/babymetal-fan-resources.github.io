@@ -8,3 +8,136 @@ song:
       image: GnWBzbdbgAA2zuP
   album: metalforth
   wiki: https://babymetal.fandom.com/wiki/KxAxWxAxIxI
+
+  lyrics:
+    status:
+      code: warning
+      description: data copied from the sources. Not cross checked.
+    languages:
+    - id: ol
+      name: original lyrics
+      details: (from genius.com)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: from genius.com
+        url: https://genius.com/Babymetal-kxaxwxaxixi-lyrics
+    sections:
+    - lines:
+      - ol:
+        - わたしかわいい
+      - ol:
+        - わたしかわいい
+      - ol:
+        - わたしかわいい
+      - ol:
+        - やっぱかわいいでしょ？
+      - ol:
+        - I am かわいい
+      - ol:
+        - I am かわいい
+      - ol:
+        - I am かわいい
+      - ol:
+        - やっぱかわいい好き？
+
+    - lines:
+      - ol:
+        - 駅前 ストリート 養う
+      - ol:
+        - 侍 スピリット 武器は
+      - ol:
+        - 刀 代わり スマホ
+      - ol:
+        - 片手 握り
+
+    - lines:
+      - ol:
+        - わたしかわいい
+      - ol:
+        - わたしかわいい
+      - ol:
+        - わたしかわいい
+      - ol:
+        - やっぱかわいい でしょ？
+
+    - lines:
+      - ol:
+        - K-A-W-A-I-I
+      - ol:
+        - K-A-W-A-I-I
+      - ol:
+        - K-A-W-A-I-I
+      - ol:
+        - K-A-W-A-I-I
+
+    - lines:
+      - ol:
+        - With a pink blade, I slash the fake
+      - ol:
+        - Behind a smile, I aim the stake
+      - ol:
+        - Ribbon sways, breaking the dark
+      - ol:
+        - With a sweet trap, I make my mark
+      - ol:
+        - Choker tight, fire's light
+      - ol:
+        - With a delicate gaze, I break the night
+      - ol:
+        - Hiding the fight with a stuffed toy
+      - ol:
+        - Biting with pain, the sweet ploy
+      - ol:
+        - かわいい queen, it's a massacre
+      - ol:
+        - History fades with a smile, so pure
+      - ol:
+        - Kawaii demon, sweet and bitter
+      - ol:
+        - Melt in the dark, everything's litter
+
+    - lines:
+      - ol:
+        - わたしかわいい
+      - ol:
+        - わたしかわいい
+      - ol:
+        - わたしかわいい
+      - ol:
+        - やっぱかわいい でしょ？
+      - ol:
+        - わたしかわいい
+      - ol:
+        - わたしかわいい
+      - ol:
+        - わたしかわいい
+      - ol:
+        - やっぱかわいい 好き？
+      - ol:
+        - わたしかわいい
+      - ol:
+        - I am かわいい
+      - ol:
+        - We are かわいい
+      - ol:
+        - 無敵のFriendsでしょ？
+
+    - lines:
+      - ol:
+        - We are かわいい
+      - ol:
+        - We are かわいい
+      - ol:
+        - We are かわいい
+      - ol:
+        - かわいい number one
+      - ol:
+        - We are かわいい (ワタシガイチバン)
+      - ol:
+        - We are かわいい (アンタハニバン)
+      - ol:
+        - We are かわいい
+      - ol:
+        - かわいい number one
