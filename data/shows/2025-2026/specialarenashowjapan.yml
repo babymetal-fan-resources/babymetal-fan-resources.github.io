@@ -1,47 +1,51 @@
 - show:
     year: 2026
-    id: specialarenashowjapan1
-    fullname: Special Arena Show in Japan
+    id: legendmetalforth1
+    fullname: LEGEND - METAL FORTH
+    sublabel: Special Arena Show in Japan
     date: 2026-01-10
     location: Saitama Super Arena, Japan
+    event-page: https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1736&id=294120&lang=en
     cover-image:
       localimage:
         show:
           year: 2026
-          id: specialarenashowjapan1
+          id: legendmetalforth1
         id: cover
     categories: mainshowtour
     linked-to:
     - localimage:
         show:
           year: 2026
-          id: specialarenashowjapan1
+          id: legendmetalforth1
         id: cover
 
 - show:
     year: 2026
-    id: specialarenashowjapan2
-    fullname: Special Arena Show in Japan
+    id: legendmetalforth2
+    fullname: LEGEND - METAL FORTH
+    sublabel: Special Arena Show in Japan
     date: 2026-01-11
     location: Saitama Super Arena, Japan
+    event-page: https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1736&id=294120&lang=en
     cover-image:
       localimage:
         show:
           year: 2026
-          id: specialarenashowjapan1
+          id: legendmetalforth1
         id: cover
     categories: mainshowtour
     linked-to:
     - localimage:
         show:
           year: 2026
-          id: specialarenashowjapan1
+          id: legendmetalforth1
         id: cover
 
 - localimage:
     show:
       year: 2026
-      id: specialarenashowjapan1
+      id: legendmetalforth1
     id: cover
     label: cover
     filename: cover.png
