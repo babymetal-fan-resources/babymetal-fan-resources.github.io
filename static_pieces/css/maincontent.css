@@ -55,7 +55,7 @@ h2 {
 
 .status-warning {
   color: white;
-  background-color: orange;
+  background-color: rgb(206, 113, 0);
 }
 
 .status-danger {

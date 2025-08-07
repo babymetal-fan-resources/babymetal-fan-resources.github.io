@@ -22,3 +22,253 @@ song:
     video: 
     - youtubevideo: ChmVcJK7N-c
     - youtubevideo: EDnIEWyVIlE
+  lyrics:
+    status:
+      code: warning
+      description: data copied from the sources. Not cross checked.
+    languages:
+    - id: ol
+      name: original lyrics
+      details: (from the Official Music Video)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: from the description of the Official Music Video
+        url: https://www.youtube.com/watch/EDnIEWyVIlE
+    sections:
+    - lines:
+      - ol:
+        - Every night when the sky turns red up above
+      - ol:
+        - I feel the beat in my veins 
+      - ol:
+        - And I'm searching for love 
+      - ol:
+        - You know that hips don’t lie 
+      - ol:
+        - I leave you hypnotized 
+      - ol:
+        - Just give me one more try 
+      - ol:
+        - To make you feel that vibe 
+      - ol:
+        - And it goes
+
+    - lines:
+      - ol:
+        - Ra ta ta ta ta ta!
+      - ol:
+        - My body is a weapon 
+      - ol:
+        - Ra ta ta ta ta ta!
+      - ol:
+        - We’re gonna hit the floor 
+      - ol:
+        - Ra ta ta ta ta ta!
+      - ol:
+        - We’re gonna make it happen 
+      - ol:
+        - Ra ta ta ta ta ta!
+      - ol:
+        - Now gimme some more
+
+    - lines:
+      - ol:
+        - I will push it to the limit
+      - ol:
+        - And everybody’s feeling the sound of the night 
+      - ol:
+        - I don’t wanna stop
+      - ol:
+        - We push it to the limit
+      - ol:
+        - Together we will crash the morning light
+
+    - lines:
+      - ol:
+        - ブ·チ·ア·ガ·レ！
+      - ol:
+        - Bun Bun Bun Moving
+      - ol:
+        - Bun Bun Bun Bun Bun 
+      - ol:
+        - Bun Bun Bun Shaking
+      - ol:
+        - Bun Bun Bun Bun Bun 
+      - ol:
+        - Bun Bun Bun Jumping
+      - ol:
+        - Bun Bun Bun Bun Bun 
+      - ol:
+        - Bun Bun Bun Stomping
+
+    - lines:
+      - ol:
+        - Bun Bun Bun Bun Bun
+
+    - lines:
+      - ol:
+        - アゲ！
+      - ol:
+        - キラっとしちゃうアゲ！
+      - ol:
+        - フワっとしちゃうアゲ！
+      - ol:
+        - ドキっとしちゃうアゲ！
+      - ol:
+        - 小悪魔しちゃうけど大丈夫？
+      - ol:
+        - 瞳に映した 笑顔の魔法で罠に誘い込む
+
+    - lines:
+      - ol:
+        - And it goes
+      - ol:
+        - Ra ta ta ta ta ta!
+      - ol:
+        - My body is a weapon 
+      - ol:
+        - Ra ta ta ta ta ta!
+      - ol:
+        - We’re gonna hit the floor 
+      - ol:
+        - Ra ta ta ta ta ta!
+      - ol:
+        - We’re gonna make it happen 
+      - ol:
+        - Ra ta ta ta ta ta!
+      - ol:
+        - Now gimme some more
+
+    - lines:
+      - ol:
+        - I will push it to the limit
+      - ol:
+        - And everybody’s feeling the sound of the night 
+      - ol:
+        - I don’t wanna stop
+      - ol:
+        - We push it to the limit
+      - ol:
+        - Together we will crash the morning light
+
+    - lines:
+      - ol:
+        - ブ·チ·ア·ガ·レ！
+      - ol:
+        - Bun Bun Bun Moving
+      - ol:
+        - Bun Bun Bun Bun Bun 
+      - ol:
+        - Bun Bun Bun Shaking
+      - ol:
+        - Bun Bun Bun Bun Bun 
+      - ol:
+        - Bun Bun Bun Jumping
+      - ol:
+        - Bun Bun Bun Bun Bun 
+      - ol:
+        - Bun Bun Bun Stomping
+      - ol:
+        - Bun Bun Bun Bun Bun
+
+    - lines:
+      - ol:
+        - I’m here for the moment
+      - ol:
+        - Here for the beat 
+      - ol:
+        - Here for the love 
+      - ol:
+        - And the friends I need
+      - ol:
+        - You know that I’ll be there for good 
+
+    - lines:
+      - ol:
+        - I’m here for the moment
+      - ol:
+        - Here for the beat 
+      - ol:
+        - Here for the love 
+      - ol:
+        - And the friends I need
+      - ol:
+        - You know that I’ll be there for good
+
+    - lines:
+      - ol:
+        - RA TA TA TA!
+      - ol:
+        - I go fucking crazy ‘cause I’m waiting for the drop
+      - ol:
+        - Are you ready? 
+      - ol:
+        - Let's GO!
+      - ol:
+        - So tell me baby can I get a 
+      - ol:
+        - Fu! Fu!
+      - ol:
+        - So hear me now
+      - ol:
+        - Fu! Fu!
+      - ol:
+        - You know what I want
+      - ol:
+        - Fu! Fu!
+      - ol:
+        - Now everybody's getting down
+
+    - lines:
+      - ol:
+        - I will push it to the limit
+      - ol:
+        - And everybody’s feeling the sound of the night 
+      - ol:
+        - I don’t wanna stop
+      - ol:
+        - We push it to the limit
+      - ol:
+        - Together we will crash the morning light
+
+    - lines:
+      - ol:
+        - ブ·チ·ア·ガ·レ！
+      - ol:
+        - Bun Bun Bun Moving
+      - ol:
+        - Bun Bun Bun Bun Bun 
+      - ol:
+        - Bun Bun Bun Shaking
+      - ol:
+        - Bun Bun Bun Bun Bun 
+      - ol:
+        - Bun Bun Bun Jumping
+      - ol:
+        - Bun Bun Bun Bun Bun 
+      - ol:
+        - Bun Bun Bun Stomping
+      - ol:
+        - Bun Bun Bun Bun Bun
+
+    - lines:
+      - ol:
+        - Everybody! 
+      - ol:
+        - Fu! Fu!
+      - ol:
+        - Out of control
+      - ol:
+        - Fu! Fu! 
+      - ol:
+        - Everybody! 
+      - ol:
+        - Fu! Fu!
+      - ol:
+        - Out of control
+      - ol:
+        - Fu! Fu! Fu! Fu!
+      - ol:
+        - Now everybody’s getting down

@@ -35,3 +35,170 @@ song:
   - postx: 1908172721055469909
   - postx: 1917749117322932480
 
+  lyrics:
+    status:
+      code: warning
+      description: data copied from the sources. Not cross checked.
+    languages:
+    - id: ol
+      name: original lyrics
+      details: (from LyricFind)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: from LyricFind
+        url: https://lyrics.lyricfind.com/lyrics/babymetal-from-me-to-u
+    sections:
+    - lines:
+      - ol:
+        - Let's go
+
+    - lines:
+      - ol:
+        - I know you're scared 'cause you're running for cover
+      - ol:
+        - But you might be running far
+      - ol:
+        - And if the demons know you're scared to death
+      - ol:
+        - Then they will find you where you are
+      - ol:
+        - Is there a virus infecting your system?
+      - ol:
+        - Have the cuts left an animal mark?
+      - ol:
+        - That will make you one of us
+      - ol:
+        - And we will never, never, never be apart
+
+    - lines:
+      - ol:
+        - The evil has its motive
+      - ol:
+        - And now so do I
+      - ol:
+        - And it'll hold you to your fragile alibi
+
+    - lines:
+      - ol:
+        - With this rage inside of me
+      - ol:
+        - 君に届け 君に届け
+      - ol:
+        - Maybe now we can kill the enemy
+      - ol:
+        - とても厳しい
+
+    - lines:
+      - ol:
+        - Stand up and make your move
+      - ol:
+        - Let the fire carry on
+      - ol:
+        - Let the power go from me to you
+
+    - lines:
+      - ol:
+        - From me to you
+
+    - lines:
+      - ol:
+        - I need a friend that'll never betray me
+      - ol:
+        - There's no time like where we are
+      - ol:
+        - I'm so bored, I don't care for the consequence
+      - ol:
+        - So I'll come find you where you are
+
+    - lines:
+      - ol:
+        - Is it a sin if I wish for destruction?
+      - ol:
+        - Is it a call that I can make?
+      - ol:
+        - And I hail for the wrath of crimson on the faces in my way
+      - ol:
+        - And it goes from me to you
+
+    - lines:
+      - ol:
+        - I've had enough from your mouth
+      - ol:
+        - You can shove it
+      - ol:
+        - "'Cause you know you don't stand a chance"
+
+    - lines:
+      - ol:
+        - With this rage inside of me
+      - ol:
+        - 君に届け 君に届け
+      - ol:
+        - Maybe now we can kill the enemy
+      - ol:
+        - とても厳しい
+
+    - lines:
+      - ol:
+        - Stand up and make your voice
+      - ol:
+        - Let the fire carry on
+      - ol:
+        - Let the power go from me to you
+
+    - lines:
+      - ol:
+        - 闇を向け 光と共に
+      - ol:
+        - 終わりを告げた時
+      - ol:
+        - 僕はただ
+      - ol:
+        - 絶望の彷徨うのさ
+
+    - lines:
+      - ol:
+        - You're doing this wrong
+      - ol:
+        - "'Cause if the end is a promise"
+      - ol:
+        - It's still looking up
+      - ol:
+        - I cannot rest, till you're fucking breathless
+
+    - lines:
+      - ol:
+        - Has this blind intention just been justified?
+      - ol:
+        - Hung from the edges, you'll rest with your lies
+      - ol:
+        - Rest with your lies
+
+    - lines:
+      - ol:
+        - With this rage inside of me
+      - ol:
+        - 君に届け 君に届け
+      - ol:
+        - With this rage inside of me (inside of me)
+      - ol:
+        - 君に届け (君に届け) 君に届け (敵を倒す)
+      - ol:
+        - Maybe now we can kill the enemy (kill the enemy)
+      - ol:
+        - とても厳しい
+
+    - lines:
+      - ol:
+        - Stand up and make your voice
+      - ol:
+        - Let the fire carry on
+      - ol:
+        - Let the power go from me to you
+
+    - lines:
+      - ol:
+        - From me to you
+

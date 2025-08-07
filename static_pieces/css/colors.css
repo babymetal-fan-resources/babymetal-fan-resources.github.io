@@ -20,4 +20,9 @@
       var(--color-almost-black) 70vh,
       var(--color-closeto-black) 110vh,
       var(--color-closeto-black) 120vh);
+
+  --color-lyrics-section-even: rgb(from blue r g b / 0.05);
+  --color-lyrics-section-odd: rgb(from green r g b / 0.05);
+  --color-lyrics-line-even: rgb(from yellow r g b / 0.05);
+  --color-lyrics-line-odd: rgb(from pink r g b / 0.05);
 }

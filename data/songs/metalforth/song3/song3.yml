@@ -46,4 +46,149 @@ song:
   - youtubevideo: KEMVgy51kPE
   - postyoutube: Ugkx9s1Spc90uUxKTukNacDarzBVcwTnHXKc
   - postx: 1930459568804639211
+  lyrics:
+    status:
+      code: warning
+      description: data copied from the sources. Not cross checked.
+    languages:
+    - id: ol
+      name: original lyrics
+      details: (from LyricFind)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: from LyricFind
+        url: https://lyrics.lyricfind.com/lyrics/babymetal-song-3
+    sections:
+    - lines:
+      - ol:
+        - Thu-thunder
 
+    - lines:
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, thunder
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, thunder
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, thunder
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, thunder
+
+    - lines:
+      - ol:
+        - バリ3 僕はバリ3
+      - ol:
+        - 電波バリ3 バリバリ3 (3, 3)
+      - ol:
+        - バリ3 人生バリ 3
+      - ol:
+        - キテるバリ3 バリバリ3 (3, 3)
+      - ol:
+        - バリ3 power バリ3
+      - ol:
+        - Danger バリ3 バリバリ3 (3, 3)
+      - ol:
+        - バリ3 thunderバリ3
+      - ol:
+        - 昇れ 富士山 rising sun
+
+    - lines:
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, thunder (3)
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, thunder (3)
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, thunder (3)
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, thunder (3)
+
+    - lines:
+      - ol:
+        - 3 我らは3 (3, 3, 3)
+      - ol:
+        - 3 お前も3 thunder
+      - ol:
+        - 3 我らは3 (3, 3, 3)
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, thunder
+
+    - lines:
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, thunder
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, thunder
+
+    - lines:
+      - ol:
+        - バリ3, I am a 中三
+      - ol:
+        - Brother 小三 姉高三 (3, 3)
+      - ol:
+        - バリ3 粋なグラサン
+      - ol:
+        - 髪は七三 自画自賛 (3, 3)
+      - ol:
+        - 父さん母さん 兄さん姉さん
+      - ol:
+        - お爺さん お婆さん
+      - ol:
+        - ジャンジャンバリバリご苦労さん
+      - ol:
+        - Listen, count to three
+
+    - lines:
+      - ol:
+        - Ха-ха-ха-ха-ха, 1, 2, thunder
+      - ol:
+        - Раз, два, три, BABYMETAL, гризли
+      - ol:
+        - Раз, и два, и три
+      - ol:
+        - И гризли, BABYMETAL
+      - ol:
+        - Восстанет солнце
+      - ol:
+        - Озаряет свет пламя
+      - ol:
+        - Восстанет солнце
+      - ol:
+        - Поднимите все знамя
+
+    - lines:
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, thunder (3)
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, thunder (3)
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, thunder (3)
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, thunder (3)
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, thunder (3)
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, thunder (3)
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, thunder (3)
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, thunder (3)
+
+    - lines:
+      - ol:
+        - 3 我らは3 (3, 3, 3)
+      - ol:
+        - 3 お前も3 thunder
+      - ol:
+        - 3 我らは3 (3, 3, 3)
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, thunder
+
+    - lines:
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, thunder
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, thunder
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, thunder
+      - ol:
+        - 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, thunder

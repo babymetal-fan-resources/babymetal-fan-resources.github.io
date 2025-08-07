@@ -21,3 +21,185 @@ song:
     video:
     - youtubevideo: UxRldWoKlnQ
 
+  lyrics:
+    status:
+      code: warning
+      description: data copied from the sources. Not cross checked.
+    languages:
+    - id: ol
+      name: original lyrics
+      details: (from LyricFind)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: from LyricFind
+        url: https://lyrics.lyricfind.com/lyrics/babymetal-kon-kon
+    sections:
+    - lines:
+      - ol:
+        - Da-dan, da-dan-dan
+      - ol:
+        - (Hey, hey, hey, hey, hey, hey, hey, hey)
+      - ol:
+        - (Hey, hey, hey, hey, hey, hey, hey, hey)
+
+    - lines:
+      - ol:
+        - あ～ こりゃ うらめしや
+      - ol:
+        - 来来来来 うらめしや
+      - ol:
+        - あ～ そりゃ うらめしや
+      - ol:
+        - 来来来来 うらめしや
+      - ol:
+        - (Hey, hey, hey, hey, hey, hey, hey, hey)
+      - ol:
+        - あ～ こりゃ 恐ろしや
+      - ol:
+        - 来来来来 恐ろしや
+      - ol:
+        - あ～ そりゃ 恐ろしや
+      - ol:
+        - 来来来来 恐ろしや
+      - ol:
+        - さぁ コギツネさん
+      - ol:
+        - おでませ
+
+    - lines:
+      - ol:
+        - やってんな! やってんな!
+      - ol:
+        - コギツネ コン コン やってんな!
+      - ol:
+        - やってんな! やってんな!
+      - ol:
+        - コギツネ コン コン やってんな!
+      - ol:
+        - (Hey, hey, hey, hey, hey, hey, hey, hey)
+      - ol:
+        - (Hey, hey, hey, hey, hey, hey, hey, hey)
+
+    - lines:
+      - ol:
+        - Like a yokai, I'ma face the worst
+      - ol:
+        - "'Cause I was built to beat the odds and send 'em back in a hearse"
+      - ol:
+        - You know that it's a kind of power I use to power the verse
+      - ol:
+        - Put the word out to my people all around of the earth
+      - ol:
+        - Put in the work
+      - ol:
+        - Step in to the battle with a smile
+      - ol:
+        - Walk a day in my shoes
+      - ol:
+        - See you survivin' a mile
+      - ol:
+        - And when it comes, I'll be ready for a while
+      - ol:
+        - The ore turns to iron when there's fire in the trial
+
+    - lines:
+      - ol:
+        - कदम दबंग
+      - ol:
+        - करे भस्म
+      - ol:
+        - करे ख़तम
+      - ol:
+        - हुआ आरंभ
+      - ol:
+        - हुआ ख़तम जब
+      - ol:
+        - बजे भपंग
+      - ol:
+        - बजे ये शंख
+      - ol:
+        - लड़े ये जंग
+      - ol:
+        - विजय प्रथम्
+      - ol:
+        - विजय का रंग
+
+    - lines:
+      - ol:
+        - やってんな! やってんな!
+      - ol:
+        - コギツネ コン コン やってんな!
+      - ol:
+        - やってんな! やってんな!
+      - ol:
+        - コギツネ コン コン やってんな!
+
+    - lines:
+      - ol:
+        - この世でもなく あの世でもない
+      - ol:
+        - 鬼の居ぬ間に 出よ yo! Kon!
+      - ol:
+        - 遊べや遊べ ごめんあそばせ
+      - ol:
+        - 今宵 よいよい 踊れ 踊れよ
+
+    - lines:
+      - ol:
+        - कदम दबंग
+      - ol:
+        - करे भस्म
+      - ol:
+        - करे ख़तम
+      - ol:
+        - हुआ आरंभ
+      - ol:
+        - हुआ ख़तम जब
+      - ol:
+        - बजे भपंग
+      - ol:
+        - बजे ये शंख
+      - ol:
+        - लड़े ये जंग
+      - ol:
+        - विजय प्रथम्
+      - ol:
+        - विजय का रंग
+
+    - lines:
+      - ol:
+        - やってんな! やってんな!
+      - ol:
+        - コギツネ コン コン やってんな!
+      - ol:
+        - (Hey, hey, hey, hey, hey, hey, hey, hey)
+      - ol:
+        - やってんな! やってんな!
+      - ol:
+        - コギツネ コン コン やってんな!
+      - ol:
+        - (Hey, hey, hey, hey, hey, hey, hey, hey)
+
+    - lines:
+      - ol:
+        - Yo! Kai! Da! Yo! Kai! Da!
+      - ol:
+        - コギツネ kon! Kon! Yo! Kai! Da!
+      - ol:
+        - Yo! Kai! Da! Yo! Kai! Da!
+      - ol:
+        - コギツネ kon! Kon! Yo! Kai! Da!
+
+    - lines:
+      - ol:
+        - この世でもなく あの世でもない
+      - ol:
+        - 浮世をめかし 出よ yo! Kon!
+      - ol:
+        - 歌えや歌え 宴だ歌え
+      - ol:
+        - 渡る世間に鬼はなし!
+      - ol:
+        - Hey, hey, hey, hey, hey, hey, hey, hey)
