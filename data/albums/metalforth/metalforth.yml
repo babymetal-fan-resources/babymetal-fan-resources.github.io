@@ -21,7 +21,9 @@ album:
   - whiteflame
   multimedia:
     main:
-      youtubeshort: fpr6eCKAPww
+      youtubevideo: tinW1Ke_JTA
+    video:
+    - youtubevideo: tinW1Ke_JTA
     additional:
     - youtubeshort: jRjkwLBsPeM
     - youtubeshort: IwfGkBsD3aI
