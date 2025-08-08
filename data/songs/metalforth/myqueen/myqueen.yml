@@ -9,6 +9,11 @@ song:
       image: GnWBzbdbgAA2zuP
   album: metalforth
   wiki: https://babymetal.fandom.com/wiki/My_Queen
+  multimedia:
+    main:
+      youtubevideo: 6MWlBf2lhno
+    video:
+    - youtubevideo: 6MWlBf2lhno
 
 
   lyrics:
