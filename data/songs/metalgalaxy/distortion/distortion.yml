@@ -16,6 +16,8 @@ song:
       url: https://www2.jasrac.or.jp/
   choreographer: MIKIKO
   wiki: https://babymetal.fandom.com/wiki/Distortion
+  part-of:
+    album: metalgalaxy
   multimedia:
     main:
       youtubevideo: FzgU3W5ZgzU

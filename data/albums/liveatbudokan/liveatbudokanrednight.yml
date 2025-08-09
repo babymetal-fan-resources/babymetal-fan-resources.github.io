@@ -23,4 +23,6 @@ album:
   - babymetaldeath
   - headbanger
   - ijimedamezettai
+  part-of:
+    group: album_live
 

@@ -6,6 +6,7 @@ song:
     localimage:
       album: ijimedamezettai
       id: coveri
+  album: babymetal
   credits:
     lyricist: KITSUNE OF METAL GOD
     composer: KITSUNE OF METAL GOD
@@ -18,3 +19,5 @@ song:
       youtubevideo: DHA_HuGA-Mc
     live:
     - youtubevideo: DHA_HuGA-Mc
+  part-of:
+    album: babymetal

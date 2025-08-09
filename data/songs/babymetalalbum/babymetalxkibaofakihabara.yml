@@ -12,6 +12,8 @@
       - partyatthebbs
       - kimitoanimegamitai
       - dokidokimorningkibaofakiba
+    part-of:
+      group: album_single
         
 - localimage:
     album: babymetalxkibaofakiba
@@ -33,6 +35,8 @@
       localimage:
         album: babymetalxkibaofakiba
         id: cover
+    part-of:
+      album: babymetalxkibaofakiba
 
 - song:
     id: dokidokimorningkibaofakiba
@@ -46,3 +50,5 @@
         id: cover
     description:
     - Cover by キバオブアキバ (KIBA OF AKIBA) of Doki Doki☆Morning.
+    part-of:
+      album: babymetalxkibaofakiba

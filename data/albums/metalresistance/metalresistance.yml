@@ -21,6 +21,8 @@ album:
   - norainnorainbow
   - talesofthedestinies
   - theone
+  part-of:
+    group: album_studio
   multimedia:
     image:
     - localimage:

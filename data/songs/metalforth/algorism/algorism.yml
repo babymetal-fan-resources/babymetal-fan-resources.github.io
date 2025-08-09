@@ -8,7 +8,8 @@ song:
       image: GnWBzbdbgAA2zuP
   album: metalforth
   wiki: https://babymetal.fandom.com/wiki/Algorism
-
+  part-of:
+    album: metalforth
 
   lyrics:
     status:

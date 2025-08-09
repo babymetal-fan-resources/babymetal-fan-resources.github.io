@@ -2,7 +2,7 @@ song:
   id: catchmeifyoucan
   fullname: Catch me if you can
   release-date: 2013-01-09
-  album: ijimedamezettai
+  album: babymetal
   cover-image:
     localimage:
       album: ijimedamezettai
@@ -14,5 +14,7 @@ song:
       description: 'JASRAC - work ID: 706-5806-4'
       url: https://www2.jasrac.or.jp/
   wiki: https://babymetal.fandom.com/wiki/Catch_me_if_you_can
+  part-of:
+    album: babymetal
 
   

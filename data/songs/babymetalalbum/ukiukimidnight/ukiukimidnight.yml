@@ -3,6 +3,7 @@ song:
   fullname: ウ・キ・ウ・キ★ミッドナイト
   fullname-en: Uki Uki★Midnight
   release-date: 2014-02-26
+  album: babymetal
   cover-image:
     localimage:
       album: babymetal
@@ -14,3 +15,5 @@ song:
       description: 'JASRAC - work ID: 705-1596-4'
       url: https://www2.jasrac.or.jp/
   wiki: https://babymetal.fandom.com/wiki/Uki_Uki_%E2%98%85_Midnight
+  part-of:
+    album: babymetal

@@ -16,6 +16,8 @@ song:
       url: https://www2.jasrac.or.jp/
   choreographer: MIKIKO
   wiki: https://babymetal.fandom.com/wiki/PA_PA_YA!!
+  part-of:
+    album: metalgalaxy
   multimedia:
     main:
       youtubevideo: oO7Y8NsnkRg

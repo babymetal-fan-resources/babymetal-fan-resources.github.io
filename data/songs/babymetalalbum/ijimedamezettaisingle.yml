@@ -11,6 +11,8 @@
     songs:
     - ijimedamezettai
     - catchmeifyoucan
+    part-of:
+      group: album_single
 
 - localimage:
     album: ijimedamezettai
@@ -35,6 +37,8 @@
     songs:
     - ijimedamezettai
     - babymetaldeath
+    part-of:
+      group: album_single
     multimedia:
       image:
       - localimage:

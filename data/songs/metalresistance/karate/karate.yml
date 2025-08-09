@@ -15,6 +15,8 @@ song:
       url: https://www2.jasrac.or.jp/
   choreographer: MIKIKO
   wiki: https://babymetal.fandom.com/wiki/KARATE
+  part-of:
+    album: metalresistance
   multimedia:
     main:
       youtubevideo: GvD3CHA48pA

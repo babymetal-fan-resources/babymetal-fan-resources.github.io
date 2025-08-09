@@ -7,6 +7,7 @@ song:
     localimage:
       album: babymetal
       id: cover
+  album: babymetal
   credits:
     lyricist: BLACK BABYMETAL
     composer: BLACK BABYMETAL
@@ -15,3 +16,5 @@ song:
       url: https://www2.jasrac.or.jp/
   choreographer: MIKIKO
   wiki: https://babymetal.fandom.com/wiki/Song_4
+  part-of:
+    album: babymetal

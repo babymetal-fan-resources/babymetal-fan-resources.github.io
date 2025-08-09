@@ -15,6 +15,8 @@ song:
       url: https://www2.jasrac.or.jp/
   choreographer: MIKIKO
   wiki: https://babymetal.fandom.com/wiki/METAL_KINGDOM
+  part-of:
+    album: theotherone
   multimedia:
     main:
       youtubevideo: ALznpaBWUTo

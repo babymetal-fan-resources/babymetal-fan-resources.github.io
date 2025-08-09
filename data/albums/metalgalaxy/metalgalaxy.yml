@@ -25,6 +25,8 @@ album:
   - starlight
   - shine
   - arkadia
+  part-of:
+    group: album_studio
   multimedia:
     image:
     - localimage:

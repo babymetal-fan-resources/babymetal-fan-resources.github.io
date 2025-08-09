@@ -14,3 +14,5 @@ song:
       description: 'JASRAC - work ID: 248-8118-0'
       url: https://www2.jasrac.or.jp/
   wiki: https://babymetal.fandom.com/wiki/FUTURE_METAL
+  part-of:
+    album: metalgalaxy

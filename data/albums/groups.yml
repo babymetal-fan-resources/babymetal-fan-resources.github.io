@@ -1,0 +1,15 @@
+- group:
+    id: album_studio
+    label: Studio Albums
+
+- group:
+    id: album_live
+    label: Live Albums
+
+- group:
+    id: album_single
+    label: Singles
+
+- group:
+    id: album_compilation
+    label: Compilations

@@ -16,6 +16,8 @@ song:
       url: https://www.youtube.com/watch?v=EDnIEWyVIlE
   choreographer: MIKIKO
   wiki: https://babymetal.fandom.com/wiki/RATATATA
+  part-of:
+    album: metalforth
   multimedia:
     main:
       youtubevideo: EDnIEWyVIlE

@@ -11,6 +11,8 @@
     songs:
     - megitsune
     - akatsuki
+    part-of:
+      group: album_single
 
 - localimage:
     album: megitsune
@@ -35,6 +37,8 @@
     songs:
     - megitsune
     - onedaridaisakusen
+    part-of:
+      group: album_single
     multimedia:
       image:
       - localimage:

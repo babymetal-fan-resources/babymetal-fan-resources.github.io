@@ -20,6 +20,8 @@ album:
   - theone
   - distortion
   - papaya
+  part-of:
+    group: album_compilation
   multimedia:
     image:
     - localimage:

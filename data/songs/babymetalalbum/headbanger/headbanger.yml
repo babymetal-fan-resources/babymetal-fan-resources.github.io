@@ -3,7 +3,7 @@ song:
   fullname: ヘドバンギャー！！
   fullname-en: Headbanger!!!!!
   release-date: 2012-07-04
-  album: headbanger
+  album: babymetal
   cover-image:
     localimage:
       album: headbanger
@@ -16,6 +16,8 @@ song:
       url: https://www2.jasrac.or.jp/
   choreographer: MIKIKO
   wiki: https://babymetal.fandom.com/wiki/Headbanger!!
+  part-of:
+    album: babymetal
   multimedia:
     main:
       youtubevideo: 2IzR_ClTE8Y

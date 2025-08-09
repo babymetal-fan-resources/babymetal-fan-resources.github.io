@@ -19,6 +19,8 @@ album:
   - algorism
   - metali
   - whiteflame
+  part-of:
+    group: album_studio
   multimedia:
     main:
       youtubevideo: tinW1Ke_JTA

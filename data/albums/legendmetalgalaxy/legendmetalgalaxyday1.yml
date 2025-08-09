@@ -22,3 +22,5 @@ album:
   - nightnightburn
   - theone
   - roadofresistance
+  part-of:
+    group: album_live

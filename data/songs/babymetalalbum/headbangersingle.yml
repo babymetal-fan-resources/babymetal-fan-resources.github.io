@@ -12,6 +12,8 @@
     songs:
     - headbanger
     - dokidokimorning
+    part-of:
+      group: album_single
     multimedia:
       image:
       - localimage:

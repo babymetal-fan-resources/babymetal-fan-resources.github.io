@@ -9,6 +9,8 @@ song:
       image: GnWBzbdbgAA2zuP
   album: metalforth
   wiki: https://babymetal.fandom.com/wiki/Sunset_Kiss
+  part-of:
+    album: metalforth
 
 
   lyrics:

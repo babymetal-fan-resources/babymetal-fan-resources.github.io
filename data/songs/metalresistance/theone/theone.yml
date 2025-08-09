@@ -15,6 +15,8 @@ song:
       url: https://www2.jasrac.or.jp/
   choreographer: MIKIKO
   wiki: https://babymetal.fandom.com/wiki/THE_ONE
+  part-of:
+    album: metalresistance
   multimedia:
     main:
       youtubevideo: TZRvO0S-TLU

@@ -3,6 +3,7 @@ song:
   fullname: おねだり大作戦
   fullname-en: Onedari Daisakusen
   release-date: 2013-06-19
+  album: babymetal
   cover-image:
     localimage:
       album: megitsune
@@ -14,4 +15,6 @@ song:
       description: 'JASRAC - work ID: 194-0465-4'
       url: https://www2.jasrac.or.jp/
   wiki: https://babymetal.fandom.com/wiki/Onedari_Daisakusen
+  part-of:
+    album: babymetal
   

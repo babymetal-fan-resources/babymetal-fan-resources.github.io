@@ -16,6 +16,8 @@ song:
       url: https://www2.jasrac.or.jp/
   choreographer: MIKIKO
   wiki: https://babymetal.fandom.com/wiki/Syncopation
+  part-of:
+    album: metalresistance
   multimedia:
     main:
       youtubevideo: 4hSiQHPbsbE

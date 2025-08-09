@@ -22,3 +22,5 @@ album:
   - shine
   - arkadia
   - ijimedamezettai
+  part-of:
+    group: album_live

@@ -3,6 +3,7 @@ song:
   fullname: メギツネ
   fullname-en: Megitsune
   release-date: 2013-06-19
+  album: babymetal
   cover-image:
     localimage:
       album: megitsune
@@ -15,6 +16,8 @@ song:
       url: https://www2.jasrac.or.jp/
   wiki: https://babymetal.fandom.com/wiki/Megitsune
   choreographer: MIKIKO
+  part-of:
+    album: babymetal
   multimedia:
     main:
       youtubevideo: cK3NMZAUKGw

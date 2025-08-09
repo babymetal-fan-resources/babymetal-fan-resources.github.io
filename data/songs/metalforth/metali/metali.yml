@@ -17,6 +17,8 @@ song:
       url: https://www2.jasrac.or.jp/
   choreographer: MIKIKO
   wiki: https://babymetal.fandom.com/wiki/METALI!!
+  part-of:
+    album: metalforth
   multimedia:
     main:
       youtubevideo: RIgjfGHgwDc

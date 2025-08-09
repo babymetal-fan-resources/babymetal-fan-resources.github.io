@@ -7,6 +7,7 @@ song:
     localimage:
       song: dokidokimorning
       id: cover
+  album: babymetal
   credits:
     lyricist: ナカメタル (NAKAMETAL)
     composer: のりぞー, 村カワ 基成
@@ -15,6 +16,8 @@ song:
       url: https://www2.jasrac.or.jp/
   choreographer: MIKIKO
   wiki: https://babymetal.fandom.com/wiki/Doki_Doki_%E2%98%86_Morning
+  part-of:
+    album: babymetal
   multimedia:
     main:
       youtubevideo: cirhQ8iLdbw
