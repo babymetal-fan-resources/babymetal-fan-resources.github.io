@@ -45,6 +45,10 @@ object Main {
 
     displayErrors(errors, 10)
 
+    if (!errors.isEmpty) {
+      System.exit(2)
+    }
+
     val generator = CompiledDataGeneratorBuilder.generator(data)
 
     val pages = DataToPage(generator).generate(rootPath, data)
