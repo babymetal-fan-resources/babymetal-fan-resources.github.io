@@ -11,7 +11,7 @@ song:
   album: metalforth
   credits:
     lyricist: METAL-NIKI
-    composer: RYU-METAL, NORIMETAL
+    composer: RYU-METAL, NORiMETAL
     source:
       description: 'JASRAC - work ID: 772-1687-3'
       url: https://www2.jasrac.or.jp/
@@ -25,6 +25,16 @@ song:
     video:
     - youtubevideo: hkij4LvACZ0
     - youtubevideo: RIgjfGHgwDc
+    image:
+    - postximage:
+        post: 1936307475697045926
+        image: Gt8kOz5XYAAzv8u
+    - postximage:
+        post: 1934132880441233442
+        image: GtdrmaWXgAA5JrD
+    - postximage:
+        post: 1926791606578872394
+        image: Gr1UakcWgAAjDZV
 
   lyrics:
     status:
