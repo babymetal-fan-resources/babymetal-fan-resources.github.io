@@ -1,0 +1,37 @@
+show:
+  year: 2025
+  id: summerfestmilwaukee
+  fullname: Summerfest Milwaukee
+  sublabel: North America 2025
+  date: 2025-07-05
+  tour: northamerica2025
+  location: '-'
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  multimedia:
+    main:
+      postximage:
+        post: 1941752700879684093
+        image: GvJ62OBXgAA0Uyw
+    short:
+    - youtubeshort: Yhv8ekoNGzo
+    image:
+    - postximage:
+        post: 1941752700879684093
+        image: GvJ6xPgWEAAPk0d
+    - postximage:
+        post: 1941752700879684093
+        image: GvJ6z0tWIAEb4kb
+    - postximage:
+        post: 1941752700879684093
+        image: GvJ62OBXgAA0Uyw
+    - postximage:
+        post: 1941752700879684093
+        image: GvJ65QWXAAAo0Of
+    - postximage:
+        post: 1941930972557021327
+        image: GvL_0eNXMAAc62Q
+  part-of:
+    tour: northamerica2025

@@ -1,0 +1,76 @@
+- group:
+    id: release
+    label: Release
+    part-of:
+      album: metalforth
+
+- postx:
+    id: 1947355895903465757
+    account: BABYMETAL_JAPAN
+    label: US Indie Store Release Event 
+    published-date: 2025-07-21
+    text: |
+      🎉 US Indie Store Release Event 🎉
+      Join us for the exclusive release event at participating indie stores across the U.S. to celebrate the launch of METAL FORTH!
+
+      🛒 Event Details:
+      * Location: Selected Indie Stores in the U.S.
+      * Date: Aug 8-10
+    image:
+    - GwZaGJLXQAAI8w6
+    - GwZaGJMWsAAfq53
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postximage:
+    post: 1947355895903465757
+    id: GwZaGJLXQAAI8w6
+    label: Us stores poster
+    published-date: 2025-07-21
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1947355895903465757
+
+- postximage:
+    post: 1947355895903465757
+    id: GwZaGJMWsAAfq53
+    label: US stores
+    published-date: 2025-07-21
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1947355895903465757
+
+- postx:
+    id: 1947790676302958961
+    account: BABYMETAL_JAPAN
+    label: UK Listening Event
+    published-date: 2025-07-23
+    text: |
+      🇬🇧UK Listening Event🇬🇧
+
+      JOIN UK Listening Event at one of 8 stores to hear new album "METAL FORTH"   -　 BEFORE IT'S RELEASED🔥
+
+      PRE-ORDER NOW TO SECURE YOUR PLACE!
+
+      FULL DETAILS: http://ow.ly/il4N50Wp5un
+      #HMVLIVE
+    image:
+    - GwfxOUNaQAAzYlR
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postximage:
+    post: 1947790676302958961
+    id: GwfxOUNaQAAzYlR
+    label: UK Listening Event
+    published-date: 2025-07-23
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1947790676302958961

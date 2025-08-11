@@ -1,0 +1,140 @@
+- group:
+    id: thanks
+    label: Thanks
+    part-of:
+      tour: northamerica2025
+
+- postx:
+    id: 1933901506392080643
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-14
+    label: We are on tour
+    text: |
+      Thank you 
+      @blackveilbrides
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #HOUSTON 
+      📸 
+      @Theguyfromthpic
+      
+    image:
+    - GtaY1E4WYAEsXx-
+    part-of:
+      group:
+        id: thanks
+        tour: northamerica2025
+
+- postximage:
+    post: 1933901506392080643
+    id: GtaY1E4WYAEsXx-
+    label: We are on tour
+    published-date: 2025-06-14
+    info: BABYMETAL, Black Veil Brides
+    context:
+    - tour: northamerica2025
+    part-of:
+      postx: 1933901506392080643
+
+- postx:
+    id: 1933901658599153909
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-14
+    label: We are on tour
+    text: |
+      Thank you 
+      @Bloodywood2
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #HOUSTON
+      📸 
+      @Theguyfromthpic
+      
+    image:
+    - GtaZNtkWsAACOO2
+    part-of:
+      group:
+        id: thanks
+        tour: northamerica2025
+
+- postximage:
+    post: 1933901658599153909
+    id: GtaZNtkWsAACOO2
+    label: We are on tour
+    published-date: 2025-06-14
+    info: BABYMETAL, Bloodywood
+    context:
+    - tour: northamerica2025
+    part-of:
+      postx: 1933901658599153909
+
+- postx:
+    id: 1942220423481250038
+    account: BABYMETAL_JAPAN
+    published-date: 2025-07-07
+    label: We are on tour
+    text: |
+      Thank you 
+      @jinjerofficial
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #MarylandHeights 
+      📸 
+      @v_trvn
+      
+    image:
+    - GvQnJAyboAAJnnD
+    part-of:
+      group:
+        id: thanks
+        tour: northamerica2025
+
+- postximage:
+    post: 1942220423481250038
+    id: GvQnJAyboAAJnnD
+    label: We are on tour
+    published-date: 2025-07-07
+    info: BABYMETAL, Jinjer
+    context:
+    - tour: northamerica2025
+    part-of:
+      postx: 1942220423481250038
+
+- postx:
+    id: 1948581219345830051
+    account: BABYMETAL_JAPAN
+    label: Thank you Bloodywood, Jinjer
+    published-date: 2025-07-25
+    text: |
+      Thank youuuuu!!!!! 
+      @Bloodywood2
+      
+      @jinjerofficial
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #phoenix
+    image:
+    - GwrAIp_bgAQ6nF4
+    - GwrAKR0agAAXvFG
+    part-of:
+      group:
+        id: thanks
+        tour: northamerica2025
+
+- postximage:
+    post: 1948581219345830051
+    id: GwrAIp_bgAQ6nF4
+    label: Thank you
+    info: BABYMETAL, Bloodywood
+    published-date: 2025-07-25
+    context:
+    - tour: northamerica2025
+    part-of:
+      postx: 1948581219345830051
+
+- postximage:
+    post: 1948581219345830051
+    id: GwrAKR0agAAXvFG
+    label: Thank you
+    info: BABYMETAL, Jinjer
+    published-date: 2025-07-25
+    context:
+    - tour: northamerica2025
+    part-of:
+      postx: 1948581219345830051

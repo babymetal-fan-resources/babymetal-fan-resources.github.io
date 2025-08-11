@@ -1,0 +1,72 @@
+- postx:
+    id: 1927166535744753912
+    account: BABYMETAL_JAPAN
+    published-date: 2025-05-27
+    label: Thank you
+    info: TODO -  check image 1 song. find other image songs
+    text: |
+      Thank you for coming to "BABYMETAL UK & EUROPE ARENA TOUR 2025" in Barcelona,Spain🇪🇸 
+      #BABYMETAL #BABYMETALWORLDTOUR2025 
+      #Barcelona #Spain 
+      📸 
+      @photosbysarai
+      
+    image:
+    - Gr6qRwjWkAAiw0K
+    - Gr6qVqvXQAA1uZx
+    - Gr6qZSdXAAEOJMn
+    - Gr6qdlFX0AA_1xz
+    part-of: 
+      show:
+        year: 2025
+        id: barcelona
+
+- postximage:
+    post: 1927166535744753912
+    id: Gr6qRwjWkAAiw0K
+    label: On stage
+    published-date: 2025-05-27
+    context:
+    - show:
+        year: 2025
+        id: barcelona
+    - song: frommetou
+    part-of: 
+      postx: 1927166535744753912
+
+- postximage:
+    post: 1927166535744753912
+    id: Gr6qVqvXQAA1uZx
+    label: On stage
+    published-date: 2025-05-27
+    context:
+    - show:
+        year: 2025
+        id: barcelona
+    part-of: 
+      postx: 1927166535744753912
+
+- postximage:
+    post: 1927166535744753912
+    id: Gr6qZSdXAAEOJMn
+    label: On Stage
+    published-date: 2025-05-27
+    context:
+    - show:
+        year: 2025
+        id: barcelona
+    part-of: 
+      postx: 1927166535744753912
+
+- postximage:
+    post: 1927166535744753912
+    id: Gr6qdlFX0AA_1xz
+    label: On stage
+    published-date: 2025-05-27
+    context:
+    - show:
+        year: 2025
+        id: barcelona
+    part-of: 
+      postx: 1927166535744753912
+

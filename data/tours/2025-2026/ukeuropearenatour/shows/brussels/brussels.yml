@@ -1,0 +1,28 @@
+show:
+  year: 2025
+  id: brussels
+  fullname: Brussels, Belgium
+  sublabel: UK & Europe Arena Tour 2025
+  date: 2025-05-10
+  tour: ukeuropearenatour2025
+  location: Forest National
+  cover-image:
+    localimage:
+      tour: ukeuropearenatour2025
+      id: cover
+  multimedia:
+    main:
+      postximage:
+        post: 1921378662311436476
+        image: GqobJj1XAAAoK2h
+    short:
+    - youtubeshort: 80fsZ-cdbqM
+    image:
+    - postximage:
+        post: 1921378662311436476
+        image: GqobKr7W8AA-aWi
+    - postximage:
+        post: 1921378662311436476
+        image: GqobJj1XAAAoK2h
+  part-of:
+    tour: ukeuropearenatour2025

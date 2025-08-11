@@ -1,0 +1,28 @@
+show:
+  year: 2025
+  id: laval
+  fullname: Laval, QC, Canada
+  sublabel: North America 2025
+  date: 2025-06-30
+  tour: northamerica2025
+  location: Place Bell
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  multimedia:
+    main:
+      postximage:
+        post: 1939909432864805220
+        image: Guvwcu8XUAAzAa8
+    short:
+    - youtubeshort: g9lSvZ_FHUw
+    image:
+    - postximage:
+        post: 1939909432864805220
+        image: GuvwbhnW8AAfDfW
+    - postximage:
+        post: 1939909432864805220
+        image: Guvwcu8XUAAzAa8
+  part-of:
+    tour: northamerica2025

@@ -1,0 +1,20 @@
+mediaaudio:
+  year: 2025
+  id: metaradi0510
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  designation: metaradi
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - Hattori
+  - Tanabe Yoshiaki
+  webpage: 'https://tfm.co.jp/metaradi/'
+  published-date: 2025-05-10
+  cover-image:
+    postximage:
+      post: 1875488645987365238
+      image: GgcSW8pa8AEVKP3
+  part-of:
+    group:
+      id: metaradi
+      group: 2025_2026

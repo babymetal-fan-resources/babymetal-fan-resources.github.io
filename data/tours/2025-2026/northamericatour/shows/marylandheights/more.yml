@@ -1,0 +1,72 @@
+- postx:
+    id: 1942097146833936737
+    account: BABYMETAL_JAPAN
+    published-date: 2025-07-07
+    label: Thank you
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Maryland Heights🇺🇸 
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #MarylandHeights
+      📸 
+      @v_trvn
+      
+    image:
+    - GvOzE45WAAA28-r
+    - GvOzGlpW0AAmzPN
+    - GvOzH6gXgAAkLEO
+    - GvOzJxiWoAABj99
+    part-of:
+      show:
+        year: 2025
+        id: marylandheights
+
+- postximage:
+    post: 1942097146833936737
+    id: GvOzE45WAAA28-r
+    label: On stage
+    published-date: 2025-07-07
+    context:
+    - show:
+        year: 2025
+        id: marylandheights
+    - song: bxmxc
+    part-of:
+      postx: 1942097146833936737
+
+- postximage:
+    post: 1942097146833936737
+    id: GvOzGlpW0AAmzPN
+    label: On stage
+    published-date: 2025-07-07
+    context:
+    - show:
+        year: 2025
+        id: marylandheights
+    - song: babymetaldeath
+    part-of:
+      postx: 1942097146833936737
+
+- postximage:
+    post: 1942097146833936737
+    id: GvOzH6gXgAAkLEO
+    label: On stage
+    published-date: 2025-07-07
+    info: weeeeeaaaaa
+    context:
+    - show:
+        year: 2025
+        id: marylandheights
+    part-of:
+      postx: 1942097146833936737
+
+- postximage:
+    post: 1942097146833936737
+    id: GvOzJxiWoAABj99
+    label: On stage
+    published-date: 2025-07-07
+    context:
+    - show:
+        year: 2025
+        id: marylandheights
+    - song: song3
+    part-of:
+      postx: 1942097146833936737

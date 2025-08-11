@@ -7,6 +7,8 @@
     local-copy: true
     context:
     - song: ratatata
+    part-of:
+      song: ratatata
 
 - youtubevideo:
     id: EDnIEWyVIlE
@@ -14,6 +16,8 @@
     published-date: 2024-05-23
     context:
     - song: ratatata
+    part-of:
+      song: ratatata
 
 - youtubevideo:
     id: ChmVcJK7N-c
@@ -21,3 +25,5 @@
     published-date: 2024-06-07
     context:
     - song: ratatata
+    part-of:
+      song: ratatata

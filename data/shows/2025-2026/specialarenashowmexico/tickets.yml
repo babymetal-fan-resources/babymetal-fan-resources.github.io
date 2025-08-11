@@ -1,0 +1,88 @@
+- group:
+    id: tickets
+    label: Tickets
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowmexico
+
+- postx:
+    id: 1944804083430515175
+    account: BABYMETAL_JAPAN
+    published-date: 2025-07-14
+    label: Show poster
+    text: |
+      🇲🇽¡Viva México!🇲🇽
+      A special arena show at CDMX Arenaー TICKET ON SALE NOW🔥
+      
+      🗓 Date: Nov 7th, 2025
+      🎫https://superboletos.com/landing-evento/snA6p6nA38tOd21a6u7Y6Q
+      
+      #BABYMETAL #Mexico #CDMX
+      
+    image:
+    - Gvy0eR1bgAAkfN_
+    part-of:
+      group:
+        id: tickets
+        show:
+          year: 2025
+          id: specialarenashowmexico
+
+- postximage:
+    post: 1944804083430515175
+    id: Gvy0eR1bgAAkfN_
+    label: Poster
+    published-date: 2025-07-14
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowmexico
+    part-of:
+      postx: 1944804083430515175
+
+- postx:
+    id: 1945604355219935396
+    account: BABYMETAL_JAPAN
+    published-date: 2025-07-17
+    label: Sold out
+    text: |
+      Gracias México 🇲🇽
+      
+      Our special arena show at Arena CDMX is officially SOLD OUT!
+      
+    image:
+    - Gv_iY7wXsAUHBKv
+    part-of:
+      group:
+        id: tickets
+        show:
+          year: 2025
+          id: specialarenashowmexico
+
+- postximage:
+    post: 1945604355219935396
+    id: Gv_iY7wXsAUHBKv
+    label: Sold out
+    published-date: 2025-07-17
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowmexico
+    part-of:
+      postx: 1945604355219935396
+
+- youtubeshort:
+    id: ApCwqt2ecfw
+    label: Sold out
+    published-date: 2025-07-22
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowmexico
+    part-of:
+      group:
+        id: tickets
+        show:
+          year: 2025
+          id: specialarenashowmexico

@@ -1,4 +1,6 @@
-
+- group:
+    id: site
+    label: Site
 
 - categoriespage:
     id: shows
@@ -20,6 +22,8 @@
     id-prefix:
     - show
     - tour
+    part-of:
+      group: site
 
 - categoriespage:
     id: media
@@ -34,4 +38,6 @@
     categories: []
     id-prefix:
     - media
+    part-of:
+      group: site
 

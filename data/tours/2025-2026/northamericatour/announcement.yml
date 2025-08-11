@@ -1,0 +1,27 @@
+- group:
+    id: announcement
+    label: Announcement
+    part-of:
+      tour: northamerica2025
+
+- youtubevideo:
+    id: sxnNfKoYEsA
+    label: Trailer
+    published-date: 2025-03-21
+    context:
+    - tour: northamerica2025
+    part-of:
+      group:
+        id: announcement
+        tour: northamerica2025
+
+- youtubeshort:
+    id: t-xe-Skaidk
+    label: Trailer
+    published-date: 2025-03-21
+    context:
+    - tour: northamerica2025
+    part-of:
+      group:
+        id: announcement
+        tour: northamerica2025

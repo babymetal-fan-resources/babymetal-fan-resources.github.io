@@ -7,6 +7,8 @@
     source:
       description: TOY'S FACTORY item page
       url: https://www.toysfactory.co.jp/artist/babymetal/disco/1453
+    part-of:
+      album: metalresistance
 
 - localimage:
     album: metalresistance
@@ -18,6 +20,8 @@
     source:
       description: TOY'S FACTORY item page
       url: https://www.toysfactory.co.jp/artist/babymetal/disco/1452
+    part-of:
+      album: metalresistance
 
 - localimage:
     album: metalresistance
@@ -29,4 +33,6 @@
     source:
       description: TOY'S FACTORY item page
       url: https://www.toysfactory.co.jp/artist/babymetal/disco/1553
+    part-of:
+      album: metalresistance
 

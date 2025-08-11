@@ -1,0 +1,19 @@
+show:
+  year: 2025
+  id: specialarenashowusa
+  fullname: Special Arena Show In US
+  sublabel: Los Angeles, CA
+  date: 2025-11-01
+  location: Intuit Dome
+  cover-image:
+    localimage:
+      show:
+        year: 2025
+        id: specialarenashowusa
+      id: cover
+  categories: mainshowtour
+  multimedia:
+    video:
+    - youtubevideo: HbRO9vuZiKE
+  part-of:
+    group: 2025_2026

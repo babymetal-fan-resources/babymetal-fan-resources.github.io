@@ -4,3 +4,5 @@
     published-date: 2023-02-03
     context:
     - song: metalkingdom
+    part-of:
+      song: metalkingdom

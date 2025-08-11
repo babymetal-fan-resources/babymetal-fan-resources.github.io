@@ -4,6 +4,8 @@
     published-date: 2020-12-09
     context:
     - song: bxmxc
+    part-of:
+      song: bxmxc
 
 - youtubevideo:
     id: _4G5pa1sd2c
@@ -11,3 +13,5 @@
     published-date: 2020-12-09
     context:
     - song: bxmxc
+    part-of:
+      song: bxmxc

@@ -1,0 +1,44 @@
+- postx:
+    id: 1947199156407427201
+    account: BABYMETAL_JAPAN
+    label: Thanks you
+    published-date: 2025-07-21
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Las Vegas🎰
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #LasVegas 
+      📸 
+      @v_trvn
+    image:
+    - GwXVlMnX0AAQu5o
+    - GwXVmeqXEAAB6Gb
+    part-of:
+      show:
+        year: 2025
+        id: lasvegas
+
+
+- postximage:
+    post: 1947199156407427201
+    id: GwXVlMnX0AAQu5o
+    label: On stage
+    published-date: 2025-07-21
+    context:
+    - song: babymetaldeath
+    - show:
+        year: 2025
+        id: lasvegas
+    part-of:
+      postx: 1947199156407427201
+
+- postximage:
+    post: 1947199156407427201
+    id: GwXVmeqXEAAB6Gb
+    label: On stage
+    published-date: 2025-07-21
+    context:
+    - song: babymetaldeath
+    - show:
+        year: 2025
+        id: lasvegas
+    part-of:
+      postx: 1947199156407427201

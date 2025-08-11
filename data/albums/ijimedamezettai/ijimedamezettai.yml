@@ -1,0 +1,17 @@
+album:
+  id: ijimedamezettai
+  fullname: イジメ、ダメ、ゼッタイ
+  alt-name: Ijime, Dame, Zettai
+  designation: single
+  release-date: 2013-01-09
+  cover-image:
+    localimage:
+      album: ijimedamezettai
+      id: cover
+  songs:
+  - ijimedamezettai
+  - catchmeifyoucan
+  part-of:
+    group: album_single
+
+

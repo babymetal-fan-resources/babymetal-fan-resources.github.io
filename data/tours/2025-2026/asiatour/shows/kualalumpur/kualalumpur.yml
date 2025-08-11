@@ -1,0 +1,15 @@
+show:
+  year: 2025
+  id: kualalumpur
+  fullname: Kuala Lumpur, Malaysia
+  sublabel: Asia Tour 2025
+  date: 2025-10-06
+  tour: asiatour2025
+  location: Zepp Kuala Lumpur
+  event-page: 'https://www.zepp.co.jp/hall/kualalumpur/schedule/single/?rid=155565'
+  cover-image:
+    localimage:
+      tour: asiatour2025
+      id: cover
+  part-of:
+    tour: asiatour2025

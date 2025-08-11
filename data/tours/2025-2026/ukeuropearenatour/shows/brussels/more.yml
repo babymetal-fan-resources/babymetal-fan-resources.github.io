@@ -1,0 +1,43 @@
+- postx:
+    id: 1921378662311436476
+    account: BABYMETAL_JAPAN
+    published-date: 2025-05-09
+    label: Thank you
+    text: |
+      Thank you for coming to "BABYMETAL UK & EUROPE ARENA TOUR 2025" in Bruxelles🇧🇪
+      #BABYMETAL #BABYMETALWORLDTOUR2025 #Bruxelles #België 
+      📸
+      @photosbysarai
+      
+    image:
+    - GqobJj1XAAAoK2h
+    - GqobKr7W8AA-aWi
+    part-of:
+      show:
+        year: 2025
+        id: brussels
+
+- postximage:
+    post: 1921378662311436476
+    id: GqobJj1XAAAoK2h
+    label: Arena
+    published-date: 2025-05-09
+    context:
+    - show:
+        year: 2025
+        id: brussels
+    part-of:
+      postx: 1921378662311436476
+
+- postximage:
+    post: 1921378662311436476
+    id: GqobKr7W8AA-aWi
+    label: On stage
+    published-date: 2025-05-09
+    context:
+    - show:
+        year: 2025
+        id: brussels
+    - song: megitsune
+    part-of:
+      postx: 1921378662311436476

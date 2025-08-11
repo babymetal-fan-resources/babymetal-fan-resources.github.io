@@ -1,0 +1,19 @@
+- group:
+    id: merch
+    label: Merch
+    part-of:
+      tour: northamerica2025
+
+- localimage:
+    tour: northamerica2025
+    id: merch01
+    label: Merch
+    filename: merch01.png
+    published-date: 2025-06-12
+    source:
+      description: BABYMETAL website site
+      url: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=2301&id=291753&lang=en'
+    part-of:
+      group:
+        id: merch
+        tour: northamerica2025

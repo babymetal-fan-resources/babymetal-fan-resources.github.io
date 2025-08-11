@@ -1,0 +1,26 @@
+album:
+  id: megitsunefirstpress
+  fullname: メギツネ（初回生産限定盤）
+  alt-name: megitsune (First Press Limited Edition)
+  designation: single
+  release-date: 2013-06-19
+  cover-image:
+    localimage:
+      album: megitsunefirstpress
+      id: covertsu
+  songs:
+  - megitsune
+  - onedaridaisakusen
+  part-of:
+    group: album_single
+  multimedia:
+    image:
+    - localimage:
+        album: megitsunefirstpress
+        id: coverki
+    - localimage:
+        album: megitsunefirstpress
+        id: covertsu
+    - localimage:
+        album: megitsunefirstpress
+        id: coverne

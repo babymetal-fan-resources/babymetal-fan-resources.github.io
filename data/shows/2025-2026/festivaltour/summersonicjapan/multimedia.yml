@@ -1,0 +1,15 @@
+- localimage:
+    show:
+      year: 2025
+      id: summersonictokyo
+    id: cover
+    label: cover
+    filename: cover400.png
+    published-date: 2025-02-27
+    source:
+      description: BABYMETAL website site
+      url: 'https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025'
+    part-of:
+      show:
+        year: 2025
+        id: summersonictokyo

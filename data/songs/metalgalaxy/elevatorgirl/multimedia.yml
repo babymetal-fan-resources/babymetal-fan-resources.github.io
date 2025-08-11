@@ -7,6 +7,8 @@
     source:
       description: TOY'S FACTORY item page
       url: https://www.toysfactory.co.jp/artist/babymetal/disco/2020
+    part-of:
+      song: elevatorgirl
 
 - youtubevideo:
     id: Q48bwxyqVpQ
@@ -14,3 +16,5 @@
     published-date: 2019-08-16
     context:
     - song: elevatorgirl
+    part-of:
+      song: elevatorgirl

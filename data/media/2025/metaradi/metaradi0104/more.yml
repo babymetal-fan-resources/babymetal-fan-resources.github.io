@@ -1,0 +1,33 @@
+- postx:
+    id: 1875488645987365238
+    account: metaradi_tfm
+    published-date: 2025-01-04
+    label: ready for the show ?
+    text: |
+      ￼間もなく19：30〜￼
+      
+      #BABYMETAL 初の冠番組「BABYMETALのメタラジ！」が始まります￼￼
+      
+      みなさん、準備はできてますか？
+      
+      据え置きのラジオやカーラジオ、スマホアプリのradikoなどから、ぜひお聞きください￼
+      
+    image:
+    - GgcSW8pa8AEVKP3
+    part-of:
+      media:
+        year: 2025
+        id: metaradi0104
+
+- postximage:
+    post: 1875488645987365238
+    id: GgcSW8pa8AEVKP3
+    label: poster
+    published-date: 2025-01-04
+    local-copy: true
+    context:
+    - media:
+        year: 2025
+        id: metaradi0104
+    part-of:
+      postx: 1875488645987365238

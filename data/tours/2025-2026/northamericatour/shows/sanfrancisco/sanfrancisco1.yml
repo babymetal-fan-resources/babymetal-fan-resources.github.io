@@ -1,0 +1,32 @@
+show:
+  year: 2025
+  id: sanfrancisco1
+  fullname: San Francisco, CA, USA
+  sublabel: North America 2025
+  date: 2025-07-17
+  tour: northamerica2025
+  location: The Masonic
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  multimedia:
+    main:
+      postximage:
+        post: 1946122572518875436
+        image: GwICt5haQAASnbq
+    image:
+    - postximage:
+        post: 1946122572518875436
+        image: GwICpoSaMAATMYb
+    - postximage:
+        post: 1946122572518875436
+        image: GwICrRTXcAAwEBs
+    - postximage:
+        post: 1946122572518875436
+        image: GwICsl3WUAA05-e
+    - postximage:
+        post: 1946122572518875436
+        image: GwICt5haQAASnbq
+  part-of:
+    tour: northamerica2025

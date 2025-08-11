@@ -7,6 +7,8 @@
     source:
       description: TOY'S FACTORY item page
       url: https://www.toysfactory.co.jp/artist/babymetal/disco/2494
+    part-of:
+      song: divineattack
 
 - youtubevideo:
     id: _gUW2OnPvHI
@@ -14,6 +16,8 @@
     published-date: 2022-10-20
     context:
     - song: divineattack
+    part-of:
+      song: divineattack
 
 - youtubevideo:
     id: INRPP78SvXs
@@ -21,3 +25,5 @@
     published-date: 2023-10-25
     context:
     - song: divineattack
+    part-of:
+      song: divineattack

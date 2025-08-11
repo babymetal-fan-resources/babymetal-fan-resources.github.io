@@ -4,6 +4,8 @@
     published-date: 2016-03-18
     context:
     - song: karate
+    part-of:
+      song: karate
 
 - youtubevideo:
     id: c2qTDJcU15w
@@ -11,3 +13,5 @@
     published-date: 2024-12-10
     context:
     - song: karate
+    part-of:
+      song: karate

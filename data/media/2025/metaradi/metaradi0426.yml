@@ -1,0 +1,19 @@
+mediaaudio:
+  year: 2025
+  id: metaradi0426
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  designation: metaradi
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member:
+  - Tak Matsumoto
+  webpage: 'https://tfm.co.jp/metaradi/'
+  published-date: 2025-04-26
+  cover-image:
+    postximage:
+      post: 1875488645987365238
+      image: GgcSW8pa8AEVKP3
+  part-of:
+    group:
+      id: metaradi
+      group: 2025_2026

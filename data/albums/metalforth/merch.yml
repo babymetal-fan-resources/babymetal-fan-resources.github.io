@@ -1,0 +1,219 @@
+- group:
+    id: merch
+    label: Merch
+    part-of: 
+      album: metalforth
+
+
+
+- youtubeshort:
+    id: qpLP--tait4
+    label: More editions
+    published-date: 2025-05-28
+    context:
+    - album: metalforth
+    part-of:
+      group:
+        id: merch
+        album: metalforth
+
+- postx:
+    id: 1932601871367381291
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-11
+    label: GLASS FOXES TEE + LP
+    text: |
+      Pre-order the METAL FORTH × GLASS FOXES TEE + LP Fan Pack now.　
+      https://babymetal.store/collections/tour-2024/products/metal-forth-lp-tee
+      
+    image:
+    - GtH63AvboAAwlnQ
+    part-of:
+      group:
+        id: merch
+        album: metalforth
+
+- postximage:
+    post: 1932601871367381291
+    id: GtH63AvboAAwlnQ
+    label: GLASS FOXES TEE + LP
+    published-date: 2025-06-11
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1932601871367381291
+
+- postx:
+    id: 1932815090782191989
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-11
+    label: Limited batch of signed cards
+    text: |
+      We’re dropping a limited batch of signed cards with our new album METAL FORTH 🔥
+      
+      Hit the link to grab yours now!
+      
+      https://babymetal.lnk.to/MetalForth 
+      
+      #BABYMETAL #METALFORTH
+      
+    video:
+    - 01
+    part-of:
+      group:
+        id: merch
+        album: metalforth
+
+- postxvideo:
+    post: 1932815090782191989
+    id: 01
+    label: Signed cards edition
+    cover: 1932810368147206147/img/JWSXowAbdMTlFL67.jpg
+    published-date: 2025-06-11
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1932815090782191989
+
+- youtubeshort:
+    id: iVcwPAE6zLY
+    label: Signed cards Edition
+    published-date: 2025-06-11
+    context:
+    - album: metalforth
+    part-of:
+      group:
+        id: merch
+        album: metalforth
+
+- youtubeshort:
+    id: wWKDN9F1j-g
+    label: Signed variants
+    published-date: 2025-07-09
+    context:
+    - album: metalforth
+    part-of:
+      group:
+        id: merch
+        album: metalforth
+
+- postx:
+    id: 1945932036797255731
+    account: BABYMETAL_JAPAN
+    published-date: 2025-07-17
+    label: Revolver clear edition
+    text: |
+      ／
+      📢LIMITED EDITION
+      ＼
+      
+      New album "METAL FORTH" Limited edition crystal clear Signed vinyl available NOW on REVOLVER for US only🔥
+      
+      https://babymetal.lnk.to/RevolverExclusiveLP
+      
+    image:
+    - GwFWFuuWkAAyMG9
+    part-of:
+      group:
+        id: merch
+        album: metalforth
+
+- postximage:
+    post: 1945932036797255731
+    id: GwFWFuuWkAAyMG9
+    label: Revolver clear edition
+    published-date: 2025-07-17
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1945932036797255731
+
+
+
+- postx:
+    id: 1948781770754973790
+    account: BABYMETAL_JAPAN
+    label: TOWER RECORDS bonus
+    published-date: 2025-07-25
+    text: |
+      ニューアルバム『METAL FORTH』リリース&結成15周年記念！タワーレコード オンライン限定「BABYMETAL x TOWER RECORDS オフィシャルコラボTシャツ」抽選プレゼントキャンペーン開催決定！
+      👕詳細はこちら👇
+      https://babymetal.com/towerrecord_collab/
+
+      #BABYMETAL #METALFORTH #TOWERRECORDS
+    image:
+    - Gwt2sT2aoAALq_L
+    part-of:
+      group:
+        id: merch
+        album: metalforth
+
+- postximage:
+    post: 1948781770754973790
+    id: Gwt2sT2aoAALq_L
+    label: bonus
+    info: TOWER RECORDS
+    published-date: 2025-07-25
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1948781770754973790
+
+- youtubeshort:
+    id: WuonIkofg6M
+    label: Signed cards in UK
+    published-date: 2025-07-25
+    context:
+    - album: metalforth
+    part-of:
+      group:
+        id: merch
+        album: metalforth
+
+- postx:
+    id: 1948784040678683057
+    account: BABYMETAL_JAPAN
+    label: Signed cards in UK
+    published-date: 2025-07-25
+    text: |
+      🇬🇧 LIMITED SIGNED ART CARDS AVAILABLE NOW IN THE UK 🇬🇧
+      Get yours with a CD / Vinyl / Cassette purchase! (1 card per order)
+      👉 UK Store: https://polydor.co.uk/collections/babymetal
+    part-of:
+      youtubeshort: WuonIkofg6M
+
+- youtubeshort:
+    id: MhiLi4tDFgQ
+    label: Signed cards in DE
+    published-date: 2025-07-25
+    context:
+    - album: metalforth
+    part-of:
+      group:
+        id: merch
+        album: metalforth
+
+- postx:
+    id: 1948784632969003090
+    account: BABYMETAL_JAPAN
+    label: Signed cards in DE
+    published-date: 2025-07-25
+    text: |
+      🇩🇪LIMITED SIGNED ART CARDS AVAILABLE NOW IN GERMANY🇩🇪 Get yours now with a purchase of the alternative cover red vinyl
+
+      https://thecircle.de/collections/babymetal
+    part-of:
+      youtubeshort: MhiLi4tDFgQ
+
+
+- youtubevideo:
+    id: tinW1Ke_JTA
+    label: BABYNET DA DA DA
+    info: BABYMETAL informercial, with song snippets
+    published-date: 2025-08-05
+    context:
+    - album: metalforth
+    part-of: 
+      group:
+        id: merch
+        album: metalforth

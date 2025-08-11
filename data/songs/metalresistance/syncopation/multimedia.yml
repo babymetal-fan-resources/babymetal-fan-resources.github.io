@@ -4,3 +4,5 @@
     published-date: 2024-07-11
     context:
     - song: syncopation
+    part-of:
+      song: syncopation

@@ -1,0 +1,15 @@
+show:
+  year: 2025
+  id: manila
+  fullname: Manila, Philippines
+  sublabel: Asia Tour 2025
+  date: 2025-10-08
+  tour: asiatour2025
+  location: ARENETA COLISEUM
+  event-page: 'https://www.ticketnet.com.ph/event-detail/BABYMETALMNL2025'
+  cover-image:
+    postximage:
+      post: 1927545228505862530
+      image: GsAEHwwXIAEk3V7
+  part-of:
+    tour: asiatour2025

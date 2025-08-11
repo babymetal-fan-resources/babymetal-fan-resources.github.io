@@ -1,0 +1,30 @@
+- localimage:
+    show:
+      year: 2025
+      id: seikimaiivsbabymetalencounter
+    id: cover
+    label: cover
+    filename: cover400.png
+    published-date: 2025-04-01
+    source:
+      description: BABYMETAL website site
+      url: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1431&id=288226&lang=en'
+    part-of:
+      show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+
+- postximage:
+    post: 1951115671615787333
+    id: GxLLmq4bgAAtGnf
+    label: Poster sold out
+    published-date: 2025-08-01
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+    part-of:
+      show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+        

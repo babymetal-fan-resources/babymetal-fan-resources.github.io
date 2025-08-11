@@ -1,7 +1,11 @@
-- youtubevideo:
-    id: tinW1Ke_JTA
-    label: BABYNET DA DA DA
-    info: BABYMETAL informercial, with song snippets
-    published-date: 2025-08-05
+- postximage:
+    post: 1906725673450037384
+    id: GnWBzbdbgAA2zuP
+    label: cover image
+    published-date: 2025-04-01
+    local-copy: true
     context:
     - album: metalforth
+    part-of:
+      album: metalforth
+

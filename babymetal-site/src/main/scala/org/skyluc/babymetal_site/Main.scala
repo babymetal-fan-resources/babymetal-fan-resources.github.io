@@ -35,7 +35,13 @@ object Main {
     errors.append("PARSER ERRORS", parserErrors)
 
     val (checkErrors, checkedDatums) =
-      DataCheck.check(datums, PopulateRelatedTo, CheckLocalAssetExists(rootPath.resolve(BASE_IMAGE_ASSET_PATH)), false)
+      DataCheck.check(
+        datums,
+        frData.Data.get(datums, Data.creator),
+        PopulateRelatedTo,
+        CheckLocalAssetExists(rootPath.resolve(BASE_IMAGE_ASSET_PATH)),
+        false,
+      )
 
     val data = frData.Data.get(checkedDatums, Data.creator)
 

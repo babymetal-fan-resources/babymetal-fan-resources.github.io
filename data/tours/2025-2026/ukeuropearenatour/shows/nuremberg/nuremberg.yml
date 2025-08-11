@@ -1,0 +1,28 @@
+show:
+  year: 2025
+  id: nuremberg
+  fullname: Nüremberg, Germany
+  sublabel: UK & Europe Arena Tour 2025
+  date: 2025-05-20
+  tour: ukeuropearenatour2025
+  location: Arena Nüremberger
+  cover-image:
+    localimage:
+      tour: ukeuropearenatour2025
+      id: cover
+  multimedia:
+    main:
+      postximage:
+        post: 1924984455510557164
+        image: GrbpXs1bAAAydOs
+    short:
+    - youtubeshort: I-rqRuTVxZU
+    image:
+    - postximage:
+        post: 1924984455510557164
+        image: GrbpXs1bAAAydOs
+    - postximage:
+        post: 1924984455510557164
+        image: GrbpZctaEAAGQWB
+  part-of:
+    tour: ukeuropearenatour2025

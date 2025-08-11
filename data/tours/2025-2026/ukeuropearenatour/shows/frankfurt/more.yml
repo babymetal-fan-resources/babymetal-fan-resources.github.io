@@ -1,0 +1,57 @@
+- postx:
+    id: 1923533279652872569
+    account: BABYMETAL_JAPAN
+    published-date: 2025-05-17
+    label: Thank you
+    text: |
+      Thank you for coming to "BABYMETAL UK & EUROPE ARENA TOUR 2025" in Frankfurt🇩🇪 
+      #BABYMETAL #BABYMETALWORLDTOUR2025 #Frankfurt #Germany 
+      📸 
+      @photosbysarai
+      
+    image:
+    - GrHBuj9WwAAr1p_
+    - GrHByaDX0AAQxE3
+    - GrHB1SwWgAA-d8G
+    part-of:
+      show:
+        year: 2025
+        id: frankfurt
+
+- postximage:
+    post: 1923533279652872569
+    id: GrHBuj9WwAAr1p_
+    label: Crowd
+    published-date: 2025-05-17
+    context:
+    - show:
+        year: 2025
+        id: frankfurt
+    part-of:
+      postx: 1923533279652872569
+
+- postximage:
+    post: 1923533279652872569
+    id: GrHByaDX0AAQxE3
+    label: On stage
+    published-date: 2025-05-17
+    context:
+    - show:
+        year: 2025
+        id: frankfurt
+    - song: roadofresistance
+    part-of:
+      postx: 1923533279652872569
+
+- postximage:
+    post: 1923533279652872569
+    id: GrHB1SwWgAA-d8G
+    label: On stage
+    published-date: 2025-05-17
+    info: weee aaaare
+    context:
+    - show:
+        year: 2025
+        id: frankfurt
+    part-of:
+      postx: 1923533279652872569

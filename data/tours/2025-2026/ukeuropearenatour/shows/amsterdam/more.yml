@@ -1,0 +1,73 @@
+
+- postx:
+    id: 1922456138966085924
+    account: BABYMETAL_JAPAN
+    published-date: 2025-05-14
+    label: Thank you
+    text: |
+      Thank you for coming to "BABYMETAL UK & EUROPE ARENA TOUR 2025" in Amsterdam🇳🇱
+      
+      #BABYMETAL #BABYMETALWORLDTOUR2025 #Amsterdam #Netherlands
+      📸
+      @photosbysarai
+      
+    image:
+    - Gq3ucSIasAA-t3f
+    - Gq3ueqXbAAAGlx2
+    - Gq3uf7eXEAAUFDV
+    - Gq3uhjqbAAEUMFt
+    part-of:
+      show:
+        year: 2025
+        id: amsterdam
+
+- postximage:
+    post: 1922456138966085924
+    id: Gq3ucSIasAA-t3f
+    label: On stage
+    published-date: 2025-05-14
+    info: SU-METAL
+    context:
+    - show:
+        year: 2025
+        id: amsterdam
+    part-of:
+      postx: 1922456138966085924
+
+- postximage:
+    post: 1922456138966085924
+    id: Gq3ueqXbAAAGlx2
+    label: On stage
+    published-date: 2025-05-14
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2025
+        id: amsterdam
+    part-of:
+      postx: 1922456138966085924
+
+- postximage:
+    post: 1922456138966085924
+    id: Gq3uf7eXEAAUFDV
+    label: On stage
+    published-date: 2025-05-14
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2025
+        id: amsterdam
+    part-of:
+      postx: 1922456138966085924
+
+- postximage:
+    post: 1922456138966085924
+    id: Gq3uhjqbAAEUMFt
+    label: Arena
+    published-date: 2025-05-14
+    context:
+    - show:
+        year: 2025
+        id: amsterdam
+    part-of:
+      postx: 1922456138966085924

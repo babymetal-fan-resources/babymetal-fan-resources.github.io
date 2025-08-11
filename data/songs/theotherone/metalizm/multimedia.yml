@@ -5,3 +5,5 @@
     published-date: 2023-04-21
     context:
     - song: metalizm
+    part-of:
+      song: metalizm

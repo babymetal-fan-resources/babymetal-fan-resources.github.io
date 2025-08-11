@@ -9,6 +9,8 @@ contentpage:
     localimage:
       event: siteimages
       id: kitsune_cover
+  part-of:
+    group: site
   categories:
   - id: event
     label: Events

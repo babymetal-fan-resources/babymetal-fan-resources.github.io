@@ -4,6 +4,8 @@
     published-date: 2012-11-08
     context:
     - song: iine
+    part-of:
+      song: iine
 
 - youtubevideo:
     id: f7OLcw9OKHU
@@ -12,3 +14,5 @@
     published-date: 2012-11-08
     context:
     - song: iine
+    part-of:
+      song: iine

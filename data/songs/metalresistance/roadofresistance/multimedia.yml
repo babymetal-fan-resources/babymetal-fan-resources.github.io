@@ -7,6 +7,8 @@
     source:
       description: TOY'S FACTORY item page
       url: https://www.toysfactory.co.jp/artist/babymetal/disco/1286
+    part-of:
+      song: roadofresistance
 
 - youtubevideo:
     id: zTEYUFgLveY
@@ -14,6 +16,8 @@
     published-date: 2015-05-07
     context:
     - song: roadofresistance
+    part-of:
+      song: roadofresistance
 
 - youtubevideo:
     id: Zi-XFUZ5EL4
@@ -21,3 +25,5 @@
     published-date: 2015-01-05
     context:
     - song: roadofresistance
+    part-of:
+      song: roadofresistance

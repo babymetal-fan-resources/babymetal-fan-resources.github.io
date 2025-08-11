@@ -1,0 +1,73 @@
+- group:
+    id: tickets
+    label: Tickets
+    part-of:
+      show:
+        year: 2025
+        id: london
+
+- postx:
+    id: 1927488871740109116
+    account: BABYMETAL_JAPAN
+    published-date: 2025-05-28
+    label: Low Tickets
+    text: |
+      Just a few more to go!!💨
+      Only a few tickets left for O2 Arena🏟️
+      Get it while you can!!💨
+      See you there!!🦊
+      http://BABYMETAL.com/tour
+      #BABYMETAL #BABYMETALWORLDTOUR2025 #METALFORTH
+      
+    image:
+    - Gr_Q58gXMAADG3o
+    part-of:
+      group:
+        id: tickets
+        show:
+          year: 2025
+          id: london
+
+- postximage:
+    post: 1927488871740109116
+    id: Gr_Q58gXMAADG3o
+    label: Low Tickets poster
+    published-date: 2025-05-28
+    context:
+    - show:
+        year: 2025
+        id: london
+    part-of:
+      postx: 1927488871740109116
+
+- postx:
+    id: 1928044340867178916
+    account: BABYMETAL_JAPAN
+    published-date: 2025-05-29
+    label: Sold out
+    text: |
+      O2 ARENA is now "sold out" !!!!!
+      Are you ready to head bang !?🔥🔥🔥
+      #BABYMETAL #BABYMETALWORLDTOUR2025 #METALFORTH #LONDON
+      
+    image:
+    - GsHI5cJaUAEzOpm
+    part-of:
+      group:
+        id: tickets
+        show:
+          year: 2025
+          id: london
+
+- postximage:
+    post: 1928044340867178916
+    id: GsHI5cJaUAEzOpm
+    label: Cover sold out
+    published-date: 2025-05-29
+    local-copy: true
+    context:
+    - show:
+        year: 2025
+        id: london
+    part-of:
+      postx: 1928044340867178916

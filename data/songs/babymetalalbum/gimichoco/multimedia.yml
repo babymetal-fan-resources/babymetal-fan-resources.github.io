@@ -4,6 +4,8 @@
     published-date: 2014-02-26
     context:
     - song: gimichoko
+    part-of:
+      song: gimichoko
 
 - youtubevideo:
     id: rt9bEzh5r-Y
@@ -11,4 +13,6 @@
     published-date: 2024-12-19
     context:
     - song: gimichoko
+    part-of:
+      song: gimichoko
 

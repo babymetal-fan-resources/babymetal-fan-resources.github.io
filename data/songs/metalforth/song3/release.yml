@@ -1,0 +1,139 @@
+- group:
+    id: release
+    label: Release
+    part-of:
+      song: song3
+
+- youtubevideo:
+    id: OlHVOlRBOnM
+    label: 'Teaser #0'
+    published-date: 2025-05-23
+    context:
+    - song: song3
+    part-of:
+      group:
+        id: release
+        song: song3
+
+- postx:
+    id: 1925944898294812963
+    account: BABYMETAL_JAPAN
+    published-date: 2025-05-23
+    label: Coming soon
+    text: |
+      BABYMETAL x 
+      @STPmetal
+      “Song 3” coming soon. 
+      
+      Pre-order the new album Metal Forth now
+    part-of:
+      youtubevideo: OlHVOlRBOnM
+
+- postx:
+    id: 1926654515031200142
+    account: BABYMETAL_JAPAN
+    published-date: 2025-05-25
+    label: 3 days
+    text: |
+      3 days until "Song 3"
+      #Song3 #3meme #BABYMETAL #METALFORTH
+      @STPmetal
+      
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        song: song3
+
+- postxvideo:
+    post: 1926654515031200142
+    id: 01
+    label: 3 days
+    cover: 1926651017774456832/img/cIaCeGins2YXeWjU.jpg
+    published-date: 2025-05-25
+    context:
+    - song: song3
+    part-of:
+      postx: 1926654515031200142
+
+- youtubeshort:
+    id: Deo897Pw71o
+    label: 'Teaser #1'
+    published-date: 2025-05-26
+    context:
+    - song: song3
+    part-of:
+      group:
+        id: release
+        song: song3
+
+- youtubeshort:
+    id: omIy1HhQDfQ
+    label: 'Teaser #2'
+    published-date: 2025-05-27
+    context:
+    - song: song3
+    part-of:
+      group:
+        id: release
+        song: song3
+
+- postx:
+    id: 1927243499176329352
+    account: BABYMETAL_JAPAN
+    published-date: 2025-05-27
+    label: 33 hours
+    text: |
+      3 days until "Song 3"
+      #Song3 #3meme #BABYMETAL #METALFORTH
+      @STPmetal
+      
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        song: song3
+
+- postxvideo:
+    post: 1927243499176329352
+    id: 01
+    label: 33 hours
+    cover: 1927243044488622080/img/9m-T-muf14eQFSxu.jpg
+    published-date: 2025-05-27
+    context:
+    - song: song3
+    part-of:
+      postx: 1927243499176329352
+
+- youtubeshort:
+    id: '-p_T7ci9j48'
+    label: 'Teaser #3'
+    published-date: 2025-05-28
+    context:
+    - song: song3
+    part-of:
+      group:
+        id: release
+        song: song3
+
+
+- postyoutube:
+    id: Ugkx9s1Spc90uUxKTukNacDarzBVcwTnHXKc
+    account: BABYMETAL
+    published-date: 2025-05-28
+    label: Release
+    text: |
+      Song 3 with Slaughter To Prevail is out now. Pre-order METAL FORTH, out August 8.
+      METALFORTH.com
+      #Song3 #3meme #BABYMETAL #METALFORTH
+      
+    image:
+    - 9e1DloGNajtEoMDsp9MVG-5AKA07WHAvRy7Mp_XmskjlDsCkHGl6F9PqSxKHXAYQnIShHZS080DJwMo
+    part-of:
+      postyoutubeimage:
+        post: Ugkx9s1Spc90uUxKTukNacDarzBVcwTnHXKc
+        image: 9e1DloGNajtEoMDsp9MVG-5AKA07WHAvRy7Mp_XmskjlDsCkHGl6F9PqSxKHXAYQnIShHZS080DJwMo
+
+

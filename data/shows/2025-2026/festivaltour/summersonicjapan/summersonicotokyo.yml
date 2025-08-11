@@ -1,0 +1,16 @@
+show:
+  year: 2025
+  id: summersonictokyo
+  fullname: SUMMER SONIC 2025
+  sublabel: Tokyo, Japan
+  date: 2025-08-16
+  location: ZOZO Marine Stadium & Makuhari Messe
+  event-page: 'https://www.summersonic.com/'
+  cover-image:
+    localimage:
+      show:
+        year: 2025
+        id: summersonictokyo
+      id: cover
+  part-of:
+    group: 2025_2026

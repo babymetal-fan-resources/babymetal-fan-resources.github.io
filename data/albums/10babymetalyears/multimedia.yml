@@ -7,6 +7,8 @@
     source:
       description: TOY'S FACTORY item page
       url: https://www.toysfactory.co.jp/artist/babymetal/disco/2214
+    part-of:
+      album: 10babymetalyears
 
 - localimage:
     album: 10babymetalyears
@@ -18,6 +20,8 @@
     source:
       description: TOY'S FACTORY item page
       url: https://www.toysfactory.co.jp/artist/babymetal/disco/2216
+    part-of:
+      album: 10babymetalyears
 
 - localimage:
     album: 10babymetalyears
@@ -29,6 +33,8 @@
     source:
       description: TOY'S FACTORY item page
       url: https://www.toysfactory.co.jp/artist/babymetal/disco/2217
+    part-of:
+      album: 10babymetalyears
 
 - localimage:
     album: 10babymetalyears
@@ -40,5 +46,7 @@
     source:
       description: TOY'S FACTORY item page
       url: https://www.toysfactory.co.jp/artist/babymetal/disco/2218
+    part-of:
+      album: 10babymetalyears
 
 

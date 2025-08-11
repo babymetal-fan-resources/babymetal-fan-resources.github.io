@@ -1,0 +1,65 @@
+- postx:
+    id: 1943926792626040997
+    account: BABYMETAL_JAPAN
+    published-date: 2025-07-10
+    label: Thank you
+    text: |
+      Thank you, Denver. Stay safe.
+      
+    image:
+    - Gvo2OfkXEAAbnpj
+    - Gvo2QvzXYAAHob5
+    - Gvo2Y1fW4AA1Uji
+    - Gvo2awxXwAAjQ0g
+    part-of:
+      show:
+        year: 2025
+        id: denver
+
+- postximage:
+    post: 1943926792626040997
+    id: Gvo2OfkXEAAbnpj
+    label: BABYMETAL
+    published-date: 2025-07-10
+    context:
+    - show:
+        year: 2025
+        id: denver
+    part-of:
+      postx: 1943926792626040997
+
+- postximage:
+    post: 1943926792626040997
+    id: Gvo2QvzXYAAHob5
+    label: Fans
+    published-date: 2025-07-10
+    context:
+    - show:
+        year: 2025
+        id: denver
+    part-of:
+      postx: 1943926792626040997
+
+- postximage:
+    post: 1943926792626040997
+    id: Gvo2Y1fW4AA1Uji
+    label: Fans
+    published-date: 2025-07-10
+    context:
+    - show:
+        year: 2025
+        id: denver
+    part-of:
+      postx: 1943926792626040997
+
+- postximage:
+    post: 1943926792626040997
+    id: Gvo2awxXwAAjQ0g
+    label: Fans
+    published-date: 2025-07-10
+    context:
+    - show:
+        year: 2025
+        id: denver
+    part-of:
+      postx: 1943926792626040997

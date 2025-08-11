@@ -1,0 +1,20 @@
+tour:
+  id: japansummertour2025
+  fullname: Summer Tour In Japan
+  first-date: 2025-08-13
+  last-date: 2025-08-21
+  cover-image:
+    localimage:
+      tour: japansummertour2025
+      id: cover
+  shows:
+  - year: 2025
+    id: yokohama1
+  - year: 2025
+    id: yokohama2
+  - year: 2025
+    id: nagoya
+  - year: 2025
+    id: osaka
+  part-of:
+    group: 2025_2026

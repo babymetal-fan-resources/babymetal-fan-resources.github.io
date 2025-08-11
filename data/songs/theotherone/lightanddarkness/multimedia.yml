@@ -4,3 +4,5 @@
     published-date: 2023-02-23
     context:
     - song: lightanddarkness
+    part-of:
+      song: lightanddarkness

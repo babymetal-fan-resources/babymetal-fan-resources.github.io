@@ -1,0 +1,34 @@
+show:
+  year: 2025
+  id: chicago
+  fullname: Chicago, IL, USA
+  sublabel: North America 2025
+  date: 2025-07-08
+  tour: northamerica2025
+  location: Byline Bank Aragon Ballroom
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  multimedia:
+    main:
+      postximage:
+        post: 1942823657383850069
+        image: GvZGqf7XcAAuq0Z
+    short:
+    - youtubeshort: quHJAvM6c8Y
+    image:
+    - postximage:
+        post: 1942823657383850069
+        image: GvZGk22XQAAyFHH
+    - postximage:
+        post: 1942823657383850069
+        image: GvZGn3SXwAAFI2w
+    - postximage:
+        post: 1942823657383850069
+        image: GvZGpKQX0AAD6NN
+    - postximage:
+        post: 1942823657383850069
+        image: GvZGqf7XcAAuq0Z
+  part-of:
+    tour: northamerica2025

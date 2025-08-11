@@ -36,19 +36,6 @@ song:
     - postximage:
         post: 1927166535744753912
         image: Gr6qRwjWkAAiw0K
-  linked-to:
-  - youtubevideo: qayP_YUrf9I
-  - localimage:
-      song: frommetou
-      id: mvcover
-  - youtubeshort: FYwqnTc2TIs
-  - youtubeshort: JdKbr69Xn6I
-  - postx: 1907089900303778232
-  - postx: 1907450207283056684
-  - postx: 1907811061547544665
-  - postx: 1908006616361799954
-  - postx: 1908172721055469909
-  - postx: 1917749117322932480
 
   lyrics:
     status:

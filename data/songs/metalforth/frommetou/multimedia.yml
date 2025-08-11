@@ -1,0 +1,44 @@
+- youtubevideo:
+    id: qayP_YUrf9I
+    label: Official Music Video
+    published-date: 2025-04-04
+    context:
+    - song: frommetou
+    part-of:
+      song: frommetou
+
+- multimedia-event:
+    id: fromtetoumv
+    youtubevideo: qayP_YUrf9I
+    parent:
+      song: frommetou
+    cover-image: 
+      localimage:
+        song: frommetou
+        id: mvcover
+    categories: video
+    part-of:
+      youtubevideo: qayP_YUrf9I
+
+- localimage:
+    song: frommetou
+    id: mvcover
+    label: MV cover
+    filename: mvcover.png
+    published-date: 2025-04-04
+    source:
+      description: YouTube video
+    hidden: true
+    part-of:
+      youtubevideo: qayP_YUrf9I
+
+- postximage:
+    post: 1908172721055469909
+    id: GnsqdGTbQAAkPmf
+    label: cover image
+    published-date: 2025-04-04
+    local-copy: true
+    context:
+    - song: frommetou
+    part-of:
+      song: frommetou

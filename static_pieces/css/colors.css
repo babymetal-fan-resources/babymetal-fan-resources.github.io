@@ -25,4 +25,20 @@
   --color-lyrics-section-odd: rgb(from green r g b / 0.05);
   --color-lyrics-line-even: rgb(from yellow r g b / 0.05);
   --color-lyrics-line-odd: rgb(from pink r g b / 0.05);
+
+
+  --bg-group: linear-gradient(160deg, #545454, transparent 40%, transparent);
+
+  --bg-show: linear-gradient(160deg, transparent 0rem, transparent 20%, #505020);
+
+  --bg-tour: linear-gradient(160deg, transparent 0rem, transparent 20%, #c4c418);
+
+  --bg-song: linear-gradient(160deg, transparent 0rem, transparent 20%, #202040);
+
+  --bg-album: linear-gradient(160deg, transparent 0rem, transparent 20%, #2b2b86);
+
+  --bg-multimedia: linear-gradient(160deg, transparent 0rem, transparent 20%, #204020);
+
+  --bg-post: linear-gradient(160deg, transparent 0rem, transparent 80%, #ffff00);
+
 }

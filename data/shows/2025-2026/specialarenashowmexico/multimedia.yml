@@ -1,0 +1,15 @@
+- localimage:
+    show:
+      year: 2025
+      id: specialarenashowmexico
+    id: cover
+    label: cover
+    filename: cover.png
+    published-date: 2025-07-10
+    source:
+      description: BABYMETAL website site
+      url: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1418&id=292951&lang=en'
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowmexico

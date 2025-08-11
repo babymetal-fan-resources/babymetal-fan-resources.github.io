@@ -5,6 +5,8 @@
     published-date: 2023-03-23
     context:
     - song: mirrormirror
+    part-of:
+      song: mirrormirror
 
 - youtubevideo:
     id: 7uOoH2PTYl0
@@ -12,3 +14,5 @@
     published-date: 2023-04-07
     context:
     - song: mirrormirror
+    part-of:
+      song: mirrormirror

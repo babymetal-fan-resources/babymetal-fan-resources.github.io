@@ -1,0 +1,28 @@
+show:
+  year: 2025
+  id: tampa
+  fullname: Tampa, FL, USA
+  sublabel: North America 2025
+  date: 2025-06-17
+  tour: northamerica2025
+  location: Yuengling Center
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  multimedia:
+    main:
+      postximage:
+        post: 1935308136358748218
+        image: GtuV4X3WMAAcMjj
+    short:
+    - youtubeshort: eRBRukKwbv0
+    image:
+    - postximage:
+        post: 1935308136358748218
+        image: GtuV242WMAAE3hI
+    - postximage:
+        post: 1935308136358748218
+        image: GtuV4X3WMAAcMjj
+  part-of:
+    tour: northamerica2025

@@ -7,6 +7,8 @@
     source:
       description: TOY'S FACTORY item page
       url: https://www.toysfactory.co.jp/artist/babymetal/disco/2498
+    part-of:
+      song: monochrome
 
 - youtubevideo:
     id: FpPBPQUdFx8
@@ -14,6 +16,8 @@
     published-date: 2022-11-17
     context:
     - song: monochrome
+    part-of:
+      song: monochrome
 
 - youtubevideo:
     id: h-hPGRSjgms
@@ -21,4 +25,6 @@
     published-date: 2023-04-14
     context:
     - song: monochrome
+    part-of:
+      song: monochrome
 

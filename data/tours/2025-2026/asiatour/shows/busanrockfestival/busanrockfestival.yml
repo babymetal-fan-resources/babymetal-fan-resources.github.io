@@ -1,0 +1,17 @@
+show:
+  year: 2025
+  id: busanrockfestival
+  fullname: Busan International Rock Festival
+  sublabel: Asia Tour 2025
+  date: 2025-09-28
+  tour: asiatour2025
+  location: SAMNAK PARK
+  event-page: 'https://busanrockfestival.com/'
+  cover-image:
+    localimage:
+      show:
+        year: 2025
+        id: busanrockfestival
+      id: cover
+  part-of:
+    tour: asiatour2025

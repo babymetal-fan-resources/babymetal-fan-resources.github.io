@@ -1,12 +1,3 @@
-- group:
-    id: siteimages
-    label: site images
-    linked-to:
-    - event: siteimages
-    - localimage:
-        event: siteimages
-        id: kitsune_cover
-
 - event:
     id: siteimages
     label: Holder for site image
@@ -25,4 +16,6 @@
     published-date: 2009-12-31
     source:
       description: Created for the site
+    part-of:
+      event: siteimages
 

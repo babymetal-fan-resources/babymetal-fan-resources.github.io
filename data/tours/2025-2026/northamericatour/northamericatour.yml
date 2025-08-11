@@ -1,0 +1,97 @@
+tour:
+  id: northamerica2025
+  fullname: North America 2025
+  first-date: 2025-06-13
+  last-date: 2025-07-24
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  multimedia:
+    main:
+      youtubevideo: J7kczmsgEog
+    video:
+    - youtubevideo: J7kczmsgEog
+    short:
+    - youtubeshort: 0YElROg2MLo
+    - youtubeshort: quHJAvM6c8Y
+    - youtubeshort: Yhv8ekoNGzo
+    - youtubeshort: MdvxYE6JHB8
+    - youtubeshort: g9lSvZ_FHUw
+    - youtubeshort: 8ebR_x-wgaU
+    - youtubeshort: n1ZPldlIlKs
+    - youtubeshort: IhlCz8gGvvE
+    - youtubeshort: eRBRukKwbv0
+    - youtubeshort: q9SCWO3JjAc
+    image:
+    - postximage:
+        post: 1948581219345830051
+        image: GwrAIp_bgAQ6nF4
+    - postximage:
+        post: 1948581219345830051
+        image: GwrAKR0agAAXvFG
+    - postximage:
+        post: 1942220423481250038
+        image: GvQnJAyboAAJnnD
+    - postximage:
+        post: 1933901506392080643
+        image: GtaY1E4WYAEsXx-
+    - postximage:
+        post: 1933901658599153909
+        image: GtaZNtkWsAACOO2
+  shows:
+  - year: 2025
+    id: houston
+  - year: 2025
+    id: irving
+  - year: 2025
+    id: tampa
+  - year: 2025
+    id: atlanta
+  - year: 2025
+    id: charlotte
+  - year: 2025
+    id: baltimore
+  - year: 2025
+    id: newyork
+  - year: 2025
+    id: boston
+  - year: 2025
+    id: uncasville
+  - year: 2025
+    id: philadelphia
+  - year: 2025
+    id: laval
+  - year: 2025
+    id: toronto
+  - year: 2025
+    id: sterlingheights
+  - year: 2025
+    id: summerfestmilwaukee
+  - year: 2025
+    id: marylandheights
+  - year: 2025
+    id: chicago
+  - year: 2025
+    id: minneapolis
+  - year: 2025
+    id: denver
+  - year: 2025
+    id: vancouver
+  - year: 2025
+    id: kent
+  - year: 2025
+    id: sanfrancisco1
+  - year: 2025
+    id: sanfrancisco2
+  - year: 2025
+    id: lasvegas
+  - year: 2025
+    id: saltlakecity
+  - year: 2025
+    id: phoenix
+  - year: 2025
+    id: losangeles
+  part-of:
+    group: 2025_2026
+

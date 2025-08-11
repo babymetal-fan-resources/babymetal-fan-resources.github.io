@@ -1,0 +1,15 @@
+album:
+  id: megitsune
+  fullname: メギツネ
+  alt-name: megitsune
+  designation: single
+  release-date: 2013-06-19
+  cover-image:
+    localimage:
+      album: megitsune
+      id: cover
+  songs:
+  - megitsune
+  - akatsuki
+  part-of:
+    group: album_single

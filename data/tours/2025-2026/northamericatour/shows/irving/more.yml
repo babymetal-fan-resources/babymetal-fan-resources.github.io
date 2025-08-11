@@ -1,0 +1,71 @@
+- postx:
+    id: 1934132880441233442
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-15
+    label: Thank you
+    text: |
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Irving🤠
+      #BABYMETAL 
+      #BABYMETALWORLDTOUR20252026NORTHAMERICA #IRVING 
+      📸 
+      @Theguyfromthpic
+      
+    image:
+    - GtdrmaWXgAA5JrD
+    - GtdrmawWgAAYaRj
+    - Gtdrma3WoAA55Sq
+    - GtdrmanWIAAc_Je
+    part-of:
+      show:
+        year: 2025
+        id: irving
+
+- postximage:
+    post: 1934132880441233442
+    id: GtdrmaWXgAA5JrD
+    label: On stage
+    published-date: 2025-06-15
+    context:
+    - show:
+        year: 2025
+        id: irving
+    - song: metali
+    part-of:
+      postx: 1934132880441233442
+
+- postximage:
+    post: 1934132880441233442
+    id: GtdrmawWgAAYaRj
+    label: On stage
+    published-date: 2025-06-15
+    context:
+    - show:
+        year: 2025
+        id: irving
+    - song: song3
+    part-of:
+      postx: 1934132880441233442
+
+- postximage:
+    post: 1934132880441233442
+    id: Gtdrma3WoAA55Sq
+    label: Venue
+    published-date: 2025-06-15
+    context:
+    - show:
+        year: 2025
+        id: irving
+    part-of:
+      postx: 1934132880441233442
+
+- postximage:
+    post: 1934132880441233442
+    id: GtdrmanWIAAc_Je
+    label: Crowd
+    published-date: 2025-06-15
+    context:
+    - show:
+        year: 2025
+        id: irving
+    part-of:
+      postx: 1934132880441233442

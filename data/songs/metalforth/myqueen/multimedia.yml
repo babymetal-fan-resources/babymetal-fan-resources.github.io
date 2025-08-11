@@ -4,3 +4,5 @@
     published-date: 2025-08-08
     context:
     - song: myqueen
+    part-of:
+      song: myqueen

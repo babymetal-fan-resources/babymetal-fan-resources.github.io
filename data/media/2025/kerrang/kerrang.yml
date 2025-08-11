@@ -1,0 +1,20 @@
+mediawritten:
+  year: 2025
+  id: kerrang
+  publication: Kerrang!
+  issue: special
+  designation: magazine
+  member:
+  - SU-METAL
+  - MOAMETAL
+  - MOMOMETAL
+  webpage: 'https://kerrang.newsstand.co.uk/'
+  published-date: 2025-08-08
+  cover-image:
+    postximage:
+      post: 1945884294406369469
+      image: GwErYlpXQAADsDJ
+  linked-to:
+  - postx: 1945884294406369469
+  part-of:
+    group: 2025_2026

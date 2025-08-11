@@ -4,3 +4,5 @@
     published-date: 2024-02-26
     context:
     - song: babymetaldeath
+    part-of:
+      song: babymetaldeath

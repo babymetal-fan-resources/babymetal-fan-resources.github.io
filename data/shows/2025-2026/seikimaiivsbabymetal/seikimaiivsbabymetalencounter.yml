@@ -1,0 +1,25 @@
+show:
+  year: 2025
+  id: seikimaiivsbabymetalencounter
+  fullname: 「聖飢魔II vs BABYMETAL」悪魔が来たりてベビメタる
+  sublabel: Yokohama, Japan - 遭遇 -Encounter-
+  date: 2025-08-30
+  location: K ARENA YOKOHAMA
+  event-page: 'https://skiivsbbm.com/'
+  cover-image:
+    localimage:
+      show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+      id: cover
+  linked-to:
+  - localimage:
+      show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+      id: cover
+  part-of:
+    group:
+      id: seikimaiivsbabymetal
+      group: 2025_2026
+

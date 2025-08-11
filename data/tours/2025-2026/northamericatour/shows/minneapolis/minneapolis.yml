@@ -1,0 +1,34 @@
+show:
+  year: 2025
+  id: minneapolis
+  fullname: Minneapolis, MN, USA
+  sublabel: North America 2025
+  date: 2025-07-09
+  tour: northamerica2025
+  location: The Armory
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  multimedia:
+    main:
+      postximage:
+        post: 1943191162623291405
+        image: GveUqy5WAAA40Cs
+    short:
+    - youtubeshort: quHJAvM6c8Y
+    image:
+    - postximage:
+        post: 1943191162623291405
+        image: GveUnOlWIAAQvNo
+    - postximage:
+        post: 1943191162623291405
+        image: GveUopCWwAAn2-V
+    - postximage:
+        post: 1943191162623291405
+        image: GveUqy5WAAA40Cs
+    - postximage:
+        post: 1943191162623291405
+        image: GveUsT8XYAAdlgc
+  part-of:
+    tour: northamerica2025

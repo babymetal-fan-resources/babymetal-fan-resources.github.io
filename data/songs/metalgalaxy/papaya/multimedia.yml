@@ -7,6 +7,8 @@
     source:
       description: TOY'S FACTORY item page
       url: https://www.toysfactory.co.jp/artist/babymetal/disco/2033
+    part-of:
+      song: papaya
 
 - youtubevideo:
     id: oO7Y8NsnkRg
@@ -14,3 +16,5 @@
     published-date: 2019-07-01
     context:
     - song: papaya
+    part-of:
+      song: papaya

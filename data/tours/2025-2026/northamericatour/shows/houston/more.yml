@@ -1,0 +1,60 @@
+- postx:
+    id: 1933786508722589865
+    account: BABYMETAL_JAPAN
+    published-date: 2025-06-14
+    label: Thank you
+    info: TODO - check first image song
+    text: |
+      BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA kicks off today!!!💪
+      Huge thanks to everyone who joined us in Houston!!!
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORHTAMERICA #HOUSTON 
+      📸 
+      @Theguyfromthpic
+      
+    image:
+    - GtYv6GJbMAQs6hO
+    - GtYv6GHbMAEk1r0
+    - GtYv6GMbwAA7vDf
+    part-of:
+      show:
+        year: 2025
+        id: houston
+
+- postximage:
+    post: 1933786508722589865
+    id: GtYv6GJbMAQs6hO
+    label: Arena
+    published-date: 2025-06-14
+    context:
+    - show:
+        year: 2025
+        id: houston
+    - song: bxmxc
+    part-of:
+      postx: 1933786508722589865
+
+- postximage:
+    post: 1933786508722589865
+    id: GtYv6GHbMAEk1r0
+    label: On stage
+    published-date: 2025-06-14
+    context:
+    - show:
+        year: 2025
+        id: houston
+    - song: karate
+    part-of:
+      postx: 1933786508722589865
+
+- postximage:
+    post: 1933786508722589865
+    id: GtYv6GMbwAA7vDf
+    label: On stage
+    published-date: 2025-06-14
+    info: weeeeeaaaaa
+    context:
+    - show:
+        year: 2025
+        id: houston
+    part-of:
+      postx: 1933786508722589865

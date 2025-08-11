@@ -1,0 +1,169 @@
+- localimage:
+    tour: ukeuropearenatour2025
+    id: cover
+    label: cover
+    filename: cover400.png
+    published-date: 2024-10-23
+    source:
+      description: BABYMETAL website
+      url: 'https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025'
+    part-of:
+      tour: ukeuropearenatour2025
+
+- youtubeshort:
+    id: ZL8yLAJcJhM
+    label: Trailer
+    published-date: 2024-05-02
+    context:
+    - tour: ukeuropearenatour2025
+    part-of:
+      tour: ukeuropearenatour2025
+
+- localimage:
+    tour: ukeuropearenatour2025
+    id: merch01
+    label: Merch
+    filename: merch01.png
+    published-date: 2025-05-09
+    source:
+      description: BABYMETAL website
+      url: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=3716&id=290197'
+    part-of:
+      tour: ukeuropearenatour2025
+
+- youtubeshort:
+    id: a8DhsHnh2XM
+    label: We are on tour
+    info: BABYMETAL, Poppy
+    published-date: 2025-05-11
+    context:
+    - tour: ukeuropearenatour2025
+    part-of:
+      tour: ukeuropearenatour2025
+
+- youtubeshort:
+    id: p-A3YjVfTSI
+    label: We are on tour
+    info: BABYMETAL, Bambie Thug
+    published-date: 2025-05-12
+    context:
+    - tour: ukeuropearenatour2025
+    part-of:
+      tour: ukeuropearenatour2025
+
+- youtubeshort:
+    id: 80fsZ-cdbqM
+    label: Recap
+    published-date: 2025-05-15
+    context:
+    - tour: ukeuropearenatour2025
+    - show:
+        year: 2025
+        id: brussels
+    - show:
+        year: 2025
+        id: hamburg
+    - show:
+        year: 2025
+        id: amsterdam
+    - song: frommetou
+    part-of:
+      tour: ukeuropearenatour2025
+
+- youtubeshort:
+    id: RerJs6jVegg
+    label: Recap
+    published-date: 2025-05-18
+    context:
+    - tour: ukeuropearenatour2025
+    - show:
+        year: 2025
+        id: frankfurt
+    - show:
+        year: 2025
+        id: berlin
+    - song: bxmxc
+    part-of:
+      tour: ukeuropearenatour2025
+
+- youtubeshort:
+    id: I-rqRuTVxZU
+    label: Recap
+    published-date: 2025-05-22
+    context:
+    - tour: ukeuropearenatour2025
+    - show:
+        year: 2025
+        id: krakow
+    - show:
+        year: 2025
+        id: nuremberg
+    - song: roadofresistance
+    part-of:
+      tour: ukeuropearenatour2025
+
+- youtubeshort:
+    id: 6Zaf3FPxbNM
+    label: Recap
+    published-date: 2025-05-24
+    context:
+    - tour: ukeuropearenatour2025
+    - show:
+        year: 2025
+        id: zurich
+    - song: karate
+    part-of:
+      tour: ukeuropearenatour2025
+
+- youtubeshort:
+    id: Jg50uPtanx8
+    label: Recap
+    published-date: 2025-05-27
+    context:
+    - tour: ukeuropearenatour2025
+    - show:
+        year: 2025
+        id: madrid
+    - show:
+        year: 2025
+        id: barcelona
+    - song: bxmxc
+    part-of:
+      tour: ukeuropearenatour2025
+
+- youtubeshort:
+    id: KXJhvJSAEX8
+    label: Recap
+    published-date: 2025-05-30
+    context:
+    - tour: ukeuropearenatour2025
+    - show:
+        year: 2025
+        id: paris
+    - song: ratatata
+    part-of:
+      tour: ukeuropearenatour2025
+
+- youtubeshort:
+    id: gVpbtku2yJY
+    label: Recap
+    published-date: 2025-06-03
+    context:
+    - tour: ukeuropearenatour2025
+    - show:
+        year: 2025
+        id: london
+    - song: bxmxc
+    part-of:
+      tour: ukeuropearenatour2025
+
+- youtubeshort:
+    id: mNhPz7Y5hsI
+    label: Recap
+    info: Europe & UK
+    published-date: 2025-06-06
+    context:
+    - tour: ukeuropearenatour2025
+    - song: frommetou
+    part-of:
+      tour: ukeuropearenatour2025

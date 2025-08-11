@@ -1,0 +1,71 @@
+- postx:
+    id: 1925707721447203038
+    account: BABYMETAL_JAPAN
+    published-date: 2025-05-23
+    label: Thank you
+    text: |
+      Thank you for coming to "BABYMETAL UK & EUROPE ARENA TOUR 2025" in Zurich,Switzerland🇨🇭 #BABYMETAL #BABYMETALWORLDTOUR2025 #Zurich #Switzerland 
+      📸 
+      @photosbysarai
+      
+    image:
+    - Grl7pBtWUAAqn9G
+    - Grl7qz-XIAA0Ma5
+    - Grl7sgaXQAADNoV
+    - Grl7uB-XEAA6h9j
+    part-of:
+      show:
+        year: 2025
+        id: zurich
+
+- postximage:
+    post: 1925707721447203038
+    id: Grl7pBtWUAAqn9G
+    label: On stage
+    published-date: 2025-05-23
+    context:
+    - show:
+        year: 2025
+        id: zurich
+    - song: megitsune
+    part-of:
+      postx: 1925707721447203038
+
+- postximage:
+    post: 1925707721447203038
+    id: Grl7qz-XIAA0Ma5
+    label: On stage
+    published-date: 2025-05-23
+    info: SU-METAL
+    context:
+    - show:
+        year: 2025
+        id: zurich
+    - song: bxmxc
+    part-of:
+      postx: 1925707721447203038
+
+- postximage:
+    post: 1925707721447203038
+    id: Grl7sgaXQAADNoV
+    label: Crowd
+    published-date: 2025-05-23
+    context:
+    - show:
+        year: 2025
+        id: zurich
+    part-of:
+      postx: 1925707721447203038
+
+- postximage:
+    post: 1925707721447203038
+    id: Grl7uB-XEAA6h9j
+    label: On stage
+    published-date: 2025-05-23
+    context:
+    - show:
+        year: 2025
+        id: zurich
+    - song: babymetaldeath
+    part-of:
+      postx: 1925707721447203038

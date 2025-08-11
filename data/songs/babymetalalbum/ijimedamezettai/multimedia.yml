@@ -4,6 +4,8 @@
     published-date: 2012-11-08
     context:
     - song: ijimedamezettai
+    part-of:
+      song: ijimedamezettai
 
 - youtubevideo:
     id: nDqaTXqCN-Q
@@ -11,6 +13,8 @@
     published-date: 2012-11-27
     context:
     - song: ijimedamezettai
+    part-of:
+      song: ijimedamezettai
 
 - youtubevideo:
     id: Ro-_cbfdrYE
@@ -18,3 +22,5 @@
     published-date: 2015-08-26
     context:
     - song: ijimedamezettai
+    part-of:
+      song: ijimedamezettai

@@ -4,3 +4,5 @@
     published-date: 2024-06-19
     context:
     - song: brandnewday
+    part-of:
+      song: brandnewday

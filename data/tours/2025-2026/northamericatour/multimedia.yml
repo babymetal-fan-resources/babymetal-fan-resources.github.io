@@ -1,0 +1,174 @@
+- localimage:
+    tour: northamerica2025
+    id: cover
+    label: cover
+    filename: cover400.png
+    published-date: 2025-03-18
+    source:
+      description: BABYMETAL website site
+      url: 'https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025'
+    part-of:
+      tour: northamerica2025
+
+- youtubeshort:
+    id: q9SCWO3JjAc
+    label: Recap
+    published-date: 2025-06-17
+    context:
+    - tour: northamerica2025
+    - show:
+        year: 2025
+        id: houston
+    - show:
+        year: 2025
+        id: irving
+    - song: frommetou
+    part-of:
+      tour: northamerica2025
+
+- youtubeshort:
+    id: eRBRukKwbv0
+    label: Recap
+    published-date: 2025-06-20
+    context:
+    - tour: northamerica2025
+    - show:
+        year: 2025
+        id: tampa
+    - song: song3
+    part-of:
+      tour: northamerica2025
+
+- youtubeshort:
+    id: IhlCz8gGvvE
+    label: Recap
+    published-date: 2025-06-23
+    context:
+    - tour: northamerica2025
+    - show:
+        year: 2025
+        id: charlotte
+    - show:
+        year: 2025
+        id: baltimore
+    - song: bxmxc
+    part-of:
+      tour: northamerica2025
+
+- youtubeshort:
+    id: n1ZPldlIlKs
+    label: Recap
+    published-date: 2025-06-28
+    context:
+    - tour: northamerica2025
+    - show:
+        year: 2025
+        id: newyork
+    - show:
+        year: 2025
+        id: boston
+    - song: gimichoko
+    part-of:
+      tour: northamerica2025
+
+- youtubeshort:
+    id: 8ebR_x-wgaU
+    label: Recap
+    published-date: 2025-06-30
+    context:
+    - tour: northamerica2025
+    - show:
+        year: 2025
+        id: uncasville
+    - show:
+        year: 2025
+        id: philadelphia
+    - song: megitsune
+    part-of:
+      tour: northamerica2025
+
+- youtubeshort:
+    id: g9lSvZ_FHUw
+    label: Recap
+    published-date: 2025-07-02
+    context:
+    - tour: northamerica2025
+    - show:
+        year: 2025
+        id: laval
+    - song: frommetou
+    part-of:
+      tour: northamerica2025
+
+- youtubeshort:
+    id: MdvxYE6JHB8
+    label: Recap
+    published-date: 2025-07-05
+    context:
+    - tour: northamerica2025
+    - show:
+        year: 2025
+        id: toronto
+    - show:
+        year: 2025
+        id: sterlingheights
+    - song: bxmxc
+    part-of:
+      tour: northamerica2025
+
+- youtubeshort:
+    id: Yhv8ekoNGzo
+    label: Recap
+    published-date: 2025-07-08
+    context:
+    - tour: northamerica2025
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
+    - show:
+        year: 2025
+        id: marylandheights
+    - song: frommetou
+    part-of:
+      tour: northamerica2025
+
+- youtubeshort:
+    id: quHJAvM6c8Y
+    label: Recap
+    published-date: 2025-07-11
+    context:
+    - tour: northamerica2025
+    - show:
+        year: 2025
+        id: chicago
+    - show:
+        year: 2025
+        id: minneapolis
+    - song: papaya
+    part-of:
+      tour: northamerica2025
+
+- youtubeshort:
+    id: 0YElROg2MLo
+    label: Recap
+    published-date: 2025-07-17
+    context:
+    - tour: northamerica2025
+    - show:
+        year: 2025
+        id: vancouver
+    - show:
+        year: 2025
+        id: kent
+    - song: papaya
+    part-of:
+      tour: northamerica2025
+
+- youtubevideo:
+    id: J7kczmsgEog
+    label: Special Recap
+    published-date: 2025-08-06
+    context:
+    - tour: northamerica2025
+    part-of:
+      tour: northamerica2025
