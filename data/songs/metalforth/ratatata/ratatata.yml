@@ -27,17 +27,16 @@ song:
   lyrics:
     status:
       code: warning
-      description: data copied from the sources. Not cross checked.
+      description: data copied from the sources.
     languages:
     - id: ol
       name: original lyrics
-      details: (from the Official Music Video)
+      details: (from METAL FORTH - Limited Edition)
       active: true
       fixed: true
       no-translation: true
       source:
-        description: from the description of the Official Music Video
-        url: https://www.youtube.com/watch/EDnIEWyVIlE
+        description: from METAL FORTH - Limited Edition
     sections:
     - lines:
       - ol:
@@ -45,15 +44,15 @@ song:
       - ol:
         - I feel the beat in my veins 
       - ol:
-        - And I'm searching for love 
+        - And I'm searching for love
       - ol:
         - You know that hips don’t lie 
       - ol:
-        - I leave you hypnotized 
+        - I leave you hypnotized
       - ol:
-        - Just give me one more try 
+        - Just give me one more try
       - ol:
-        - To make you feel that vibe 
+        - To make you feel that vibe
       - ol:
         - And it goes
 
@@ -61,15 +60,15 @@ song:
       - ol:
         - Ra ta ta ta ta ta!
       - ol:
-        - My body is a weapon 
+        - My body is a weapon
       - ol:
         - Ra ta ta ta ta ta!
       - ol:
-        - We’re gonna hit the floor 
+        - We’re gonna hit the floor
       - ol:
         - Ra ta ta ta ta ta!
       - ol:
-        - We’re gonna make it happen 
+        - We’re gonna make it happen
       - ol:
         - Ra ta ta ta ta ta!
       - ol:
@@ -79,7 +78,7 @@ song:
       - ol:
         - I will push it to the limit
       - ol:
-        - And everybody’s feeling the sound of the night 
+        - And everybody’s feeling the sound of the night
       - ol:
         - I don’t wanna stop
       - ol:
@@ -89,7 +88,7 @@ song:
 
     - lines:
       - ol:
-        - ブ·チ·ア·ガ·レ！
+        - ブ・チ・ア・ガ・レ!
       - ol:
         - Bun Bun Bun Moving
       - ol:
@@ -104,8 +103,6 @@ song:
         - Bun Bun Bun Bun Bun 
       - ol:
         - Bun Bun Bun Stomping
-
-    - lines:
       - ol:
         - Bun Bun Bun Bun Bun
 
@@ -121,7 +118,7 @@ song:
       - ol:
         - 小悪魔しちゃうけど大丈夫？
       - ol:
-        - 瞳に映した 笑顔の魔法で罠に誘い込む
+        - 瞳に映した笑顔の魔法で罠に誘い込む
 
     - lines:
       - ol:
@@ -157,7 +154,7 @@ song:
 
     - lines:
       - ol:
-        - ブ·チ·ア·ガ·レ！
+        - ブ・チ・ア・ガ・レ!
       - ol:
         - Bun Bun Bun Moving
       - ol:
@@ -179,21 +176,21 @@ song:
       - ol:
         - I’m here for the moment
       - ol:
-        - Here for the beat 
+        - Here for the beat
       - ol:
-        - Here for the love 
+        - Here for the love
       - ol:
         - And the friends I need
       - ol:
-        - You know that I’ll be there for good 
+        - You know that I’ll be there for good
 
     - lines:
       - ol:
         - I’m here for the moment
       - ol:
-        - Here for the beat 
+        - Here for the beat
       - ol:
-        - Here for the love 
+        - Here for the love
       - ol:
         - And the friends I need
       - ol:
@@ -237,7 +234,7 @@ song:
 
     - lines:
       - ol:
-        - ブ·チ·ア·ガ·レ！
+        - ブ・チ・ア・ガ・レ!
       - ol:
         - Bun Bun Bun Moving
       - ol:

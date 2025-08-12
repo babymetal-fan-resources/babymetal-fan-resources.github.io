@@ -42,31 +42,22 @@ song:
         description: from LyricFind
         url: https://lyrics.lyricfind.com/lyrics/babymetal-kon-kon
     sections:
-    - lines:
-      - ol:
-        - Da-dan, da-dan-dan
-      - ol:
-        - (Hey, hey, hey, hey, hey, hey, hey, hey)
-      - ol:
-        - (Hey, hey, hey, hey, hey, hey, hey, hey)
 
     - lines:
       - ol:
-        - あ～ こりゃ うらめしや
+        - あ〜 こりゃ うらめしや
       - ol:
         - 来来来来 うらめしや
       - ol:
-        - あ～ そりゃ うらめしや
+        - あ〜 そりゃ うらめしや
       - ol:
         - 来来来来 うらめしや
       - ol:
-        - (Hey, hey, hey, hey, hey, hey, hey, hey)
-      - ol:
-        - あ～ こりゃ 恐ろしや
+        - あ〜 こりゃ 恐ろしや
       - ol:
         - 来来来来 恐ろしや
       - ol:
-        - あ～ そりゃ 恐ろしや
+        - あ〜 そりゃ 恐ろしや
       - ol:
         - 来来来来 恐ろしや
       - ol:
@@ -83,14 +74,10 @@ song:
         - やってんな! やってんな!
       - ol:
         - コギツネ コン コン やってんな!
-      - ol:
-        - (Hey, hey, hey, hey, hey, hey, hey, hey)
-      - ol:
-        - (Hey, hey, hey, hey, hey, hey, hey, hey)
 
     - lines:
       - ol:
-        - Like a yokai, I'ma face the worst
+        - Like a yokai, I'mma face the worst
       - ol:
         - "'Cause I was built to beat the odds and send 'em back in a hearse"
       - ol:
@@ -106,32 +93,56 @@ song:
       - ol:
         - See you survivin' a mile
       - ol:
-        - And when it comes, I'll be ready for a while
+        - And when it comes
+      - ol:
+        - I'll be ready for a while
       - ol:
         - The ore turns to iron when there's fire in the trial
 
+    # - lines:
+    #   - ol:
+    #     - कदम दबंग
+    #   - ol:
+    #     - करे भस्म
+    #   - ol:
+    #     - करे ख़तम
+    #   - ol:
+    #     - हुआ आरंभ
+    #   - ol:
+    #     - हुआ ख़तम जब
+    #   - ol:
+    #     - बजे भपंग
+    #   - ol:
+    #     - बजे ये शंख
+    #   - ol:
+    #     - लड़े ये जंग
+    #   - ol:
+    #     - विजय प्रथम्
+    #   - ol:
+    #     - विजय का रंग
+
+
     - lines:
       - ol:
-        - कदम दबंग
+        - Kadam dabang
       - ol:
-        - करे भस्म
+        - Kare bhasam
       - ol:
-        - करे ख़तम
+        - Kare khatam
       - ol:
-        - हुआ आरंभ
+        - Hua aarambh
       - ol:
-        - हुआ ख़तम जब
+        - Hua khatam jab
       - ol:
-        - बजे भपंग
+        - Baje bhapang
       - ol:
-        - बजे ये शंख
+        - Baje yeh sankh
       - ol:
-        - लड़े ये जंग
+        - Lade yeh jung
       - ol:
-        - विजय प्रथम्
+        - Vijay pratham
       - ol:
-        - विजय का रंग
-
+        - Vijay ka rang
     - lines:
       - ol:
         - やってんな! やってんな!
@@ -146,33 +157,55 @@ song:
       - ol:
         - この世でもなく あの世でもない
       - ol:
-        - 鬼の居ぬ間に 出よ yo! Kon!
+        - 鬼の居ぬ間に 出よYO! KON! (妖狐)
       - ol:
         - 遊べや遊べ ごめんあそばせ
       - ol:
         - 今宵 よいよい 踊れ 踊れよ
 
+    # - lines:
+    #   - ol:
+    #     - कदम दबंग
+    #   - ol:
+    #     - करे भस्म
+    #   - ol:
+    #     - करे ख़तम
+    #   - ol:
+    #     - हुआ आरंभ
+    #   - ol:
+    #     - हुआ ख़तम जब
+    #   - ol:
+    #     - बजे भपंग
+    #   - ol:
+    #     - बजे ये शंख
+    #   - ol:
+    #     - लड़े ये जंग
+    #   - ol:
+    #     - विजय प्रथम्
+    #   - ol:
+    #     - विजय का रंग
+
     - lines:
       - ol:
-        - कदम दबंग
+        - Kadam dabang
       - ol:
-        - करे भस्म
+        - Kare bhasam
       - ol:
-        - करे ख़तम
+        - Kare khatam
       - ol:
-        - हुआ आरंभ
+        - Hua aarambh
       - ol:
-        - हुआ ख़तम जब
+        - Hua khatam jab
       - ol:
-        - बजे भपंग
+        - Baje bhapang
       - ol:
-        - बजे ये शंख
+        - Baje yeh sankh
       - ol:
-        - लड़े ये जंग
+        - Lade yeh jung
       - ol:
-        - विजय प्रथम्
+        - Vijay pratham
       - ol:
-        - विजय का रंग
+        - Vijay ka rang
 
     - lines:
       - ol:
@@ -180,32 +213,26 @@ song:
       - ol:
         - コギツネ コン コン やってんな!
       - ol:
-        - (Hey, hey, hey, hey, hey, hey, hey, hey)
-      - ol:
         - やってんな! やってんな!
       - ol:
         - コギツネ コン コン やってんな!
-      - ol:
-        - (Hey, hey, hey, hey, hey, hey, hey, hey)
 
     - lines:
       - ol:
-        - Yo! Kai! Da! Yo! Kai! Da!
+        - YO! KAI! DA! YO! KAI! DA!
       - ol:
-        - コギツネ kon! Kon! Yo! Kai! Da!
+        - コギツネ KON! KONI YO! KAI! DA!
       - ol:
-        - Yo! Kai! Da! Yo! Kai! Da!
+        - YO! KAI! DA! YO! KAI! DA!
       - ol:
-        - コギツネ kon! Kon! Yo! Kai! Da!
+        - コギツネ KON! KONI YOI KAI! DA!
 
     - lines:
       - ol:
         - この世でもなく あの世でもない
       - ol:
-        - 浮世をめかし 出よ yo! Kon!
+        - 浮世をめかし 出よYO! KON! (妖狐)
       - ol:
         - 歌えや歌え 宴だ歌え
       - ol:
-        - 渡る世間に鬼はなし!
-      - ol:
-        - Hey, hey, hey, hey, hey, hey, hey, hey)
+        - 渡る世間に鬼はなし!s

@@ -40,17 +40,19 @@ song:
   lyrics:
     status:
       code: warning
-      description: data copied from the sources. Not cross checked.
+      description: data copied from the sources.
     languages:
     - id: ol
       name: original lyrics
-      details: (from LyricFind)
+      details: (from METAL FORTH - Limited Edition)
       active: true
       fixed: true
       no-translation: true
       source:
-        description: from LyricFind
-        url: https://lyrics.lyricfind.com/lyrics/babymetal-from-me-to-u
+        description: from METAL FORTH - Limited Edition
+    - id: ro
+      name: rōmaji
+      no-translation: true
     sections:
     - lines:
       - ol:
@@ -58,7 +60,7 @@ song:
 
     - lines:
       - ol:
-        - I know you're scared 'cause you're running for cover
+        - I know you're scared cuz you're running for cover
       - ol:
         - But you might be running far
       - ol:
@@ -72,7 +74,7 @@ song:
       - ol:
         - That will make you one of us
       - ol:
-        - And we will never, never, never be apart
+        - And we will never never never be apart
 
     - lines:
       - ol:
@@ -80,33 +82,39 @@ song:
       - ol:
         - And now so do I
       - ol:
-        - And it'll hold you to your fragile alibi
+        - And I'll hold you to your fragile alibi
 
     - lines:
       - ol:
         - With this rage inside of me
       - ol:
-        - 君に届け 君に届け
+        - 君に届け
+        ro:
+        - Kimi ni todoke
       - ol:
-        - Maybe now we can kill the enemy
+        - 君に届け
+        ro:
+        - Kimi ni todoke
+      - ol:
+        - Maybe now 
+      - ol:
+        - We can kill the enemy
       - ol:
         - とても厳しい
-
-    - lines:
+        ro:
+        - Totemo kibishii
       - ol:
         - Stand up and make your move
       - ol:
-        - Let the fire carry on
+        - Let the fire, carry on
       - ol:
-        - Let the power go from me to you
-
-    - lines:
+        - Let the power go
       - ol:
         - From me to you
 
     - lines:
       - ol:
-        - I need a friend that'll never betray me
+        - I need a friend that will never betray me
       - ol:
         - There's no time like where we are
       - ol:
@@ -130,41 +138,53 @@ song:
       - ol:
         - You can shove it
       - ol:
-        - "'Cause you know you don't stand a chance"
+        - Cuz you know you don't stand a chance
 
     - lines:
       - ol:
         - With this rage inside of me
       - ol:
-        - 君に届け 君に届け
+        - 君に届け
+        ro:
+        - Kimi ni todoke
       - ol:
-        - Maybe now we can kill the enemy
+        - 君に届け
+        ro:
+        - Kimi ni todoke
+      - ol:
+        - Maybe now 
+      - ol:
+        - We can kill the enemy
       - ol:
         - とても厳しい
+        ro:
+        - Totemo kibishii
+      - ol:
+        - Stand up and make your move
+      - ol:
+        - Let the fire, carry on
+      - ol:
+        - Let the power go
+      - ol:
+        - From me to you
 
     - lines:
       - ol:
-        - Stand up and make your voice
+        - 闇を抜け
       - ol:
-        - Let the fire carry on
-      - ol:
-        - Let the power go from me to you
-
-    - lines:
-      - ol:
-        - 闇を向け 光と共に
+        - 光と共に
       - ol:
         - 終わりを告げた時
       - ol:
         - 僕はただ
       - ol:
-        - 絶望の彷徨うのさ
+        - 絶望を彷徨うのさ
 
     - lines:
       - ol:
         - You're doing this wrong
       - ol:
-        - "'Cause if the end is a promise"
+        - Cuz if the end is a promise
       - ol:
         - It's still looking up
       - ol:
@@ -172,9 +192,13 @@ song:
 
     - lines:
       - ol:
-        - Has this blind intention just been justified?
+        - Has this blind intention
       - ol:
-        - Hung from the edges, you'll rest with your lies
+        - Been justified
+      - ol:
+        - Hung from the edges
+      - ol:
+        - You'll rest with your lies
       - ol:
         - Rest with your lies
 
@@ -182,25 +206,44 @@ song:
       - ol:
         - With this rage inside of me
       - ol:
-        - 君に届け 君に届け
+        - 君に届け
+        ro:
+        - Kimi ni todoke
       - ol:
-        - With this rage inside of me (inside of me)
+        - 君に届け
+        ro:
+        - Kimi ni todoke
+    
+    - lines:
       - ol:
-        - 君に届け (君に届け) 君に届け (敵を倒す)
+        - With this rage inside of me
       - ol:
-        - Maybe now we can kill the enemy (kill the enemy)
+        - 君に届け
+        ro:
+        - Kimi ni todoke
+      - ol:
+        - 君に届け
+        ro:
+        - Kimi ni todoke
+      - ol:
+        - 敵を倒す
+        ro:
+        - Teki wo taosu
+      - ol:
+        - Maybe now 
+      - ol:
+        - We can kill the enemy
       - ol:
         - とても厳しい
+        ro:
+        - Totemo kibishii
 
-    - lines:
       - ol:
-        - Stand up and make your voice
+        - Stand up and make your move
       - ol:
-        - Let the fire carry on
+        - Let the fire, carry on
       - ol:
-        - Let the power go from me to you
-
-    - lines:
+        - Let the power go
       - ol:
         - From me to you
 

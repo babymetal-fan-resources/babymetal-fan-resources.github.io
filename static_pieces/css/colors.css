@@ -26,6 +26,7 @@
   --color-lyrics-line-even: rgb(from yellow r g b / 0.05);
   --color-lyrics-line-odd: rgb(from pink r g b / 0.05);
 
+  --color-lyrics-ro: #939060;
 
   --bg-group: linear-gradient(160deg, #545454, transparent 40%, transparent);
 
