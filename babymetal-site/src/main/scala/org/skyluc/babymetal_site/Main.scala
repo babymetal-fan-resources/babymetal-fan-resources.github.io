@@ -12,6 +12,7 @@ import org.skyluc.fan_resources.checks.MoreDataCheck
 import org.skyluc.fan_resources.data as frData
 import org.skyluc.fan_resources.data.Path
 import org.skyluc.fan_resources.html.SiteOutput
+import org.skyluc.fan_resources.checks.ReferencesCheckProcessor
 
 object Main {
 
@@ -34,11 +35,14 @@ object Main {
 
     errors.append("PARSER ERRORS", parserErrors)
 
+    val d = frData.Data.get(datums, Data.creator)
+
     val (checkErrors, checkedDatums) =
       DataCheck.check(
         datums,
-        frData.Data.get(datums, Data.creator),
+        d,
         PopulateRelatedTo,
+        ReferencesCheckProcessor(d.datums.keySet),
         CheckLocalAssetExists(rootPath.resolve(BASE_IMAGE_ASSET_PATH)),
         false,
       )
