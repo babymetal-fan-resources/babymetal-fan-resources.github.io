@@ -5,8 +5,6 @@
     part-of:
       song: song3
 
-
-
 - postx:
     id: 1930459568804639211
     account: BABYMETAL_JAPAN
@@ -36,3 +34,12 @@
     part-of:
       postx: 1930459568804639211
 
+- localimage:
+    song: song3
+    id: japanmerch
+    filename: japanmerch.png
+    label: Japan Merch
+    published-date: 2025-08-09
+    source:
+      description: BABYMETAL website
+      url: https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1715&id=294161&lang=en

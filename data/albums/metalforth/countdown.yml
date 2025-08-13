@@ -157,3 +157,92 @@
       group:
         id: countdown
         album: metalforth
+
+- youtubeshort:
+    id: sbw9c8E9DAs
+    label: 6 days 'til
+    info: signed albums
+    published-date: 2025-08-03
+    context:
+    - album: metalforth
+    - song: metali
+    part-of:
+      group:
+        id: countdown
+        album: metalforth
+
+- youtubeshort:
+    id: ZGIGvsKNvhw
+    label: 5 days 'til
+    info: signed albums
+    published-date: 2025-08-04
+    context:
+    - album: metalforth
+    - song: kxaxwxaxixi
+    part-of:
+      group:
+        id: countdown
+        album: metalforth
+
+- youtubeshort:
+    id: HJvxHgdqErU
+    label: 4 days 'til
+    info: signed albums
+    published-date: 2025-08-05
+    context:
+    - album: metalforth
+    - song: konkon
+    part-of:
+      group:
+        id: countdown
+        album: metalforth
+
+- youtubeshort:
+    id: lLw7ftJJ7es
+    label: 3 days 'til
+    info: signed albums
+    published-date: 2025-08-06
+    context:
+    - album: metalforth
+    - song: song3
+    part-of:
+      group:
+        id: countdown
+        album: metalforth
+
+- youtubeshort:
+    id: QHZ4ZDUTRIo
+    label: 2 days 'til
+    info: signed albums
+    published-date: 2025-08-07
+    context:
+    - album: metalforth
+    - song: ratatata
+    part-of:
+      group:
+        id: countdown
+        album: metalforth
+
+- youtubeshort:
+    id: _G4FUhkm768
+    label: 1 days 'til
+    info: signed albums
+    published-date: 2025-08-08
+    context:
+    - album: metalforth
+    - song: frommetou
+    part-of:
+      group:
+        id: countdown
+        album: metalforth
+
+- youtubeshort:
+    id: lLssiwGx190
+    label: out now
+    published-date: 2025-08-08
+    context:
+    - album: metalforth
+    part-of:
+      group:
+        id: countdown
+        album: metalforth

@@ -205,15 +205,109 @@
     part-of:
       youtubeshort: MhiLi4tDFgQ
 
-
-- youtubevideo:
-    id: tinW1Ke_JTA
-    label: BABYNET DA DA DA
-    info: BABYMETAL informercial, with song snippets
+- youtubeshort:
+    id: s57ZA0ZzOY0
+    label: Restock vinyls
     published-date: 2025-08-05
     context:
     - album: metalforth
-    part-of: 
+    part-of:
       group:
         id: merch
         album: metalforth
+
+- postx:
+    id: 1952293436784353504
+    account: BABYMETAL_JAPAN
+    label: BABYNET DA DA DA
+    published-date: 2025-08-04
+    text: |
+      8.8(金)発売 4th ALBUM "METAL FORTH" に先駆け、
+      夢のショッピングチャンネル「BABYNET DA DA DA」のOAが決定DEATH!!
+      アルバムリリースに先行して収録楽曲の全曲ダイジェスト紹介や、放送後には特設ショッピングサイト限定のスペシャルな特典のお知らせも📢
+      リアルタイムでチェックするのDA!!💀⚡️
+
+      👇詳細はこちら
+      https://babymetal.com/babynetdadada_metalforth/
+
+      📺【BABYNET DA DA DA】
+      METAL FORTH 編 プレミア公開
+      🗓️8.5(火) 9:00 PM (JST)
+      🔗https://youtu.be/tinW1Ke_JTA
+
+      ノガシチャ、ダメ、ゼッタイ🙅
+      
+      #BABYMETAL #BABYNETDADADA #METALFORTH
+    image:
+    - GxfT930bMAA8Ylh
+    part-of:
+      group:
+        id: merch
+        album: metalforth
+
+- postximage:
+    post: 1952293436784353504
+    id: GxfT930bMAA8Ylh
+    label: BABYNET DA DA DA
+    published-date: 2025-08-04
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1952293436784353504
+
+- postx:
+    id: 1953838231893496162
+    account: BABYMETAL_JAPAN
+    label: 72 hour flash sale
+    published-date: 2025-08-08
+    text: |
+      🔥 GET YOUR COPY AT A DISCOUNTED RATE TO CELEBRATE THE RELEASE! (USA ONLY)
+      🛒 Order now: https://Babymetal.lnk.to/USASTORE
+    video:
+    - 01
+    part-of:
+      group:
+        id: merch
+        album: metalforth
+
+- postxvideo:
+    post: 1953838231893496162
+    id: 01
+    cover: 1953838138201456640/img/IhNBu_QiucRjZacq.jpg
+    label: 72 hour flash sale
+    published-date: 2025-08-08
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1953838231893496162
+
+- postx:
+    id: 1955514611287155194
+    account: BABYMETAL_JAPAN
+    label: Extra vinyl with signed cards
+    published-date: 2025-08-13
+    text: |
+      🇩🇪Germany🇩🇪
+
+      Thank you for all your requests! Extra copies of the "METAL FORTH" vinyl with signed cards are now available🤟
+
+      Don’t miss your chance to grab this exclusive edition🔥
+      https://thecircle.de/collections/babymetal
+    image:
+    - GyNg0O_a0AAsbrW
+    part-of:
+      group:
+        id: merch
+        album: metalforth
+
+
+- postximage:
+    post: 1955514611287155194
+    id: GyNg0O_a0AAsbrW
+    label: Chard vinyl with signed cards
+    published-date: 2025-08-13
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1955514611287155194
+

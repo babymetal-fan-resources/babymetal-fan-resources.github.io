@@ -74,3 +74,231 @@
     - album: metalforth
     part-of:
       postx: 1947790676302958961
+
+- youtubeshort:
+    id: yLkRWAl1TUg
+    label: Billboard
+    published-date: 2025-08-09
+    context:
+    - album: metalforth
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postx:
+    id: 1953607569572082150
+    account: BABYMETAL_JAPAN
+    label: Listening party
+    published-date: 2025-08-08
+    text: |
+      🔥 New album "METAL FORTH" drops this Friday! 🔥
+      🎧 Join the Stationhead listening party this Friday at 3PM PT
+      Let’s listen to the album together and chat live with fellow fans!
+      🗓 Date: This Friday at 3PM PT
+      🎶 http://stationhead.com/babymetal
+
+      #BABYMETAL #METALFORTH #Stationhead #ListeningParty
+    image:
+    - GxyWrQubsAEhpKs
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postximage:
+    post: 1953607569572082150
+    id: GxyWrQubsAEhpKs
+    label: Listening party
+    published-date: 2025-08-08
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1953607569572082150
+
+- postx:
+    id: 1954739559620878453
+    account: BABYMETAL_JAPAN
+    label: Released
+    published-date: 2025-08-11
+    text: |
+      結成15周年を迎える #BABYMETAL が4thアルバム『METAL FORTH』をリリース❤️‍🔥
+      10曲のうち7曲が豪華ゲストアーティストを迎えた楽曲となっています！
+
+      🎧試聴はこちら
+      https://umj.lnk.to/BABYMETAL_METALFORTH
+
+      #METALFORTH
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postxvideo:
+    post: 1954739559620878453
+    id: 01
+    cover: 1954737893530054656/img/thDz9rW0DPJcaqyf.jpg
+    label: Released
+    published-date: 2025-08-11
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1954739559620878453
+
+- postx:
+    id: 1954763020607139881
+    account: BABYMETAL_JAPAN
+    label: How do you like METAL FORTH ?
+    published-date: 2025-08-11
+    text: |
+      How do you like "METAL FORTH"♟️?
+
+      #BABYMETAL #NEWALBUM
+    image:
+    - GyC2l9TaEAA-VeL
+    - GyC2l9IaQAASNAj
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postximage:
+    post: 1954763020607139881
+    id: GyC2l9TaEAA-VeL
+    label: Music Video
+    published-date: 2025-08-11
+    context:
+    - album: metalforth
+    - song: myqueen
+    part-of:
+      postx: 1954763020607139881
+
+- postximage:
+    post: 1954763020607139881
+    id: GyC2l9IaQAASNAj
+    label: Music Video
+    published-date: 2025-08-11
+    context:
+    - album: metalforth
+    - song: myqueen
+    part-of:
+      postx: 1954763020607139881
+
+- postx:
+    id: 1955132138040267185
+    account: BABYMETAL_JAPAN
+    label: Banner on Sydney harbor bridge
+    published-date: 2025-08-12
+    text: |
+      Thank you Australia🇦🇺
+      New album "METAL FORTH" out now
+
+      #BABYMETAL
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postxvideo:
+    post: 1955132138040267185
+    id: 01
+    cover: 1955117699782328320/img/kGyn8m84XzbremIg.jpg
+    label:  Banner on Sydney harbor bridge
+    published-date: 2025-08-12
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1955132138040267185
+
+- postx:
+    id: 1955192534830854201
+    account: BABYMETAL_JAPAN
+    label: Your favorite song
+    published-date: 2025-08-12
+    text: |
+      BABYMETALメンバーの推し曲は？
+      4thアルバム『METAL FORTH』配信中❤️‍🔥
+      ぜひみなさんのおすすめ曲もコメントで教えてください！
+      #BABYMETAL #METALFORTH
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postxvideo:
+    post: 1955192534830854201
+    id: 01
+    cover: 1955115623828295680/img/nbGFdxeaaaD_Bf-H.jpg
+    label: Your favorite song
+    published-date: 2025-08-12
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1955192534830854201
+
+- postx:
+    id: 1955464333171073353
+    account: BABYMETAL_JAPAN
+    label: BABYMETAL's goals
+    published-date: 2025-08-13
+    text: |
+      BABYMETALメンバーの目標は？💭
+
+      本日から Zepp Yokohamaで国内サマーツアーがスタート🔥さらに今週末にはサマーソニックにも出演します！
+
+      🎧最新アルバム『METAL FORTH』
+      https://umj.lnk.to/BABYMETAL_METALFORTH
+
+      #BABYMETAL #METALFORTH
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postxvideo:
+    post: 1955464333171073353
+    id: 01
+    cover: 1955264144883716097/img/uWtNAlHQmJC5_uqH.jpg
+    label: BABYMETAL's goals
+    published-date: 2025-08-13
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1955464333171073353
+
+- postx:
+    id: 1955564659966394557
+    account: BABYMETAL_JAPAN
+    label: What do you like about BABYMETAL
+    published-date: 2025-08-13
+    text: |
+      Thank you so much for your continued support🦊
+      "METAL FORTH" is finally out now🔥
+      What do you like about BABYMETAL?
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postxvideo:
+    post: 1955564659966394557
+    id: 01
+    cover: 1955564147221127168/img/7HbHszY_JA4Ph-av.jpg
+    label: We Love BABYMETAL
+    published-date: 2025-08-13
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1955564659966394557
+
+

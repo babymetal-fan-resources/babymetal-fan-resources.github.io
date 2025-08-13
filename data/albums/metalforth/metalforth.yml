@@ -22,11 +22,21 @@ album:
   part-of:
     group: album_studio
   multimedia:
-    main:
-      youtubevideo: tinW1Ke_JTA
-    video:
-    - youtubevideo: tinW1Ke_JTA
+    short:
+    - postxvideo:
+        post: 1955192534830854201
+        video: 01
+    - postxvideo:
+        post: 1955464333171073353
+        video: 01
     additional:
+    - youtubeshort: lLssiwGx190
+    - youtubeshort: _G4FUhkm768
+    - youtubeshort: QHZ4ZDUTRIo
+    - youtubeshort: lLw7ftJJ7es
+    - youtubeshort: HJvxHgdqErU
+    - youtubeshort: ZGIGvsKNvhw
+    - youtubeshort: sbw9c8E9DAs
     - youtubeshort: jRjkwLBsPeM
     - youtubeshort: IwfGkBsD3aI
     - youtubeshort: 3KW6iCvH-QI

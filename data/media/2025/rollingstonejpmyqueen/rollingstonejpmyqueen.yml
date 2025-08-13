@@ -1,0 +1,20 @@
+mediawritten:
+  year: 2025
+  id: rollingstonejpmyqueen
+  publication: Rolling Stone Japan
+  issue: '-'
+  designation: article
+  member:
+  - SU-METAL
+  - MOAMETAL
+  - MOMOMETAL
+  article-page: https://rollingstonejapan.com/articles/detail/43408
+  published-date: 2025-08-12
+  description: 
+    - An interview of SU-METAL, MOAMETAL and MOMOMETAL about "My Queen".
+  cover-image:
+    localimage:
+      song: myqueen
+      id: cover
+  part-of:
+    group: 2025_2026

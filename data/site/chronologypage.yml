@@ -89,6 +89,9 @@ contentpage:
   - show:
       year: 2025
       id: yokohama1
+  - media:
+      year: 2025
+      id: rollingstonejpmyqueen
   - tour: japansummertour2025
   - album: metalforth
   - song: whiteflame

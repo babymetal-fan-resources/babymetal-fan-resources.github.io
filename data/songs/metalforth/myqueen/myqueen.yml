@@ -4,9 +4,9 @@ song:
   shortname: My Queen
   release-date: 2025-08-08
   cover-image:
-    postximage:
-      post: 1906725673450037384
-      image: GnWBzbdbgAA2zuP
+    localimage:
+      song: myqueen
+      id: cover
   album: metalforth
   credits:
     lyricist: TAKEMETAL, Q-METAL, Drew Fulk, Zakk Cervini, Mike Stringer, Courtney LaPlante
@@ -21,6 +21,13 @@ song:
       youtubevideo: 6MWlBf2lhno
     video:
     - youtubevideo: 6MWlBf2lhno
+    image:
+    - postximage:
+        post: 1954763020607139881
+        image: GyC2l9TaEAA-VeL
+    - postximage:
+        post: 1954763020607139881
+        image: GyC2l9IaQAASNAj
 
 
   lyrics:

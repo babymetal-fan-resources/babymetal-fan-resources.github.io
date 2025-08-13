@@ -6,3 +6,17 @@
     - song: myqueen
     part-of:
       song: myqueen
+
+- localimage:
+    song: myqueen
+    id: cover
+    filename: cover.png
+    label: Cover
+    published-date: 2025-08-08
+    source:
+      description: BABYMETAL website
+      url: https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1715&id=294160&lang=en
+    part-of:
+      song: myqueen
+
+

@@ -1,0 +1,37 @@
+- localimage:
+    tour: japansummertour2025
+    id: merch
+    filename: merch.png
+    label: Merch
+    published-date: 2025-08-06
+    source:
+      description: BABYMETAL website
+      url: https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1715&id=294067&lang=en
+    part-of:
+      tour: japansummertour2025
+    
+- postx:
+    id: 1955488004262465613
+    account: BABYMETAL_JAPAN
+    label: Merch
+    published-date: 2025-08-13
+    text: |
+      BABYMETAL WORLD TOUR 2025-2026 SUMMER TOUR IN JAPAN🇯🇵
+      KT Zepp Yokohama DAY1 !! 
+      会場グッズ販売は本日14:00スタート🪭
+
+      #BABYMETAL #BABYMETALWORLDTOUR20252026
+    image:
+    - GyNJisDaEAYpGWn
+    part-of:
+      tour: japansummertour2025
+
+- postximage:
+    post: 1955488004262465613
+    id: GyNJisDaEAYpGWn
+    label: Merch
+    published-date: 2025-08-13
+    context:
+    - tour: japansummertour2025
+    part-of:
+      postx: 1955488004262465613
