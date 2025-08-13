@@ -10,6 +10,8 @@ import org.skyluc.fan_resources.html.pages.CssPage
 import org.skyluc.fan_resources.html.pages.SitemapPage
 
 import dfr.Path
+import org.skyluc.fan_resources.html.pages.PostXImagePage
+import org.skyluc.babymetal_site.Config
 
 class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[SitePage]] {
 
@@ -46,14 +48,18 @@ class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[
       Seq(
         Path("component", "lyrics.css"),
         Path("component", "smallcard.css"),
+        Path("postximage.css"),
       ),
       "styles-fr.css",
     )
 
+    val postXImagePage =
+      PostXImagePage(Config.current.baseUrl, Seq(cssStyles.outputPath, cssStylesFr.outputPath), Config.current.isLocal)
+
     val allPages =
       data.elements.values.filterNot(_.hasError).map(_.process(this)).flatten.toSeq ++ AboutPage.pages()
 
-    allPages ++ Seq(cssStyles, cssStylesFr, SitemapPage(allPages))
+    allPages ++ Seq(cssStyles, cssStylesFr, SitemapPage(allPages), postXImagePage)
   }
   override def processAlbum(album: dfr.Album): Seq[SitePage] =
     AlbumPage.pagesFor(album, generator)
