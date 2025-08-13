@@ -19,35 +19,26 @@ song:
   lyrics:
     status:
       code: warning
-      description: data copied from the sources. Not cross checked.
+      description: data copied from the sources.
     languages:
     - id: ol
       name: original lyrics
-      details: (from genius.com)
+      details: (from lyrics poster in METAL FORTH - Limited Edition)
       active: true
       fixed: true
       no-translation: true
       source:
-        description: from genius.com
-        url: https://genius.com/Babymetal-kxaxwxaxixi-lyrics
+        description: from lyrics poster in METAL FORTH - Limited Edition
     sections:
     - lines:
       - ol:
-        - わたしかわいい
+        - わたしKAWAII わたしKAWAII
       - ol:
-        - わたしかわいい
+        - わたしKAWAII やっぱKAWAIIでしょ？
       - ol:
-        - わたしかわいい
+        - I am KAWAII I am KAWAII
       - ol:
-        - やっぱかわいいでしょ？
-      - ol:
-        - I am かわいい
-      - ol:
-        - I am かわいい
-      - ol:
-        - I am かわいい
-      - ol:
-        - やっぱかわいい好き？
+        - I am KAWAII やっぱKAWAII好き？
 
     - lines:
       - ol:
@@ -61,23 +52,15 @@ song:
 
     - lines:
       - ol:
-        - わたしかわいい
+        - わたしKAWAII わたしKAWAII
       - ol:
-        - わたしかわいい
-      - ol:
-        - わたしかわいい
-      - ol:
-        - やっぱかわいい でしょ？
+        - わたしKAWAII やっぱKAWAIIでしょ？
 
     - lines:
       - ol:
-        - K-A-W-A-I-I
+        - KxAxWxAxIxI, KxAxWxAxlxl
       - ol:
-        - K-A-W-A-I-I
-      - ol:
-        - K-A-W-A-I-I
-      - ol:
-        - K-A-W-A-I-I
+        - KxAxWxAxIxI, KxAxWxAxIxI
 
     - lines:
       - ol:
@@ -96,8 +79,10 @@ song:
         - Hiding the fight with a stuffed toy
       - ol:
         - Biting with pain, the sweet ploy
+    
+    - lines:
       - ol:
-        - かわいい queen, it's a massacre
+        - Kawaii queen, it's a massacre
       - ol:
         - History fades with a smile, so pure
       - ol:
@@ -107,44 +92,32 @@ song:
 
     - lines:
       - ol:
-        - わたしかわいい
+        - わたしKAWAII わたしKAWAII
       - ol:
-        - わたしかわいい
-      - ol:
-        - わたしかわいい
-      - ol:
-        - やっぱかわいい でしょ？
-      - ol:
-        - わたしかわいい
-      - ol:
-        - わたしかわいい
-      - ol:
-        - わたしかわいい
-      - ol:
-        - やっぱかわいい 好き？
-      - ol:
-        - わたしかわいい
-      - ol:
-        - I am かわいい
-      - ol:
-        - We are かわいい
-      - ol:
-        - 無敵のFriendsでしょ？
+        - わたしKAWAII やっぱKAWAIIでしょ？
 
     - lines:
       - ol:
-        - We are かわいい
+        - わたしKAWAII わたしKAWAII
       - ol:
-        - We are かわいい
+        - わたしKAWAII やっぱKAWAII好き？
       - ol:
-        - We are かわいい
+        - わたしKAWAII I am KAWAII
       - ol:
-        - かわいい number one
+        - We are KAWAII 無敵のFriendsでしょ？
+
+    - lines:
       - ol:
-        - We are かわいい (ワタシガイチバン)
+        - We are KAWAII
       - ol:
-        - We are かわいい (アンタハニバン)
+        - We are KAWAII
       - ol:
-        - We are かわいい
+        - We are KAWAII
       - ol:
-        - かわいい number one
+        - KAWAII No.1
+      - ol:
+        - ワタシガイチバン
+      - ol:
+        - アンタハニバン
+      - ol:
+        - KAWAII No.1

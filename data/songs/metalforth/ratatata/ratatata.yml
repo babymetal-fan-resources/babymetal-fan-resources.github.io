@@ -31,12 +31,12 @@ song:
     languages:
     - id: ol
       name: original lyrics
-      details: (from METAL FORTH - Limited Edition)
+      details: (from lyrics poster in METAL FORTH - Limited Edition)
       active: true
       fixed: true
       no-translation: true
       source:
-        description: from METAL FORTH - Limited Edition
+        description: from lyrics poster in METAL FORTH - Limited Edition
     sections:
     - lines:
       - ol:

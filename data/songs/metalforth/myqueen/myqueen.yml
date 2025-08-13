@@ -26,17 +26,16 @@ song:
   lyrics:
     status:
       code: warning
-      description: data copied from the sources. Not cross checked.
+      description: data copied from the sources.
     languages:
     - id: ol
       name: original lyrics
-      details: (from genius.com)
+      details: (from lyrics poster in METAL FORTH - Limited Edition)
       active: true
       fixed: true
       no-translation: true
       source:
-        description: from genius.com
-        url: https://genius.com/Babymetal-and-polyphia-sunset-kiss-lyrics
+        description: from lyrics poster in METAL FORTH - Limited Edition
     sections:
     - lines:
       - ol:
@@ -50,9 +49,9 @@ song:
 
     - lines:
       - ol:
-        - 妖艶 dazzling 繁栄 eternity
+        - 妖艶Dazzling 繁栄Eternity
       - ol:
-        - 孤高 my queen
+        - 孤高My Queen
       - ol:
         - この苦しみから 解き放って
 
@@ -68,9 +67,9 @@ song:
 
     - lines:
       - ol:
-        - 妖艶 dazzling 繁栄 eternity
+        - 妖艷Dazzling 繁栄Eternity
       - ol:
-        - 孤高 my queen
+        - 孤高My Queen
       - ol:
         - この苦しみから 解き放って
       - ol:
@@ -82,9 +81,33 @@ song:
 
     - lines:
       - ol:
-        - 妖艶 dazzling 繁栄 eternity
+        - I will twist my hands into a shape you'll never see (you'll never see)
       - ol:
-        - 孤高 my queen
+        - Try to hide away my heart to a place you'll never reach (you'll never reach)
+      - ol:
+        - Buried in the deepest grave but I swear I feel it beat (I feel it beat)
+      - ol:
+        - Running from my past and bloody footsteps follow me
+      - ol:
+        - To dance alone
+      - ol:
+        - In suffering
+      - ol:
+        - Keeping time with ghosts and queens
+      - ol:
+        - A twisted tongue 
+      - ol:
+        - Between my teeth
+      - ol:
+        - I dance alone in suffering
+      - ol:
+        - Now set me free
+
+    - lines:
+      - ol:
+        - 妖艶Dazzling 繁栄Eternity
+      - ol:
+        - 孤高My Queen
       - ol:
         - この苦しみから 解き放って
       - ol:

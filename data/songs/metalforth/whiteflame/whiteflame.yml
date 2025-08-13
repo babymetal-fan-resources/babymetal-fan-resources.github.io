@@ -20,25 +20,30 @@ song:
   lyrics:
     status:
       code: warning
-      description: data copied from the sources. Not cross checked.
+      description: data copied from the sources
     languages:
     - id: ol
       name: original lyrics
-      details: (from genius.com)
+      details: (from lyrics poster in METAL FORTH - Limited Edition)
       active: true
       fixed: true
       no-translation: true
       source:
-        description: from genius.com
-        url: https://genius.com/Babymetal-white-flame-lyrics
+        description: from lyrics poster in METAL FORTH - Limited Edition
     sections:
     - lines:
       - ol:
-        - (Time) 時を超えて (Shine) 輝く
+        - Time 時を超えて
       - ol:
-        - 走り続け 届けた蒼い星
+        - Shine 輝く
       - ol:
-        - (Dance) 胸が躍る (Chance) いつの日にか
+        - 走り続け
+      - ol:
+        - 届けた蒼い星
+      - ol:
+        - Dance 胸が躍る
+      - ol:
+        - Chance いつの日にか
       - ol:
         - ひかる明日をつかまえたい
 
@@ -72,19 +77,25 @@ song:
 
     - lines:
       - ol:
-        - (Sign) ときを告げる (Chime) 鐘の音
+        - Sign ときを告げる
       - ol:
-        - 待ちわびてた 抱いた 淡い夢
+        - Chime 踊の音
       - ol:
-        - (Chase) 追い求めた (Faith) 強い心
+        - 待ちわびてた
+      - ol:
+        - 抱いた 淡い夢
+      - ol:
+        - Chase 追い求めた
+      - ol:
+        - Faith 強い心
       - ol:
         - 二度と離さず つかまえたい
 
-    - lines:
-      - ol:
-        - (Oh)
-      - ol:
-        - (Oh)
+    # - lines:
+    #   - ol:
+    #     - (Oh)
+    #   - ol:
+    #     - (Oh)
 
     - lines:
       - ol:
@@ -109,8 +120,6 @@ song:
         - 集めて踊るよ
       - ol:
         - Sunlight
-
-    - lines:
       - ol:
         - 照らせ
 

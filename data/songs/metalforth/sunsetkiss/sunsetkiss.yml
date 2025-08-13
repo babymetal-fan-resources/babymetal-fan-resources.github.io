@@ -21,98 +21,84 @@ song:
   lyrics:
     status:
       code: warning
-      description: data copied from the sources. Not cross checked.
+      description: data copied from the sources.
     languages:
     - id: ol
       name: original lyrics
-      details: (from genius.com)
+      details: (from lyrics poster in METAL FORTH - Limited Edition)
       active: true
       fixed: true
       no-translation: true
       source:
-        description: from genius.com
-        url: https://genius.com/Babymetal-and-polyphia-sunset-kiss-lyrics
+        description: from lyrics poster in METAL FORTH - Limited Edition
     sections:
+    
     - lines:
       - ol:
-        - あの日の君の言葉が
+        - あの日の君の言葉が やさしい声で響いた
       - ol:
-        - やさしい声で響いた
+        - 君と過ごした世界は今でも 温もりだけが漂う
+    
+    - lines:
       - ol:
-        - 君と過ごした世界は今でも
+        - 見上げた空に舞い落ちる 無邪気なままのメロディ
       - ol:
-        - 温もりだけが漂う
-      - ol:
-        - 見上げた空に舞い落ちる
-      - ol:
-        - 無邪気なままのメロディ
-      - ol:
-        - 冷たい風が心を締め付け
-      - ol:
-        - 虚な声で囁く
+        - 冷たい風が心を締め付け 虚な声で囁く
 
     - lines:
       - ol:
-        - 終わりなのかな
-      - ol:
-        - 終わりなのかな
+        - 終わりなのかな 終わりなのかな
 
     - lines:
       - ol:
         - 夕焼け空に 君が溶けていく
       - ol:
-        - (Won't be long, it won't be long)
+        - Won't be long, it won't be long
       - ol:
         - 色褪せた顔 まだ焼きついて
       - ol:
-        - (Won't be long, it won't be long) 夕陽の kiss
+        - Won't be long, it won't be long
+      - ol:
+        - 夕陽のKiss
 
     - lines:
       - ol:
-        - 君を追いかけて
+        - 君を追いかけて 手を伸ばした
       - ol:
-        - 手を伸ばした
+        - 消えゆく夕日は もう 届かない
       - ol:
-        - 消えゆく夕日は
+        - 溢れ落ちた涙 愛は涙に変わるけど
       - ol:
-        - もう 届かない
-      - ol:
-        - 溢れ落ちた涙
-      - ol:
-        - 愛は涙に変わるけど
-      - ol:
-        - 夢から醒めた愛は
-      - ol:
-        - やがて涙に変わる
+        - 夢から醒めた愛は やがて涙に変わる
 
     - lines:
       - ol:
-        - 構わないから
-      - ol:
-        - 構わないから
+        - 構わないから 構わないから
 
     - lines:
       - ol:
         - 夕焼け空に 君を探した
       - ol:
-        - (Won't be alone, I won't be alone)
+        - Won't be alone, I won't be alone
       - ol:
         - 流れる涙 夜に飲まれて
       - ol:
-        - (Won't be alone, I won't be alone) 夕陽の kiss
+        - Won't be alone, I won't be alone
+      - ol:
+        - 夕陽の kiss
 
     - lines:
       - ol:
         - 夕焼け空が 僕らを染める
       - ol:
-        - (Won't be long, it won't be long)
+        - Won't be long, it won't be long
       - ol:
         - 君と見上げた あの日の空を
       - ol:
-        - (Won't be long, it won't be long)
+        - Won't be long, it won't be long
       - ol:
         - 夕焼け空が 僕らを染めた
       - ol:
         - 君と見上げた あの日の空を
       - ol:
-        - 夕陽の kiss
+        - 夕陽のKiss

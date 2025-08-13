@@ -19,17 +19,16 @@ song:
   lyrics:
     status:
       code: warning
-      description: data copied from the sources. Not cross checked.
+      description: data copied from the sources.
     languages:
     - id: ol
       name: original lyrics
-      details: (from genius.com)
+      details: (from lyrics poster in METAL FORTH - Limited Edition)
       active: true
       fixed: true
       no-translation: true
       source:
-        description: from genius.com
-        url: https://genius.com/Babymetal-algorism-lyrics
+        description: from lyrics poster in METAL FORTH - Limited Edition
     sections:
     - lines:
       - ol:
@@ -37,29 +36,39 @@ song:
       - ol:
         - えぐった 冷たい夜
       - ol:
-        - No pain, no gain, 全てを賭け
+        - No pain. No gain 全てを賭け
       - ol:
         - 震える 手を伸ばした
 
     - lines:
       - ol:
-        - (サマヨウ) ヒカリ
+        - サマヨウ ヒカリ
       - ol:
-        - (テラシタ) セカイ
+        - テラシタ セカイ
       - ol:
-        - (アフレタ) イタミ
+        - アフレタ イタミ
       - ol:
-        - (コロシテ)
+        - コロシテ
 
     - lines:
       - ol:
-        - 繰り返す このリズム そう 愛はアルゴリズム
+        - 繰り返す このリズム
       - ol:
-        - 叫んでも 消えない 過去も未来も
+        - そう 愛はアルゴリズム
       - ol:
-        - 隠された このリズム そう 愛はアルゴリズム
+        - 叫んでも 消えない
       - ol:
-        - Desire, desire, 焼き尽くせよ 炎 burning heart
+        - 過去も未来も
+      - ol:
+        - 隠された このリズム
+      - ol:
+        - そう 愛はアルゴリズム
+      - ol:
+        - Desire. Desire
+      - ol:
+        - 焼き尽くせよ 炎
+      - ol:
+        - Burning Heart
 
     - lines:
       - ol:
@@ -67,59 +76,81 @@ song:
       - ol:
         - 突き刺す 虚な笑顔
       - ol:
-        - No choice, no escape, 探し続け
+        - No choice. No escape 探し続け
       - ol:
         - 絡まる 迷路の中
 
     - lines:
       - ol:
-        - (コゴエタ) カラダ
+        - コゴエタ カラダ
       - ol:
-        - (ユラシテ) ヒトリ
+        - ユラシテ ヒトリ
       - ol:
-        - (クルシミ) オソレ
+        - クルシミ オソレ
       - ol:
-        - (キリツケ)
+        - キリッケ
 
     - lines:
       - ol:
-        - 試された このパズル そう 愛はアルゴリズム
+        - 試された このパズル
       - ol:
-        - 誰にも 解けない 悩ましいほど
+        - そう 愛はアルゴリズム
       - ol:
-        - 囚われた このリズム そう 愛はアルゴリズム
+        - 誰にも 解けない
       - ol:
-        - Desire, desire, 解き放てよ
+        - 悩ましいほど
+      - ol:
+        - 囚われた このリズム
+      - ol:
+        - そう 愛はアルゴリズム
+      - ol:
+        - Desire, Desire
+      - ol:
+        - 解き放てよ
 
     - lines:
       - ol:
-        - Don't break it now, don't turn away
+        - Don't break it now. Don't turn away
       - ol:
-        - Don't break it now, don't leave me now
+        - Don't break it now. Don't leave me now
       - ol:
-        - Don't break it now, don't turn away
+        - Don't break it now. Don't turn away
       - ol:
-        - Don't break it now, no pain, no gain, no pain, no gain
+        - Don't break it now
+      - ol:
+        - No pain. No gain. No pain. No gain
 
     - lines:
       - ol:
-        - 夜がささやき 闇にとけて消えてゆく
+        - 夜がささやき
+      - ol:
+        - 闇にとけて消えてゆく
       - ol:
         - 後ろ姿さえ
       - ol:
-        - 閉じた瞳に 焼き付けていたいから
+        - 閉じた瞳に
+      - ol:
+        - 焼き付けていたいから
       - ol:
         - 今も
 
     - lines:
       - ol:
-        - 止まらない メカニズム そう 愛はアルゴリズム
+        - 止まらない メカニズム
       - ol:
-        - 願っても 尽きない 狂おしいほど
+        - そう 愛はアルゴリズム
       - ol:
-        - 託された このリズム そう 愛はアルゴリズム
+        - 願っても 尽きない
       - ol:
-        - Desire, desire, 燃え上がれよ
+        - 狂おしいほど
+      - ol:
+        - 託された このリズム
+      - ol:
+        - そう 愛はアルゴリズム
+      - ol:
+        - Desire, Desire
+      - ol:
+        - 燃え上がれよ
 
     - lines:
       - ol:
@@ -131,4 +162,6 @@ song:
       - ol:
         - あぁ リアルが刻むリズム
       - ol:
-        - 時を焦がせ burning love
+        - 時を焦がせ
+      - ol:
+        - Burning Love

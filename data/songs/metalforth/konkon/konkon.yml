@@ -30,17 +30,16 @@ song:
   lyrics:
     status:
       code: warning
-      description: data copied from the sources. Not cross checked.
+      description: data copied from the sources.
     languages:
     - id: ol
       name: original lyrics
-      details: (from LyricFind)
+      details: (from lyrics poster in METAL FORTH - Limited Edition)
       active: true
       fixed: true
       no-translation: true
       source:
-        description: from LyricFind
-        url: https://lyrics.lyricfind.com/lyrics/babymetal-kon-kon
+        description: from lyrics poster in METAL FORTH - Limited Edition
     sections:
 
     - lines:
