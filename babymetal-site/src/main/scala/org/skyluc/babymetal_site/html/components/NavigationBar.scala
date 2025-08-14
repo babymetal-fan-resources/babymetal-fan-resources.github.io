@@ -64,10 +64,15 @@ object NavigationBar {
     ),
     List(
       NavigationItem(
+        "Updates",
+        "/updates.html",
+        List("updates.html"),
+      ),
+      NavigationItem(
         "About",
         "/about.html",
         List("about.html"),
-      )
+      ),
     ), // TODO: about, sources, updates
   )
 

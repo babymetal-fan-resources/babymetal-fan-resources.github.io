@@ -1,0 +1,17 @@
+update-page:
+  id: updates
+  updates:
+  - date: 2025-08-14
+    entries:
+    - entry:
+      - text: 'The new album '
+      - album: metalforth
+      - text: ' has been released, with the remaining songs. The lyrics of all the songs have been updated to match the lyrics poster.'
+    - entry:
+      - text: 'The Official Music Video of '
+      - song: myqueen
+      - text: ' has been released.'
+    - entry:
+      - text: 'BABYMETAL is starting its '
+      - tour: japansummertour2025
+      - text: '. Photos are being added are they are available.'

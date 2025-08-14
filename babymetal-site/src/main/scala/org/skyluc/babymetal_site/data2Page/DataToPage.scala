@@ -1,5 +1,6 @@
 package org.skyluc.babymetal_site.data2Page
 
+import org.skyluc.babymetal_site.Config
 import org.skyluc.babymetal_site.data.*
 import org.skyluc.babymetal_site.html.SitePage
 import org.skyluc.babymetal_site.html.pages.*
@@ -7,11 +8,10 @@ import org.skyluc.fan_resources.data as dfr
 import org.skyluc.fan_resources.html.CompiledDataGenerator
 import org.skyluc.fan_resources.html.Page
 import org.skyluc.fan_resources.html.pages.CssPage
+import org.skyluc.fan_resources.html.pages.PostXImagePage
 import org.skyluc.fan_resources.html.pages.SitemapPage
 
 import dfr.Path
-import org.skyluc.fan_resources.html.pages.PostXImagePage
-import org.skyluc.babymetal_site.Config
 
 class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[SitePage]] {
 
@@ -48,6 +48,7 @@ class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[
       Seq(
         Path("component", "lyrics.css"),
         Path("component", "smallcard.css"),
+        Path("component", "updatessection.css"),
         Path("postximage.css"),
       ),
       "styles-fr.css",
@@ -91,6 +92,9 @@ class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[
 
   override def processTour(tour: dfr.Tour): Seq[SitePage] =
     TourPage.pagesFor(tour, generator)
+
+  override def processUpdatePage(updatePage: dfr.UpdatePage): Seq[SitePage] =
+    UpdatePage.pages(updatePage, generator)
 
   // ----------
 

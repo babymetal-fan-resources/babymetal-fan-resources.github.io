@@ -9,10 +9,12 @@ import org.skyluc.fan_resources.ErrorsHolder
 import org.skyluc.fan_resources.Main.displayErrors
 import org.skyluc.fan_resources.checks.DataCheck
 import org.skyluc.fan_resources.checks.MoreDataCheck
+import org.skyluc.fan_resources.checks.ReferencesCheckProcessor
 import org.skyluc.fan_resources.data as frData
 import org.skyluc.fan_resources.data.Path
 import org.skyluc.fan_resources.html.SiteOutput
-import org.skyluc.fan_resources.checks.ReferencesCheckProcessor
+
+import frData.ImplicitDatum
 
 object Main {
 
@@ -33,13 +35,15 @@ object Main {
 
     val (parserErrors, datums) = BabymetalSite.Parser001.parseFolder(dataFolder.asFilePath())
 
+    val implicitDatums = ImplicitDatum().generate(datums)
+
     errors.append("PARSER ERRORS", parserErrors)
 
-    val d = frData.Data.get(datums, Data.creator)
+    val d = frData.Data.get(datums ++ implicitDatums, Data.creator)
 
     val (checkErrors, checkedDatums) =
       DataCheck.check(
-        datums,
+        datums ++ implicitDatums,
         d,
         PopulateRelatedTo,
         ReferencesCheckProcessor(d.datums.keySet),
