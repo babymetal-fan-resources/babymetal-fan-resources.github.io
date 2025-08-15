@@ -22,7 +22,7 @@ case class PageDescription(
   import PageDescription._
 
   val ogType: String = VALUE_TYPE
-  val logo: Url = Url(Config.current.baseUrl, "head400.png")
+  val logo: Url = Url(Config.current.baseUrl, "head512.png")
   val locale: String = Common.VALUE_LOCALE
 }
 
