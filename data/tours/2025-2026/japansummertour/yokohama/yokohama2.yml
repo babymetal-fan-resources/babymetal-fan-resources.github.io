@@ -12,3 +12,15 @@ show:
       id: cover
   part-of:
     tour: japansummertour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1955977423461474485
+        image: GyUGOJIa4AI2cm3
+    image:
+    - postximage:
+        post: 1955977423461474485
+        image: GyUHGOwa4AAjbs0
+    - postximage:
+        post: 1955977423461474485
+        image: GyUGOJIa4AI2cm3

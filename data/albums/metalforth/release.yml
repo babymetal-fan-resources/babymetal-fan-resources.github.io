@@ -301,4 +301,37 @@
     part-of:
       postx: 1955564659966394557
 
+- postx:
+    id: 1955902827995521067
+    account: BABYMETAL_JAPAN
+    label: Billboard in Shibuya
+    published-date: 2025-08-14
+    text: |
+      Check out METAL FORTH #AmazonMusic
+      @amazonmusicjp
+      OOH in Shibuya!!!
+
+      https://amzn.to/41wxXOg
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+  
+- postxvideo:
+    post: 1955902827995521067
+    id: 01
+    cover: 1955901612666548224/img/ZtWb5PSdi8oFEB7P.jpg
+    label: Billboard
+    info: Shibuya
+    published-date: 2025-08-14
+    context:
+    - album: metalforth
+    part-of:
+     postx: 1955902827995521067
+
+
+
+
 

@@ -31,3 +31,52 @@
       show:
         year: 2025
         id: yokohama1
+
+
+- postx:
+    id: 1955977423461474485
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    info: TODO - image 2 from kxaxwxaxixi ?
+    published-date: 2025-08-14
+    text: |
+      Thank you for coming to BABYMETAL WORLD TOUR 2025-2026 SUMMER TOUR IN JAPAN 🇯🇵 KT Zepp Yokohama DAY2 !!
+
+      Can’t wait to see you at Summer Sonic and the rest of the Zepp shows!
+
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #METALFORTH 
+      📸 
+      @fujii_taku
+    image:
+    - GyUHGOwa4AAjbs0
+    - GyUGOJIa4AI2cm3
+    part-of:
+      show:
+        year: 2025
+        id: yokohama2
+
+- postximage:
+    post: 1955977423461474485
+    id: GyUHGOwa4AAjbs0
+    label: Stage and crowd
+    published-date: 2025-08-14
+    context:
+    - show:
+        year: 2025
+        id: yokohama2
+    - song: babymetaldeath
+    part-of:
+      postx: 1955977423461474485
+
+- postximage:
+    post: 1955977423461474485
+    id: GyUGOJIa4AI2cm3
+    label: On stage
+    published-date: 2025-08-14
+    context:
+    - show:
+        year: 2025
+        id: yokohama2
+    part-of:
+      postx: 1955977423461474485
+
