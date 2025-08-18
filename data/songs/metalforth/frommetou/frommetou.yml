@@ -53,197 +53,296 @@ song:
     - id: ro
       name: rōmaji
       no-translation: true
+    artists:
+    - id: s
+      fullname: SU-METAL
+      label: S
+    - id: p
+      fullname: Poppy
+      label: P
+      color-code: artist1
+    - id: sp
+      fullname: SU-METAL, Poppy
+      label: S+P
+      color-code: s-artist1
+    - id: momoa
+      fullname: MOAMETAL, MOMOMETAL
+      label: M+MM
     sections:
     - lines:
-      - ol:
+      - a: s
+        ol:
         - Let's go
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - I know you're scared cuz you're running for cover
-      - ol:
+      - a: s
+        ol:
         - But you might be running far
-      - ol:
+      - a: s
+        ol:
         - And if the demons know you're scared to death
-      - ol:
+      - a: s
+        ol:
         - Then they will find you where you are
-      - ol:
+      - a: sp
+        ol:
         - Is there a virus infecting your system?
-      - ol:
+      - a: s
+        ol:
         - Have the cuts left an animal mark?
-      - ol:
+      - a: s
+        ol:
         - That will make you one of us
-      - ol:
+      - a: s
+        ol:
         - And we will never never never be apart
 
     - lines:
-      - ol:
+      - a: p
+        ol:
         - The evil has its motive
-      - ol:
+      - a: s
+        ol:
         - And now so do I
-      - ol:
+      - a: s
+        ol:
         - And I'll hold you to your fragile alibi
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - With this rage inside of me
-      - ol:
+      - a: s
+        ol:
         - 君に届け
         ro:
         - Kimi ni todoke
-      - ol:
+      - a: s
+        ol:
         - 君に届け
         ro:
         - Kimi ni todoke
-      - ol:
+      - a: s
+        ol:
         - Maybe now 
-      - ol:
+      - a: s
+        ol:
         - We can kill the enemy
-      - ol:
+      - a: s
+        ol:
         - とても厳しい
         ro:
         - Totemo kibishii
-      - ol:
+      - a: p
+        ol:
         - Stand up and make your move
-      - ol:
+      - a: momoa
+        ol:
         - Let the fire, carry on
-      - ol:
+      - a: momoa
+        ol:
         - Let the power go
-      - ol:
+      - a: momoa
+        ol:
         - From me to you
 
     - lines:
-      - ol:
+      - a: p
+        ol:
+        - From me to you
+
+
+    - lines:
+      - a: p
+        ol:
         - I need a friend that will never betray me
-      - ol:
+      - a: s
+        ol:
         - There's no time like where we are
-      - ol:
+      - a: s
+        ol:
         - I'm so bored, I don't care for the consequence
-      - ol:
+      - a: s
+        ol:
         - So I'll come find you where you are
 
     - lines:
-      - ol:
+      - a: p
+        ol:
         - Is it a sin if I wish for destruction?
-      - ol:
+      - a: p
+        ol:
         - Is it a call that I can make?
-      - ol:
+      - a: p
+        ol:
         - And I hail for the wrath of crimson on the faces in my way
-      - ol:
+      - a: p
+        ol:
         - And it goes from me to you
 
     - lines:
-      - ol:
+      - a: momoa
+        ol:
         - I've had enough from your mouth
-      - ol:
+      - a: momoa
+        ol:
         - You can shove it
-      - ol:
+      - a: momoa
+        ol:
         - Cuz you know you don't stand a chance
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - With this rage inside of me
-      - ol:
+      - a: s
+        ol:
         - 君に届け
         ro:
         - Kimi ni todoke
-      - ol:
+      - a: s
+        ol:
         - 君に届け
         ro:
         - Kimi ni todoke
-      - ol:
+      - a: s
+        ol:
         - Maybe now 
-      - ol:
+      - a: s
+        ol:
         - We can kill the enemy
-      - ol:
+      - a: s
+        ol:
         - とても厳しい
         ro:
         - Totemo kibishii
-      - ol:
+      - a: p
+        ol:
         - Stand up and make your move
-      - ol:
+      - a: momoa
+        ol:
         - Let the fire, carry on
-      - ol:
+      - a: momoa
+        ol:
         - Let the power go
-      - ol:
+      - a: momoa
+        ol:
         - From me to you
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - 闇を抜け
-      - ol:
+      - a: s
+        ol:
         - 光と共に
-      - ol:
+      - a: s
+        ol:
         - 終わりを告げた時
-      - ol:
+      - a: s
+        ol:
         - 僕はただ
-      - ol:
+      - a: s
+        ol:
         - 絶望を彷徨うのさ
 
     - lines:
-      - ol:
+      - a: p
+        ol:
         - You're doing this wrong
-      - ol:
+      - a: p
+        ol:
         - Cuz if the end is a promise
-      - ol:
+      - a: p
+        ol:
         - It's still looking up
-      - ol:
+      - a: p
+        ol:
         - I cannot rest, till you're fucking breathless
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - Has this blind intention
-      - ol:
+      - a: s
+        ol:
         - Been justified
-      - ol:
+      - a: s
+        ol:
         - Hung from the edges
-      - ol:
+      - a: s
+        ol:
         - You'll rest with your lies
-      - ol:
+      - a: p
+        ol:
         - Rest with your lies
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - With this rage inside of me
-      - ol:
+      - a: s
+        ol:
         - 君に届け
         ro:
         - Kimi ni todoke
-      - ol:
+      - a: s
+        ol:
         - 君に届け
         ro:
         - Kimi ni todoke
     
     - lines:
-      - ol:
+      - a: s
+        ol:
         - With this rage inside of me
-      - ol:
+      - a: s
+        ol:
         - 君に届け
         ro:
         - Kimi ni todoke
-      - ol:
+      - a: s
+        ol:
         - 君に届け
         ro:
         - Kimi ni todoke
-      - ol:
+      - a: s
+        ol:
         - 敵を倒す
         ro:
         - Teki wo taosu
-      - ol:
+      - a: s
+        ol:
         - Maybe now 
-      - ol:
+      - a: s
+        ol:
         - We can kill the enemy
-      - ol:
+      - a: s
+        ol:
         - とても厳しい
         ro:
         - Totemo kibishii
 
-      - ol:
+      - a: p
+        ol:
         - Stand up and make your move
-      - ol:
+      - a: momoa
+        ol:
         - Let the fire, carry on
-      - ol:
+      - a: momoa
+        ol:
         - Let the power go
-      - ol:
+      - a: momoa
+        ol:
         - From me to you
+
+
+    - lines:
+      - a: p
+        ol:
+        - From me to you
+
 

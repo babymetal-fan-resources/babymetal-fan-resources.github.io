@@ -40,62 +40,103 @@ song:
       no-translation: true
       source:
         description: from lyrics poster in METAL FORTH - Limited Edition
+    artists:
+    - id: s
+      fullname: SU-METAL
+      label: S
+    - id: momoa
+      fullname: MOAMETAL, MOMOMETAL
+      label: M+MM
+    - id: r
+      fullname: Raoul Kerr
+      label: R
+      color-code: artist3
+    - id: j
+      fullname: Jayant Bhadula
+      label: J
+      color-code: artist4
+
     sections:
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - あ〜 こりゃ うらめしや
-      - ol:
+      - a: momoa
+        ol:
         - 来来来来 うらめしや
-      - ol:
+      - a: s
+        ol:
         - あ〜 そりゃ うらめしや
-      - ol:
+      - a: momoa
+        ol:
         - 来来来来 うらめしや
-      - ol:
+      - a: s
+        ol:
         - あ〜 こりゃ 恐ろしや
-      - ol:
+      - a: momoa
+        ol:
         - 来来来来 恐ろしや
-      - ol:
+      - a: s
+        ol:
         - あ〜 そりゃ 恐ろしや
-      - ol:
+      - a: momoa
+        ol:
         - 来来来来 恐ろしや
-      - ol:
+      - a: s
+        ol:
         - さぁ コギツネさん
-      - ol:
+      - a: s
+        ol:
         - おでませ
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - やってんな! やってんな!
-      - ol:
+      - a: s
+        ol:
         - コギツネ コン コン やってんな!
-      - ol:
+      - a: s
+        ol:
         - やってんな! やってんな!
-      - ol:
+      - a: s
+        ol:
         - コギツネ コン コン やってんな!
 
     - lines:
-      - ol:
+      - a: r
+        ol:
         - Like a yokai, I'mma face the worst
-      - ol:
+      - a: r
+        ol:
         - "'Cause I was built to beat the odds and send 'em back in a hearse"
-      - ol:
+      - a: r
+        ol:
         - You know that it's a kind of power I use to power the verse
-      - ol:
+      - a: r
+        ol:
         - Put the word out to my people all around of the earth
-      - ol:
+      - a: r
+        ol:
         - Put in the work
-      - ol:
+      - a: r
+        ol:
         - Step in to the battle with a smile
-      - ol:
+      - a: r
+        ol:
         - Walk a day in my shoes
-      - ol:
+      - a: r
+        ol:
         - See you survivin' a mile
-      - ol:
+      - a: r
+        ol:
         - And when it comes
-      - ol:
+      - a: r
+        ol:
         - I'll be ready for a while
-      - ol:
+      - a: r
+        ol:
         - The ore turns to iron when there's fire in the trial
 
     # - lines:
@@ -122,44 +163,62 @@ song:
 
 
     - lines:
-      - ol:
+      - a: j
+        ol:
         - Kadam dabang
-      - ol:
+      - a: j
+        ol:
         - Kare bhasam
-      - ol:
+      - a: j
+        ol:
         - Kare khatam
-      - ol:
+      - a: j
+        ol:
         - Hua aarambh
-      - ol:
+      - a: j
+        ol:
         - Hua khatam jab
-      - ol:
+      - a: j
+        ol:
         - Baje bhapang
-      - ol:
+      - a: j
+        ol:
         - Baje yeh sankh
-      - ol:
+      - a: j
+        ol:
         - Lade yeh jung
-      - ol:
+      - a: j
+        ol:
         - Vijay pratham
-      - ol:
+      - a: j
+        ol:
         - Vijay ka rang
     - lines:
-      - ol:
+      - a: s
+        ol:
         - やってんな! やってんな!
-      - ol:
+      - a: s
+        ol:
         - コギツネ コン コン やってんな!
-      - ol:
+      - a: s
+        ol:
         - やってんな! やってんな!
-      - ol:
+      - a: s
+        ol:
         - コギツネ コン コン やってんな!
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - この世でもなく あの世でもない
-      - ol:
+      - a: s
+        ol:
         - 鬼の居ぬ間に 出よYO! KON! (妖狐)
-      - ol:
+      - a: s
+        ol:
         - 遊べや遊べ ごめんあそばせ
-      - ol:
+      - a: s
+        ol:
         - 今宵 よいよい 踊れ 踊れよ
 
     # - lines:
@@ -185,53 +244,75 @@ song:
     #     - विजय का रंग
 
     - lines:
-      - ol:
+      - a: j
+        ol:
         - Kadam dabang
-      - ol:
+      - a: j
+        ol:
         - Kare bhasam
-      - ol:
+      - a: j
+        ol:
         - Kare khatam
-      - ol:
+      - a: j
+        ol:
         - Hua aarambh
-      - ol:
+      - a: j
+        ol:
         - Hua khatam jab
-      - ol:
+      - a: j
+        ol:
         - Baje bhapang
-      - ol:
+      - a: j
+        ol:
         - Baje yeh sankh
-      - ol:
+      - a: j
+        ol:
         - Lade yeh jung
-      - ol:
+      - a: j
+        ol:
         - Vijay pratham
-      - ol:
+      - a: j
+        ol:
         - Vijay ka rang
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - やってんな! やってんな!
-      - ol:
+      - a: s
+        ol:
         - コギツネ コン コン やってんな!
-      - ol:
+      - a: s
+        ol:
         - やってんな! やってんな!
-      - ol:
+      - a: s
+        ol:
         - コギツネ コン コン やってんな!
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - YO! KAI! DA! YO! KAI! DA!
-      - ol:
+      - a: s
+        ol:
         - コギツネ KON! KONI YO! KAI! DA!
-      - ol:
+      - a: s
+        ol:
         - YO! KAI! DA! YO! KAI! DA!
-      - ol:
+      - a: s
+        ol:
         - コギツネ KON! KONI YOI KAI! DA!
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - この世でもなく あの世でもない
-      - ol:
+      - a: s
+        ol:
         - 浮世をめかし 出よYO! KON! (妖狐)
-      - ol:
+      - a: s
+        ol:
         - 歌えや歌え 宴だ歌え
-      - ol:
-        - 渡る世間に鬼はなし!s
+      - a: s
+        ol:
+        - 渡る世間に鬼はなし!

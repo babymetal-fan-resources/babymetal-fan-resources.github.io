@@ -61,7 +61,7 @@ song:
   lyrics:
     status:
       code: warning
-      description: data copied from the sources. Not cross checked.
+      description: data copied from the sources. The split between vocalists might not be precise enough.
     languages:
     - id: ol
       name: original lyrics
@@ -71,133 +71,201 @@ song:
       no-translation: true
       source:
         description: from lyrics poster in METAL FORTH - Limited Edition
+    artists:
+    - id: mm
+      fullname: MOMOMETAL
+      label: MM
+    - id: m
+      fullname: MOAMETAL
+      label: M
+    - id: s
+      fullname: SU-METAL
+      label: S
+    - id: a
+      fullname: Alex Terrible
+      label: A
+      color-code: artist4
     sections:
     - lines:
-      - ol:
+      - a: mm
+        ol:
         - Thunder!
-      - ol:
+      - a: mm
+        ol:
         - 1!2!3! 1!2!3! 1!2!3! 1!2!3! 1!2! Thunder!
 
     - lines:
-      - ol:
+      - a: m
+        ol:
         - バリ3 僕はバリ3
-      - ol:
+      - a: m
+        ol:
         - 電波バリ3 バリバリ3
-      - ol:
+      - a: m
+        ol:
         - バリ3 人生バリ3
-      - ol:
+      - a: m
+        ol:
         - キテるバリ3 バリバリ3
-      - ol:
+      - a: mm
+        ol:
         - バリ3 Powerバリ3
-      - ol:
+      - a: mm
+        ol:
         - Dangerバリ3 バリバリ3
-      - ol:
+      - a: mm
+        ol:
         - バリ3 Thunderバリ3
-      - ol:
+      - a: mm
+        ol:
         - 昇れ 富士山 ライジング・サン
 
     - lines:
-      - ol:
+      - a: mm
+        ol:
         - 1!2!3! 1!2!3! 1!2! Thunder!
-      - ol:
+      - a: mm
+        ol:
         - 1!2!3! 1!2!3! 1!2! Thunder!
-      - ol:
+      - a: mm
+        ol:
         - 1!2!3! 1!2!3! 1!2! Thunder!
-      - ol:
+      - a: mm
+        ol:
         - 1!2!3! 1!2!3! 1!2! Thunder!
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - 3 我らは3 (3!3!3!)
-      - ol:
+      - a: s
+        ol:
         - 3 お前も3
-      - ol:
+      - a: s
+        ol:
         - Thunder!
-      - ol:
+      - a: s
+        ol:
         - 3 我らは3 (3!3!3!)
-      - ol:
+      - a: s
+        ol:
         - 1!2!3! 1!2!3!
-      - ol:
+      - a: s
+        ol:
         - 1!2! Thunder!
 
     - lines:
-      - ol:
+      - a: mm
+        ol:
         - 1!2!3! 1!2!3! 1!2!3! 1!2!3! 1!2! Thunder!
-      - ol:
+      - a: mm
+        ol:
         - 1!2!3! 1!2!3! 1!2!3! 1!2!3! 1!2! Thunder!
 
     - lines:
-      - ol:
+      - a: m
+        ol:
         - バリ3 I am a 中三
-      - ol:
+      - a: m
+        ol:
         - Brother小三姉高三
-      - ol:
+      - a: m
+        ol:
         - バリ3 粋なグラサン
-      - ol:
+      - a: m
+        ol:
         - 髪は七三 自画自賛
-      - ol:
+      - a: mm
+        ol:
         - 父さん母さん 兄さん姉さん
-      - ol:
+      - a: mm
+        ol:
         - お爺さん お婆さん
-      - ol:
+      - a: mm
+        ol:
         - ジャンジャンバリバリご苦労さん
-      - ol:
+      - a: a
+        ol:
         - Listen, count to three
 
     - lines:
-      - ol:
+      - a: a
+        ol:
         - '"ХА ХА ХА ХА ХА'
-      - ol:
+      - a: a
+        ol:
         -  1!2! Thunder!
-      - ol:
+      - a: a
+        ol:
         - Раз два три Бэйби Метал Гризли!
-      - ol:
+      - a: a
+        ol:
         - Раз и два и три и Гризли! Бейби Метал!"
-      - ol:
+      - a: a
+        ol:
         - '"Восстанет Солнце, озаряет свет. Пламя!'
-      - ol:
+      - a: a
+        ol:
         - Восстанет Солнце, поднимите все знамя!"
 
     - lines:
-      - ol:
+      - a: a
+        ol:
         - 1!2!3! 1!2!3! 1!2! Thunder!
-      - ol:
+      - a: a
+        ol:
         - 1!2!3! 1!2!3! 1!2! Thunder!
-      - ol:
+      - a: a
+        ol:
         - 1!2!3! 1!2!3! 1!2! Thunder!
-      - ol:
-        - 1!2!3! 1!2!3! 1!2! Thunder!
-
-    - lines:
-      - ol:
-        - 1!2!3! 1!2!3! 1!2! Thunder!
-      - ol:
-        - 1!2!3! 1!2!3! 1!2! Thunder!
-      - ol:
-        - 1!2!3! 1!2!3! 1!2! Thunder!
-      - ol:
+      - a: a
+        ol:
         - 1!2!3! 1!2!3! 1!2! Thunder!
 
     - lines:
-      - ol:
+      - a: a
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: a
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: a
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: a
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+
+    - lines:
+      - a: s
+        ol:
         - 3 我らは3 (3!3!3!)
-      - ol:
+      - a: s
+        ol:
         - 3 お前も3
-      - ol:
+      - a: s
+        ol:
         - Thunder!
-      - ol:
+      - a: s
+        ol:
         - 3 我らは3 (3!3!3!)
-      - ol:
+      - a: s
+        ol:
         - 1!2!3! 1!2!3!
-      - ol:
+      - a: s
+        ol:
         - 1!2! Thunder!
 
     - lines:
-      - ol:
+      - a: a
+        ol:
         - 1!2!3! 1!2!3! 1!2!3! 1!2!3! 1!2! Thunder!
-      - ol:
+      - a: mm
+        ol:
         - 1!2!3! 1!2!3! 1!2!3! 1!2!3! 1!2! Thunder!
-      - ol:
+      - a: a
+        ol:
         - 1!2!3! 1!2!3! 1!2!3! 1!2!3! 1!2! Thunder!
-      - ol:
+      - a: mm
+        ol:
         - 1!2!3! 1!2!3! 1!2!3! 1!2!3! 1!2! Thunder!

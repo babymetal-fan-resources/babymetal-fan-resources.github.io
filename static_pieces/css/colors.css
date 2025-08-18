@@ -42,4 +42,26 @@
 
   --bg-post: linear-gradient(160deg, transparent 0rem, transparent 80%, #ffff00);
 
+  --color-bm-bg: #be0000;
+
+  --color-su-bg: darkred;
+
+  --color-moa-bg: dodgerblue;
+
+  --color-momo-bg: #b55a38;
+
+  --color-momoplus-bg: #8b5e4d;
+
+  --color-artist1-bg: #866614;
+
+  --color-artist3-bg: #0a8b10;
+
+  --color-artist4-bg: #3d3726;
+
+  --color-artist5-bg: #29251a;
+
+  --color-momoa-bg: rebeccapurple;
+
+  --color-momoaplus-bg: indigo;
+
 }

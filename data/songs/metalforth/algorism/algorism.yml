@@ -29,139 +29,225 @@ song:
       no-translation: true
       source:
         description: from lyrics poster in METAL FORTH - Limited Edition
+    artists:
+    - id: s
+      fullname: SU-METAL
+      label: S
+    - id: mm
+      fullname: MOMOMETAL
+      label: MM
+    - id: momoa
+      fullname: MOAMETAL, MOMOMETAL
+      label: M+MM
     sections:
     - lines:
-      - ol:
+      - a: s
+        ol:
         - 心の 傷跡を
-      - ol:
+      - a: s
+        ol:
         - えぐった 冷たい夜
-      - ol:
+      - a: s
+        ol:
         - No pain. No gain 全てを賭け
-      - ol:
+      - a: s
+        ol:
         - 震える 手を伸ばした
 
     - lines:
-      - ol:
-        - サマヨウ ヒカリ
-      - ol:
-        - テラシタ セカイ
-      - ol:
-        - アフレタ イタミ
-      - ol:
+      - a: momoa
+        ol:
+        - サマヨウ
+      - a: s
+        ol:
+        - ヒカリ
+      - a: momoa
+        ol:
+        - テラシタ
+      - a: s
+        ol:
+        - セカイ
+      - a: momoa
+        ol:
+        - アフレタ
+      - a: s
+        ol:
+        - イタミ
+      - a: momoa
+        ol:
         - コロシテ
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - 繰り返す このリズム
-      - ol:
+      - a: s
+        ol:
         - そう 愛はアルゴリズム
-      - ol:
+      - a: s
+        ol:
         - 叫んでも 消えない
-      - ol:
+      - a: s
+        ol:
         - 過去も未来も
-      - ol:
+      - a: s
+        ol:
         - 隠された このリズム
-      - ol:
+      - a: s
+        ol:
         - そう 愛はアルゴリズム
-      - ol:
+      - a: s
+        ol:
         - Desire. Desire
-      - ol:
+      - a: s
+        ol:
         - 焼き尽くせよ 炎
-      - ol:
+      - a: s
+        ol:
         - Burning Heart
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - 記憶の 深い場所
-      - ol:
+      - a: s
+        ol:
         - 突き刺す 虚な笑顔
-      - ol:
+      - a: s
+        ol:
         - No choice. No escape 探し続け
-      - ol:
+      - a: s
+        ol:
         - 絡まる 迷路の中
 
     - lines:
-      - ol:
-        - コゴエタ カラダ
-      - ol:
-        - ユラシテ ヒトリ
-      - ol:
-        - クルシミ オソレ
-      - ol:
+      - a: momoa
+        ol:
+        - コゴエタ
+      - a: s
+        ol:
+        - カラダ
+      - a: momoa
+        ol:
+        - ユラシテ
+      - a: s
+        ol:
+        - ヒトリ
+      - a: momoa
+        ol:
+        - クルシミ
+      - a: s
+        ol:
+        - オソレ
+      - a: momoa
+        ol:
         - キリッケ
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - 試された このパズル
-      - ol:
+      - a: s
+        ol:
         - そう 愛はアルゴリズム
-      - ol:
+      - a: s
+        ol:
         - 誰にも 解けない
-      - ol:
+      - a: s
+        ol:
         - 悩ましいほど
-      - ol:
+      - a: s
+        ol:
         - 囚われた このリズム
-      - ol:
+      - a: s
+        ol:
         - そう 愛はアルゴリズム
-      - ol:
+      - a: s
+        ol:
         - Desire, Desire
-      - ol:
+      - a: s
+        ol:
         - 解き放てよ
 
     - lines:
-      - ol:
+      - a: mm
+        ol:
         - Don't break it now. Don't turn away
-      - ol:
+      - a: mm
+        ol:
         - Don't break it now. Don't leave me now
-      - ol:
+      - a: mm
+        ol:
         - Don't break it now. Don't turn away
-      - ol:
+      - a: mm
+        ol:
         - Don't break it now
-      - ol:
+      - a: mm
+        ol:
         - No pain. No gain. No pain. No gain
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - 夜がささやき
-      - ol:
+      - a: s
+        ol:
         - 闇にとけて消えてゆく
-      - ol:
+      - a: s
+        ol:
         - 後ろ姿さえ
-      - ol:
+      - a: s
+        ol:
         - 閉じた瞳に
-      - ol:
+      - a: s
+        ol:
         - 焼き付けていたいから
-      - ol:
+      - a: s
+        ol:
         - 今も
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - 止まらない メカニズム
-      - ol:
+      - a: s
+        ol:
         - そう 愛はアルゴリズム
-      - ol:
+      - a: s
+        ol:
         - 願っても 尽きない
-      - ol:
+      - a: s
+        ol:
         - 狂おしいほど
-      - ol:
+      - a: s
+        ol:
         - 託された このリズム
-      - ol:
+      - a: s
+        ol:
         - そう 愛はアルゴリズム
-      - ol:
+      - a: s
+        ol:
         - Desire, Desire
-      - ol:
+      - a: s
+        ol:
         - 燃え上がれよ
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - 壊れそうな 愛のシルエット
-      - ol:
+      - a: s
+        ol:
         - あぁ このまま目を閉じれば
-      - ol:
+      - a: s
+        ol:
         - 繰り返す 愛のビート
-      - ol:
+      - a: s
+        ol:
         - あぁ リアルが刻むリズム
-      - ol:
+      - a: s
+        ol:
         - 時を焦がせ
-      - ol:
+      - a: s
+        ol:
         - Burning Love

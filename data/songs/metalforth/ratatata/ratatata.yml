@@ -27,7 +27,7 @@ song:
   lyrics:
     status:
       code: warning
-      description: data copied from the sources.
+      description: data copied from the sources. The split between vocalists needs tweaking.
     languages:
     - id: ol
       name: original lyrics
@@ -37,237 +37,389 @@ song:
       no-translation: true
       source:
         description: from lyrics poster in METAL FORTH - Limited Edition
+    artists:
+    - id: n
+      fullname: Nico Sallach
+      label: N
+      color-code: artist3
+    - id: k
+      fullname: Kevin Ratajczak
+      label: K
+      color-code: artist4
+    - id: nk
+      fullname: Nico, Kevin
+      label: N+K
+      color-code: artist5
+    - id: s
+      fullname: SU-METAL
+      label: S
+    - id: sn
+      fullname: SU-METAL, Nico
+      label: S+N
+      color-code: s-artist1
+    - id: bm
+      fullname: BABYMETAL
+      label: BM
+    - id: momoa
+      fullname: MOAMETAL, MOMOMETAL
+      label: M+MM
+    - id: mm
+      fullname: MOMOMETAL
+      label: MM
+    - id: mmk
+      fullname: MOMOMETAL, Kevin
+      label: MM+K
+      color-code: mmplus
+    - id: momoaplus
+      fullname: MOAMETAL, MOMOMETAL, Nico, Kevin
+      label: M+MM+K+N
+      color-code: momoaplus
     sections:
     - lines:
-      - ol:
+      - a: nk
+        ol:
         - Every night when the sky turns red up above
-      - ol:
+      - a: nk
+        ol:
         - I feel the beat in my veins 
-      - ol:
+      - a: nk
+        ol:
         - And I'm searching for love
-      - ol:
+      - a: nk
+        ol:
         - You know that hips don’t lie 
-      - ol:
+      - a: nk
+        ol:
         - I leave you hypnotized
-      - ol:
+      - a: nk
+        ol:
         - Just give me one more try
-      - ol:
+      - a: nk
+        ol:
         - To make you feel that vibe
-      - ol:
+      - a: nk
+        ol:
         - And it goes
 
     - lines:
-      - ol:
+      - a: momoaplus
+        ol:
         - Ra ta ta ta ta ta!
-      - ol:
+      - a: k 
+        ol:
         - My body is a weapon
-      - ol:
+      - a: momoaplus
+        ol:
         - Ra ta ta ta ta ta!
-      - ol:
+      - a: k 
+        ol:
         - We’re gonna hit the floor
-      - ol:
+      - a: momoaplus
+        ol:
         - Ra ta ta ta ta ta!
-      - ol:
+      - a: k 
+        ol:
         - We’re gonna make it happen
-      - ol:
+      - a: momoaplus
+        ol:
         - Ra ta ta ta ta ta!
-      - ol:
+      - a: k 
+        ol:
         - Now gimme some more
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - I will push it to the limit
-      - ol:
+      - a: s
+        ol:
         - And everybody’s feeling the sound of the night
-      - ol:
+      - a: s
+        ol:
         - I don’t wanna stop
-      - ol:
+      - a: s
+        ol:
         - We push it to the limit
-      - ol:
+      - a: s
+        ol:
         - Together we will crash the morning light
 
     - lines:
-      - ol:
+      - a: bm
+        ol:
         - ブ・チ・ア・ガ・レ!
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Moving
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Bun Bun 
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Shaking
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Bun Bun 
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Jumping
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Bun Bun 
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Stomping
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Bun Bun
 
     - lines:
-      - ol:
+      - a: momoa
+        ol:
         - アゲ！
-      - ol:
-        - キラっとしちゃうアゲ！
-      - ol:
-        - フワっとしちゃうアゲ！
-      - ol:
-        - ドキっとしちゃうアゲ！
-      - ol:
+      - a: s
+        ol:
+        - キラっとしちゃう
+      - a: momoa
+        ol:
+        - アゲ！
+      - a: s
+        ol:
+        - フワっとしちゃう
+      - a: momoa
+        ol:
+        - アゲ！
+      - a: s
+        ol:
+        - ドキっとしちゃう
+      - a: momoa
+        ol:
+        - アゲ！
+      - a: s
+        ol:
         - 小悪魔しちゃうけど大丈夫？
-      - ol:
+      - a: s
+        ol:
         - 瞳に映した笑顔の魔法で罠に誘い込む
 
     - lines:
-      - ol:
+      - a: k 
+        ol:
         - And it goes
-      - ol:
+      - a: momoaplus
+        ol:
         - Ra ta ta ta ta ta!
-      - ol:
+      - a: k 
+        ol:
         - My body is a weapon 
-      - ol:
+      - a: momoaplus
+        ol:
         - Ra ta ta ta ta ta!
-      - ol:
+      - a: k 
+        ol:
         - We’re gonna hit the floor 
-      - ol:
+      - a: momoaplus
+        ol:
         - Ra ta ta ta ta ta!
-      - ol:
+      - a: k 
+        ol:
         - We’re gonna make it happen 
-      - ol:
+      - a: momoaplus
+        ol:
         - Ra ta ta ta ta ta!
-      - ol:
+      - a: k 
+        ol:
         - Now gimme some more
 
     - lines:
-      - ol:
+      - a: sn
+        ol:
         - I will push it to the limit
-      - ol:
+      - a: sn
+        ol:
         - And everybody’s feeling the sound of the night 
-      - ol:
+      - a: sn
+        ol:
         - I don’t wanna stop
-      - ol:
+      - a: sn
+        ol:
         - We push it to the limit
-      - ol:
+      - a: sn
+        ol:
         - Together we will crash the morning light
 
     - lines:
-      - ol:
+      - a: bm 
+        ol:
         - ブ・チ・ア・ガ・レ!
-      - ol:
+      - a: bm 
+        ol:
         - Bun Bun Bun Moving
-      - ol:
+      - a: bm 
+        ol:
         - Bun Bun Bun Bun Bun 
-      - ol:
+      - a: bm 
+        ol:
         - Bun Bun Bun Shaking
-      - ol:
+      - a: bm 
+        ol:
         - Bun Bun Bun Bun Bun 
-      - ol:
+      - a: bm 
+        ol:
         - Bun Bun Bun Jumping
-      - ol:
+      - a: bm 
+        ol:
         - Bun Bun Bun Bun Bun 
-      - ol:
+      - a: bm 
+        ol:
         - Bun Bun Bun Stomping
-      - ol:
+      - a: bm 
+        ol:
         - Bun Bun Bun Bun Bun
 
     - lines:
-      - ol:
+      - a: n
+        ol:
         - I’m here for the moment
-      - ol:
+      - a: n
+        ol:
         - Here for the beat
-      - ol:
+      - a: n
+        ol:
         - Here for the love
-      - ol:
+      - a: n
+        ol:
         - And the friends I need
-      - ol:
+      - a: n
+        ol:
         - You know that I’ll be there for good
 
     - lines:
-      - ol:
+      - a: sn
+        ol:
         - I’m here for the moment
-      - ol:
+      - a: sn
+        ol:
         - Here for the beat
-      - ol:
+      - a: sn
+        ol:
         - Here for the love
-      - ol:
+      - a: sn
+        ol:
         - And the friends I need
-      - ol:
+      - a: sn
+        ol:
         - You know that I’ll be there for good
 
     - lines:
-      - ol:
+      - a: bm
+        ol:
         - RA TA TA TA!
-      - ol:
+      - a: k
+        ol:
         - I go fucking crazy ‘cause I’m waiting for the drop
-      - ol:
+      - a: mm
+        ol:
         - Are you ready? 
-      - ol:
+      - a: k
+        ol:
+        - Are you ready? 
+      - a: mmk
+        ol:
         - Let's GO!
-      - ol:
+      - a: nk
+        ol:
         - So tell me baby can I get a 
-      - ol:
+      - a: momoa
+        ol:
         - Fu! Fu!
-      - ol:
+      - a: nk
+        ol:
         - So hear me now
-      - ol:
+      - a: momoa
+        ol:
         - Fu! Fu!
-      - ol:
+      - a: nk
+        ol:
         - You know what I want
-      - ol:
+      - a: momoa
+        ol:
         - Fu! Fu!
-      - ol:
+      - a: nk
+        ol:
         - Now everybody's getting down
 
     - lines:
-      - ol:
+      - a: sn
+        ol:
         - I will push it to the limit
-      - ol:
+      - a: sn
+        ol:
         - And everybody’s feeling the sound of the night 
-      - ol:
+      - a: sn
+        ol:
         - I don’t wanna stop
-      - ol:
+      - a: sn
+        ol:
         - We push it to the limit
-      - ol:
+      - a: sn
+        ol:
         - Together we will crash the morning light
 
     - lines:
-      - ol:
+      - a: bm
+        ol:
         - ブ・チ・ア・ガ・レ!
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Moving
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Bun Bun 
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Shaking
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Bun Bun 
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Jumping
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Bun Bun 
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Stomping
-      - ol:
+      - a: bm
+        ol:
         - Bun Bun Bun Bun Bun
 
     - lines:
-      - ol:
+      - a: mm
+        ol:
         - Everybody! 
-      - ol:
+      - a: momoa
+        ol:
         - Fu! Fu!
-      - ol:
+      - a: k
+        ol:
         - Out of control
-      - ol:
+      - a: momoa
+        ol:
         - Fu! Fu! 
-      - ol:
+      - a: mm
+        ol:
         - Everybody! 
-      - ol:
+      - a: momoa
+        ol:
         - Fu! Fu!
-      - ol:
+      - a: k
+        ol:
         - Out of control
-      - ol:
+      - a: momoa
+        ol:
         - Fu! Fu! Fu! Fu!
-      - ol:
+      - a: k
+        ol:
         - Now everybody’s getting down

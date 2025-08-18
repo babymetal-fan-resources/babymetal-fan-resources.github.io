@@ -1,0 +1,95 @@
+.lyrics-artist-label-bm {
+  background-color: var(--color-bm-bg);
+}
+
+.lyrics-block-artist-bm {
+  border-color: var(--color-bm-bg);
+}
+
+.lyrics-artist-label-s {
+  background-color: var(--color-su-bg);
+}
+
+.lyrics-block-artist-s {
+  border-color: var(--color-su-bg);
+}
+
+.lyrics-artist-label-m {
+  background-color: var(--color-moa-bg);
+}
+
+.lyrics-block-artist-m {
+  border-color: var(--color-moa-bg);
+}
+
+.lyrics-artist-label-mm {
+  background-color: var(--color-momo-bg);
+}
+
+.lyrics-block-artist-mm {
+  border-color: var(--color-momo-bg);
+}
+
+.lyrics-artist-label-mmplus {
+  background-color: var(--color-momoplus-bg);
+}
+
+.lyrics-block-artist-mmplus {
+  border-color: var(--color-momoplus-bg);
+}
+
+.lyrics-artist-label-momoa {
+  background-color: var(--color-momoa-bg);
+}
+
+.lyrics-block-artist-momoa {
+  border-color: var(--color-momoa-bg);
+}
+
+.lyrics-artist-label-momoaplus {
+  background-color: var(--color-momoaplus-bg);
+}
+
+.lyrics-block-artist-momoaplus {
+  border-color: var(--color-momoaplus-bg);
+}
+
+.lyrics-artist-label-artist1 {
+  background-color: var(--color-artist1-bg);
+}
+
+.lyrics-block-artist-artist1 {
+  border-color: var(--color-artist1-bg);
+}
+
+.lyrics-artist-label-artist3 {
+  background-color: var(--color-artist3-bg);
+}
+
+.lyrics-block-artist-artist3 {
+  border-color: var(--color-artist3-bg);
+}
+
+.lyrics-artist-label-artist4 {
+  background-color: var(--color-artist4-bg);
+}
+
+.lyrics-block-artist-artist4 {
+  border-color: var(--color-artist4-bg);
+}
+
+.lyrics-artist-label-artist5 {
+  background-color: var(--color-artist5-bg);
+}
+
+.lyrics-block-artist-artist5 {
+  border-color: var(--color-artist5-bg);
+}
+
+.lyrics-artist-label-s-artist1 {
+  background-color: rgb(88, 0, 0);
+}
+
+.lyrics-block-artist-s-artist1 {
+  border-color: rgb(88, 0, 0);
+}

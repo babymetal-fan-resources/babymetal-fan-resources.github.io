@@ -39,7 +39,7 @@ song:
   lyrics:
     status:
       code: warning
-      description: data copied from the sources.
+      description: data copied from the sources. Missing a fair bit of MOAMETAL+MOMOMETAL parts. Vocalists split not precise enough.
     languages:
     - id: ol
       name: original lyrics
@@ -49,6 +49,16 @@ song:
       no-translation: true
       source:
         description: from lyrics poster in METAL FORTH - Limited Edition
+    artists:
+    - id: s
+      fullname: SU-METAL
+      label: S
+    - id: mm
+      fullname: MOMOMETAL
+      label: MM
+    - id: momoa
+      fullname: MOAMETAL, MOMOMETAL
+      label: M+MM
     sections:
     # - lines:
     #   - ol:
@@ -61,13 +71,17 @@ song:
     #     - (はっはっはっはっはっはっ)
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - メタ村祭りのメタ音頭
-      - ol:
+      - a: s
+        ol:
         - 祭りだ 祭りだ 寄っといで
-      - ol:
+      - a: s
+        ol:
         - 輪っかになって 輪っかになって
-      - ol:
+      - a: s
+        ol:
         - ピーヒャラ 踊ろう!
 
     # - lines:
@@ -75,87 +89,121 @@ song:
     #     - (はっはっはっはっはっはっはっはっ)
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - メタ村ニキさん ネキさんも
-      - ol:
+      - a: s
+        ol:
         - 祭りだ 祭りだ 寄っといで
-      - ol:
+      - a: s
+        ol:
         - 輪っかになって 輪っかになって
-      - ol:
+      - a: s
+        ol:
         - みんなで 歌おう!
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - そーれそれそれ どっこいしょ! #(どっこいしょ!)
-      - ol:
+      - a: s
+        ol:
         - 踊る阿呆に見る阿呆
-      - ol:
+      - a: s
+        ol:
         - 同じ阿呆なりゃ踊りんちゃい
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - そーれそれそれ どっこいしょ! #(どっこいしょ!)
-      - ol:
+      - a: s
+        ol:
         - 踊らないんじゃ歌いんちゃい
-      - ol:
+      - a: s
+        ol:
         - 歌わないんじゃりんちゃい
-      - ol:
+      - a: s
+        ol:
         - ここで踊らにゃ 踊らにゃ 踊らにゃ
-      - ol:
+      - a: s
+        ol:
         - 帰れない!
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - 踊れ!踊れ!
-      - ol:
+      - a: s
+        ol:
         - 踊れ!それそれどっこいしょ!
-      - ol:
+      - a: s
+        ol:
         - 揺らせ!揺らせ!
-      - ol:
+      - a: momoa
+        ol:
         - そーれ!そーれ!
-      - ol:
+      - a: s
+        ol:
         - 歌え!歌え!
-      - ol:
+      - a: s
+        ol:
         - 歌え!それそれどっこいしょ!
-      - ol:
+      - a: s
+        ol:
         - 叫べ!叫べ!
-      - ol:
+      - a: momoa
+        ol:
         - そーれ!そーれ!
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - わっしょい!わっしょい!わっしょい!わっしょい!
-      - ol:
+      - a: s
+        ol:
         - わっしょい!わっしょい!わっしょい!わっしょい!
-      - ol:
+      - a: momoa
+        ol:
         - 寝ても覚めてもどっこいしょ!
-      - ol:
+      - a: s
+        ol:
         - わっしょい!わっしょい!わっしょい!わっしょい!
-      - ol:
+      - a: s
+        ol:
         - わっしょい!わっしょい!わっしょい!わっしょい!
-      - ol:
+      - a: momoa
+        ol:
         - 猫も杓子もどっこいしょ!
 
     - lines:
-      - ol:
+      - a: mm
+        ol:
         - 踊る阿呆に見る阿呆
-      - ol:
+      - a: mm
+        ol:
         - 同じ阿呆なら踊るでしかし
-      - ol:
+      - a: mm
+        ol:
         - ここで踊らにゃいつ踊る
-      - ol:
+      - a: mm
+        ol:
         - メタり!! メタり!!
 
     - lines:
-      - ol:
+      - a: momoa
+        ol:
         - どっこいしょ! どっこいしょ!
-      - ol:
+      - a: momoa
+        ol:
         - どっこいどっこいどっこいしょ!
 
     - lines:
-      - ol:
+      - a: s
+        ol:
         - わっしょい!わっしょい!わっしょい!わっしょい!
-      - ol:
+      - a: s
+        ol:
         - わっしょい!わっしょい!わっしょい!わっしょい!
     
     #   - ol:
