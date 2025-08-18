@@ -22,10 +22,10 @@ class AboutPage(description: PageDescription) extends SitePage(description) {
       siteSection(),
     ) :::
       kitsune()
-      //  ::: List(
-      //   SectionHeader.generate("Updates"),
-      //   update(),
-      // )
+      ::: List(
+        SectionHeader.generate("Updates"),
+        update(),
+      )
       ::: questions()
   }
 
@@ -51,20 +51,25 @@ class AboutPage(description: PageDescription) extends SitePage(description) {
       )
   }
 
-  // TODO: create the bluesky account
-  // private def update(): Div = {
-  //   div()
-  //     .withClass(CLASS_ABOUT_SECTION)
-  //     .appendElements(
-  //       p().appendElements(
-  //         text("Notification about content updates, and other general updates, are done at "),
-  //         SocialMediaCard
-  //           .generate("neki-fan-resources.github.io", "https://bsky.app/profile/", "bluesky", "bluesky.svg", true),
-  //         text("."),
-  //       )
-  //     )
+  private def update(): Div = {
+    div()
+      .withClass(CLASS_ABOUT_SECTION)
+      .appendElements(
+        p().appendElements(
+          text("Notification about content updates, and other general updates, are done at "),
+          SocialMediaCard
+            .generateBluesky("babymetal.fan-resources.net", true),
+          text(" and "),
+          SocialMediaCard
+            .generateTwitter(
+              "BABYMETALFanRes",
+              true,
+            ),
+          text("."),
+        )
+      )
 
-  // }
+  }
 
   private def kitsune(): List[BodyElement[?]] = {
     List(
@@ -113,17 +118,13 @@ class AboutPage(description: PageDescription) extends SitePage(description) {
         .appendElements(
           p().appendElements(
             text("For any questions, suggestions, requests, please use "),
-            a()
-              .withHref("mailto:babymetal-contact@fan-resources.net")
-              .appendElements(
-                text("babymetal-contact@fan-resources.net")
-              ),
+            SocialMediaCard.generateTwitter(
+              "BABYMETALFanRes",
+              true,
+            ),
             text(" or "),
-            SocialMediaCard.generate(
-              "babymetal-fan-resources.github.io/issues",
-              "https://github.com/babymetal-fan-resources/",
-              "GitHub",
-              "github.svg",
+            SocialMediaCard.generateBluesky(
+              "BABYMETAL.fan-resources.net",
               true,
             ),
             text("."),

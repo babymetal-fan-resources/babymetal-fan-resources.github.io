@@ -37,7 +37,6 @@ class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[
         Path("component", "mediumcard.css"),
         Path("component", "mediumdetails.css"),
         Path("component", "multimediacard.css"),
-        Path("component", "socialmediacard.css"),
         Path("component", "overlay.css"),
         Path("component", "lyrics.css"),
       ),
@@ -49,6 +48,7 @@ class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[
       Seq(
         Path("component", "lyrics.css"),
         Path("component", "smallcard.css"),
+        Path("component", "socialmediacard.css"),
         Path("component", "updatessection.css"),
         Path("postximage.css"),
       ),
