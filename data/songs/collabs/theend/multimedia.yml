@@ -1,0 +1,27 @@
+- postx:
+    id: 1676320625210851330
+    account: LILUZIVERT
+    label: Album jacket
+    published-date: 2023-07-04
+    text: |
+      Pink Tape http://uzi.lnk.to/PinkTape
+      #PinkTape
+    part-of:
+      postximage:
+        post: 1676320625210851330
+        image: F0N8t-8aMAAJmlk
+    image:
+    - F0N8t-8aMAAJmlk
+
+- postximage:
+    post: 1676320625210851330
+    id: F0N8t-8aMAAJmlk
+    label: Cover
+    published-date: 2023-07-04
+    local-copy: true
+    context:
+    - song: theend
+    part-of:
+      song: theend
+
+

@@ -1,0 +1,26 @@
+song:
+  id: kingslayer
+  fullname: Kingslayer (feat. BABYMETAL)
+  fullname-en: Bring Me The Horizon
+  shortname: Kingslayer
+  release-date: 2020-10-30
+  cover-image:
+    postximage:
+      post: 1316416042705526785
+      image: EkTQE9fWsAYvnlf
+  credits:
+    lyricist: Jordan Fish, Oli Sykes, MK-METAL
+    composer: Jordan Fish, Oli Sykes, MK-METAL
+    source:
+      description: 'JASRAC - work ID: 1P0-2813-2'
+      url: https://www2.jasrac.or.jp/
+  choreographer: MIKIKO
+  wiki: https://babymetal.fandom.com/wiki/Kingslayer
+  part-of:
+    group: externalcolab
+  multimedia:
+    main:
+      youtubevideo: hb2mMVdx1KU
+    video:
+    - youtubevideo: hb2mMVdx1KU
+    - youtubevideo: fKyXvNkGQKc

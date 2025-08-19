@@ -289,12 +289,20 @@ contentpage:
   - multimedia-event: fromtetoumv
   - song: frommetou
   - event: foxday2025
-
+# 2025
+  - song: bekhauf
+# december
+  - song: eternalflames
+# september
   - song: ratatata
 # may
+  - song: leaveitallbehind
+# march
 #2024
   - song: metali
 # august
+  - song: theend
+# june
   - album: theotherone
   - song: thelegend
   - song: metalizm
@@ -317,6 +325,8 @@ contentpage:
 # 2021
   - album: 10babymetalyears
 # december
+  - song: kingslayer
+# october
   - album: legendmetalgalaxyday2
   - album: legendmetalgalaxyday1
 # september
