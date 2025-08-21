@@ -1,0 +1,64 @@
+
+- postx:
+    id: 1958363513799454864
+    account: metaradi_tfm
+    label: This week
+    published-date: 2025-08-21
+    text: |
+      今週は「出張メタラジ！🗣」
+
+      #SummerSonic のオフィシャルメディア #RollingStoneJapan と #メタラジ が特別コラボ🦊🤘🏻📖
+
+      #SummerSonic2025 バックステージのプレスエリアでコラボ取材を行いました🎙
+
+      ゲストには
+      ☑️#YUNGBLUD
+      ☑️#HOTMILK
+      ☑️#HYDE さんが登場❤‍🔥
+
+      どんな話が聞けるのかお楽しみに！
+    image:
+    - Gy2BPDSakAA-IXc
+    - Gy2BPDWbIAES1qn
+    - Gy2BPDcawAA-6dd
+    part-of:
+      media:
+        year: 2025
+        id: metaradi0823
+
+- postximage:
+    post: 1958363513799454864
+    id: Gy2BPDSakAA-IXc
+    label: YUNGBLUD
+    published-date: 2025-08-21
+    part-of:
+      postx: 1958363513799454864
+    context:
+    - media:
+        year: 2025
+        id: metaradi0823
+
+- postximage:
+    post: 1958363513799454864
+    id: Gy2BPDWbIAES1qn
+    label: Hot Milk
+    published-date: 2025-08-21
+    part-of:
+      postx: 1958363513799454864
+    context:
+    - media:
+        year: 2025
+        id: metaradi0823
+
+- postximage:
+    post: 1958363513799454864
+    id: Gy2BPDcawAA-6dd
+    label: Hyde
+    published-date: 2025-08-21
+    part-of:
+      postx: 1958363513799454864
+    context:
+    - media:
+        year: 2025
+        id: metaradi0823
+

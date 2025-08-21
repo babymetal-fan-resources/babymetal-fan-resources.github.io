@@ -22,13 +22,27 @@ album:
   part-of:
     group: album_studio
   multimedia:
+    main:
+      postximage:
+        post: 1957719075632869468
+        image: GystXd_acAIUsFA
     short:
+    - postxvideo:
+        post: 1957719075632869468
+        video: 01
     - postxvideo:
         post: 1955192534830854201
         video: 01
     - postxvideo:
         post: 1955464333171073353
         video: 01
+    - postxvideo:
+        post: 1953667529173610859
+        video: 01
+    image:
+    - postximage:
+        post: 1957719075632869468
+        image: GystXd_acAIUsFA
     additional:
     - youtubeshort: lLssiwGx190
     - youtubeshort: _G4FUhkm768

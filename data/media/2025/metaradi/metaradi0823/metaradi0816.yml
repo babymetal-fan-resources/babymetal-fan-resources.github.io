@@ -1,0 +1,29 @@
+mediaaudio:
+  year: 2025
+  id: metaradi0823
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  designation: metaradi
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  member: []
+  webpage: 'https://tfm.co.jp/metaradi/'
+  published-date: 2025-08-23
+  cover-image:
+    postximage:
+      post: 1875488645987365238
+      image: GgcSW8pa8AEVKP3
+  part-of:
+    group:
+      id: metaradi
+      group: 2025_2026
+  multimedia:
+    image:
+    - postximage:
+        post: 1958363513799454864
+        image: Gy2BPDSakAA-IXc
+    - postximage:
+        post: 1958363513799454864
+        image: Gy2BPDWbIAES1qn
+    - postximage:
+        post: 1958363513799454864
+        image: Gy2BPDcawAA-6dd

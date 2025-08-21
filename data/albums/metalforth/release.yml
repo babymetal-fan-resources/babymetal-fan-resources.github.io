@@ -117,6 +117,40 @@
       postx: 1953607569572082150
 
 - postx:
+    id: 1953667529173610859
+    account: amazonmusicjp
+    label: Album is available
+    published-date: 2025-08-08
+    text: |
+      ＼メンバー間で流行っているものは？／
+      #BABYMETAL『METAL FORTH』配信開始🔥
+      🎧https://amzn.lnky.jp/cNpBeBx
+
+      結成15周年を迎えるBABYMETALが、新世代の仲間と作ったメタルアルバム🤘
+      “METALのその先へ”向かう彼女たちの作品を #AmazonMusic で✅
+
+      いいねでリリースをお祝いしよう❤️
+      @BABYMETAL_JAPAN
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postxvideo:
+    post: 1953667529173610859
+    id: 01
+    cover: 1953629445300031488/img/sfqoJKnoZntHqFs-.jpg
+    label: Album is available
+    published-date: 2025-08-08
+    part-of:
+      postx: 1953667529173610859
+    context:
+    - album: metalforth
+
+
+- postx:
     id: 1954739559620878453
     account: BABYMETAL_JAPAN
     label: Released
@@ -331,7 +365,102 @@
     part-of:
      postx: 1955902827995521067
 
+- postx:
+    id: 1956637018739634182
+    account: BABYMETAL_JAPAN
+    label: METAL FORTH in London
+    info: projected on walls and bridges
+    published-date: 2025-08-16
+    text: |
+      Thank you London🇬🇧
+      "METAL FORTH" OUT NOW.
+    video:
+    - 01
+    part-of:
+      group:
+        album: metalforth
+        id: release
 
+- postxvideo:
+    post: 1956637018739634182
+    id: 01
+    cover: 1956636579885371392/img/4v_CgueV6LBTgdt9.jpg
+    label: METAL FORTH in London
+    published-date: 2025-08-16
+    part-of:
+      postx: 1956637018739634182
+    context:
+    - album: metalforth
 
+- postx:
+    id: 1957719075632869468
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-08-19
+    text: |
+      Thank you for your support on "METAL FORTH"!!!💥
+      🇯🇵ORICON NEWS 
+      @oricon
+      
+      🇯🇵Billboard JAPAN 
+      @Billboard_JAPAN
+      
+      🇩🇪OffizielleCharts 
+      @chartsoffiziell
+        
+      🇺🇸billboard 
+      @billboard
+      
+      🇺🇸billboard charts 
+      @billboardcharts
+        
+      🇬🇧Official Charts 
+      @officialcharts
+      
+
+      #BABYMETAL #METALFORTH 
+      #Poppy 
+      @jordanfish
+        
+      @Bloodywood2
+      
+      @polyphia
+      
+      @spiritboxband
+      
+      @tmorello
+      
+      @daidai_PD
+      
+      @KOBAMETAL_JAPAN
+    image:
+    - GystXd_acAIUsFA
+    video:
+    - 01
+    part-of:
+      group:
+        album: metalforth
+        id: release
+
+- postximage:
+    post: 1957719075632869468
+    id: GystXd_acAIUsFA
+    label: Thank you
+    published-date: 2025-08-19
+    part-of:
+      postx: 1957719075632869468
+    context:
+    - album: metalforth
+
+- postxvideo:
+    post: 1957719075632869468
+    id: 01
+    cover: 1957708381927665664/img/iqFF7lUgYlhTLc9z.jpg
+    label: Thank you
+    published-date: 2025-08-19
+    part-of:
+      postx: 1957719075632869468
+    context:
+    - album: metalforth
 
 

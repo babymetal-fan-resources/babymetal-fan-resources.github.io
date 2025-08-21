@@ -71,6 +71,9 @@ contentpage:
   - show:
       year: 2025
       id: summersonicbangkok
+  - media:
+      year: 2025
+      id: metaradi0823
   - show:
       year: 2025
       id: osaka
@@ -83,16 +86,22 @@ contentpage:
   - show:
       year: 2025
       id: summersonictokyo
+  - media:
+      year: 2025
+      id: metaradi0816
   - show:
       year: 2025
       id: yokohama2
   - show:
       year: 2025
       id: yokohama1
+  - tour: japansummertour2025
   - media:
       year: 2025
       id: rollingstonejpmyqueen
-  - tour: japansummertour2025
+  - media:
+      year: 2025
+      id: metaradi0809
   - album: metalforth
   - song: whiteflame
   - song: algorism

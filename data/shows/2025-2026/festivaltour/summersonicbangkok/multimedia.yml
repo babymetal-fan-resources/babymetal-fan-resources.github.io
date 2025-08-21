@@ -13,3 +13,37 @@
       show:
         year: 2025
         id: summersonicbangkok
+
+- postx:
+    id: 1956279699778494838
+    account: BABYMETAL_JAPAN
+    label: Merch
+    published-date: 2025-08-15
+    text: |
+      「SUMMER SONIC BANGKOK 2025」グッズ販売決定!!🐘
+
+      👇詳細はこちら
+      🔗https://babymetal.com/2025SSBKMerch/
+
+      #BABYMETAL #summersonicbkk2025
+    image:
+    - GyX0EBfawAAuyja
+    part-of:
+      show:
+        year: 2025
+        id: summersonicbangkok
+
+- postximage:
+    post: 1956279699778494838
+    id: GyX0EBfawAAuyja
+    label: Merch
+    published-date: 2025-08-15
+    part-of:
+      postx: 1956279699778494838
+    context:
+    - show:
+        year: 2025
+        id: summersonicbangkok
+
+
+
