@@ -70,7 +70,7 @@ object EventPage {
       Some(event.id.path.insertSecond(Common.EXTRA))
     }
 
-    val mainPage = ShowPage(
+    val mainPage = EventPage(
       compiledData,
       multimediaBlock,
       PageDescription(
@@ -101,7 +101,7 @@ object EventPage {
 
     extraPath
       .map { extraPath =>
-        val extraPage = ShowExtraPage(
+        val extraPage = EventExtraPage(
           compiledData,
           multimediaBlock,
           PageDescription(
