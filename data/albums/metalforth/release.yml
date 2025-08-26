@@ -463,4 +463,32 @@
     context:
     - album: metalforth
 
+- postx:
+    id: 1958399908320596368
+    account: BABYMETAL_JAPAN
+    label: We Love BABYMETAL
+    published-date: 2025-08-21
+    text: |
+      🎸 Which BABYMETAL song would you recommend to the kids around you?🦊
+      Let us know your picks! 👧🧒🔥
+
+      #BABYMETAL #METALFORTH
+    video:
+    - 01
+    part-of:
+      group:
+        album: metalforth
+        id: release
+
+- postxvideo:
+    post: 1958399908320596368
+    id: 01
+    cover: 1958395326387343360/img/Eh18U3X6niaKmbK6.jpg
+    label: We Love BABYMETAL
+    published-date: 2025-08-21
+    part-of:
+      postx: 1958399908320596368
+    context:
+    - album: metalforth
+
 

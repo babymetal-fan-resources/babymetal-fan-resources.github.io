@@ -18,3 +18,14 @@ show:
       id: cover
   part-of:
     group: 2025_2026
+  multimedia:
+    main:
+      postximage:
+        post: 1959679931413381381
+        image: GzIuIyDaoAA_S0b
+    image:
+    - postximage:
+        post: 1959679931413381381
+        image: GzIuIyDaoAA_S0b
+
+

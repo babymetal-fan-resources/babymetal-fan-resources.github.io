@@ -45,5 +45,32 @@
         year: 2025
         id: summersonicbangkok
 
+- postx:
+    id: 1959679931413381381
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-08-24
+    text: |
+      Thank you for coming to"SUMMER SONIC BANGKOK 2025"🐘
+      #BABYMETAL #SummerSonicBangkok2025 #サマソニバンコク 
+      @Summersonic_bkk
+    image:
+    - GzIuIyDaoAA_S0b
+    part-of:
+      show:
+        year: 2025
+        id: summersonicbangkok
+
+- postximage:
+    post: 1959679931413381381
+    id: GzIuIyDaoAA_S0b
+    label: Festival sign
+    published-date: 2025-08-24
+    part-of:
+      postx: 1959679931413381381
+    context:
+    - show:
+        year: 2025
+        id: summersonicbangkok
 
 

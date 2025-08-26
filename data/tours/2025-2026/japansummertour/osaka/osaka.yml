@@ -12,3 +12,12 @@ show:
       id: cover
   part-of:
     tour: japansummertour2025
+  multimedia:
+    main: 
+      postximage:
+        post: 1958523488035328502
+        image: Gy4SiUxbkAArqQJ
+    image:
+    - postximage:
+        post: 1958523488035328502
+        image: Gy4SiUxbkAArqQJ

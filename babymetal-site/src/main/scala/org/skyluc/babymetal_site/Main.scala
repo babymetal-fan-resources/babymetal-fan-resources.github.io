@@ -67,8 +67,6 @@ object Main {
 
     val pages = DataToPage(generator).generate(rootPath, data)
 
-    println(s"nb of pages: ${pages.size}")
-
     SiteOutput.generate(pages, Seq(staticFrFolder.asFilePath(), staticFolder.asFilePath()), outputFolder.asFilePath())
 
   }

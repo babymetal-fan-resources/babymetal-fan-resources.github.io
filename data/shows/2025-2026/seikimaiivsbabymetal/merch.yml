@@ -1,0 +1,57 @@
+- postx:
+    id: 1959903583710970221
+    account: BABYMETAL_JAPAN
+    label: Merch
+    published-date: 2025-08-25
+    text: |
+      「聖飢魔II vs BABYMETAL 悪魔が来たりてベビメタる」グッズ販売決定!!😈🦊
+      🔽詳細はこちら
+      https://babymetal.com/SkiiBmMerch/
+
+      🗓️販売日時
+      2025.8.30(土) 12:00～開演18:00／終演後
+      2025.8.31(日) 13:00～開演17:00／終演後
+      📍販売場所：Kアリーナ横浜 場外物販テント
+
+      🚨当日会場では「聖飢魔II vs BABYMETAL 悪魔が来たりてベビメタる」のコラボグッズの販売も予定しております。詳細は下記の特設WebサイトのINFORMATIONをご確認ください
+      https://skiivsbbm.com
+    part-of:
+      group: 
+        id: seikimaiivsbabymetal
+        group: 2025_2026
+    image:
+    - GzLqGXZbYAAPuYv
+    - GzLqUJMaMAAyCOG
+
+- postximage:
+    post: 1959903583710970221
+    id: GzLqGXZbYAAPuYv
+    label: Merch
+    published-date: 2025-08-25
+    part-of:
+      postx: 1959903583710970221
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+
+- postximage:
+    post: 1959903583710970221
+    id: GzLqUJMaMAAyCOG
+    label: Merch
+    published-date: 2025-08-25
+    part-of:
+      postx: 1959903583710970221
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+
+
+
