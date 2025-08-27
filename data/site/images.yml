@@ -10,7 +10,6 @@
 - localimage:
     event: siteimages
     id: kitsune_cover
-    hidden: true
     label: Kitsune Logo for cover
     filename: kitsune512.png
     published-date: 2009-12-31

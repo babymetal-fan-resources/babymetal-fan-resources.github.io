@@ -75,8 +75,6 @@ class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[
   override def processEvent(event: dfr.Event): Seq[SitePage] =
     EventPage.pagesFor(event, generator)
 
-  override def processGroup(group: dfr.Group): Seq[SitePage] = NO_DATA
-
   override def processMediaAudio(mediaAudio: dfr.MediaAudio): Seq[SitePage] =
     MediaPage.pagesFor(mediaAudio, generator)
 

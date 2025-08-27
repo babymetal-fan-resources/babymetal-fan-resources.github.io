@@ -8,27 +8,26 @@
       song: frommetou
 
 - multimedia-event:
-    id: fromtetoumv
+    id: frommetoumv
     youtubevideo: qayP_YUrf9I
     parent:
       song: frommetou
     cover-image: 
       localimage:
-        song: frommetou
+        multimedia-event: frommetoumv
         id: mvcover
     categories: video
     part-of:
       youtubevideo: qayP_YUrf9I
 
 - localimage:
-    song: frommetou
+    multimedia-event: frommetoumv
     id: mvcover
     label: MV cover
     filename: mvcover.png
     published-date: 2025-04-04
     source:
       description: YouTube video
-    hidden: true
     part-of:
       youtubevideo: qayP_YUrf9I
 
