@@ -1,7 +1,6 @@
 package org.skyluc.babymetal_site
 
 import org.skyluc.babymetal_site.checks.CheckLocalAssetExists
-import org.skyluc.babymetal_site.checks.PopulateRelatedTo
 import org.skyluc.babymetal_site.data.Data
 import org.skyluc.babymetal_site.data2Page.DataToPage
 import org.skyluc.babymetal_site.html.CompiledDataGeneratorBuilder
@@ -45,10 +44,8 @@ object Main {
       DataCheck.check(
         datums ++ implicitDatums,
         d,
-        PopulateRelatedTo,
         ReferencesCheckProcessor(d.datums.keySet),
         CheckLocalAssetExists(rootPath.resolve(BASE_IMAGE_ASSET_PATH)),
-        false,
       )
 
     val data = frData.Data.get(checkedDatums, Data.creator)

@@ -17,7 +17,6 @@ class DatumCompiledDataGenerator(data: Data, backupPath: Path, generator: Compil
     Common.MISSING,
     Site.MISSING_IMAGE,
     Nil,
-    Nil,
   )
 
 }
