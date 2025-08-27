@@ -130,10 +130,4 @@
       @photosbysarai
       
     part-of:
-      group:
-        id: popupstore
-        show:
-          year: 2025
-          id: london
-    linked-to:
-    - youtubeshort: pQdQzFk-syw
+      youtubeshort: pQdQzFk-syw

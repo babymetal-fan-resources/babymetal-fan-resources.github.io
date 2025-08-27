@@ -12,12 +12,6 @@ show:
         year: 2025
         id: seikimaiivsbabymetalencounter
       id: cover
-  linked-to:
-  - localimage:
-      show:
-        year: 2025
-        id: seikimaiivsbabymetalencounter
-      id: cover
   part-of:
     group:
       id: seikimaiivsbabymetal

@@ -10,11 +10,6 @@ show:
         year: 2025
         id: summersonicbangkok
       id: cover
-  linked-to:
-  - localimage:
-      show:
-        year: 2025
-        id: summersonicbangkok
       id: cover
   part-of:
     group: 2025_2026
