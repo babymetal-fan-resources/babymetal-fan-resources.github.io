@@ -44,7 +44,7 @@ object Main {
       DataCheck.check(
         datums ++ implicitDatums,
         d,
-        ReferencesCheckProcessor(d.datums.keySet),
+        ReferencesCheckProcessor(d.datums.keySet, d),
         CheckLocalAssetExists(rootPath.resolve(BASE_IMAGE_ASSET_PATH)),
       )
 
