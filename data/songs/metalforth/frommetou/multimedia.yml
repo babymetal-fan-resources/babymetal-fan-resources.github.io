@@ -1,5 +1,5 @@
 - youtubevideo:
-    id: qayP_YUrf9I
+    id: fzsNRRwlpxY
     label: Official Music Video
     published-date: 2025-04-04
     context:
@@ -9,7 +9,7 @@
 
 - multimedia-event:
     id: frommetoumv
-    youtubevideo: qayP_YUrf9I
+    youtubevideo: fzsNRRwlpxY
     parent:
       song: frommetou
     cover-image: 
@@ -18,7 +18,7 @@
         id: mvcover
     categories: video
     part-of:
-      youtubevideo: qayP_YUrf9I
+      youtubevideo: fzsNRRwlpxY
 
 - localimage:
     multimedia-event: frommetoumv
@@ -29,7 +29,7 @@
     source:
       description: YouTube video
     part-of:
-      youtubevideo: qayP_YUrf9I
+      youtubevideo: fzsNRRwlpxY
 
 - postximage:
     post: 1908172721055469909
