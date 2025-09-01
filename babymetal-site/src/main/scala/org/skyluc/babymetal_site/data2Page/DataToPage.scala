@@ -78,6 +78,9 @@ class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[
   override def processMediaAudio(mediaAudio: dfr.MediaAudio): Seq[SitePage] =
     MediaPage.pagesFor(mediaAudio, generator)
 
+  override def processMediaVideo(mediaVideo: dfr.MediaVideo): Seq[SitePage] =
+    MediaPage.pagesFor(mediaVideo, generator)
+
   override def processMediaWritten(mediaWritten: dfr.MediaWritten): Seq[SitePage] =
     MediaPage.pagesFor(mediaWritten, generator)
 
