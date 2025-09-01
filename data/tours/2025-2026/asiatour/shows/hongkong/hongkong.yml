@@ -7,8 +7,8 @@ show:
   location: AsiaWorld-Expo Arena
   event-page: 'https://shows.cityline.com/tc/2025/babymetal2025.html'
   cover-image:
-    localimage:
-      tour: asiatour2025
-      id: cover
+    postximage:
+      post: 1960552858165911699
+      image: GzSQ1BkaoAAANIp
   part-of:
     tour: asiatour2025

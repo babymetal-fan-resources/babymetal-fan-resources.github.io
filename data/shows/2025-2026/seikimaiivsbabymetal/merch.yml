@@ -53,5 +53,77 @@
         year: 2025
         id: seikimaiivsbabymetalimpact
 
+- postx:
+    id: 1961613543176065283
+    account: BABYMETAL_JAPAN
+    label: Merch
+    published-date: 2025-08-30
+    text: |
+      BABYMETALグッズ、本日12時から販売スタート!!
+      Kアリーナ横浜会場にてデジタル整理券を取得のうえ、ご利用ください🦊🤘🏻
+
+      デジタル整理券
+      https://aquickorder.jp
+    part-of:
+      group: 
+        id: seikimaiivsbabymetal
+        group: 2025_2026
+    video:
+    - 01
+
+- postxvideo:
+    post: 1961613543176065283
+    id: 01
+    cover: 1961613475098365954/img/x7YxBpoU7MgsbX8A.jpg
+    label: Merch
+    published-date: 2025-08-30
+    part-of:
+      postx: 1961613543176065283
+
+- postx:
+    id: 1962062532971237576
+    account: BABYMETAL_JAPAN
+    label: Merch
+    published-date: 2025-08-31
+    text: |
+      聖飢魔II vs BABYMETAL 
+      "悪魔が来たりてベビメタる"
+
+      対決に挑むその前に──我らが【悪魔除け】を手にせよ。
+    part-of:
+      group: 
+        id: seikimaiivsbabymetal
+        group: 2025_2026
+    image:
+    - GzqlabMbsAAc_k4
+    - GzqlcEXbUAAxjCX
+
+- postximage:
+    post: 1962062532971237576
+    id: GzqlabMbsAAc_k4
+    label: Merch
+    info: Demon Amulet
+    published-date: 2025-08-31
+    part-of:
+      postx: 1962062532971237576
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+
+- postximage:
+    post: 1962062532971237576
+    id: GzqlcEXbUAAxjCX
+    label: Merch
+    info: Kogitsune face pack
+    published-date: 2025-08-31
+    part-of:
+      postx: 1962062532971237576
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+
+    
 
 

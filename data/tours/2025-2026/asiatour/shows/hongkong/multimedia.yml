@@ -1,0 +1,33 @@
+
+- postx:
+    id: 1960552858165911699
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2025-08-27
+    text: |
+      BABYMETAL is heading to Hong Kong! 
+      A Metallic Storm is poised to engulf the Island!
+      Are you ready!?!🦊
+
+      Date : Sep 30th, 2025
+      Location : ASIAWORLD - ARENA 
+      Ticket : https://shows.cityline.com/sc/2025/babymetal2025.html
+    image:
+    - GzSQ1BkaoAAANIp
+
+- postximage:
+    post: 1960552858165911699
+    id: GzSQ1BkaoAAANIp
+    label: Poster
+    published-date: 2025-08-27
+    local-copy: true
+    part-of:
+      postx: 1960552858165911699
+    context:
+    - show:
+        year: 2025
+        id: hongkong
+
+
+
+

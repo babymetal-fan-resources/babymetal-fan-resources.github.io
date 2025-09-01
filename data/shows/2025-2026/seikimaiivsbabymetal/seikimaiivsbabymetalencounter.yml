@@ -16,4 +16,15 @@ show:
     group:
       id: seikimaiivsbabymetal
       group: 2025_2026
-
+  multimedia:
+    main:
+      postximage:
+        post: 1961800272470266363
+        image: Gzm2xl-bwAAdfbQ
+    image:
+    - postximage:
+        post: 1961800272470266363
+        image: Gzm2xl-bwAAdfbQ
+    - postximage:
+        post: 1961800272470266363
+        image: Gzm2xl_awAAPWEY
