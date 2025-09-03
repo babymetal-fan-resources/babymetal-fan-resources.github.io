@@ -46,6 +46,7 @@ class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[
     val cssStylesFr = CssPage(
       rootPath.resolve("fan-resources", "static_pieces", "css"),
       Seq(
+        Path("component", "kofi.css"),
         Path("component", "lyrics.css"),
         Path("component", "smallcard.css"),
         Path("component", "socialmediacard.css"),

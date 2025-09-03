@@ -1,6 +1,7 @@
 package org.skyluc.babymetal_site.html.components
 
 import org.skyluc.fan_resources.html.Url
+import org.skyluc.fan_resources.html.component.Kofi
 import org.skyluc.html.*
 
 import Html.*
@@ -31,42 +32,46 @@ object Footer {
   val ABOUT_PATH = "/about.html#questions"
 
   def generate(oppositeUrl: Option[Url]): Seq[BodyElement[?]] = {
-    oppositeUrl.map { ou =>
-      a()
-        .withHref(ou.toString())
+    Seq(
+      div()
         .withClass(CLASS_FOOTER_BOTTOM_LEFT)
         .appendElements(
-          text(TEXT_OPPOSITE_LINK)
-        )
-    }.toList :::
-      List(
-        div()
-          .withClass(CLASS_FOOTER_CONTENT)
-          .appendElements(
-            text(TEXT_FOOTER_1)
-          ),
-        div()
-          .withClass(CLASS_FOOTER_CONTENT)
-          .appendElements(
-            text(TEXT_FOOTER_2)
-          ),
-        div()
-          .withClass(CLASS_FOOTER_CONTENT)
-          .appendElements(
-            text(TEXT_FOOTER_3),
-            a()
-              .withHref(ABOUT_PATH)
-              .appendElements(
-                text(TEXT_FOOTER_4)
-              ),
-          ),
-        a()
-          .withClass(CLASS_FOOTER_BOTTOM_RIGHT)
-          .withHref("https://fan-resources.net")
-          .appendElements(
-            div().withClass(CLASS_FOOTER_BOTTOM_RIGHT_TEXT_TOP).appendElements(text(TEXT_FOOTER_5)),
-            div().withClass(CLASS_FOOTER_BOTTOM_RIGHT_TEXT_BOTTOM).appendElements(text(TEXT_FOOTER_6)),
-          ),
-      )
+          (Kofi.generateFooterButton(true) ::
+            oppositeUrl.map { ou =>
+              a()
+                .withHref(ou.toString())
+                .appendElements(
+                  text(TEXT_OPPOSITE_LINK)
+                )
+            }.toList)*
+        ),
+      div()
+        .withClass(CLASS_FOOTER_CONTENT)
+        .appendElements(
+          text(TEXT_FOOTER_1)
+        ),
+      div()
+        .withClass(CLASS_FOOTER_CONTENT)
+        .appendElements(
+          text(TEXT_FOOTER_2)
+        ),
+      div()
+        .withClass(CLASS_FOOTER_CONTENT)
+        .appendElements(
+          text(TEXT_FOOTER_3),
+          a()
+            .withHref(ABOUT_PATH)
+            .appendElements(
+              text(TEXT_FOOTER_4)
+            ),
+        ),
+      a()
+        .withClass(CLASS_FOOTER_BOTTOM_RIGHT)
+        .withHref("https://fan-resources.net")
+        .appendElements(
+          div().withClass(CLASS_FOOTER_BOTTOM_RIGHT_TEXT_TOP).appendElements(text(TEXT_FOOTER_5)),
+          div().withClass(CLASS_FOOTER_BOTTOM_RIGHT_TEXT_BOTTOM).appendElements(text(TEXT_FOOTER_6)),
+        ),
+    )
   }
 }

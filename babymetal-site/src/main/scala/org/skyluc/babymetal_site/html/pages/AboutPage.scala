@@ -11,6 +11,7 @@ import org.skyluc.fan_resources.html.component.SocialMediaCard
 import org.skyluc.html.*
 
 import Html.*
+import org.skyluc.fan_resources.html.component.Kofi
 
 class AboutPage(description: PageDescription) extends SitePage(description) {
 
@@ -26,7 +27,7 @@ class AboutPage(description: PageDescription) extends SitePage(description) {
         SectionHeader.generate("Updates"),
         update(),
       )
-      ::: questions()
+      ++ support() ++ questions()
   }
 
   private def siteSection(): Div = {
@@ -132,6 +133,46 @@ class AboutPage(description: PageDescription) extends SitePage(description) {
         ),
     )
   }
+
+  private def support(): Seq[BodyElement[?]] = Seq(
+    a().withName("support"),
+    SectionHeader.generate("Support"),
+    div()
+      .withClass(CLASS_ABOUT_SECTION)
+      .appendElements(
+        p().appendElements(
+          text(
+            "While I'm doing the work because I like BABYMETAL and want to provide comprehensive information, it does take a fair bit of time and resources to create, improve, and update the site."
+          )
+        ),
+        p().appendElements(
+          text(
+            "Any level of support will be greatly appreciated. Use the Fan Resources page, and don't forget to indicate in the message that you're a BABYMETAL fan."
+          )
+        ),
+        Kofi.generateBadge(),
+      )
+      .appendElements(supporters()*),
+  )
+
+  private def supporters(): Seq[BodyElement[?]] = Seq(
+    ul().appendElements(
+      li().appendElements(
+        text("BABYMETAL supporters"),
+        ul().appendElements(
+          li().appendElements(text("SkyLuc"))
+        ),
+      ),
+      li().appendElements(
+        text("Fan Resources network"),
+        ul().appendElements(
+          li().appendElements(text("mab21")),
+          li().appendElements(text("flomdo")),
+          li().appendElements(text("ombe_toul")),
+        ),
+      ),
+    )
+  )
 
 }
 
