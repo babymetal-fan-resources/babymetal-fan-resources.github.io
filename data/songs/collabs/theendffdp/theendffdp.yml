@@ -1,0 +1,257 @@
+song:
+  id: theendffdp
+  fullname: The End (feat. BABYMETAL)(2025 Version)
+  fullname-en: Five Finger Death Punch
+  release-date: 2025-09-04
+  cover-image:
+    localimage:
+      song: theendffdp
+      id: cover
+  description:
+  - It is a re-release of the song "The End" by Five Finger Death Punch, featuring BABYMETAL.
+  - The second verse and pre-chorus, and most of the bridge have been re-written in Japanese, and are sung by SU-METAL.
+  
+  lyrics:
+    status:
+      code: danger
+      description: lyrics from the original version of the song. waiting for a source for the Japanese lyrics
+    languages:
+    - id: ol
+      name: original lyrics (partially from LyricFind)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: partially from LyricFind
+    artists:
+    - id: im
+      fullname: Ivan Moody
+      label: IM
+      color-code: artist4
+    - id: s
+      fullname: SU-METAL
+      label: S
+    sections:
+    - lines:
+      - a: im
+        ol:
+        - It's hard to tell these days in which ways that we're falling
+      - a: im
+        ol:
+        - I'm not sure anymore what's right or what is wrong
+      - a: im
+        ol:
+        - It hurts to feel, to think, to know I may be nothing
+      - a: im
+        ol:
+        - But then again I've been wrong before
+
+    - lines:
+      - a: im
+        ol:
+        - I've opened up my eyes
+      - a: im
+        ol:
+        - Just to wish that I'd stayed blind
+
+    - lines:
+      - a: im
+        ol:
+        - Blacken out the sky
+      - a: im
+        ol:
+        - And let the arrows fly
+      - a: im
+        ol:
+        - It's never over
+      - a: im
+        ol:
+        - Not 'til it's over
+
+    - lines:
+      - a: im
+        ol:
+        - Outside looking in
+      - a: im
+        ol:
+        - When do the nightmares end?
+      - a: im
+        ol:
+        - Over and over
+      - a: im
+        ol:
+        - Until it's over
+      - a: im
+        ol:
+        - The End
+
+    - lines:
+      - a: s
+        ol:
+        - "&lt;updated lyrics in Japanese&gt;"
+        # It's hard to fathom just how fast we all are spinning
+      - a: s
+        ol:
+        - "&nbsp;"
+        # It's hard to know that there's a heaven beyond hell
+      - a: s
+        ol:
+        - "&nbsp;"
+        # It burns a hole right through my soul to think it's ending
+      - a: s
+        ol:
+        - "&nbsp;"
+        # But then again (then again), I've been right right before
+
+    - lines:
+      - a: s
+        ol:
+        - "&lt;updated lyrics in Japanese&gt;"
+        # I've opened up my eyes
+      - a: s
+        ol:
+        - "&nbsp;"
+        # Just to find out you're all blind
+
+    - lines:
+      - a: im
+        ol:
+        - Blacken out the sky
+      - a: im
+        ol:
+        - And let the arrows fly
+      - a: im
+        ol:
+        - It's never over
+      - a: im
+        ol:
+        - Not 'til it's over
+
+    - lines:
+      - a: im
+        ol:
+        - Outside looking in
+      - a: im
+        ol:
+        - When do the nightmares end
+      - a: im
+        ol:
+        - Over and over
+      - a: im
+        ol:
+        - Until it's over
+
+    - lines:
+      - a: s
+        ol:
+        - "&lt;updated lyrics in Japanese&gt;"
+        # Make a wish
+      - a: s
+        ol:
+        - "&nbsp;"
+        # Say a prayer
+      - a: s
+        ol:
+        - "&nbsp;"
+        # Hope that someone is out there
+      - a: s
+        ol:
+        - "&nbsp;"
+        # Build a bridge to Babylon
+      - a: s
+        ol:
+        - "&nbsp;"
+        # Then burn it to the ground
+
+    - lines:
+      - a: s
+        ol:
+        - "&lt;updated lyrics in Japanese&gt;"
+        # Make a wish
+      - a: s
+        ol:
+        - "&nbsp;"
+        # Say a prayer
+      - a: s
+        ol:
+        - "&nbsp;"
+        # Hope that someone is out there
+      - a: s
+        ol:
+        - "&nbsp;"
+        # Build a bridge to Babylon
+      - a: s
+        ol:
+        - "&nbsp;"
+        # Then burn it to the ground
+      - a: im
+        ol:
+        - (Burn it to the ground)
+
+    - lines:
+      - a: s
+        ol:
+        - "&nbsp;"
+        # Burn it to the ground
+      - a: im
+        ol:
+        - (Burn it to the ground)
+      - a: s
+        ol:
+        - "&nbsp;"
+        # Burn it to the ground
+      - a: im
+        ol:
+        - (Burn it to the ground)
+      - a: s
+        ol:
+        - "&nbsp;"
+        # Build a bridge to Babylon
+      - a: im
+        ol:
+        - Then burn it, burn it, burn it down
+
+    - lines:
+      - a: im
+        ol:
+        - Blacken out the sky
+      - a: im
+        ol:
+        - And let the arrows fly
+      - a: im
+        ol:
+        - It's never over
+      - a: im
+        ol:
+        - Not 'til it's over
+
+    - lines:
+      - a: im
+        ol:
+        - Outside looking in
+      - a: im
+        ol:
+        - When do the nightmares end
+      - a: im
+        ol:
+        - Over and over
+      - a: im
+        ol:
+        - Until it's over
+
+    - lines:
+      - a: im
+        ol:
+        - Just start it over
+      - a: im
+        ol:
+        - Until it's over
+      - a: im
+        ol:
+        - Over and over
+      - a: im
+        ol:
+        - The end
+      - a: im
+        ol:
+        - The end
