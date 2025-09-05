@@ -13,16 +13,17 @@ song:
   
   lyrics:
     status:
-      code: danger
-      description: lyrics from the original version of the song. Japanese lyrics not final
+      code: ok
+      description: Lyrics from the sources, checked agains the audio
     languages:
     - id: ol
-      name: original lyrics (partially from LyricFind, Japanese from various sources)
+      name: original lyrics (based on the Lyrics Video)
       active: true
       fixed: true
       no-translation: true
       source:
-        description: partially from LyricFind
+        description: based on the Lyrics Video
+        url: https://www.youtube.com/watch?v=rIc383iYLJ4
     - id: ro
       name: rōmaji
       no-translation: true
@@ -69,7 +70,7 @@ song:
         - It's never over
       - a: im
         ol:
-        - Not 'til it's over
+        - Not til it's over
 
     - lines:
       - a: im
@@ -91,43 +92,82 @@ song:
     - lines:
       - a: s
         ol:
-        - いつだって僕らは明日を追いかて
+        - いつ
+        - だって
+        - 僕ら
+        - は
+        - 明日
+        - を
+        - 追いかけ
         ro:
-        - Itsu datte bokura wa asu o oikate
-        # It's hard to fathom just how fast we all are spinning
+        - itsu
+        - datte
+        - bokura
+        - wa
+        - asu
+        - o
+        - oikake
       - a: s
         ol:
-        - 一生懸命に走り続けてきた
+        - 一生懸命
+        - に
+        - 走り続けてきた
         ro:
-        - Isshoukenmei ni hashiritsuzuketekita
-        # It's hard to know that there's a heaven beyond hell
+        - isshoukenmei
+        - ni
+        - hashiritsuzuketekita
       - a: s
         ol:
-        - 一瞬で消えゆく星屑の様に
-        - 一瞬で消えゆく星くずのように
+        - 一瞬
+        - で
+        - 消えゆく
+        - 星屑
+        - の様に
         ro:
-        - Isshun de kieyuku hoshikuzu no youni
-        # It burns a hole right through my soul to think it's ending
+        - isshun
+        - de
+        - kieyuku
+        - hoshikuzu
+        - noyouni
       - a: s
         ol:
-        - 儚い（儚い）夢と散る
+        - 儚い
+        - （
+        - 儚い
+        - ）
+        - 夢
+        - と
+        - 散る
         ro:
-        - hakanai (hakanai) yume to chiru
-        # But then again (then again), I've been right right before
+        - hakanai
+        - (
+        - hakanai
+        - )
+        - yume
+        - to
+        - chiru
 
     - lines:
       - a: s
         ol:
-        - 誰も気づかない
+        - 誰
+        - も
+        - 気づかない
         ro:
-        - dare mo kizukanai
-        # I've opened up my eyes
+        - dare
+        - mo 
+        - kizukanai
       - a: s
         ol:
-        - 世界の中で
+        - 世界
+        - の
+        - 中
+        - で
         ro:
-        - sekai no naka de
-        # Just to find out you're all blind
+        - sekai
+        - no
+        - naka
+        - de
 
     - lines:
       - a: im
@@ -141,7 +181,7 @@ song:
         - It's never over
       - a: im
         ol:
-        - Not 'til it's over
+        - Not til it's over
 
     - lines:
       - a: im
@@ -160,27 +200,59 @@ song:
     - lines:
       - a: s
         ol:
-        - 世界を賭けて祈りをささげ
-        # Make a wish
+        - 願い
+        - を
+        - かけて
+        - 祈り
+        - を
+        - 捧げ
         ro:
-        - sekai o kakete inori o sasage
+        - negai
+        - o
+        - kakete
+        - inori
+        - o
+        - sasage
       - a: s
         ol:
-        - 誰も知らない未来ならば
+        - 誰
+        - も
+        - 知らない
+        - 未来
+        - ならば
         ro:
-        - dare mo shiranai mirai naraba
-        # Say a prayer
+        - dare
+        - mo
+        - shiranai
+        - mirai
+        - naraba
       - a: s
         ol:
-        - 願いを賭けて命をささげ
+        - 願い
+        - を
+        - 賭けて
+        - 命
+        - を
+        - 捧げ
         ro:
-        - negai o kakete inochi o sasage
+        - negai
+        - o
+        - kakete
+        - inochi
+        - o
+        - sasage
         # Hope that someone is out there
       - a: s
         ol:
-        - 全てが消えても
+        - 全て
+        - が
+        - 消えて
+        - も
         ro:
-        - subete ga kiete mo
+        - subete
+        - ga
+        - kiete
+        - mo
         # Build a bridge to Babylon
       - a: s
         ol:
@@ -214,13 +286,19 @@ song:
         - (Burn it to the ground)
       - a: s
         ol:
-        - 全てが消えても
+        - 全て
+        - が
+        - 消えて
+        - も
         ro:
-        - subete ga kiete mo
+        - subete
+        - ga
+        - kiete
+        - mo
         # Build a bridge to Babylon
       - a: im
         ol:
-        - Then burn it, burn it, burn it down
+        - Burn it, burn it, burn it, down
 
     - lines:
       - a: im
