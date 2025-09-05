@@ -14,15 +14,18 @@ song:
   lyrics:
     status:
       code: danger
-      description: lyrics from the original version of the song. waiting for a source for the Japanese lyrics
+      description: lyrics from the original version of the song. Japanese lyrics not final
     languages:
     - id: ol
-      name: original lyrics (partially from LyricFind)
+      name: original lyrics (partially from LyricFind, Japanese from various sources)
       active: true
       fixed: true
       no-translation: true
       source:
         description: partially from LyricFind
+    - id: ro
+      name: rōmaji
+      no-translation: true
     artists:
     - id: im
       fullname: Ivan Moody
@@ -88,29 +91,42 @@ song:
     - lines:
       - a: s
         ol:
-        - "&lt;updated lyrics in Japanese&gt;"
+        - いつだって僕らは明日を追いかて
+        ro:
+        - Itsu datte bokura wa asu o oikate
         # It's hard to fathom just how fast we all are spinning
       - a: s
         ol:
-        - "&nbsp;"
+        - 一生懸命に走り続けてきた
+        ro:
+        - Isshoukenmei ni hashiritsuzuketekita
         # It's hard to know that there's a heaven beyond hell
       - a: s
         ol:
-        - "&nbsp;"
+        - 一瞬で消えゆく星屑の様に
+        - 一瞬で消えゆく星くずのように
+        ro:
+        - Isshun de kieyuku hoshikuzu no youni
         # It burns a hole right through my soul to think it's ending
       - a: s
         ol:
-        - "&nbsp;"
+        - 儚い（儚い）夢と散る
+        ro:
+        - hakanai (hakanai) yume to chiru
         # But then again (then again), I've been right right before
 
     - lines:
       - a: s
         ol:
-        - "&lt;updated lyrics in Japanese&gt;"
+        - 誰も気づかない
+        ro:
+        - dare mo kizukanai
         # I've opened up my eyes
       - a: s
         ol:
-        - "&nbsp;"
+        - 世界の中で
+        ro:
+        - sekai no naka de
         # Just to find out you're all blind
 
     - lines:
@@ -144,68 +160,63 @@ song:
     - lines:
       - a: s
         ol:
-        - "&lt;updated lyrics in Japanese&gt;"
+        - 世界を賭けて祈りをささげ
         # Make a wish
+        ro:
+        - sekai o kakete inori o sasage
       - a: s
         ol:
-        - "&nbsp;"
+        - 誰も知らない未来ならば
+        ro:
+        - dare mo shiranai mirai naraba
         # Say a prayer
       - a: s
         ol:
-        - "&nbsp;"
+        - 願いを賭けて命をささげ
+        ro:
+        - negai o kakete inochi o sasage
         # Hope that someone is out there
       - a: s
         ol:
-        - "&nbsp;"
+        - 全てが消えても
+        ro:
+        - subete ga kiete mo
         # Build a bridge to Babylon
       - a: s
         ol:
-        - "&nbsp;"
-        # Then burn it to the ground
-
-    - lines:
-      - a: s
-        ol:
-        - "&lt;updated lyrics in Japanese&gt;"
-        # Make a wish
-      - a: s
-        ol:
-        - "&nbsp;"
-        # Say a prayer
-      - a: s
-        ol:
-        - "&nbsp;"
-        # Hope that someone is out there
-      - a: s
-        ol:
-        - "&nbsp;"
-        # Build a bridge to Babylon
-      - a: s
-        ol:
-        - "&nbsp;"
+        - 構わない
+        ro:
+        - kamawanai
         # Then burn it to the ground
       - a: im
         ol:
         - (Burn it to the ground)
 
+
     - lines:
       - a: s
         ol:
-        - "&nbsp;"
+        - 構わない
+        ro:
+        - kamawanai
         # Burn it to the ground
       - a: im
         ol:
         - (Burn it to the ground)
       - a: s
         ol:
-        - "&nbsp;"
+        - 構わない
+        ro:
+        - kamawanai
         # Burn it to the ground
       - a: im
         ol:
         - (Burn it to the ground)
       - a: s
         ol:
-        - "&nbsp;"
+        - 全てが消えても
+        ro:
+        - subete ga kiete mo
         # Build a bridge to Babylon
       - a: im
         ol:
