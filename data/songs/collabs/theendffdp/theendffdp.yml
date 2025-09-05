@@ -14,7 +14,7 @@ song:
   lyrics:
     status:
       code: ok
-      description: Lyrics from the sources, checked agains the audio
+      description: Lyrics from the sources, checked against the audio
     languages:
     - id: ol
       name: original lyrics (based on the Lyrics Video)
