@@ -32,7 +32,7 @@ object Main {
 
     val errors = ErrorsHolder()
 
-    val (parserErrors, datums) = BabymetalSite.Parser001.parseFolder(dataFolder.asFilePath())
+    val (parserErrors, datums) = BabymetalSite.Parser001.parseFolder(dataFolder)
 
     val implicitDatums = ImplicitDatum().generate(datums)
 
@@ -64,7 +64,7 @@ object Main {
 
     val pages = DataToPage(generator).generate(rootPath, data)
 
-    SiteOutput.generate(pages, Seq(staticFrFolder.asFilePath(), staticFolder.asFilePath()), outputFolder.asFilePath())
+    SiteOutput.generate(pages, Seq(staticFrFolder, staticFolder), outputFolder)
 
   }
 
