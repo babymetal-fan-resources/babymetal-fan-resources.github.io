@@ -2,7 +2,6 @@
 - localimage:
     album: babymetal
     id: cover
-    filename: cover.png
     label: Cover
     published-date: 2014-02-26
     source:
@@ -14,7 +13,6 @@
 - localimage:
     album: babymetal
     id: coverfirstpress
-    filename: coverfirstpress.png
     label: Cover
     info: 初回限定盤 (First Press Limited Edition)
     published-date: 2014-02-26

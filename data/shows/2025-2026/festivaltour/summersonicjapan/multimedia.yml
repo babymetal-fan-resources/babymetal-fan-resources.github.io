@@ -4,7 +4,6 @@
       id: summersonictokyo
     id: cover
     label: cover
-    filename: cover400.png
     published-date: 2025-02-27
     source:
       description: BABYMETAL website
@@ -20,7 +19,6 @@
       id: summersonictokyo
     id: merch
     label: Merch
-    filename: merch.png
     published-date: 2025-08-11
     source:
       description: BABYMETAL website

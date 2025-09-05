@@ -1,7 +1,6 @@
 - localimage:
     song: distortion
     id: cover
-    filename: cover.png
     label: Cover
     published-date: 2018-05-08
     source:
@@ -13,7 +12,6 @@
 - localimage:
     song: distortion
     id: coversingle
-    filename: coversingle.png
     label: Cover
     info: Single
     published-date: 2018-11-23

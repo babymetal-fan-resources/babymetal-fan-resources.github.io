@@ -1,7 +1,6 @@
 - localimage:
     song: monochrome
     id: cover
-    filename: cover.png
     label: Cover
     published-date: 2022-11-18
     source:

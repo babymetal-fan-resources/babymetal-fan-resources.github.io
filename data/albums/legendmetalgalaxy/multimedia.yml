@@ -1,7 +1,6 @@
 - localimage:
     album: legendmetalgalaxyday1
     id: cover
-    filename: cover.png
     published-date: 2020-09-09
     label: Cover
     source:
@@ -13,7 +12,6 @@
 - localimage:
     album: legendmetalgalaxyday2
     id: cover
-    filename: cover.png
     published-date: 2020-09-09
     label: Cover
     source:

@@ -1,7 +1,6 @@
 - localimage:
     song: eternalflames
     id: cover
-    filename: cover.png
     label: Cover
     source:
       description: TMG website

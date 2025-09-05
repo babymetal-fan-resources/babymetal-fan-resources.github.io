@@ -1,7 +1,6 @@
 - localimage:
     album: 10babymetalyears
     id: cover
-    filename: cover.png
     published-date: 2020-12-23
     label: Cover
     source:
@@ -13,7 +12,6 @@
 - localimage:
     album: 10babymetalyears
     id: covereditiona
-    filename: covereditiona.png
     published-date: 2020-12-23
     label: Cover
     info: Limited Edition A 「ALL MUSIC CLIPS」
@@ -26,7 +24,6 @@
 - localimage:
     album: 10babymetalyears
     id: covereditionb
-    filename: covereditionb.png
     published-date: 2020-12-23
     label: Cover
     info: Limited Edition B 「10 LEGEND ARTWORKS」
@@ -39,7 +36,6 @@
 - localimage:
     album: 10babymetalyears
     id: covereditionc
-    filename: covereditionc.png
     published-date: 2020-12-23
     label: Cover
     info: Limited Edition C 「10 LEGEND MOVIES」

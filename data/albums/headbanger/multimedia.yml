@@ -1,7 +1,6 @@
 - localimage:
     album: headbanger
     id: cover
-    filename: cover.png
     label: Cover
     published-date: 2012-07-04
     source:
@@ -13,7 +12,6 @@
 - localimage:
     album: headbanger
     id: coverfirstpress
-    filename: coverfirstpress.png
     label: Cover
     info: 初回生産限定盤 "ヘド盤" (First Press Limited Edition "Head Edition")
     published-date: 2012-07-04

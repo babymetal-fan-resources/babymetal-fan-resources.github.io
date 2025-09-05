@@ -1,7 +1,6 @@
 - localimage:
     album: metalgalaxy
     id: cover
-    filename: cover.png
     label: Cover
     published-date: 2019-10-11
     source:
@@ -14,7 +13,6 @@
 - localimage:
     album: metalgalaxy
     id: covermoon
-    filename: covermoon.png
     label: Cover MOON
     published-date: 2019-10-11
     source:
@@ -26,7 +24,6 @@
 - localimage:
     album: metalgalaxy
     id: coversun
-    filename: coversun.png
     label: Cover SUN
     published-date: 2019-10-11
     source:

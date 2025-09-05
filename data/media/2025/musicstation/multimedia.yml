@@ -3,7 +3,6 @@
       year: 2025
       id: musicstation
     id: cover
-    filename: cover.png
     label: Cover
     published-date: 2025-08-29
     source:

@@ -1,7 +1,6 @@
 - localimage:
     album: ijimedamezettai
     id: cover
-    filename: cover.png
     label: Cover
     published-date: 2013-01-09
     source:
@@ -14,7 +13,6 @@
 - localimage:
     album: ijimedamezettailimitededition
     id: coveri
-    filename: coveri.png
     label: Cover
     info: “I”盤 ("I" Edition), SU-METAL
     published-date: 2013-01-09
@@ -27,7 +25,6 @@
 - localimage:
     album: ijimedamezettailimitededition
     id: coverd
-    filename: coverd.png
     label: Cover
     info: “D”盤 ("D" Edition), YUIMETAL
     published-date: 2013-01-09
@@ -40,7 +37,6 @@
 - localimage:
     album: ijimedamezettailimitededition
     id: coverz
-    filename: coverz.png
     label: Cover
     info: “Z”盤 ("Z" Edition), MOAMETAL
     published-date: 2013-01-09

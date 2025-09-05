@@ -24,7 +24,6 @@
     multimedia-event: frommetoumv
     id: mvcover
     label: MV cover
-    filename: mvcover.png
     published-date: 2025-04-04
     source:
       description: YouTube video

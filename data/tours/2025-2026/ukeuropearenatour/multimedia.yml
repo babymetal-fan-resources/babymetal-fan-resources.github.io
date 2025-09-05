@@ -2,7 +2,6 @@
     tour: ukeuropearenatour2025
     id: cover
     label: cover
-    filename: cover400.png
     published-date: 2024-10-23
     source:
       description: BABYMETAL website
@@ -23,7 +22,6 @@
     tour: ukeuropearenatour2025
     id: merch01
     label: Merch
-    filename: merch01.png
     published-date: 2025-05-09
     source:
       description: BABYMETAL website

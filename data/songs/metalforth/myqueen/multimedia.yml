@@ -10,7 +10,6 @@
 - localimage:
     song: myqueen
     id: cover
-    filename: cover.png
     label: Cover
     published-date: 2025-08-08
     source:
