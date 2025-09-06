@@ -4,6 +4,7 @@ import org.skyluc.babymetal_site.checks.CheckLocalAssetExists
 import org.skyluc.babymetal_site.data.Data
 import org.skyluc.babymetal_site.data2Page.DataToPage
 import org.skyluc.babymetal_site.html.CompiledDataGeneratorBuilder
+import org.skyluc.babymetal_site.yaml.BabymetalSiteDecoders
 import org.skyluc.fan_resources.ErrorsHolder
 import org.skyluc.fan_resources.Main.displayErrors
 import org.skyluc.fan_resources.checks.DataCheck
@@ -13,7 +14,7 @@ import org.skyluc.fan_resources.data as frData
 import org.skyluc.fan_resources.data.Path
 import org.skyluc.fan_resources.html.SiteOutput
 
-import frData.ImplicitDatum
+import frData.op.DataLoader
 
 object Main {
 
@@ -32,31 +33,28 @@ object Main {
 
     val errors = ErrorsHolder()
 
-    val (parserErrors, datums) = BabymetalSite.Parser001.parseFolder(dataFolder)
+    val (parserErrors, d) =
+      DataLoader.load(dataFolder, BabymetalSiteDecoders, Data.creator, Data.implicitDatumsExpander)
 
-    val implicitDatums = ImplicitDatum().generate(datums)
-
-    errors.append("PARSER ERRORS", parserErrors)
-
-    val d = frData.Data.get(datums ++ implicitDatums, Data.creator)
+    errors.append("PARSER ERRORS", parserErrors, true)
 
     val (checkErrors, checkedDatums) =
       DataCheck.check(
-        datums ++ implicitDatums,
+        d.datums.values.toSeq,
         d,
         ReferencesCheckProcessor(d.datums.keySet, d),
         CheckLocalAssetExists(rootPath.resolve(BASE_IMAGE_ASSET_PATH)),
       )
 
-    val data = frData.Data.get(checkedDatums, Data.creator)
+    val (toDataError, data) = frData.Data.get(checkedDatums, Data.creator)
 
     val moreCheckerrors = MoreDataCheck.check(data)
 
-    errors.append("CHECKS ERRORS", checkErrors ++ moreCheckerrors)
+    errors.append("CHECKS ERRORS", checkErrors ++ toDataError ++ moreCheckerrors, true)
 
     displayErrors(errors, 10)
 
-    if (!errors.isEmpty) {
+    if (errors.hasCriticalErrors) {
       System.exit(2)
     }
 
