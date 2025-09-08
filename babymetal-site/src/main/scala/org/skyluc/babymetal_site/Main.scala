@@ -1,17 +1,14 @@
 package org.skyluc.babymetal_site
 
-import org.skyluc.babymetal_site.checks.CheckLocalAssetExists
 import org.skyluc.babymetal_site.data.Data
 import org.skyluc.babymetal_site.data2Page.DataToPage
 import org.skyluc.babymetal_site.html.CompiledDataGeneratorBuilder
 import org.skyluc.babymetal_site.yaml.BabymetalSiteDecoders
 import org.skyluc.fan_resources.ErrorsHolder
 import org.skyluc.fan_resources.Main.displayErrors
-import org.skyluc.fan_resources.checks.DataCheck
-import org.skyluc.fan_resources.checks.MoreDataCheck
-import org.skyluc.fan_resources.checks.ReferencesCheckProcessor
 import org.skyluc.fan_resources.data as frData
 import org.skyluc.fan_resources.data.Path
+import org.skyluc.fan_resources.data.checks.DataCheck
 import org.skyluc.fan_resources.html.SiteOutput
 
 import frData.op.DataLoader
@@ -33,24 +30,20 @@ object Main {
 
     val errors = ErrorsHolder()
 
-    val (parserErrors, d) =
-      DataLoader.load(dataFolder, BabymetalSiteDecoders, Data.creator, Data.implicitDatumsExpander)
-
-    errors.append("PARSER ERRORS", parserErrors, true)
-
-    val (checkErrors, checkedDatums) =
-      DataCheck.check(
-        d.datums.values.toSeq,
-        d,
-        ReferencesCheckProcessor(d.datums.keySet, d),
-        CheckLocalAssetExists(rootPath.resolve(BASE_IMAGE_ASSET_PATH)),
+    val (loaderErrors, data) =
+      DataLoader.load(
+        dataFolder,
+        BabymetalSiteDecoders,
+        Data.dispatcherBuilder,
+        Data.defaultExpanders,
+        Data.defaultPopulaters,
       )
 
-    val (toDataError, data) = frData.Data.get(checkedDatums, Data.creator)
+    errors.append("LOADER ERRORS", loaderErrors, true)
 
-    val moreCheckerrors = MoreDataCheck.check(data)
+    val checkErrors = DataCheck.check(data, (Data.defaultCheckers(staticFolder)))
 
-    errors.append("CHECKS ERRORS", checkErrors ++ toDataError ++ moreCheckerrors, true)
+    errors.append("CHECKS ERRORS", checkErrors, true)
 
     displayErrors(errors, 10)
 
@@ -75,6 +68,6 @@ object Main {
   val TARGET_PATH = "target"
   val SITE_PATH = "site"
 
-  val BASE_IMAGE_ASSET_PATH = Path(STATIC_PATH, ASSET_PATH, IMAGE_PATH)
+  val BASE_IMAGE_ASSET_PATH = Path(ASSET_PATH, IMAGE_PATH)
 
 }

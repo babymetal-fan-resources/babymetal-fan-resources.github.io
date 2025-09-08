@@ -32,3 +32,5 @@ trait WithProcessorElement extends fr.WithProcessorElement {
 trait Processor[T] extends fr.Processor[T] with ProcessorElement[T] {}
 
 trait ProcessorElement[T] extends fr.ProcessorElement[T] {}
+
+trait ProcessorMultimedia[T] extends fr.ProcessorMultimedia[T] {}

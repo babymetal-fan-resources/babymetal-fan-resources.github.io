@@ -60,7 +60,7 @@ class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[
       PostXImagePage(Config.current.baseUrl, Seq(cssStyles.outputPath, cssStylesFr.outputPath), Config.current.isLocal)
 
     val allPages =
-      data.elements.values.filterNot(_.hasError).map(_.process(this)).flatten.toSeq ++ AboutPage.pages()
+      data.elements.values.flatMap(_.process(this)).toSeq ++ AboutPage.pages()
 
     allPages ++ Seq(cssStyles, cssStylesFr, SitemapPage(allPages), postXImagePage)
   }

@@ -1,6 +1,6 @@
-package org.skyluc.babymetal_site.checks
+package org.skyluc.babymetal_site.data.checks
 
-import org.skyluc.fan_resources.checks as fr
+import org.skyluc.fan_resources.data.checks as fr
 import org.skyluc.fan_resources.yaml.Backup
 
 object CheckBackupExists {
