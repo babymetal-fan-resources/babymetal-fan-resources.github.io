@@ -1,0 +1,107 @@
+- lyrics:
+    song: kxaxwxaxixi
+    id: main
+    status:
+      code: warning
+      description: data copied from the sources.
+    languages:
+    - id: ol
+      name: original lyrics
+      details: (from lyrics poster in METAL FORTH - Limited Edition)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: from lyrics poster in METAL FORTH - Limited Edition
+    sections:
+    - lines:
+      - ol:
+        - わたしKAWAII わたしKAWAII
+      - ol:
+        - わたしKAWAII やっぱKAWAIIでしょ？
+      - ol:
+        - I am KAWAII I am KAWAII
+      - ol:
+        - I am KAWAII やっぱKAWAII好き？
+
+    - lines:
+      - ol:
+        - 駅前 ストリート 養う
+      - ol:
+        - 侍 スピリット 武器は
+      - ol:
+        - 刀 代わり スマホ
+      - ol:
+        - 片手 握り
+
+    - lines:
+      - ol:
+        - わたしKAWAII わたしKAWAII
+      - ol:
+        - わたしKAWAII やっぱKAWAIIでしょ？
+
+    - lines:
+      - ol:
+        - KxAxWxAxIxI, KxAxWxAxlxl
+      - ol:
+        - KxAxWxAxIxI, KxAxWxAxIxI
+
+    - lines:
+      - ol:
+        - With a pink blade, I slash the fake
+      - ol:
+        - Behind a smile, I aim the stake
+      - ol:
+        - Ribbon sways, breaking the dark
+      - ol:
+        - With a sweet trap, I make my mark
+      - ol:
+        - Choker tight, fire's light
+      - ol:
+        - With a delicate gaze, I break the night
+      - ol:
+        - Hiding the fight with a stuffed toy
+      - ol:
+        - Biting with pain, the sweet ploy
+    
+    - lines:
+      - ol:
+        - Kawaii queen, it's a massacre
+      - ol:
+        - History fades with a smile, so pure
+      - ol:
+        - Kawaii demon, sweet and bitter
+      - ol:
+        - Melt in the dark, everything's litter
+
+    - lines:
+      - ol:
+        - わたしKAWAII わたしKAWAII
+      - ol:
+        - わたしKAWAII やっぱKAWAIIでしょ？
+
+    - lines:
+      - ol:
+        - わたしKAWAII わたしKAWAII
+      - ol:
+        - わたしKAWAII やっぱKAWAII好き？
+      - ol:
+        - わたしKAWAII I am KAWAII
+      - ol:
+        - We are KAWAII 無敵のFriendsでしょ？
+
+    - lines:
+      - ol:
+        - We are KAWAII
+      - ol:
+        - We are KAWAII
+      - ol:
+        - We are KAWAII
+      - ol:
+        - KAWAII No.1
+      - ol:
+        - ワタシガイチバン
+      - ol:
+        - アンタハニバン
+      - ol:
+        - KAWAII No.1

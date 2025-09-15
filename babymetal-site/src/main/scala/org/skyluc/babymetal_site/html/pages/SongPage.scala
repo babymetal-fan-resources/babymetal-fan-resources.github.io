@@ -3,6 +3,7 @@ package org.skyluc.babymetal_site.html.pages
 import org.skyluc.babymetal_site.html.PageDescription
 import org.skyluc.babymetal_site.html.SitePage
 import org.skyluc.fan_resources.Common
+import org.skyluc.fan_resources.data.Lyrics
 import org.skyluc.fan_resources.data.Song
 import org.skyluc.fan_resources.html.CompiledDataGenerator
 import org.skyluc.fan_resources.html.ElementCompiledData
@@ -16,8 +17,8 @@ import org.skyluc.fan_resources.html.component.MultiMediaCard
 import org.skyluc.html.*
 
 class SongPage(
-    song: Song,
     songCompiledData: ElementCompiledData,
+    lyrics: Option[Lyrics],
     multimediaBlock: MultiMediaBlockCompiledData,
     description: PageDescription,
 ) extends SitePage(description) {
@@ -28,7 +29,7 @@ class SongPage(
 
     val multiMediaMainSections = MultiMediaCard.generateMainSections(multimediaBlock, songCompiledData.uId)
 
-    val lyricsSection = song.lyrics.map(LyricsSection.generate).getOrElse(Seq())
+    val lyricsSection = lyrics.map(LyricsSection.generate).getOrElse(Seq())
 
     val additionalSection = MultiMediaCard.generateAdditionalSection(multimediaBlock, songCompiledData.uId)
 
@@ -77,8 +78,8 @@ object SongPage {
     }
 
     val mainPage = SongPage(
-      song,
       compiledData,
+      song.lyrics.headOption.map(generator.get),
       multimediaBlock,
       PageDescription(
         TitleAndDescription.formattedTitle(

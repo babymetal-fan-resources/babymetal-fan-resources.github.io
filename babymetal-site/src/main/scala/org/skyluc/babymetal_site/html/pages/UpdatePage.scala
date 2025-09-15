@@ -10,6 +10,7 @@ import org.skyluc.fan_resources.html.TitleAndDescription
 import org.skyluc.fan_resources.html.UpdateCompiledData
 import org.skyluc.fan_resources.html.component.UpdatesSection
 import org.skyluc.html.*
+import org.skyluc.fan_resources.html.TextCompiledData
 
 class UpdatePage(updates: Seq[UpdateCompiledData], pageDescription: PageDescription) extends SitePage(pageDescription) {
 
@@ -25,7 +26,7 @@ object UpdatePage {
 
     val path = Path(updatePage.id.id)
 
-    val updates = UpdatesSection.toCompiledData(updatePage.id, updatePage.updates, generator)
+    val updates = TextCompiledData.toCompiledData(updatePage.id, updatePage.updates, generator)
 
     val pageDescription =
       PageDescription(
