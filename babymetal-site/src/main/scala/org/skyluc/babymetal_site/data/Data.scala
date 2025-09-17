@@ -13,8 +13,8 @@ object Data {
 
   val dispatcherBuilder = new fr.op.DataDispatcherBuilder {
 
-    override def build(dataBuilder: fr.op.DataBuilder): fr.op.DataDispatcher =
-      fr.op.DataDispatcher(dataBuilder)
+    override def build(DataProcessor: fr.op.DataProcessor): fr.op.DataDispatcher =
+      fr.op.DataDispatcher(DataProcessor)
 
   }
 

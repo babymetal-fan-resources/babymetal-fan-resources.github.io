@@ -23,6 +23,7 @@ object Dependencies {
     "com.typesafe.akka" %% "akka-actor-typed" % Versions.Akka,
     "com.typesafe.akka" %% "akka-stream" % Versions.Akka,
     "com.typesafe.akka" %% "akka-http" % Versions.AkkaHttp,
+    "com.typesafe.akka" %% "akka-http-spray-json" % Versions.AkkaHttp,
   )
 
   val TypesafeConfig = Seq(
