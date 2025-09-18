@@ -1,6 +1,7 @@
 package org.skyluc.babymetal_site.data
 
 import org.skyluc.fan_resources.data as fr
+import org.skyluc.reference.html.edit.EditSupportContext
 
 import fr.op.ImplicitDatumExpander
 import fr.Path
@@ -27,5 +28,7 @@ object Data {
     ReferencesChecker(ReferencesCheckProcessorBuilder()),
     LocalAssetExistsChecker(staticFolderPath),
   )
+
+  val editSupportContext = new EditSupportContext {}
 
 }
