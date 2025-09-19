@@ -8,12 +8,21 @@ song:
     localimage:
       album: babymetal
       id: cover
-  credits:
-    lyricist: RYU-METAL, FUJI-METAL, 中田　カオス
-    composer: TEAM-K
+  lyricist:
+    value: RYU-METAL, FUJI-METAL, 中田　カオス
     source:
       description: 'JASRAC - work ID: 705-1596-4'
       url: https://www2.jasrac.or.jp/
+  composer:
+    value: TEAM-K
+    source:
+      description: 'JASRAC - work ID: 705-1596-4'
+      url: https://www2.jasrac.or.jp/
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: https://www.mikiko0811.net/#works
   wiki: https://babymetal.fandom.com/wiki/Uki_Uki_%E2%98%85_Midnight
   part-of:
     album: babymetal

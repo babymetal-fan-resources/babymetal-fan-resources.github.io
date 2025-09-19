@@ -7,13 +7,21 @@ song:
     localimage:
       song: roadofresistance
       id: cover
-  credits:
-    lyricist: MK-METAL, KxBxMETAL, KISTUNE OF METAL GOD
-    composer: Mish-Mosh, KYT-METAL, NORiMETAL
+  lyricist:
+    value: MK-METAL, KxBxMETAL, KISTUNE OF METAL GOD
     source:
       description: 'JASRAC - work ID: 711-7809-1'
       url: https://www2.jasrac.or.jp/
-  choreographer: MIKIKO
+  composer:
+    value: Mish-Mosh, KYT-METAL, NORiMETAL
+    source:
+      description: 'JASRAC - work ID: 711-7809-1'
+      url: https://www2.jasrac.or.jp/
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: https://www.mikiko0811.net/#works
   wiki: https://babymetal.fandom.com/wiki/Road_of_Resistance
   part-of:
     album: metalresistance

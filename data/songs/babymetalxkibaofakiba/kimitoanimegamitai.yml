@@ -8,13 +8,21 @@ song:
     localimage:
       album: babymetalxkibaofakiba
       id: cover
-  credits:
-    lyricist: キバオブアキバ
-    composer: キバオブアキバ
+  lyricist:
+    value: キバオブアキバ
     source:
       description: 'JASRAC - work ID: 183-2595-5'
       url: https://www2.jasrac.or.jp/
-  choreographer: MIKIKO
+  composer:
+    value: キバオブアキバ
+    source:
+      description: 'JASRAC - work ID: 183-2595-5'
+      url: https://www2.jasrac.or.jp/
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: https://www.mikiko0811.net/#works
   wiki: https://babymetal.fandom.com/wiki/Kimi_to_Anime_ga_Mitai
   part-of:
     album: babymetalxkibaofakiba

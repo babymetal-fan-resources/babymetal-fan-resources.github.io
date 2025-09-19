@@ -8,9 +8,12 @@ song:
       image: GnWBzbdbgAA2zuP
   album: metalforth
   wiki: https://babymetal.fandom.com/wiki/Algorism
-  credits:
-    lyricist: ALGO-METAL, NORiMETAL
-    composer: ALGO-METAL, NORiMETAL
+  lyricist:
+    value: ALGO-METAL, NORiMETAL
+    source:
+      description: CD jacket
+  composer:
+    value: ALGO-METAL, NORiMETAL
     source:
       description: CD jacket
   part-of:

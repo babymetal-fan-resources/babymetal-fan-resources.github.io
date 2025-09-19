@@ -8,13 +8,21 @@ song:
     postximage:
       post: 1792208596262166999
       image: GN71UVjbcAADENF
-  credits:
-    lyricist: Kevin Ratajczak, Nico Sallach, Pascal Schillo, Daniel Haniß, MK-METAL
-    composer: NORiMETAL, Kevin Ratajczak, Nico Sallach, Pascal Schillo, Daniel Haniß
+  lyricist:
+    value: Kevin Ratajczak, Nico Sallach, Pascal Schillo, Daniel Haniß, MK-METAL
     source:
       description: Music video description
       url: https://www.youtube.com/watch?v=EDnIEWyVIlE
-  choreographer: MIKIKO
+  composer:
+    value: NORiMETAL, Kevin Ratajczak, Nico Sallach, Pascal Schillo, Daniel Haniß
+    source:
+      description: Music video description
+      url: https://www.youtube.com/watch?v=EDnIEWyVIlE
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: https://www.mikiko0811.net/#works
   wiki: https://babymetal.fandom.com/wiki/RATATATA
   part-of:
     album: metalforth

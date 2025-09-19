@@ -7,13 +7,21 @@ song:
     localimage:
       album: theotherone
       id: cover
-  credits:
-    lyricist: KITSUNE OF METAL GOD
-    composer: RYU-METAL, MEGMETAL
+  lyricist:
+    value: KITSUNE OF METAL GOD
     source:
       description: 'JASRAC - work ID: 281-8935-3'
       url: https://www2.jasrac.or.jp/
-  choreographer: MIKIKO
+  composer:
+    value: RYU-METAL, MEGMETAL
+    source:
+      description: 'JASRAC - work ID: 281-8935-3'
+      url: https://www2.jasrac.or.jp/
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: https://www.mikiko0811.net/#works
   wiki: https://babymetal.fandom.com/wiki/THE_LEGEND
   part-of:
     album: theotherone

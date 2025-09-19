@@ -9,9 +9,12 @@ song:
       image: GnWBzbdbgAA2zuP
   album: metalforth
   wiki: https://babymetal.fandom.com/wiki/Sunset_Kiss
-  credits:
-    lyricist: MK-METAL, MEGMETAL
-    composer: MK-METAL, MEGMETAL
+  lyricist:
+    value: MK-METAL, MEGMETAL
+    source:
+      description: CD jacket
+  composer:
+    value: MK-METAL, MEGMETAL
     source:
       description: CD jacket
   part-of:

@@ -8,9 +8,12 @@ song:
       image: GnWBzbdbgAA2zuP
   album: metalforth
   wiki: https://babymetal.fandom.com/wiki/KxAxWxAxIxI
-  credits:
-    lyricist: METAL CYPHER, DAIDAI
-    composer: METAL CYPHER, DAIDAI
+  lyricist:
+    value: METAL CYPHER, DAIDAI
+    source:
+      description: CD jacket
+  composer:
+    value: METAL CYPHER, DAIDAI
     source:
       description: CD jacket
   part-of:

@@ -7,13 +7,21 @@ song:
     localimage:
       album: metalgalaxy
       id: cover
-  credits:
-    lyricist: METAL CYPHER
-    composer: METAL CYPHER, MEGMETAL
+  lyricist:
+    value: METAL CYPHER
     source:
       description: 'JASRAC - work ID: 248-8134-1'
       url: https://www2.jasrac.or.jp/
-  choreographer: MIKIKO
+  composer:
+    value: METAL CYPHER, MEGMETAL
+    source:
+      description: 'JASRAC - work ID: 248-8134-1'
+      url: https://www2.jasrac.or.jp/
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: https://www.mikiko0811.net/#works
   wiki: https://babymetal.fandom.com/wiki/BxMxC
   part-of:
     album: metalgalaxy

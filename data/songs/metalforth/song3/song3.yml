@@ -8,13 +8,21 @@ song:
     postyoutubeimage:
       post: Ugkx9s1Spc90uUxKTukNacDarzBVcwTnHXKc
       image: 9e1DloGNajtEoMDsp9MVG-5AKA07WHAvRy7Mp_XmskjlDsCkHGl6F9PqSxKHXAYQnIShHZS080DJwMo
-  credits:
-    lyricist: 333-METAL, Aleksandr Igorevish, Jack Simmons, Nikita Korzhov, TAKEMETAL, tatsuoMETAL
-    composer: 333-METAL, Aleksandr Igorevish, Jack Simmons, Nikita Korzhov, TAKEMETAL, tatsuoMETAL
+  lyricist:
+    value: 333-METAL, Aleksandr Igorevish, Jack Simmons, Nikita Korzhov, TAKEMETAL, tatsuoMETAL
     source:
       description: Music video description
       url: https://www.youtube.com/watch?v=1V6-9338-4
-  choreographer: MIKIKO
+  composer:
+    value: 333-METAL, Aleksandr Igorevish, Jack Simmons, Nikita Korzhov, TAKEMETAL, tatsuoMETAL
+    source:
+      description: Music video description
+      url: https://www.youtube.com/watch?v=1V6-9338-4
+  choreographer:
+    value: MIKIKO
+    source:
+      description: music video description
+      url: https://www.youtube.com/watch?v=KEMVgy51kPE
   wiki: https://babymetal.fandom.com/wiki/Song_3
   part-of:
     album: metalforth

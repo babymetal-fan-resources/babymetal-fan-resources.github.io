@@ -7,13 +7,16 @@ song:
     localimage:
       album: metalgalaxy
       id: cover
-  credits:
-    lyricist: RYU-METAL
-    composer: RYU-METAL
+  lyricist:
+    value: RYU-METAL
     source:
       description: 'JASRAC - work ID: 248-8126-1'
       url: https://www2.jasrac.or.jp/
-  choreographer: MIKIKO
+  composer:
+    value: RYU-METAL
+    source:
+      description: 'JASRAC - work ID: 248-8126-1'
+      url: https://www2.jasrac.or.jp/
   wiki: https://babymetal.fandom.com/wiki/%E2%86%91%E2%86%93%E2%86%90%E2%86%92BBAB
   part-of:
     album: metalgalaxy

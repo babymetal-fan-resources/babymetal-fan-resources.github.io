@@ -14,18 +14,20 @@ object BabymetalSiteDecoders extends FrDecoders {
       "BABYMETAL Wiki",
       true,
       ElementInfo.INFO_LEVEL_ALL,
+      false,
     )
 
-  override def albumAttributeDefinitions: Seq[AttributeDefinition] = Seq(
+  override def albumAttributeDefinitions: Seq[AttributeDefinition] = super.albumAttributeDefinitions ++ Seq(
     ATTRIBUTE_DEFINITION_WIKI
   )
 
-  override def songAttributeDefinitions: Seq[AttributeDefinition] = Seq(
+  override def songAttributeDefinitions: Seq[AttributeDefinition] = super.songAttributeDefinitions ++ Seq(
     AttributeDefinition(
       CHOREOGRAPHER,
       "choreographer",
       false,
       ElementInfo.INFO_LEVEL_ALL,
+      true,
     ),
     ATTRIBUTE_DEFINITION_WIKI,
   )

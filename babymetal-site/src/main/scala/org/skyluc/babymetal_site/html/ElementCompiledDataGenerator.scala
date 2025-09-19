@@ -11,7 +11,7 @@ class ElementCompiledDataGenerator(generator: fr.CompiledDataGenerator) extends 
 
   val missingCompiledData: fr.ElementCompiledData = fr.ElementCompiledData(
     Common.MISSING,
-    Common.SPACE,
+    Common.HTML_SPACE,
     Common.MISSING,
     None,
     None,

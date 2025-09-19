@@ -8,9 +8,12 @@ song:
       song: myqueen
       id: cover
   album: metalforth
-  credits:
-    lyricist: TAKEMETAL, Q-METAL, Drew Fulk, Zakk Cervini, Mike Stringer, Courtney LaPlante
-    composer: TAKEMETAL, Q-METAL, Drew Fulk, Zakk Cervini, Mike Stringer, Courtney LaPlante
+  lyricist:
+    value: TAKEMETAL, Q-METAL, Drew Fulk, Zakk Cervini, Mike Stringer, Courtney LaPlante
+    source:
+      description: CD jacket
+  composer:
+    value: TAKEMETAL, Q-METAL, Drew Fulk, Zakk Cervini, Mike Stringer, Courtney LaPlante
     source:
       description: CD jacket
   wiki: https://babymetal.fandom.com/wiki/My_Queen

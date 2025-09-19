@@ -9,13 +9,21 @@ song:
       song: metali
       id: cover
   album: metalforth
-  credits:
-    lyricist: METAL-NIKI
-    composer: RYU-METAL, NORiMETAL
+  lyricist:
+    value: METAL-NIKI
     source:
       description: 'JASRAC - work ID: 772-1687-3'
       url: https://www2.jasrac.or.jp/
-  choreographer: MIKIKO
+  composer:
+    value: RYU-METAL, NORiMETAL
+    source:
+      description: 'JASRAC - work ID: 772-1687-3'
+      url: https://www2.jasrac.or.jp/
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: https://www.mikiko0811.net/#works
   wiki: https://babymetal.fandom.com/wiki/METALI!!
   part-of:
     album: metalforth

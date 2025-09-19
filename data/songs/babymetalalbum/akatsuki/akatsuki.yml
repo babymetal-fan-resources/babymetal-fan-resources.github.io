@@ -8,9 +8,13 @@ song:
       album: megitsune
       id: cover
   album: babymetal
-  credits:
-    lyricist: NAKAMETAL, TSUBOMETAL
-    composer: TSUBOMETAL
+  lyricist:
+    value: NAKAMETAL, TSUBOMETAL
+    source:
+      description: 'JASRAC - work ID: 194-0474-3'
+      url: https://www2.jasrac.or.jp/
+  composer:
+    value: TSUBOMETAL
     source:
       description: 'JASRAC - work ID: 194-0474-3'
       url: https://www2.jasrac.or.jp/

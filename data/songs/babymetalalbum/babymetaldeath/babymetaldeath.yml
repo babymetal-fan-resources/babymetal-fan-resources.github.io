@@ -7,9 +7,13 @@ song:
       album: ijimedamezettailimitededition
       id: coveri
   album: babymetal
-  credits:
-    lyricist: KITSUNE OF METAL GOD
-    composer: KITSUNE OF METAL GOD
+  lyricist:
+    value: KITSUNE OF METAL GOD
+    source:
+      description: 'JASRAC - work ID: 191-7418-7'
+      url: https://www2.jasrac.or.jp/
+  composer:
+    value: KITSUNE OF METAL GOD
     source:
       description: 'JASRAC - work ID: 191-7418-7'
       url: https://www2.jasrac.or.jp/

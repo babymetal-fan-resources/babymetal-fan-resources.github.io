@@ -8,13 +8,21 @@ song:
     localimage:
       album: ijimedamezettai
       id: cover
-  credits:
-    lyricist: NAKAMETAL, TSUBOMETAL
-    composer: KxBxMETAL, TAKEMETAL, TSUBOMETAL
+  lyricist:
+    value: NAKAMETAL, TSUBOMETAL
     source:
       description: 'JASRAC - work ID: 706-5327-5'
       url: https://www2.jasrac.or.jp/
-  choreographer: MIKIKO
+  composer:
+    value: KxBxMETAL, TAKEMETAL, TSUBOMETAL
+    source:
+      description: 'JASRAC - work ID: 706-5327-5'
+      url: https://www2.jasrac.or.jp/
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: https://www.mikiko0811.net/#works
   wiki: https://babymetal.fandom.com/wiki/Ijime,_Dame,_Zettai
   part-of:
     album: babymetal

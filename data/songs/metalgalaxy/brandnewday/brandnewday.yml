@@ -7,13 +7,21 @@ song:
     localimage:
       album: metalgalaxy
       id: cover
-  credits:
-    lyricist: MK-METAL
-    composer: MEGMETAL
+  lyricist:
+    value: MK-METAL
     source:
       description: 'JASRAC - work ID: 248-8123-6'
       url: https://www2.jasrac.or.jp/
-  choreographer: MIKIKO
+  composer:
+    value: MEGMETAL
+    source:
+      description: 'JASRAC - work ID: 248-8123-6'
+      url: https://www2.jasrac.or.jp/
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: https://www.mikiko0811.net/#works
   wiki: https://babymetal.fandom.com/wiki/Brand_New_Day
   part-of:
     album: metalgalaxy

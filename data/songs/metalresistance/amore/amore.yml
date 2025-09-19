@@ -8,13 +8,21 @@ song:
     localimage:
       album: metalresistance
       id: cover
-  credits:
-    lyricist: MK-METAL, KxBxMETAL, NORiMETAL
-    composer: NORiMETAL
+  lyricist:
+    value: MK-METAL, KxBxMETAL, NORiMETAL
     source:
       description: 'JASRAC - work ID: 714-7107-3'
       url: https://www2.jasrac.or.jp/
-  choreographer: MIKIKO
+  composer:
+    value: NORiMETAL
+    source:
+      description: 'JASRAC - work ID: 714-7107-3'
+      url: https://www2.jasrac.or.jp/
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: https://www.mikiko0811.net/#works
   wiki: https://babymetal.fandom.com/wiki/Amore
   part-of:
     album: metalresistance

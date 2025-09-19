@@ -7,13 +7,21 @@ song:
     localimage:
       album: metalgalaxy
       id: cover
-  credits:
-    lyricist: MK-METAL
-    composer: YOYOYUPPE
+  lyricist:
+    value: MK-METAL
     source:
       description: 'JASRAC - work ID: 501-5815-5'
       url: https://www2.jasrac.or.jp/
-  choreographer: MIKIKO
+  composer:
+    value: YOYOYUPPE
+    source:
+      description: 'JASRAC - work ID: 501-5815-5'
+      url: https://www2.jasrac.or.jp/
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: https://www.mikiko0811.net/#works
   wiki: https://babymetal.fandom.com/wiki/Kagerou
   part-of:
     album: metalgalaxy

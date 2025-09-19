@@ -4,9 +4,13 @@ song:
   shortname: from me to u
   album: metalforth
   release-date: 2025-04-04
-  credits:
-    lyricist: MK-METAL, Jordan Fish, Poppy
-    composer: MK-METAL, Jordan Fish, Poppy
+  lyricist:
+    value: MK-METAL, Jordan Fish, Poppy
+    source:
+      description: 'JASRAC - work ID: 1V3-1774-9'
+      url: 'https://www2.jasrac.or.jp/'
+  composer:
+    value: MK-METAL, Jordan Fish, Poppy
     source:
       description: 'JASRAC - work ID: 1V3-1774-9'
       url: 'https://www2.jasrac.or.jp/'
@@ -14,7 +18,11 @@ song:
     postximage:
       post: 1908172721055469909
       image: GnsqdGTbQAAkPmf
-  choreographer: MIKIKO
+  choreographer:
+    value: MIKIKO
+    source:
+      description: music video description
+      url: https://www.youtube.com/watch?v=qayP_YUrf9I
   wiki: https://babymetal.fandom.com/wiki/From_me_to_u
   part-of:
     album: metalforth

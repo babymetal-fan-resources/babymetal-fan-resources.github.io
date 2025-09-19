@@ -7,12 +7,21 @@ song:
     localimage:
       album: metalgalaxy
       id: cover
-  credits:
-    lyricist: MUKTI-METAL
-    composer: MEGMETAL
+  lyricist:
+    value: MUKTI-METAL
     source:
       description: 'JASRAC - work ID: 248-8120-1'
       url: https://www2.jasrac.or.jp/
+  composer:
+    value: MEGMETAL
+    source:
+      description: 'JASRAC - work ID: 248-8120-1'
+      url: https://www2.jasrac.or.jp/
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: https://www.mikiko0811.net/#works
   wiki: https://babymetal.fandom.com/wiki/FUTURE_METAL
   part-of:
     album: metalgalaxy

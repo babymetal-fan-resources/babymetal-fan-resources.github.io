@@ -8,14 +8,22 @@ song:
       album: babymetal
       id: cover
   album: babymetal
-  credits:
-    lyricist: MKMETAL, KxBxMETAL
-    composer: TAKESHI UEDA
+  lyricist:
+    value: MKMETAL, KxBxMETAL
+    source:
+      description: 'JASRAC - work ID: 709-5556-5'
+      url: https://www2.jasrac.or.jp/
+  composer:
+    value: TAKESHI UEDA
     source:
       description: 'JASRAC - work ID: 709-5556-5'
       url: https://www2.jasrac.or.jp/
   wiki: https://babymetal.fandom.com/wiki/Gimme_Chocolate!!
-  choreographer: MIKIKO
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: https://www.mikiko0811.net/#works
   part-of:
     album: babymetal
   multimedia:

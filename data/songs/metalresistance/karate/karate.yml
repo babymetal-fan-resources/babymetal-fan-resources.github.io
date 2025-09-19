@@ -7,13 +7,21 @@ song:
     localimage:
       album: metalresistance
       id: cover
-  credits:
-    lyricist: YUYOYUPPE
-    composer: YUYOYUPPE
+  lyricist:
+    value: YUYOYUPPE
     source:
       description: 'JASRAC - work ID: 217-2105-0'
       url: https://www2.jasrac.or.jp/
-  choreographer: MIKIKO
+  composer:
+    value: YUYOYUPPE
+    source:
+      description: 'JASRAC - work ID: 217-2105-0'
+      url: https://www2.jasrac.or.jp/
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: https://www.mikiko0811.net/#works
   wiki: https://babymetal.fandom.com/wiki/KARATE
   part-of:
     album: metalresistance
