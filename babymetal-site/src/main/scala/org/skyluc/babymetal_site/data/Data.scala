@@ -3,7 +3,6 @@ package org.skyluc.babymetal_site.data
 import org.skyluc.fan_resources.data as fr
 import org.skyluc.reference.html.edit.EditSupportContext
 
-import fr.op.ImplicitDatumExpander
 import fr.Path
 import fr.checks.DataCheck
 import fr.checks.ReferencesChecker
@@ -19,7 +18,7 @@ object Data {
 
   }
 
-  val defaultExpanders = fr.op.DataLoader.defaultExpanders(fr.op.ImplicitDatumExpander())
+  val defaultExpanders = fr.op.DataLoader.defaultExpanders(op.ImplicitDataExpander)
 
   val defaultPopulaters =
     fr.op.DataLoader.defaultPopulaters(fr.op.MultimediaExtraPopulater(fr.op.MultimediaExtraProcessBuilder()))
