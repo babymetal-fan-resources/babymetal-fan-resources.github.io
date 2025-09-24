@@ -1,6 +1,8 @@
 - lyrics:
     song: metali
     id: main
+    part-of:
+      song: metali
     status:
       code: warning
       description: data copied from the sources. Missing a fair bit of MOAMETAL+MOMOMETAL parts. Vocalists split not precise enough.

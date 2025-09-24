@@ -1,6 +1,8 @@
 - lyrics:
     song: myqueen
     id: main
+    part-of:
+      song: myqueen
     status:
       code: warning
       description: data copied from the sources.

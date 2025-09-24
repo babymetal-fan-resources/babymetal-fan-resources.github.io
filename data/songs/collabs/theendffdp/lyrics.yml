@@ -1,6 +1,8 @@
 - lyrics:
     song: theendffdp
     id: main
+    part-of:
+      song: theendffdp
     status:
       code: ok
       description: Lyrics from the sources, checked against the audio

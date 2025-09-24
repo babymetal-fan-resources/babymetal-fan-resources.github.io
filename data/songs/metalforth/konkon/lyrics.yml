@@ -1,6 +1,8 @@
 - lyrics:
     song: konkon
     id: main
+    part-of:
+      song: konkon
     status:
       code: warning
       description: data copied from the sources.

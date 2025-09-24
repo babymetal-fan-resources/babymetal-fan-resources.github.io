@@ -1,6 +1,8 @@
 - lyrics:
     song: frommetou
     id: main
+    part-of:
+      song: frommetou
     status:
       code: warning
       description: data copied from the sources.

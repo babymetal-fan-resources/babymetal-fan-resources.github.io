@@ -1,6 +1,8 @@
 - lyrics:
     song: song3
     id: main
+    part-of:
+      song: song3
     status:
       code: warning
       description: data copied from the sources. The split between vocalists might not be precise enough.

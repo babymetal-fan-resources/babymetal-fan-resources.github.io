@@ -1,6 +1,8 @@
 - lyrics:
     song: algorism
     id: main
+    part-of:
+      song: algorism
     status:
       code: warning
       description: data copied from the sources.

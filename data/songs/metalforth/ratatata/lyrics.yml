@@ -1,6 +1,8 @@
 - lyrics:
     song: ratatata
     id: main
+    part-of:
+      song: ratatata
     status:
       code: warning
       description: data copied from the sources. The split between vocalists needs tweaking.
