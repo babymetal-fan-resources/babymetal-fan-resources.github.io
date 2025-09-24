@@ -1,0 +1,22 @@
+song:
+  id: algorism
+  cover-image:
+    postximage:
+      post: 1906725673450037384
+      image: GnWBzbdbgAA2zuP
+  fullname: Algorism
+  album: metalforth
+  release-date: 2025-08-08
+  lyrics:
+  - main
+  lyricist:
+    value: ALGO-METAL, NORiMETAL
+    source:
+      description: CD jacket
+  composer:
+    value: ALGO-METAL, NORiMETAL
+    source:
+      description: CD jacket
+  wiki: 'https://babymetal.fandom.com/wiki/Algorism'
+  part-of:
+    album: metalforth

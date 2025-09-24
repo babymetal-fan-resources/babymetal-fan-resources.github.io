@@ -1,0 +1,24 @@
+mediaaudio:
+  year: 2025
+  id: metaradi0719
+  cover-image:
+    postximage:
+      post: 1875488645987365238
+      image: GgcSW8pa8AEVKP3
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  designation: metaradi
+  member:
+  - KOHSHI, KEIGO, and TAKE from FLOW
+  published-date: 2025-07-19
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  webpage: 'https://tfm.co.jp/metaradi/'
+  part-of:
+    group:
+      id: metaradi
+      group: 2025_2026
+  multimedia:
+    image:
+    - postximage:
+        post: 1946405593260175465
+        image: GwMExemaUAA5-zd

@@ -1,0 +1,30 @@
+- postx:
+    id: 1924035966840533209
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-05-17
+    text: |-
+      Thank you for coming to "BABYMETAL UK & EUROPE ARENA TOUR 2025" in Berlin🇩🇪 
+      #BABYMETAL #BABYMETALWORLDTOUR2025 
+      #Berlin #Germany
+      📸 
+      @photosbysarai
+    image:
+    - GrOMgFHXsAAXD-b
+    part-of:
+      show:
+        year: 2025
+        id: berlin
+
+- postximage:
+    post: 1924035966840533209
+    id: GrOMgFHXsAAXD-b
+    label: Arena
+    published-date: 2025-05-17
+    context:
+    - show:
+        year: 2025
+        id: berlin
+    part-of:
+      postx: 1924035966840533209
+

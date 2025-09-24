@@ -1,0 +1,27 @@
+show:
+  year: 2025
+  id: krakow
+  cover-image:
+    localimage:
+      tour: ukeuropearenatour2025
+      id: cover
+  fullname: Krakow, Poland
+  date: 2025-05-19
+  tour: ukeuropearenatour2025
+  venue: Tauron Arena
+  part-of:
+    tour: ukeuropearenatour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1924789470085140940
+        image: GrY0XDsXwAA3nGo
+    short:
+    - youtubeshort: I-rqRuTVxZU
+    image:
+    - postximage:
+        post: 1924789470085140940
+        image: GrY0XDsXwAA3nGo
+    - postximage:
+        post: 1924789470085140940
+        image: GrY0ybHXQAAcr74

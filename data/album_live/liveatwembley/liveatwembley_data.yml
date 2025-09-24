@@ -1,0 +1,10 @@
+localimage:
+  album: liveatwembley
+  id: cover
+  label: Cover
+  published-date: 2016-12-28
+  source:
+    description: TOY'S FACTORY item page
+    url: 'https://www.toysfactory.co.jp/artist/babymetal/disco/1605'
+  part-of:
+    album: liveatwembley

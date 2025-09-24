@@ -1,0 +1,30 @@
+- postx:
+    id: 1939182070535753920
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-06-29
+    text: |-
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Philadelphia🇺🇸
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #Philadelphia
+      📸 
+      @Theguyfromthpic
+    image:
+    - GulbRctXEAAOF4y
+    part-of:
+      show:
+        year: 2025
+        id: philadelphia
+
+- postximage:
+    post: 1939182070535753920
+    id: GulbRctXEAAOF4y
+    label: On stage
+    info: weeeeeaaaaa
+    published-date: 2025-06-29
+    context:
+    - show:
+        year: 2025
+        id: philadelphia
+    part-of:
+      postx: 1939182070535753920
+

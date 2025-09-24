@@ -1,0 +1,37 @@
+- group:
+    id: jal
+    label: JAL
+    part-of:
+      show:
+        year: 2025
+        id: london
+
+- postx:
+    id: 1928469869667750165
+    account: BABYMETAL_JAPAN
+    label: JAL support
+    published-date: 2025-05-30
+    text: |-
+      BABYMETAL "WORLD TOUR 2025" supported by JAL✈
+      #BABYMETAL #JAL #BABYMETALWORLDTOUR2025
+    image:
+    - GsNGaWdWQAAJpfD
+    part-of:
+      group:
+        id: jal
+        show:
+          year: 2025
+          id: london
+
+- postximage:
+    post: 1928469869667750165
+    id: GsNGaWdWQAAJpfD
+    label: JAL model
+    published-date: 2025-05-30
+    context:
+    - show:
+        year: 2025
+        id: london
+    part-of:
+      postx: 1928469869667750165
+

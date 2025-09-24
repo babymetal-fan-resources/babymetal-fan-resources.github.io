@@ -1,0 +1,30 @@
+show:
+  year: 2025
+  id: atlanta
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  fullname: Atlanta, GA, USA
+  date: 2025-06-18
+  tour: northamerica2025
+  venue: Coca-Cola Roxy
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1935585150110425156
+        image: GtyURlAWQAAsetc
+    short:
+    - youtubeshort: eRBRukKwbv0
+    image:
+    - postximage:
+        post: 1935585150110425156
+        image: GtyURlAWQAAsetc
+    - postximage:
+        post: 1935585150110425156
+        image: GtyURlBXgAAsFrl
+    - postximage:
+        post: 1935585150110425156
+        image: GtyUQSGWUAAZ64_

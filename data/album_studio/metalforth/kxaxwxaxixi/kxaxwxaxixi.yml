@@ -1,0 +1,22 @@
+song:
+  id: kxaxwxaxixi
+  cover-image:
+    postximage:
+      post: 1906725673450037384
+      image: GnWBzbdbgAA2zuP
+  fullname: KxAxWxAxIxI
+  album: metalforth
+  release-date: 2025-08-08
+  lyrics:
+  - main
+  lyricist:
+    value: METAL CYPHER, DAIDAI
+    source:
+      description: CD jacket
+  composer:
+    value: METAL CYPHER, DAIDAI
+    source:
+      description: CD jacket
+  wiki: 'https://babymetal.fandom.com/wiki/KxAxWxAxIxI'
+  part-of:
+    album: metalforth

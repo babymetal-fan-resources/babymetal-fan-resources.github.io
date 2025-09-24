@@ -1,0 +1,29 @@
+- postx:
+    id: 1914970177814634783
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2025-04-23
+    text: |-
+      世界を席巻する新生BABYMETAL
+      〜ライヴフォトコレクション＆最新インタビュー
+      https://amzn.to/44mZxzZ
+    image:
+    - GpNXH9MbkAA2Ot3
+    part-of:
+      media:
+        year: 2025
+        id: metalhammer
+
+- postximage:
+    post: 1914970177814634783
+    id: GpNXH9MbkAA2Ot3
+    label: cover
+    published-date: 2025-04-23
+    local-copy: true
+    context:
+    - media:
+        year: 2025
+        id: metalhammer
+    part-of:
+      postx: 1914970177814634783
+

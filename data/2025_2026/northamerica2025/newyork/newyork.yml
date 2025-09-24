@@ -1,0 +1,27 @@
+show:
+  year: 2025
+  id: newyork
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  fullname: New York, NY, USA
+  date: 2025-06-24
+  tour: northamerica2025
+  venue: The Theater at Madison Square Garden
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1937866458744201622
+        image: GuSu9ZcWoAAigk1
+    short:
+    - youtubeshort: n1ZPldlIlKs
+    image:
+    - postximage:
+        post: 1937866458744201622
+        image: GuSu9ZcWoAAigk1
+    - postximage:
+        post: 1937866458744201622
+        image: GuSvK8KWIAA305c

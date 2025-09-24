@@ -1,0 +1,39 @@
+- postx:
+    id: 1946405593260175465
+    account: metaradi_tfm
+    label: metaradi 2025-07-19
+    published-date: 2025-07-19
+    text: |-
+      💁🏻‍♀️今夜からの #メタラジ 📻
+      
+      今夜7/19（土）からのメタラジ！には、
+      新たなメタトモゲストにFLOWからKOHSHIさん、KEIGOさん、TAKEさんが登場🧑🏻
+      
+      どんなお話が聞けるのか？来週もお楽しみに！
+      @FLOW_official
+      
+      
+      #FLOW
+      #BABYMETAL #TOKYOFM
+      
+      📩メッセージは🔽
+      https://tfm.co.jp/metaradi/
+    image:
+    - GwMExemaUAA5-zd
+    part-of:
+      media:
+        year: 2025
+        id: metaradi0719
+
+- postximage:
+    post: 1946405593260175465
+    id: GwMExemaUAA5-zd
+    label: FLOW
+    published-date: 2025-07-19
+    context:
+    - media:
+        year: 2025
+        id: metaradi0719
+    part-of:
+      postx: 1946405593260175465
+

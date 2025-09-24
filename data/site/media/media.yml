@@ -1,0 +1,16 @@
+categoriespage:
+  id: media
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  label: Media
+  display-type: content
+  start-date: 2010-01-01
+  end-date: 2026-01-31
+  description: Media, interviews, shows featuring BABYMETAL.
+  id-prefix:
+  - media
+  categories: []
+  part-of:
+    group: site

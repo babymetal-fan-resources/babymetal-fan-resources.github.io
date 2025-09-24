@@ -1,0 +1,27 @@
+show:
+  year: 2025
+  id: boston
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  fullname: Boston, MA, USA
+  date: 2025-06-25
+  tour: northamerica2025
+  venue: MGM Music Hall at Fenway
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1938105140915179620
+        image: GuWFgTsXgAACcTr
+    short:
+    - youtubeshort: n1ZPldlIlKs
+    image:
+    - postximage:
+        post: 1938105140915179620
+        image: GuWFesMW4AAZCKm
+    - postximage:
+        post: 1938105140915179620
+        image: GuWFgTsXgAACcTr

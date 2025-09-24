@@ -1,0 +1,42 @@
+- localimage:
+    show:
+      year: 2025
+      id: specialarenashowusa
+    id: cover
+    label: cover
+    published-date: 2025-05-31
+    source:
+      description: BABYMETAL website site
+      url: 'https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025'
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- youtubeshort:
+    id: Vu1m40iw7yM
+    label: Trailer
+    published-date: 2025-06-06
+    context:
+    - song: frommetou
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- youtubevideo:
+    id: HbRO9vuZiKE
+    label: Trailer
+    published-date: 2025-05-31
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+

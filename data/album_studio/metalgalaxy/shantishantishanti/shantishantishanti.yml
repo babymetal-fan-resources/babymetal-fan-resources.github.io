@@ -1,0 +1,32 @@
+song:
+  id: shantishantishanti
+  cover-image:
+    localimage:
+      album: metalgalaxy
+      id: cover
+  fullname: Shanti Shanti Shanti
+  album: metalgalaxy
+  release-date: 2019-10-11
+  lyricist:
+    value: MUKTI-METAL
+    source:
+      description: 'JASRAC - work ID: 248-8120-1'
+      url: 'https://www2.jasrac.or.jp/'
+  composer:
+    value: MEGMETAL
+    source:
+      description: 'JASRAC - work ID: 248-8120-1'
+      url: 'https://www2.jasrac.or.jp/'
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: 'https://www.mikiko0811.net/#works'
+  wiki: 'https://babymetal.fandom.com/wiki/FUTURE_METAL'
+  part-of:
+    album: metalgalaxy
+  multimedia:
+    main:
+      youtubevideo: gQnG_T7kbtY
+    video:
+    - youtubevideo: gQnG_T7kbtY

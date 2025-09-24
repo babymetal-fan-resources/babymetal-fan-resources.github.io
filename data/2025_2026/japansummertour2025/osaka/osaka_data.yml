@@ -1,0 +1,28 @@
+- postx:
+    id: 1958523488035328502
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-08-21
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2025-2026 SUMMER TOUR IN JAPAN 🇯🇵 Zepp Osaka Bayside!!🎡 See you again!!
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #METALFORTH
+    image:
+    - Gy4SiUxbkAArqQJ
+    part-of:
+      show:
+        year: 2025
+        id: osaka
+
+- postximage:
+    post: 1958523488035328502
+    id: Gy4SiUxbkAArqQJ
+    label: Crowd
+    published-date: 2025-08-21
+    context:
+    - show:
+        year: 2025
+        id: osaka
+    part-of:
+      postx: 1958523488035328502
+

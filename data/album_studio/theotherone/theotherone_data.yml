@@ -1,0 +1,23 @@
+- localimage:
+    album: theotherone
+    id: cover
+    label: Cover
+    published-date: 2023-03-24
+    source:
+      description: TOY'S FACTORY item page
+      url: 'https://www.toysfactory.co.jp/artist/babymetal/disco/2489'
+    part-of:
+      album: theotherone
+
+- localimage:
+    album: theotherone
+    id: coverlimitededition
+    label: Cover
+    info: Limited Edition
+    published-date: 2023-03-24
+    source:
+      description: TOY'S FACTORY item page
+      url: 'https://www.toysfactory.co.jp/artist/babymetal/disco/2488'
+    part-of:
+      album: theotherone
+

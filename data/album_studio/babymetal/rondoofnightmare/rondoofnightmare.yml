@@ -1,0 +1,28 @@
+song:
+  id: rondoofnightmare
+  cover-image:
+    localimage:
+      album: babymetal
+      id: cover
+  fullname: 悪夢の輪舞曲
+  fullname-en: Rondo of Nightmare
+  album: babymetal
+  release-date: 2014-02-26
+  lyricist:
+    value: YOYOYUPPE
+    source:
+      description: 'JASRAC - work ID: 709-5555-7'
+      url: 'https://www2.jasrac.or.jp/'
+  composer:
+    value: YOYOYUPPE
+    source:
+      description: 'JASRAC - work ID: 709-5555-7'
+      url: 'https://www2.jasrac.or.jp/'
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: 'https://www.mikiko0811.net/#works'
+  wiki: 'https://babymetal.fandom.com/wiki/Rondo_of_Nightmare'
+  part-of:
+    album: babymetal

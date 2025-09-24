@@ -1,0 +1,33 @@
+show:
+  year: 2025
+  id: paris
+  cover-image:
+    postximage:
+      post: 1927273572768116988
+      image: Gr6MzAwWEAAVQqO
+  fullname: Paris, France
+  date: 2025-05-28
+  tour: ukeuropearenatour2025
+  venue: Zénith Paris-La Villette
+  part-of:
+    tour: ukeuropearenatour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1927881848094437402
+        image: GsE0ZHDWwAAhLtb
+    short:
+    - youtubeshort: KXJhvJSAEX8
+    image:
+    - postximage:
+        post: 1927881848094437402
+        image: GsE0WAJXUAELhja
+    - postximage:
+        post: 1927881848094437402
+        image: GsE0ZHDWwAAhLtb
+    - postximage:
+        post: 1927881848094437402
+        image: GsE0cROXYAAIOJs
+    - postximage:
+        post: 1927881848094437402
+        image: GsE0eAHXAAAI7k2

@@ -1,0 +1,20 @@
+- localimage:
+    song: eternalflames
+    id: cover
+    label: Cover
+    published-date: 2024-09-18
+    source:
+      description: TMG website
+      url: 'https://takmatsumotogroup.com/discography/bmcs-8019.html'
+    part-of:
+      song: eternalflames
+
+- youtubevideo:
+    id: lN1WmeVd22Y
+    label: Official Music Video
+    published-date: 2024-09-06
+    context:
+    - song: eternalflames
+    part-of:
+      song: eternalflames
+

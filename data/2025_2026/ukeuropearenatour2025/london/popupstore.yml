@@ -1,0 +1,129 @@
+- group:
+    id: popupstore
+    label: Pop Up Store
+    part-of:
+      show:
+        year: 2025
+        id: london
+
+- localimage:
+    show:
+      year: 2025
+      id: london
+    id: poster_popup
+    label: Pop Up Poster
+    published-date: 2025-06-27
+    source:
+      description: BABYMETAL website
+      url: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=0907&id=291029&lang=en'
+    part-of:
+      group:
+        id: popupstore
+        show:
+          year: 2025
+          id: london
+
+- postx:
+    id: 1927856319660282208
+    account: BABYMETAL_JAPAN
+    label: Pop Up Merch
+    published-date: 2025-05-28
+    text: |-
+      BABYMETAL’s FIRST EVER POP-UP STORE in LONDON - Exclusive Merch!!
+      https://babymetal.com/2025london_popup/
+      #BABYMETAL #BABYMETALWORLDTOUR2025 #METALFORTH
+    image:
+    - GsEXovsWYAAUeLb
+    part-of:
+      group:
+        id: popupstore
+        show:
+          year: 2025
+          id: london
+
+- postx:
+    id: 1928785133810679817
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-05-31
+    text: |-
+      Thank you for coming to our first-ever pop-up as well!
+      Don’t miss it — the pop-up runs until 8 PM today!
+      #BABYMETAL #O2Arena
+    image:
+    - GsRr0AiWIAExcJc
+    video:
+    - 01
+    part-of:
+      group:
+        id: popupstore
+        show:
+          year: 2025
+          id: london
+
+- postx:
+    id: 1928848687356137727
+    account: BABYMETAL_JAPAN
+    label: pop-up store
+    published-date: 2025-05-31
+    text: |-
+      BABYMETAL First-Ever Pop-Up  in London until tonight 8pm!!
+      Don’t miss it.
+      
+      #BABYMETAL #TheO2 
+      @photosbysarai
+    part-of:
+      youtubeshort: pQdQzFk-syw
+
+- postximage:
+    post: 1927856319660282208
+    id: GsEXovsWYAAUeLb
+    label: Pop Up Merch
+    published-date: 2025-05-28
+    context:
+    - show:
+        year: 2025
+        id: london
+    part-of:
+      postx: 1927856319660282208
+
+- postximage:
+    post: 1928785133810679817
+    id: GsRr0AiWIAExcJc
+    label: Wall of signature
+    published-date: 2025-05-31
+    context:
+    - show:
+        year: 2025
+        id: london
+    part-of:
+      postx: 1928785133810679817
+
+- postxvideo:
+    post: 1928785133810679817
+    id: 01
+    label: Signed wall
+    published-date: 2025-05-31
+    cover: 1928785081671249920/img/eheuZvHzZMwP2kHT.jpg
+    context:
+    - show:
+        year: 2025
+        id: london
+    part-of:
+      postx: 1928785133810679817
+
+- youtubeshort:
+    id: pQdQzFk-syw
+    label: Pop Up Store
+    published-date: 2025-05-31
+    context:
+    - show:
+        year: 2025
+        id: london
+    part-of:
+      group:
+        id: popupstore
+        show:
+          year: 2025
+          id: london
+

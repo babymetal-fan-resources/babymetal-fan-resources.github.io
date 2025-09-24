@@ -1,0 +1,26 @@
+album:
+  id: legendmetalgalaxyday1
+  cover-image:
+    localimage:
+      album: legendmetalgalaxyday1
+      id: cover
+  fullname: LEGEND - METAL GALAXY [DAY-1]
+  designation: Live Album
+  release-date: 2020-09-09
+  is-studio: false
+  songs:
+  - futuremetal
+  - dadadance
+  - elevatorgirl
+  - shantishantishanti
+  - ohmajinai
+  - yava
+  - brandnewday
+  - gimichoko
+  - megitsune
+  - nightnightburn
+  - theone
+  - roadofresistance
+  wiki: 'https://babymetal.fandom.com/wiki/LEGEND_-_METAL_GALAXY'
+  part-of:
+    group: album_live

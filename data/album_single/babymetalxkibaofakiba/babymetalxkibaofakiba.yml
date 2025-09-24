@@ -1,0 +1,16 @@
+album:
+  id: babymetalxkibaofakiba
+  cover-image:
+    localimage:
+      album: babymetalxkibaofakiba
+      id: cover
+  fullname: BABYMETAL × KIBA OF AKIBA
+  designation: single
+  release-date: 2012-03-07
+  songs:
+  - iine
+  - partyatthebbs
+  - kimitoanimegamitai
+  - dokidokimorningkibaofakiba
+  part-of:
+    group: album_single

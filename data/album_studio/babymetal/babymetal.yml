@@ -1,0 +1,31 @@
+album:
+  id: babymetal
+  cover-image:
+    localimage:
+      album: babymetal
+      id: cover
+  fullname: BABYMETAL
+  designation: album
+  release-date: 2014-02-26
+  songs:
+  - babymetaldeath
+  - megitsune
+  - gimichoko
+  - iine
+  - akatsuki
+  - dokidokimorning
+  - onedaridaisakusen
+  - 4nouta
+  - ukiukimidnight
+  - catchmeifyoucan
+  - rondoofnightmare
+  - headbanger
+  - ijimedamezettai
+  wiki: 'https://babymetal.fandom.com/wiki/BABYMETAL_(Album)'
+  part-of:
+    group: album_studio
+  multimedia:
+    image:
+    - localimage:
+        album: babymetal
+        id: coverfirstpress

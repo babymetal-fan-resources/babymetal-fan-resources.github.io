@@ -1,0 +1,33 @@
+- postx:
+    id: 1955625102441402871
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-08-13
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2025-2026 SUMMER TOUR IN JAPAN 🇯🇵 KT Zepp Yokohama DAY1 !!
+      We  look forward to seeing you tomorrow for DAY 2 !!!
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #METALFORTH 
+      📸 
+      @fujii_taku
+    image:
+    - GyPF7sVaUAAmidO
+    part-of:
+      show:
+        year: 2025
+        id: yokohama1
+
+- postximage:
+    post: 1955625102441402871
+    id: GyPF7sVaUAAmidO
+    label: On stage
+    published-date: 2025-08-13
+    context:
+    - show:
+        year: 2025
+        id: yokohama1
+    part-of:
+      show:
+        year: 2025
+        id: yokohama1
+

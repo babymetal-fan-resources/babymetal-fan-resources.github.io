@@ -1,0 +1,27 @@
+show:
+  year: 2025
+  id: uncasville
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  fullname: Uncasville, CT, USA
+  date: 2025-06-27
+  tour: northamerica2025
+  venue: Mohegan Sun Arena
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1938827798744867171
+        image: GugZYjCXUAAtwkm
+    short:
+    - youtubeshort: 8ebR_x-wgaU
+    image:
+    - postximage:
+        post: 1938827798744867171
+        image: GugZVxXWMAAQlcN
+    - postximage:
+        post: 1938827798744867171
+        image: GugZYjCXUAAtwkm

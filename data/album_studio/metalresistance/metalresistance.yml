@@ -1,0 +1,33 @@
+album:
+  id: metalresistance
+  cover-image:
+    localimage:
+      album: metalresistance
+      id: cover
+  fullname: METAL RESISTANCE
+  designation: Album
+  release-date: 2016-04-01
+  songs:
+  - roadofresistance
+  - karate
+  - awadamafever
+  - yava
+  - amore
+  - metataro
+  - syncopation
+  - gj
+  - sisanger
+  - norainnorainbow
+  - talesofthedestinies
+  - theone
+  wiki: 'https://babymetal.fandom.com/wiki/METAL_RESISTANCE'
+  part-of:
+    group: album_studio
+  multimedia:
+    image:
+    - localimage:
+        album: metalresistance
+        id: coverfirstpress
+    - localimage:
+        album: metalresistance
+        id: coverjapanvisit

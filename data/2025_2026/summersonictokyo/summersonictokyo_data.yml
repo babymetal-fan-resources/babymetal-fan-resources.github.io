@@ -1,0 +1,30 @@
+- localimage:
+    show:
+      year: 2025
+      id: summersonictokyo
+    id: cover
+    label: cover
+    published-date: 2025-02-27
+    source:
+      description: BABYMETAL website
+      url: 'https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025'
+    part-of:
+      show:
+        year: 2025
+        id: summersonictokyo
+
+- localimage:
+    show:
+      year: 2025
+      id: summersonictokyo
+    id: merch
+    label: Merch
+    published-date: 2025-08-11
+    source:
+      description: BABYMETAL website
+      url: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1715&id=294282&lang=en'
+    part-of:
+      show:
+        year: 2025
+        id: summersonictokyo
+

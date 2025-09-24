@@ -1,0 +1,74 @@
+- postx:
+    id: 1946122572518875436
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-07-18
+    text: |-
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in San Francisco DAY1🌉
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #SanFrancisco 
+      📸 
+      @v_trvn
+    image:
+    - GwICpoSaMAATMYb
+    - GwICrRTXcAAwEBs
+    - GwICsl3WUAA05-e
+    - GwICt5haQAASnbq
+    todo: which song image 2, 3
+    part-of:
+      show:
+        year: 2025
+        id: sanfrancisco1
+
+- postximage:
+    post: 1946122572518875436
+    id: GwICpoSaMAATMYb
+    label: On stage
+    info: MOAMETAL
+    published-date: 2025-07-18
+    context:
+    - show:
+        year: 2025
+        id: sanfrancisco1
+    - song: bxmxc
+    part-of:
+      postx: 1946122572518875436
+
+- postximage:
+    post: 1946122572518875436
+    id: GwICrRTXcAAwEBs
+    label: On stage
+    info: SU-METAL
+    published-date: 2025-07-18
+    context:
+    - show:
+        year: 2025
+        id: sanfrancisco1
+    part-of:
+      postx: 1946122572518875436
+
+- postximage:
+    post: 1946122572518875436
+    id: GwICsl3WUAA05-e
+    label: On stage
+    info: MOMOMETAL
+    published-date: 2025-07-18
+    context:
+    - show:
+        year: 2025
+        id: sanfrancisco1
+    part-of:
+      postx: 1946122572518875436
+
+- postximage:
+    post: 1946122572518875436
+    id: GwICt5haQAASnbq
+    label: On stage
+    info: weeeeeaaaaa
+    published-date: 2025-07-18
+    context:
+    - show:
+        year: 2025
+        id: sanfrancisco1
+    part-of:
+      postx: 1946122572518875436
+

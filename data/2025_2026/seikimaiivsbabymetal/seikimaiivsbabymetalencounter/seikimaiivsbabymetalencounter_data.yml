@@ -1,0 +1,61 @@
+- localimage:
+    show:
+      year: 2025
+      id: seikimaiivsbabymetalencounter
+    id: cover
+    label: cover
+    published-date: 2025-04-01
+    source:
+      description: BABYMETAL website site
+      url: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1431&id=288226&lang=en'
+    part-of:
+      show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+
+- postx:
+    id: 1961800272470266363
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-08-30
+    text: |-
+      Thank you for coming to "聖飢魔Ⅱ vs BABYMETAL〜悪魔が来たりてベビメタる〜" DAY1 !!!😈🦊
+      See ya tomorrow!!
+      📸 
+      @fujii_taku
+      
+      #BABYMETAL #聖飢魔II 
+    image:
+    - Gzm2xl-bwAAdfbQ
+    - Gzm2xl_awAAPWEY
+    part-of:
+      show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+
+- postximage:
+    post: 1961800272470266363
+    id: Gzm2xl-bwAAdfbQ
+    label: On stage
+    published-date: 2025-08-30
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+    todo: which song ?
+    part-of:
+      postx: 1961800272470266363
+
+- postximage:
+    post: 1961800272470266363
+    id: Gzm2xl_awAAPWEY
+    label: Venue
+    published-date: 2025-08-30
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+    todo: which song ?
+    part-of:
+      postx: 1961800272470266363
+

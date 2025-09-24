@@ -1,0 +1,31 @@
+show:
+  year: 2025
+  id: denver
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  fullname: Denver, CO, USA
+  date: 2025-07-11
+  tour: northamerica2025
+  venue: The JunkYard
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1943926792626040997
+        image: Gvo2OfkXEAAbnpj
+    image:
+    - postximage:
+        post: 1943926792626040997
+        image: Gvo2OfkXEAAbnpj
+    - postximage:
+        post: 1943926792626040997
+        image: Gvo2QvzXYAAHob5
+    - postximage:
+        post: 1943926792626040997
+        image: Gvo2Y1fW4AA1Uji
+    - postximage:
+        post: 1943926792626040997
+        image: Gvo2awxXwAAjQ0g

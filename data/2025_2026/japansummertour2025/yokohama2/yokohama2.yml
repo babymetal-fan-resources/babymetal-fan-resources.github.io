@@ -1,0 +1,27 @@
+show:
+  year: 2025
+  id: yokohama2
+  cover-image:
+    localimage:
+      tour: japansummertour2025
+      id: cover
+  fullname: Yokohama, Japan
+  sublabel: SUMMER TOUR IN JAPAN
+  date: 2025-08-14
+  tour: japansummertour2025
+  venue: KT Zepp Yokohama
+  event-page: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=0028&id=292132&lang=en'
+  part-of:
+    tour: japansummertour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1955977423461474485
+        image: GyUGOJIa4AI2cm3
+    image:
+    - postximage:
+        post: 1955977423461474485
+        image: GyUHGOwa4AAjbs0
+    - postximage:
+        post: 1955977423461474485
+        image: GyUGOJIa4AI2cm3

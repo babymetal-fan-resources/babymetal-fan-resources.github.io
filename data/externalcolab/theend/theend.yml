@@ -1,0 +1,13 @@
+song:
+  id: theend
+  cover-image:
+    postximage:
+      post: 1676320625210851330
+      image: F0N8t-8aMAAJmlk
+  fullname: The End (Feat. BABYMETAL)
+  fullname-en: Lil Uzi Vert
+  shortname: The End
+  release-date: 2023-06-30
+  wiki: 'https://babymetal.fandom.com/wiki/The_End'
+  part-of:
+    group: externalcolab

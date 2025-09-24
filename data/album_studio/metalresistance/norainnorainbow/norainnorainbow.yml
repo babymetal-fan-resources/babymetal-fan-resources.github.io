@@ -1,0 +1,27 @@
+song:
+  id: norainnorainbow
+  cover-image:
+    localimage:
+      album: metalresistance
+      id: cover
+  fullname: NO RAIN, NO RAINBOW
+  album: metalresistance
+  release-date: 2016-04-01
+  lyricist:
+    value: YOSHIFU-METAL, MK-METAL, NAKAMETAL
+    source:
+      description: 'JASRAC - work ID: 501-0364-4'
+      url: 'https://www2.jasrac.or.jp/'
+  composer:
+    value: YOSHIFU-METAL
+    source:
+      description: 'JASRAC - work ID: 501-0364-4'
+      url: 'https://www2.jasrac.or.jp/'
+  wiki: 'https://babymetal.fandom.com/wiki/NO_RAIN,_NO_RAINBOW'
+  part-of:
+    album: metalresistance
+  multimedia:
+    main:
+      youtubevideo: pDgqo6fcliY
+    video:
+    - youtubevideo: pDgqo6fcliY

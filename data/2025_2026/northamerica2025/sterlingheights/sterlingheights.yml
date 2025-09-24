@@ -1,0 +1,27 @@
+show:
+  year: 2025
+  id: sterlingheights
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  fullname: Sterling Heights, MI, USA
+  date: 2025-07-03
+  tour: northamerica2025
+  venue: Michigan Lottery Amphitheatre
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1941012401547366678
+        image: Gu_afEXX0AA4cmI
+    short:
+    - youtubeshort: MdvxYE6JHB8
+    image:
+    - postximage:
+        post: 1941012401547366678
+        image: Gu_adzLWAAAkyVE
+    - postximage:
+        post: 1941012401547366678
+        image: Gu_afEXX0AA4cmI

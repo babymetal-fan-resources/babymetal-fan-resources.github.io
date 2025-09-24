@@ -1,0 +1,12 @@
+song:
+  id: partyatthebbs
+  cover-image:
+    localimage:
+      album: babymetalxkibaofakiba
+      id: cover
+  fullname: Party @ The BBS
+  fullname-en: KIBA OF AKIBA
+  album: babymetalxkibaofakiba
+  release-date: 2012-03-07
+  part-of:
+    album: babymetalxkibaofakiba

@@ -1,0 +1,27 @@
+show:
+  year: 2025
+  id: charlotte
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  fullname: Charlotte, NC, USA
+  date: 2025-06-20
+  tour: northamerica2025
+  venue: Skyla Credit Union Amphitheatre
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1936307475697045926
+        image: Gt8kbtdWgAEaVYh
+    short:
+    - youtubeshort: IhlCz8gGvvE
+    image:
+    - postximage:
+        post: 1936307475697045926
+        image: Gt8kOz5XYAAzv8u
+    - postximage:
+        post: 1936307475697045926
+        image: Gt8kbtdWgAEaVYh

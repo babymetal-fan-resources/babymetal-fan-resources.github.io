@@ -1,0 +1,33 @@
+show:
+  year: 2025
+  id: madrid
+  cover-image:
+    localimage:
+      tour: ukeuropearenatour2025
+      id: cover
+  fullname: Madrid, Spain
+  date: 2025-05-25
+  tour: ukeuropearenatour2025
+  venue: Vistalegre
+  part-of:
+    tour: ukeuropearenatour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1926791606578872394
+        image: Gr1UakcWgAAjDZV
+    short:
+    - youtubeshort: Jg50uPtanx8
+    image:
+    - postximage:
+        post: 1926791606578872394
+        image: Gr1UObxWMAAv3lH
+    - postximage:
+        post: 1926791606578872394
+        image: Gr1UObPWoAABiAS
+    - postximage:
+        post: 1926791606578872394
+        image: Gr1UOthXUAAK0Gk
+    - postximage:
+        post: 1926791606578872394
+        image: Gr1UakcWgAAjDZV

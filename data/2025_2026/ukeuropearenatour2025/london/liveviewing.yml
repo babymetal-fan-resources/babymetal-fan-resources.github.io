@@ -1,0 +1,149 @@
+- group:
+    id: liveviewing
+    label: Live Viewing
+    part-of:
+      show:
+        year: 2025
+        id: london
+
+- postx:
+    id: 1907991515562959160
+    account: BABYMETAL_JAPAN
+    label: live viewing announcement
+    published-date: 2025-04-04
+    text: |-
+      #BABYMETAL UK & EUROPE ARENA TOUR 2025 SPECIAL ARENA SHOW IN UK "THE O2" Live Viewing🎞️
+      
+      BABYMETAL初となるUK＆EUアリーナツアーのファイナルをイギリス・THE O2アリーナから全国各地の映画館に生中継＆ディレイ中継!!
+      
+      🎦日時 
+      📡生中継：5.31(土) 5:00開演 (※日本時間)
+      🚨各映画館、生中継までの間に、過去のライブ映像の上映をいたします
+      📡ディレイ： 5.31(土) 17:00開演 (※日本時間)
+      
+      🔽詳細はこちら
+      https://liveviewing.jp/babymetal_uk/
+      
+      #THEO2 #LONDON 
+      @Live_Viewing_jp
+    image:
+    - Gnp9cloaYAAlHNs
+    part-of:
+      group:
+        id: liveviewing
+        show:
+          year: 2025
+          id: london
+
+- postx:
+    id: 1923302653485858818
+    account: BABYMETAL_JAPAN
+    label: live viewing merch
+    published-date: 2025-05-16
+    text: |-
+      \꒰ঌ グッズ情報 ໒꒱/
+      #BABYMETAL UK & EUROPE ARENA TOUR 2025
+      SPECIAL ARENA SHOW IN UK"THE O2"
+      Live Viewing
+      
+      映画館限定デザインのTシャツ、タオルの販売が決定⚡
+      ぜひ記念にお買い求めください!
+      ※5月31日(土)5:00開演 生中継ではグッズ販売はございません。
+      
+      詳しくは→https://liveviewing.jp/babymetal_uk/
+    image:
+    - Gq4QmS8XwAApzMB
+    part-of:
+      group:
+        id: liveviewing
+        show:
+          year: 2025
+          id: london
+
+- postx:
+    id: 1928753041802416199
+    account: BABYMETAL_JAPAN
+    label: live viewing
+    published-date: 2025-05-31
+    text: |-
+      #BABYMETAL ライブ・ビューイング🎞️
+      参加した皆さんお疲れ様でした👏
+      
+      チャンネルにはBABYMETALからの写真&メッセージが届いています✨📸
+      骨STAFFのネタバレ投稿をCHECK👀
+      
+      チャンネルは【6/3(火)23:59まで】お楽しみいただけます💬
+      
+      🔽チャンネルに参加
+      https://klew.jp/events/babymetal-uk2025-liveviewing?utm_source=x&utm_medium=klew-info&utm_campaign=babymetal-uk2025-liveviewing-20250531
+      
+      #BABYMETAL_THEO2
+    todo: link to image Gnp9cloaYAAlHNs
+    part-of:
+      group:
+        id: liveviewing
+        show:
+          year: 2025
+          id: london
+
+- postx:
+    id: 1947060377281560607
+    account: BABYMETAL_JAPAN
+    label: on WOWOW tonight
+    published-date: 2025-07-21
+    text: |-
+      #BABYMETAL が5月に開催したO2アリーナでのライブを
+      本日、7.21(月・祝) 21:00より #WOWOW で放送＆配信DEATH!!📡
+      
+      また、WOWOWでは3カ月連続特集として、2024年の沖縄公演やMV集もお届け
+      詳細はこちら👇
+      https://wowow.co.jp/music/babymetal/
+      
+      @wowow_mj
+      #BABYMETALWORLDTOUR
+    video:
+    - 01
+    part-of:
+      group:
+        id: liveviewing
+        show:
+          year: 2025
+          id: london
+
+- postximage:
+    post: 1907991515562959160
+    id: Gnp9cloaYAAlHNs
+    label: Live viewing
+    published-date: 2025-04-04
+    context:
+    - show:
+        year: 2025
+        id: london
+    part-of:
+      postx: 1907991515562959160
+
+- postximage:
+    post: 1923302653485858818
+    id: Gq4QmS8XwAApzMB
+    label: Live viewing merch
+    published-date: 2025-05-16
+    context:
+    - show:
+        year: 2025
+        id: london
+    part-of:
+      postx: 1923302653485858818
+
+- postxvideo:
+    post: 1947060377281560607
+    id: 01
+    label: Trailer WOWOW
+    published-date: 2025-07-21
+    cover: 1947057019006898179/img/lZTA31E0v9NjVjwf.jpg
+    context:
+    - show:
+        year: 2025
+        id: london
+    part-of:
+      postx: 1947060377281560607
+

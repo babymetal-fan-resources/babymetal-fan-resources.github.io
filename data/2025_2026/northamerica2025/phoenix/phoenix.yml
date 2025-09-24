@@ -1,0 +1,31 @@
+show:
+  year: 2025
+  id: phoenix
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  fullname: Phoenix, AZ, USA
+  date: 2025-07-23
+  tour: northamerica2025
+  venue: Arizona Financial Theatre
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1948284475466817789
+        image: GwmrQ78asAAdksM
+    image:
+    - postximage:
+        post: 1948284475466817789
+        image: Gwmq9NuaoAAf_zs
+    - postximage:
+        post: 1948284475466817789
+        image: GwmrNbzbIAAq6R7
+    - postximage:
+        post: 1948284475466817789
+        image: GwmrPq7boAAN-qi
+    - postximage:
+        post: 1948284475466817789
+        image: GwmrQ78asAAdksM

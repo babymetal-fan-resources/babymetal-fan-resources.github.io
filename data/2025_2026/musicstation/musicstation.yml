@@ -1,0 +1,40 @@
+mediavideo:
+  year: 2025
+  id: musicstation
+  cover-image:
+    localimage:
+      media:
+        year: 2025
+        id: musicstation
+      id: cover
+  channel: TV Asahi
+  show: Music Station
+  designation: TV show
+  member:
+  - SU-METAL
+  - MOAMETAL
+  - MOMOMETAL
+  published-date: 2025-08-29
+  host: Tamori, 鈴木新彩 (Sarasa Suzuki)
+  program: 'https://post.tv-asahi.co.jp/post-551394/'
+  webpage: 'https://www.tv-asahi.co.jp/music/'
+  part-of:
+    group: 2025_2026
+  multimedia:
+    short:
+    - postxvideo:
+        post: 1961700421652906457
+        video: 01
+    image:
+    - postximage:
+        post: 1961463369304510718
+        image: GziBdwLbcAAgrIA
+    - postximage:
+        post: 1961463369304510718
+        image: GziBfyUaYAANDvg
+    - postximage:
+        post: 1961463369304510718
+        image: GziBg8Ma4AAgQlZ
+    - postximage:
+        post: 1961463369304510718
+        image: GziBiI7bkAEPGIm

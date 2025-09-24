@@ -1,0 +1,24 @@
+show:
+  year: 2025
+  id: nagoya
+  cover-image:
+    localimage:
+      tour: japansummertour2025
+      id: cover
+  fullname: Nagoya, Japan
+  sublabel: SUMMER TOUR IN JAPAN
+  date: 2025-08-20
+  tour: japansummertour2025
+  venue: COMTEC PORTBASE NAGOYA
+  event-page: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=0028&id=292132&lang=en'
+  part-of:
+    tour: japansummertour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1958152029714747545
+        image: GyzAiPYasAAfilc
+    image:
+    - postximage:
+        post: 1958152029714747545
+        image: GyzAiPYasAAfilc

@@ -1,0 +1,16 @@
+show:
+  year: 2025
+  id: taipei
+  cover-image:
+    localimage:
+      show:
+        year: 2025
+        id: taipei
+      id: cover
+  fullname: Taipei, Taiwan
+  date: 2025-10-02
+  tour: asiatour2025
+  venue: ZEPP NEW TAIPEI
+  event-page: 'https://rockempire.kktix.cc/events/ljw6aw'
+  part-of:
+    tour: asiatour2025

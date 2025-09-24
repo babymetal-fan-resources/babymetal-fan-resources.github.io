@@ -1,0 +1,8 @@
+event:
+  id: siteimages
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  label: Holder for site image
+  date: 2009-12-31

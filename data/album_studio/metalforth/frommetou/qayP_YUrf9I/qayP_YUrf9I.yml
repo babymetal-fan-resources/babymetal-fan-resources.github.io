@@ -1,0 +1,19 @@
+- youtubevideo:
+    id: qayP_YUrf9I
+    label: Official Music Video
+    published-date: 2025-04-04
+    context:
+    - song: frommetou
+    part-of:
+      song: frommetou
+
+- localimage:
+    multimedia-event: frommetoumv
+    id: mvcover
+    label: MV cover
+    published-date: 2025-04-04
+    source:
+      description: YouTube video
+    part-of:
+      youtubevideo: qayP_YUrf9I
+

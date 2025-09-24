@@ -1,0 +1,58 @@
+- postx:
+    id: 1935585150110425156
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-06-19
+    text: |-
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Atlanta🍹
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #ATLANTA
+      📸 
+      @Theguyfromthpic
+    image:
+    - GtyURlAWQAAsetc
+    - GtyURlBXgAAsFrl
+    - GtyUQSGWUAAZ64_
+    part-of:
+      show:
+        year: 2025
+        id: atlanta
+
+- postximage:
+    post: 1935585150110425156
+    id: GtyUQSGWUAAZ64_
+    label: Venue
+    published-date: 2025-06-19
+    context:
+    - show:
+        year: 2025
+        id: atlanta
+    - song: karate
+    part-of:
+      postx: 1935585150110425156
+
+- postximage:
+    post: 1935585150110425156
+    id: GtyURlAWQAAsetc
+    label: On stage
+    info: Weeeee aaaaa!!
+    published-date: 2025-06-19
+    context:
+    - show:
+        year: 2025
+        id: atlanta
+    part-of:
+      postx: 1935585150110425156
+
+- postximage:
+    post: 1935585150110425156
+    id: GtyURlBXgAAsFrl
+    label: From the back of the stage
+    published-date: 2025-06-19
+    context:
+    - show:
+        year: 2025
+        id: atlanta
+    - song: karate
+    part-of:
+      postx: 1935585150110425156
+

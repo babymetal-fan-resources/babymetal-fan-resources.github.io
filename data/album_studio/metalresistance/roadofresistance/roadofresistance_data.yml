@@ -1,0 +1,29 @@
+- localimage:
+    song: roadofresistance
+    id: cover
+    label: Cover
+    published-date: 2015-02-01
+    source:
+      description: TOY'S FACTORY item page
+      url: 'https://www.toysfactory.co.jp/artist/babymetal/disco/1286'
+    part-of:
+      song: roadofresistance
+
+- youtubevideo:
+    id: Zi-XFUZ5EL4
+    label: Trailer
+    published-date: 2015-01-05
+    context:
+    - song: roadofresistance
+    part-of:
+      song: roadofresistance
+
+- youtubevideo:
+    id: zTEYUFgLveY
+    label: Official Live Video
+    published-date: 2015-05-07
+    context:
+    - song: roadofresistance
+    part-of:
+      song: roadofresistance
+

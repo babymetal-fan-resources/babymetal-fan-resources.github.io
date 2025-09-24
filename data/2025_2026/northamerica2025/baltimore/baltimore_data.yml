@@ -1,0 +1,29 @@
+- postx:
+    id: 1936658376798454181
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-06-22
+    text: |-
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Baltimore⚓️
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #BALTIMORE
+      📸 
+      @Theguyfromthpic
+    image:
+    - GuBimuGXUAAKFkt
+    part-of:
+      show:
+        year: 2025
+        id: baltimore
+
+- postximage:
+    post: 1936658376798454181
+    id: GuBimuGXUAAKFkt
+    label: Venue
+    published-date: 2025-06-22
+    context:
+    - show:
+        year: 2025
+        id: baltimore
+    part-of:
+      postx: 1936658376798454181
+

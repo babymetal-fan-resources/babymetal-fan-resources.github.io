@@ -1,0 +1,45 @@
+- postx:
+    id: 1936307475697045926
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-06-21
+    text: |-
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Charlotte🇺🇸
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #CHARLOTTE
+      📸 
+      @Theguyfromthpic
+    image:
+    - Gt8kOz5XYAAzv8u
+    - Gt8kbtdWgAEaVYh
+    todo: check second image song
+    part-of:
+      show:
+        year: 2025
+        id: charlotte
+
+- postximage:
+    post: 1936307475697045926
+    id: Gt8kOz5XYAAzv8u
+    label: On Stage
+    published-date: 2025-06-21
+    context:
+    - show:
+        year: 2025
+        id: charlotte
+    - song: metali
+    part-of:
+      postx: 1936307475697045926
+
+- postximage:
+    post: 1936307475697045926
+    id: Gt8kbtdWgAEaVYh
+    label: Venue
+    published-date: 2025-06-21
+    context:
+    - show:
+        year: 2025
+        id: charlotte
+    - song: babymetaldeath
+    part-of:
+      postx: 1936307475697045926
+

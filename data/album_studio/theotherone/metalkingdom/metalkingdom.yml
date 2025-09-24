@@ -1,0 +1,32 @@
+song:
+  id: metalkingdom
+  cover-image:
+    localimage:
+      album: theotherone
+      id: cover
+  fullname: METAL KINGDOM
+  album: theotherone
+  release-date: 2023-01-20
+  lyricist:
+    value: KITSUNE OF METAL GOD
+    source:
+      description: 'JASRAC - work ID: 764-0191-0'
+      url: 'https://www2.jasrac.or.jp/'
+  composer:
+    value: tatsuoMETAL
+    source:
+      description: 'JASRAC - work ID: 764-0191-0'
+      url: 'https://www2.jasrac.or.jp/'
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: 'https://www.mikiko0811.net/#works'
+  wiki: 'https://babymetal.fandom.com/wiki/METAL_KINGDOM'
+  part-of:
+    album: theotherone
+  multimedia:
+    main:
+      youtubevideo: ALznpaBWUTo
+    video:
+    - youtubevideo: ALznpaBWUTo

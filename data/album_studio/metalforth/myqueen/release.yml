@@ -1,0 +1,35 @@
+- group:
+    id: release
+    label: Release
+    part-of:
+      song: myqueen
+
+- postx:
+    id: 1951191028242760186
+    account: BABYMETAL_JAPAN
+    label: Meeting Spiritbox
+    published-date: 2025-08-01
+    text: |-
+      BABYMETAL 🤝 SPIRITBOX
+      I'm really glad to meet you. You're recommended to me by some people.
+      
+      #BABYMETAL #fyp #viral #trending
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        song: myqueen
+
+- postxvideo:
+    post: 1951191028242760186
+    id: 01
+    label: Meeting Spiritbox
+    info: Courtney, BABYMETAL
+    published-date: 2025-08-01
+    cover: 1951190735392481280/img/dSbDn4-dq1rorpG7.jpg
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1951191028242760186
+

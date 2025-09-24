@@ -1,0 +1,74 @@
+- localimage:
+    show:
+      year: 2025
+      id: summersonicbangkok
+    id: cover
+    label: cover
+    published-date: 2025-03-25
+    source:
+      description: BABYMETAL website site
+      url: 'https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025'
+    part-of:
+      show:
+        year: 2025
+        id: summersonicbangkok
+
+- postx:
+    id: 1956279699778494838
+    account: BABYMETAL_JAPAN
+    label: Merch
+    published-date: 2025-08-15
+    text: |-
+      「SUMMER SONIC BANGKOK 2025」グッズ販売決定!!🐘
+      
+      👇詳細はこちら
+      🔗https://babymetal.com/2025SSBKMerch/
+      
+      #BABYMETAL #summersonicbkk2025
+    image:
+    - GyX0EBfawAAuyja
+    part-of:
+      show:
+        year: 2025
+        id: summersonicbangkok
+
+- postx:
+    id: 1959679931413381381
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-08-24
+    text: |-
+      Thank you for coming to"SUMMER SONIC BANGKOK 2025"🐘
+      #BABYMETAL #SummerSonicBangkok2025 #サマソニバンコク 
+      @Summersonic_bkk
+    image:
+    - GzIuIyDaoAA_S0b
+    part-of:
+      show:
+        year: 2025
+        id: summersonicbangkok
+
+- postximage:
+    post: 1956279699778494838
+    id: GyX0EBfawAAuyja
+    label: Merch
+    published-date: 2025-08-15
+    context:
+    - show:
+        year: 2025
+        id: summersonicbangkok
+    part-of:
+      postx: 1956279699778494838
+
+- postximage:
+    post: 1959679931413381381
+    id: GzIuIyDaoAA_S0b
+    label: Festival sign
+    published-date: 2025-08-24
+    context:
+    - show:
+        year: 2025
+        id: summersonicbangkok
+    part-of:
+      postx: 1959679931413381381
+

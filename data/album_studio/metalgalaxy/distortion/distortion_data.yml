@@ -1,0 +1,41 @@
+- localimage:
+    song: distortion
+    id: cover
+    label: Cover
+    published-date: 2018-05-08
+    source:
+      description: TOY'S FACTORY item page
+      url: 'https://www.toysfactory.co.jp/artist/babymetal/disco/1844'
+    part-of:
+      song: distortion
+
+- localimage:
+    song: distortion
+    id: coversingle
+    label: Cover
+    info: Single
+    published-date: 2018-11-23
+    source:
+      description: TOY'S FACTORY item page
+      url: 'https://www.toysfactory.co.jp/artist/babymetal/disco/1936'
+    part-of:
+      song: distortion
+
+- youtubevideo:
+    id: 1ce456Nnkt8
+    label: Official Music Videos
+    published-date: 2018-05-07
+    context:
+    - song: distortion
+    part-of:
+      song: distortion
+
+- youtubevideo:
+    id: FzgU3W5ZgzU
+    label: Live
+    published-date: 2018-09-28
+    context:
+    - song: distortion
+    part-of:
+      song: distortion
+

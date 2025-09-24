@@ -1,0 +1,45 @@
+- postx:
+    id: 1941012401547366678
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-07-04
+    text: |-
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Sterling Heights🇺🇸 
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #SterlingHeights 
+      📸 
+      @Theguyfromthpic
+    image:
+    - Gu_adzLWAAAkyVE
+    - Gu_afEXX0AA4cmI
+    todo: second image karate ?
+    part-of:
+      show:
+        year: 2025
+        id: sterlingheights
+
+- postximage:
+    post: 1941012401547366678
+    id: Gu_adzLWAAAkyVE
+    label: On stage
+    published-date: 2025-07-04
+    context:
+    - show:
+        year: 2025
+        id: sterlingheights
+    - song: papaya
+    part-of:
+      postx: 1941012401547366678
+
+- postximage:
+    post: 1941012401547366678
+    id: Gu_afEXX0AA4cmI
+    label: On stage
+    published-date: 2025-07-04
+    context:
+    - show:
+        year: 2025
+        id: sterlingheights
+    - song: karate
+    part-of:
+      postx: 1941012401547366678
+

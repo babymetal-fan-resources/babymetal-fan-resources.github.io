@@ -1,0 +1,25 @@
+show:
+  year: 2025
+  id: lasvegas
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  fullname: Las Vegas, NV, USA
+  date: 2025-07-20
+  tour: northamerica2025
+  venue: The Pearl
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1947199156407427201
+        image: GwXVlMnX0AAQu5o
+    image:
+    - postximage:
+        post: 1947199156407427201
+        image: GwXVlMnX0AAQu5o
+    - postximage:
+        post: 1947199156407427201
+        image: GwXVmeqXEAAB6Gb

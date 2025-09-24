@@ -1,0 +1,9 @@
+localimage:
+  event: siteimages
+  id: kitsune_cover
+  label: Kitsune Logo for cover
+  published-date: 2009-12-31
+  source:
+    description: Created for the site
+  part-of:
+    event: siteimages

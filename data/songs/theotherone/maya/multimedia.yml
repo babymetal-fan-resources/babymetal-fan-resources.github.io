@@ -1,9 +1,0 @@
-
-- youtubevideo:
-    id: DE8lACLWMtI
-    label: Official Live Video
-    published-date: 2023-10-24
-    context:
-    - song: mirrormirror
-    part-of:
-      song: mirrormirror

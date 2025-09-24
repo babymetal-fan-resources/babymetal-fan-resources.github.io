@@ -1,0 +1,14 @@
+song:
+  id: dokidokimorningkibaofakiba
+  cover-image:
+    localimage:
+      album: babymetalxkibaofakiba
+      id: cover
+  fullname: ド・キ・ド・キ☆モーニング
+  fullname-en: Doki Doki☆Morning - KIBA OF AKIBA
+  album: babymetalxkibaofakiba
+  release-date: 2012-03-07
+  description:
+  - Cover by キバオブアキバ (KIBA OF AKIBA) of Doki Doki☆Morning.
+  part-of:
+    album: babymetalxkibaofakiba

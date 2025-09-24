@@ -1,0 +1,24 @@
+show:
+  year: 2025
+  id: baltimore
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  fullname: Baltimore, MD, USA
+  date: 2025-06-21
+  tour: northamerica2025
+  venue: Pier Six Pavilion
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1936658376798454181
+        image: GuBimuGXUAAKFkt
+    short:
+    - youtubeshort: IhlCz8gGvvE
+    image:
+    - postximage:
+        post: 1936658376798454181
+        image: GuBimuGXUAAKFkt

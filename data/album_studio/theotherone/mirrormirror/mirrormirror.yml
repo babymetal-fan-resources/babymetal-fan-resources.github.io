@@ -1,0 +1,33 @@
+song:
+  id: mirrormirror
+  cover-image:
+    localimage:
+      album: theotherone
+      id: cover
+  fullname: Mirror Mirror
+  album: theotherone
+  release-date: 2023-03-24
+  lyricist:
+    value: THE OTHER METAL, RYU-METAL
+    source:
+      description: 'JASRAC - work ID: 281-8930-2'
+      url: 'https://www2.jasrac.or.jp/'
+  composer:
+    value: RYU-METAL
+    source:
+      description: 'JASRAC - work ID: 281-8930-2'
+      url: 'https://www2.jasrac.or.jp/'
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: 'https://www.mikiko0811.net/#works'
+  wiki: 'https://babymetal.fandom.com/wiki/Mirror_Mirror'
+  part-of:
+    album: theotherone
+  multimedia:
+    main:
+      youtubevideo: 7uOoH2PTYl0
+    video:
+    - youtubevideo: 7uOoH2PTYl0
+    - youtubevideo: MqSvRh6kXxU

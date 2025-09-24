@@ -1,0 +1,44 @@
+- postx:
+    id: 1938827798744867171
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-06-28
+    text: |-
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in Uncasville🎰
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #UNCASVILLE 
+      📸 
+      @Theguyfromthpic
+    image:
+    - GugZVxXWMAAQlcN
+    - GugZYjCXUAAtwkm
+    part-of:
+      show:
+        year: 2025
+        id: uncasville
+
+- postximage:
+    post: 1938827798744867171
+    id: GugZVxXWMAAQlcN
+    label: On stage
+    published-date: 2025-06-28
+    context:
+    - show:
+        year: 2025
+        id: uncasville
+    - song: papaya
+    part-of:
+      postx: 1938827798744867171
+
+- postximage:
+    post: 1938827798744867171
+    id: GugZYjCXUAAtwkm
+    label: Venue
+    published-date: 2025-06-28
+    context:
+    - show:
+        year: 2025
+        id: uncasville
+    - song: song3
+    part-of:
+      postx: 1938827798744867171
+

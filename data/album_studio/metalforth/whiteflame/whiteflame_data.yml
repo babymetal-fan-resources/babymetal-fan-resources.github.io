@@ -1,0 +1,166 @@
+lyrics:
+  id: main
+  song: whiteflame
+  part-of:
+    song: whiteflame
+  status:
+    code: warning
+    description: data copied from the sources
+  languages:
+  - id: ol
+    name: original lyrics
+    details: (from lyrics poster in METAL FORTH - Limited Edition)
+    active: true
+    fixed: true
+    no-translation: true
+    source:
+      description: from lyrics poster in METAL FORTH - Limited Edition
+  artists:
+  - id: s
+    fullname: SU-METAL
+    label: S
+  - id: momoa
+    fullname: MOAMETAL, MOMOMETAL
+    label: M+MM
+  sections:
+  - lines:
+    - a: momoa
+      ol:
+      - Time
+    - a: s
+      ol:
+      - 時を超えて
+    - a: momoa
+      ol:
+      - Shine
+    - a: s
+      ol:
+      - 輝く
+    - a: s
+      ol:
+      - 走り続け
+    - a: s
+      ol:
+      - 届けた蒼い星
+    - a: momoa
+      ol:
+      - Dance
+    - a: s
+      ol:
+      - 胸が躍る
+    - a: momoa
+      ol:
+      - Chance
+    - a: s
+      ol:
+      - いつの日にか
+    - a: s
+      ol:
+      - ひかる明日をつかまえたい
+  - lines:
+    - a: s
+      ol:
+      - 遠く遠ざかる
+    - a: s
+      ol:
+      - 夜空の星よ
+    - a: s
+      ol:
+      - 次に出会える日まで
+    - a: s
+      ol:
+      - 長い夜を越えて
+  - lines:
+    - a: s
+      ol:
+      - Sunlight
+    - a: s
+      ol:
+      - 煌めく光の中
+    - a: s
+      ol:
+      - Sunlight
+    - a: s
+      ol:
+      - 白い太陽が揺れた
+    - a: s
+      ol:
+      - さんさんと照らせよもっと
+    - a: s
+      ol:
+      - こぼれてく眩しさを
+    - a: s
+      ol:
+      - 集めて踊るよ
+    - a: s
+      ol:
+      - Sunlight
+  - lines:
+    - a: momoa
+      ol:
+      - Sign
+    - a: s
+      ol:
+      - ときを告げる
+    - a: momoa
+      ol:
+      - Chime
+    - a: s
+      ol:
+      - 踊の音
+    - a: s
+      ol:
+      - 待ちわびてた
+    - a: s
+      ol:
+      - 抱いた 淡い夢
+    - a: momoa
+      ol:
+      - Chase
+    - a: s
+      ol:
+      - 追い求めた
+    - a: momoa
+      ol:
+      - Faith
+    - a: s
+      ol:
+      - 強い心
+    - a: s
+      ol:
+      - 二度と離さず つかまえたい
+  - lines:
+    - a: s
+      ol:
+      - 長い夜を超えて
+    - a: s
+      ol:
+      - 地平線の彼方へ
+  - lines:
+    - a: s
+      ol:
+      - Sunlight
+    - a: s
+      ol:
+      - 煌めく光の中
+    - a: s
+      ol:
+      - Sunlight
+    - a: s
+      ol:
+      - 白い太陽が揺れた
+    - a: s
+      ol:
+      - さんさんと照らせよもっと
+    - a: s
+      ol:
+      - あふれだす眩しさを
+    - a: s
+      ol:
+      - 集めて踊るよ
+    - a: s
+      ol:
+      - Sunlight
+    - a: s
+      ol:
+      - 照らせ

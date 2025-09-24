@@ -1,0 +1,24 @@
+show:
+  year: 2025
+  id: berlin
+  cover-image:
+    localimage:
+      tour: ukeuropearenatour2025
+      id: cover
+  fullname: Berlin, Germany
+  date: 2025-05-17
+  tour: ukeuropearenatour2025
+  venue: Velodrom
+  part-of:
+    tour: ukeuropearenatour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1924035966840533209
+        image: GrOMgFHXsAAXD-b
+    short:
+    - youtubeshort: RerJs6jVegg
+    image:
+    - postximage:
+        post: 1924035966840533209
+        image: GrOMgFHXsAAXD-b

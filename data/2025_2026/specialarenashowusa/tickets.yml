@@ -1,0 +1,43 @@
+- group:
+    id: tickets
+    label: Tickets
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- postx:
+    id: 1929583793448579425
+    account: BABYMETAL_JAPAN
+    label: Pre-sale
+    published-date: 2025-06-02
+    text: |-
+      Los Angeles! 
+      Special US Arena show, Intuit Dome pre-sale begins now! General on-sale is Friday June 6.
+      
+      Get pre-sale Tickets and VIP from http://laylo.com/babymetal/intuitdome/nov1
+      #BABYMETAL
+      📸
+      @photosbysarai
+    image:
+    - GsdAxWcb0AAMBm3
+    todo: image, which song
+    part-of:
+      group:
+        id: tickets
+        show:
+          year: 2025
+          id: specialarenashowusa
+
+- postximage:
+    post: 1929583793448579425
+    id: GsdAxWcb0AAMBm3
+    label: On stage
+    published-date: 2025-06-02
+    context:
+    - show:
+        year: 2025
+        id: london
+    part-of:
+      postx: 1929583793448579425
+

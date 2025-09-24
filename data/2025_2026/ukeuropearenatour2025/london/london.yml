@@ -1,0 +1,52 @@
+show:
+  year: 2025
+  id: london
+  cover-image:
+    postximage:
+      post: 1928044340867178916
+      image: GsHI5cJaUAEzOpm
+  fullname: London, United Kingdom
+  date: 2025-05-30
+  tour: ukeuropearenatour2025
+  categories:
+  - mainshowtour
+  venue: The O2
+  part-of:
+    tour: ukeuropearenatour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1928663024081997836
+        image: GsP2prsXAAEh5WO
+    short:
+    - postxvideo:
+        post: 1947060377281560607
+        video: 01
+    - youtubeshort: gVpbtku2yJY
+    - postxvideo:
+        post: 1928785133810679817
+        video: 01
+    image:
+    - postximage:
+        post: 1929583793448579425
+        image: GsdAxWcb0AAMBm3
+    - postximage:
+        post: 1928785133810679817
+        image: GsRr0AiWIAExcJc
+    - postximage:
+        post: 1928663024081997836
+        image: GsP2prsXAAEh5WO
+    - postximage:
+        post: 1928663024081997836
+        image: GsP2twUWEAAYuj1
+    - postximage:
+        post: 1928663024081997836
+        image: GsP2waLXYAA0QmT
+    - postximage:
+        post: 1928663024081997836
+        image: GsP7vPpXUAA5oDq
+    - localimage:
+        show:
+          year: 2025
+          id: london
+        id: poster_popup

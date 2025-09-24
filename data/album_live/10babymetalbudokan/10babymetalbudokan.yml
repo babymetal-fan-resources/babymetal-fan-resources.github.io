@@ -1,0 +1,27 @@
+album:
+  id: 10babymetalbudokan
+  cover-image:
+    localimage:
+      album: 10babymetalbudokan
+      id: cover
+  fullname: 10 BABYMETAL BUDOKAN
+  designation: Live Album
+  release-date: 2021-09-29
+  is-studio: false
+  songs:
+  - babymetaldeath
+  - ijimedamezettai
+  - gimichoko
+  - dokidokimorning
+  - gj
+  - norainnorainbow
+  - distortion
+  - papaya
+  - megitsune
+  - karate
+  - headbanger
+  - theone
+  - roadofresistance
+  wiki: 'https://babymetal.fandom.com/wiki/10_BABYMETAL_BUDOKAN'
+  part-of:
+    group: album_live

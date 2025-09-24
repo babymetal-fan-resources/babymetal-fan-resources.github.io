@@ -1,0 +1,27 @@
+show:
+  year: 2025
+  id: toronto
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  fullname: Toronto, ON, Canada
+  date: 2025-07-02
+  tour: northamerica2025
+  venue: Coca-Cola Coliseum
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1940644829270364498
+        image: Gu6NzIVWkAADCfP
+    short:
+    - youtubeshort: MdvxYE6JHB8
+    image:
+    - postximage:
+        post: 1940644829270364498
+        image: Gu6NzIVWkAADCfP
+    - postximage:
+        post: 1940644829270364498
+        image: Gu6N0OLXsAAlGuJ

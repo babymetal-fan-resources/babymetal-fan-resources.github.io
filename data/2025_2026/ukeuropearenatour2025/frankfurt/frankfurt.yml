@@ -1,0 +1,30 @@
+show:
+  year: 2025
+  id: frankfurt
+  cover-image:
+    localimage:
+      tour: ukeuropearenatour2025
+      id: cover
+  fullname: Frankfurt, Germany
+  date: 2025-05-16
+  tour: ukeuropearenatour2025
+  venue: Jahrhunderthalle
+  part-of:
+    tour: ukeuropearenatour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1923533279652872569
+        image: GrHB1SwWgAA-d8G
+    short:
+    - youtubeshort: RerJs6jVegg
+    image:
+    - postximage:
+        post: 1923533279652872569
+        image: GrHB1SwWgAA-d8G
+    - postximage:
+        post: 1923533279652872569
+        image: GrHByaDX0AAQxE3
+    - postximage:
+        post: 1923533279652872569
+        image: GrHBuj9WwAAr1p_

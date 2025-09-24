@@ -1,0 +1,28 @@
+song:
+  id: eternalflames
+  cover-image:
+    localimage:
+      song: eternalflames
+      id: cover
+  fullname: ETERNAL FLAMES (feat. BABYMETAL)
+  fullname-en: TMG
+  shortname: ETERNAL FLAMES
+  release-date: 2024-09-06
+  lyricist:
+    value: JACK BLADES
+    source:
+      description: 'JASRAC - work ID: 313-7580-4'
+      url: 'https://www2.jasrac.or.jp/'
+  composer:
+    value: TAK MATSUMOTO
+    source:
+      description: 'JASRAC - work ID: 313-7580-4'
+      url: 'https://www2.jasrac.or.jp/'
+  wiki: 'https://babymetal.fandom.com/wiki/ETERNAL_FLAMES'
+  part-of:
+    group: externalcolab
+  multimedia:
+    main:
+      youtubevideo: lN1WmeVd22Y
+    video:
+    - youtubevideo: lN1WmeVd22Y

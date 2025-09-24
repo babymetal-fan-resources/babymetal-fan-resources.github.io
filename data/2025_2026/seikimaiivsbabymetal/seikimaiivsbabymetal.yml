@@ -1,0 +1,132 @@
+- group:
+    id: seikimaiivsbabymetal
+    label: 聖飢魔II vs BABYMETAL
+    part-of:
+      group: 2025_2026
+
+- postx:
+    id: 1959903583710970221
+    account: BABYMETAL_JAPAN
+    label: Merch
+    published-date: 2025-08-25
+    text: |-
+      「聖飢魔II vs BABYMETAL 悪魔が来たりてベビメタる」グッズ販売決定!!😈🦊
+      🔽詳細はこちら
+      https://babymetal.com/SkiiBmMerch/
+      
+      🗓️販売日時
+      2025.8.30(土) 12:00～開演18:00／終演後
+      2025.8.31(日) 13:00～開演17:00／終演後
+      📍販売場所：Kアリーナ横浜 場外物販テント
+      
+      🚨当日会場では「聖飢魔II vs BABYMETAL 悪魔が来たりてベビメタる」のコラボグッズの販売も予定しております。詳細は下記の特設WebサイトのINFORMATIONをご確認ください
+      https://skiivsbbm.com
+    image:
+    - GzLqGXZbYAAPuYv
+    - GzLqUJMaMAAyCOG
+    part-of:
+      group:
+        id: seikimaiivsbabymetal
+        group: 2025_2026
+
+- postx:
+    id: 1961613543176065283
+    account: BABYMETAL_JAPAN
+    label: Merch
+    published-date: 2025-08-30
+    text: |-
+      BABYMETALグッズ、本日12時から販売スタート!!
+      Kアリーナ横浜会場にてデジタル整理券を取得のうえ、ご利用ください🦊🤘🏻
+      
+      デジタル整理券
+      https://aquickorder.jp
+    video:
+    - 01
+    part-of:
+      group:
+        id: seikimaiivsbabymetal
+        group: 2025_2026
+
+- postx:
+    id: 1962062532971237576
+    account: BABYMETAL_JAPAN
+    label: Merch
+    published-date: 2025-08-31
+    text: |-
+      聖飢魔II vs BABYMETAL 
+      "悪魔が来たりてベビメタる"
+      
+      対決に挑むその前に──我らが【悪魔除け】を手にせよ。
+    image:
+    - GzqlabMbsAAc_k4
+    - GzqlcEXbUAAxjCX
+    part-of:
+      group:
+        id: seikimaiivsbabymetal
+        group: 2025_2026
+
+- postximage:
+    post: 1959903583710970221
+    id: GzLqGXZbYAAPuYv
+    label: Merch
+    published-date: 2025-08-25
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+    part-of:
+      postx: 1959903583710970221
+
+- postximage:
+    post: 1959903583710970221
+    id: GzLqUJMaMAAyCOG
+    label: Merch
+    published-date: 2025-08-25
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+    part-of:
+      postx: 1959903583710970221
+
+- postximage:
+    post: 1962062532971237576
+    id: GzqlabMbsAAc_k4
+    label: Merch
+    info: Demon Amulet
+    published-date: 2025-08-31
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+    part-of:
+      postx: 1962062532971237576
+
+- postximage:
+    post: 1962062532971237576
+    id: GzqlcEXbUAAxjCX
+    label: Merch
+    info: Kogitsune face pack
+    published-date: 2025-08-31
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+    part-of:
+      postx: 1962062532971237576
+
+- postxvideo:
+    post: 1961613543176065283
+    id: 01
+    label: Merch
+    published-date: 2025-08-30
+    cover: 1961613475098365954/img/x7YxBpoU7MgsbX8A.jpg
+    part-of:
+      postx: 1961613543176065283
+

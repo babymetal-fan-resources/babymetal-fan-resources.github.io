@@ -1,0 +1,14 @@
+postximage:
+  post: 1927545228505862530
+  id: GsAEHwwXIAEk3V7
+  label: Poster
+  published-date: 2025-05-28
+  local-copy: true
+  context:
+  - show:
+      year: 2025
+      id: manila
+  part-of:
+    show:
+      year: 2025
+      id: manila

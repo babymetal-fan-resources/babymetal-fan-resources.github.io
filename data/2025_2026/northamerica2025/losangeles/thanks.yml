@@ -1,0 +1,87 @@
+- group:
+    id: thanks
+    label: Thanks
+    part-of:
+      show:
+        year: 2025
+        id: losangeles
+
+- postx:
+    id: 1948781027755000246
+    account: BABYMETAL_JAPAN
+    label: Countdown to Intuit Dome show
+    published-date: 2025-07-25
+    text: |-
+      🔥 The countdown to Intuit Dome this November has officially begun!🔥
+      
+      To fully enjoy the Intuit Dome show, make sure to blast METAL FORTH—dropping August 8! 💥
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #LosAngeles #METALFORTH
+      📸 
+      @v_trvn
+    image:
+    - Gwt043dbgAUofoY
+    - Gwt06GjbgAA0_84
+    part-of:
+      group:
+        id: thanks
+        show:
+          year: 2025
+          id: losangeles
+
+- postx:
+    id: 1948907621140103421
+    account: BABYMETAL_JAPAN
+    label: Thank you. Preorder album.
+    published-date: 2025-07-26
+    text: |-
+      Thank you for coming to our LA secret show yesterday! The show kicked off our 15 day countdown to METAL FORTH, cebebrating our 15th anniversary. Pre-order a signed copy of the album now! 
+      🔗https://Babymetal.lnk.to/USASTORE
+      
+      #BABYMETAL #METALFORTH
+    video:
+    - 01
+    part-of:
+      group:
+        id: thanks
+        show:
+          year: 2025
+          id: losangeles
+
+- postximage:
+    post: 1948781027755000246
+    id: Gwt043dbgAUofoY
+    label: On stage
+    published-date: 2025-07-25
+    context:
+    - show:
+        year: 2025
+        id: losangeles
+    - song: frommetou
+    part-of:
+      postx: 1948781027755000246
+
+- postximage:
+    post: 1948781027755000246
+    id: Gwt06GjbgAA0_84
+    label: On stage
+    published-date: 2025-07-25
+    context:
+    - show:
+        year: 2025
+        id: losangeles
+    - song: roadofresistance
+    part-of:
+      postx: 1948781027755000246
+
+- postxvideo:
+    post: 1948907621140103421
+    id: 01
+    label: Signed cards
+    published-date: 2025-07-26
+    cover: 1948906125056978944/img/R7cfPzv6QaLHODg1.jpg
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1948907621140103421
+

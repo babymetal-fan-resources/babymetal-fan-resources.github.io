@@ -1,0 +1,235 @@
+lyrics:
+  id: main
+  song: sunsetkiss
+  part-of:
+    song: sunsetkiss
+  status:
+    code: warning
+    description: data copied from the sources.
+  languages:
+  - id: ol
+    name: original lyrics
+    details: (from lyrics poster in METAL FORTH - Limited Edition)
+    active: true
+    fixed: true
+    no-translation: true
+    source:
+      description: from lyrics poster in METAL FORTH - Limited Edition
+  - id: ro
+    name: rōmaji
+    no-translation: true
+  artists:
+  - id: s
+    fullname: SU-METAL
+    label: S
+  - id: momoa
+    fullname: MOAMETAL, MOMOMETAL
+    label: M+MM
+  sections:
+  - lines:
+    - a: s
+      ol:
+      - あの日の君の言葉が
+      - ' '
+      - やさしい声で響いた
+      ro:
+      - ano hi no kime no kotoba ga
+      - ''
+      - yasashii koe de hibiita
+    - a: s
+      ol:
+      - 君と過ごした世界は今でも
+      - ' '
+      - 温もりだけが漂う
+      ro:
+      - kimi to sugoshita sekai wa imademo
+      - ''
+      - nukumori dake ga tadayou
+  - lines:
+    - a: s
+      ol:
+      - 見上げた空に舞い落ちる
+      - ' '
+      - 無邪気なままのメロディ
+      ro:
+      - miageta sora ni mai ochiru
+      - ''
+      - mujakina mama no merodi
+    - a: s
+      ol:
+      - 冷たい風が心を締め付け
+      - ' '
+      - 虚な声で囁く
+      ro:
+      - tsumetai kaze ga kokoro o shimetsuke
+      - ''
+      - utsuna koe de sasayaku
+  - lines:
+    - a: momoa
+      ol:
+      - 終わりなのかな
+      - ' '
+      - 終わりなのかな
+      ro:
+      - owarina no ka na
+      - ''
+      - owarina no ka na
+  - lines:
+    - a: s
+      ol:
+      - 夕焼け空に
+      - ' '
+      - 君が溶けていく
+      ro:
+      - yuuyake sora ni
+      - ''
+      - kimi ga tokete iku
+    - a: momoa
+      ol:
+      - Won't be long, it won't be long
+    - a: s
+      ol:
+      - 色褪せた顔
+      - ' '
+      - まだ焼きついて
+      ro:
+      - iroaseta kao
+      - ''
+      - mada yaki tsuite
+    - a: momoa
+      ol:
+      - Won't be long, it won't be long
+    - a: s
+      ol:
+      - 夕陽のKiss
+      ro:
+      - yuuhi no kissu
+  - lines:
+    - a: s
+      ol:
+      - 君を追いかけて
+      - ' '
+      - 手を伸ばした
+      ro:
+      - kimi wo oikakete
+      - ''
+      - te o nobashita
+    - a: s
+      ol:
+      - 消えゆく夕日は
+      - ' '
+      - もう
+      - ' '
+      - 届かない
+      ro:
+      - kieyuku yuuhi wa
+      - ''
+      - mou
+      - ''
+      - todokanai
+    - a: s
+      ol:
+      - 溢れ落ちた涙
+      - ' '
+      - 愛は涙に変わるけど
+      ro:
+      - kobore ochita namida
+      - ''
+      - ai wa namida ni kawaru kedo
+    - a: s
+      ol:
+      - 夢から醒めた愛は
+      - ' '
+      - やがて涙に変わる
+      ro:
+      - yume kara sameta ai wa
+      - ''
+      - yagate namida ni kawaru
+  - lines:
+    - a: momoa
+      ol:
+      - 構わないから
+      - ' '
+      - 構わないから
+      ro:
+      - kamawanai kara
+      - ''
+      - kamawanai kara
+  - lines:
+    - a: s
+      ol:
+      - 夕焼け空に
+      - ' '
+      - 君を探した
+      ro:
+      - yuuyake sora ni
+      - ''
+      - kimi o sagashita
+    - a: momoa
+      ol:
+      - Won't be alone, I won't be alone
+    - a: s
+      ol:
+      - 流れる涙
+      - ' '
+      - 夜に飲まれて
+      ro:
+      - nagareru namida
+      - ''
+      - yoru ni nomarete
+    - a: momoa
+      ol:
+      - Won't be alone, I won't be alone
+    - a: s
+      ol:
+      - 夕陽のKiss
+      ro:
+      - yuuhi no kissu
+  - lines:
+    - a: s
+      ol:
+      - 夕焼け空が
+      - ' '
+      - 僕らを染める
+      ro:
+      - yuuyake sora ga
+      - ''
+      - bokura o someru
+    - a: momoa
+      ol:
+      - Won't be long, it won't be long
+    - a: s
+      ol:
+      - 君と見上げた
+      - ' '
+      - あの日の空を
+      ro:
+      - kimi to miageta
+      - ''
+      - ano hi no zora wo
+    - a: momoa
+      ol:
+      - Won't be long, it won't be long
+    - a: s
+      ol:
+      - 夕焼け空が
+      - ' '
+      - 僕らを染めた
+      ro:
+      - yuuyake sora ga
+      - ''
+      - bokur o someta
+    - a: s
+      ol:
+      - 君と見上げた
+      - ' '
+      - あの日の空を
+      ro:
+      - kimi to miageta
+      - ''
+      - ano hi no zora wo
+    - a: s
+      ol:
+      - 夕陽のKiss
+      ro:
+      - yuuhi no kissu

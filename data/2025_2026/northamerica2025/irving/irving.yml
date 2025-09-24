@@ -1,0 +1,33 @@
+show:
+  year: 2025
+  id: irving
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  fullname: Irving, TX, USA
+  date: 2025-06-14
+  tour: northamerica2025
+  venue: The Pavilion at Toyota Music Factory
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1934132880441233442
+        image: Gtdrma3WoAA55Sq
+    short:
+    - youtubeshort: q9SCWO3JjAc
+    image:
+    - postximage:
+        post: 1934132880441233442
+        image: GtdrmaWXgAA5JrD
+    - postximage:
+        post: 1934132880441233442
+        image: GtdrmawWgAAYaRj
+    - postximage:
+        post: 1934132880441233442
+        image: Gtdrma3WoAA55Sq
+    - postximage:
+        post: 1934132880441233442
+        image: GtdrmanWIAAc_Je

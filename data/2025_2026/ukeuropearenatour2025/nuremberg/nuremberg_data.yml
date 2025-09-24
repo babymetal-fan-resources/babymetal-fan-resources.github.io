@@ -1,0 +1,44 @@
+- postx:
+    id: 1924984455510557164
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-05-21
+    text: |-
+      Thank you for coming to "BABYMETAL UK & EUROPE ARENA TOUR 2025" in Nürnberg,Germany🇩🇪 
+      #BABYMETAL #BABYMETALWORLDTOUR2025 
+      #Nürnberg #Germany
+      📸 
+      @photosbysarai
+    image:
+    - GrbpXs1bAAAydOs
+    - GrbpZctaEAAGQWB
+    part-of:
+      show:
+        year: 2025
+        id: nuremberg
+
+- postximage:
+    post: 1924984455510557164
+    id: GrbpXs1bAAAydOs
+    label: On stage
+    published-date: 2025-05-21
+    context:
+    - show:
+        year: 2025
+        id: nuremberg
+    - song: papaya
+    part-of:
+      postx: 1924984455510557164
+
+- postximage:
+    post: 1924984455510557164
+    id: GrbpZctaEAAGQWB
+    label: Crowd
+    published-date: 2025-05-21
+    context:
+    - show:
+        year: 2025
+        id: nuremberg
+    part-of:
+      postx: 1924984455510557164
+

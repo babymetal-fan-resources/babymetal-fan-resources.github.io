@@ -1,0 +1,14 @@
+show:
+  year: 2025
+  id: hongkong
+  cover-image:
+    postximage:
+      post: 1960552858165911699
+      image: GzSQ1BkaoAAANIp
+  fullname: Hong Kong
+  date: 2025-09-30
+  tour: asiatour2025
+  venue: AsiaWorld-Expo Arena
+  event-page: 'https://shows.cityline.com/tc/2025/babymetal2025.html'
+  part-of:
+    tour: asiatour2025

@@ -1,0 +1,27 @@
+album:
+  id: liveatbudokanrednight
+  cover-image:
+    localimage:
+      album: liveatbudokanrednight
+      id: cover
+  fullname: LIVE AT BUDOKAN ～RED NIGHT～
+  designation: Live Album
+  release-date: 2015-01-07
+  is-studio: false
+  songs:
+  - megitsune
+  - dokidokimorning
+  - gimichoko
+  - iine
+  - catchmeifyoucan
+  - ukiukimidnight
+  - rondoofnightmare
+  - onedaridaisakusen
+  - 4nouta
+  - akatsuki
+  - babymetaldeath
+  - headbanger
+  - ijimedamezettai
+  wiki: 'https://babymetal.fandom.com/wiki/LIVE_AT_BUDOKAN_~RED_NIGHT~'
+  part-of:
+    group: album_live

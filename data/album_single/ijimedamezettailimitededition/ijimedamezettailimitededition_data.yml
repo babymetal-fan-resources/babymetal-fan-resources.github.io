@@ -1,0 +1,36 @@
+- localimage:
+    album: ijimedamezettailimitededition
+    id: coverd
+    label: Cover
+    info: “D”盤 ("D" Edition), YUIMETAL
+    published-date: 2013-01-09
+    source:
+      description: TOY'S FACTORY item page
+      url: 'https://www.toysfactory.co.jp/artist/babymetal/disco/949'
+    part-of:
+      album: ijimedamezettailimitededition
+
+- localimage:
+    album: ijimedamezettailimitededition
+    id: coveri
+    label: Cover
+    info: “I”盤 ("I" Edition), SU-METAL
+    published-date: 2013-01-09
+    source:
+      description: TOY'S FACTORY item page
+      url: 'https://www.toysfactory.co.jp/artist/babymetal/disco/946'
+    part-of:
+      album: ijimedamezettailimitededition
+
+- localimage:
+    album: ijimedamezettailimitededition
+    id: coverz
+    label: Cover
+    info: “Z”盤 ("Z" Edition), MOAMETAL
+    published-date: 2013-01-09
+    source:
+      description: TOY'S FACTORY item page
+      url: 'https://www.toysfactory.co.jp/artist/babymetal/disco/948'
+    part-of:
+      album: ijimedamezettailimitededition
+

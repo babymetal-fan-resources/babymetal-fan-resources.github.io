@@ -1,0 +1,29 @@
+- localimage:
+    song: dokidokimorning
+    id: cover
+    label: Cover
+    published-date: 2011-10-24
+    source:
+      description: TOY'S FACTORY item page
+      url: 'https://www.toysfactory.co.jp/artist/babymetal/disco/884'
+    part-of:
+      song: dokidokimorning
+
+- youtubevideo:
+    id: cirhQ8iLdbw
+    label: Official Music Video
+    published-date: 2012-11-08
+    context:
+    - song: dokidokimorning
+    part-of:
+      song: dokidokimorning
+
+- youtubevideo:
+    id: h-fesmi6bL8
+    label: Live
+    published-date: 2024-07-12
+    context:
+    - song: dokidokimorning
+    part-of:
+      song: dokidokimorning
+

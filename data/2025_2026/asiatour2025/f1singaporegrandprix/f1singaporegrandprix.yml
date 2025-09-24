@@ -1,0 +1,16 @@
+show:
+  year: 2025
+  id: f1singaporegrandprix
+  cover-image:
+    localimage:
+      show:
+        year: 2025
+        id: f1singaporegrandprix
+      id: cover
+  fullname: F1 SINGAPORE GRAND PRIX
+  date: 2025-10-04
+  tour: asiatour2025
+  venue: MARINA BAY STREET CIRCUIT
+  event-page: 'https://singaporegp.sg/'
+  part-of:
+    tour: asiatour2025

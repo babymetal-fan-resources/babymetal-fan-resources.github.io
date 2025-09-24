@@ -1,0 +1,21 @@
+album:
+  id: headbanger
+  cover-image:
+    localimage:
+      album: headbanger
+      id: cover
+  fullname: ヘドバンギャー！！
+  alt-name: Headbanger!!!!!
+  designation: single
+  release-date: 2012-07-04
+  songs:
+  - headbanger
+  - dokidokimorning
+  wiki: 'https://babymetal.fandom.com/wiki/Headbanger!!_(Single_album)'
+  part-of:
+    group: album_single
+  multimedia:
+    image:
+    - localimage:
+        album: headbanger
+        id: coverfirstpress

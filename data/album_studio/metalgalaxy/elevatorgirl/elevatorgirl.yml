@@ -1,0 +1,32 @@
+song:
+  id: elevatorgirl
+  cover-image:
+    localimage:
+      song: elevatorgirl
+      id: cover
+  fullname: Elevator Girl
+  album: metalgalaxy
+  release-date: 2019-05-10
+  lyricist:
+    value: RYU-METAL
+    source:
+      description: 'JASRAC - work ID: 727-8415-6'
+      url: 'https://www2.jasrac.or.jp/'
+  composer:
+    value: RYU-METAL
+    source:
+      description: 'JASRAC - work ID: 727-8415-6'
+      url: 'https://www2.jasrac.or.jp/'
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: 'https://www.mikiko0811.net/#works'
+  wiki: 'https://babymetal.fandom.com/wiki/Elevator_Girl'
+  part-of:
+    album: metalgalaxy
+  multimedia:
+    main:
+      youtubevideo: Q48bwxyqVpQ
+    video:
+    - youtubevideo: Q48bwxyqVpQ

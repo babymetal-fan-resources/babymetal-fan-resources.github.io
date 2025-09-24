@@ -1,0 +1,37 @@
+mediawritten:
+  year: 2025
+  id: pmc
+  cover-image:
+    postximage:
+      post: 1914876896082583656
+      image: GpLfm5xa4AM7Owd
+  publication: PMC
+  issue: Vol. 36
+  designation: magazine
+  member:
+  - SU-METAL
+  - MOAMETAL
+  - MOMOMETAL
+  - KOBAMETAL
+  published-date: 2025-05-21
+  webpage: 'https://lp.p.pia.jp/article/series/202961/416908/index.html'
+  part-of:
+    group: 2025_2026
+  multimedia:
+    main:
+      postximage:
+        post: 1925023744986058905
+        image: GrYhyIzbwAAP05r
+    image:
+    - postximage:
+        post: 1934898813619065008
+        image: GtoFDiGboAAaC0w
+    - postximage:
+        post: 1931924215965356195
+        image: Gs-JgZfbQAAhUWX
+    - postximage:
+        post: 1925023744986058905
+        image: GrYhyIWbAAQ_HF2
+    - postximage:
+        post: 1925023744986058905
+        image: GrYhyIzbwAAP05r

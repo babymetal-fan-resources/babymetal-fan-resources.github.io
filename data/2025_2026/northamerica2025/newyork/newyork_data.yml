@@ -1,0 +1,45 @@
+- postx:
+    id: 1937866458744201622
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-06-25
+    text: |-
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 NORTH AMERICA" in NY🗽 #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #NY 
+      @TheTheaterAtMSG
+      
+      📸 
+      @Theguyfromthpic
+    image:
+    - GuSu9ZcWoAAigk1
+    - GuSvK8KWIAA305c
+    part-of:
+      show:
+        year: 2025
+        id: newyork
+
+- postximage:
+    post: 1937866458744201622
+    id: GuSu9ZcWoAAigk1
+    label: On stage
+    published-date: 2025-06-25
+    context:
+    - show:
+        year: 2025
+        id: newyork
+    - song: papaya
+    part-of:
+      postx: 1937866458744201622
+
+- postximage:
+    post: 1937866458744201622
+    id: GuSvK8KWIAA305c
+    label: Crowd & Stage
+    published-date: 2025-06-25
+    context:
+    - show:
+        year: 2025
+        id: newyork
+    - song: papaya
+    part-of:
+      postx: 1937866458744201622
+

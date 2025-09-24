@@ -1,0 +1,70 @@
+- postx:
+    id: 1924789470085140940
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-05-20
+    text: |-
+      Thank you for coming to "BABYMETAL UK & EUROPE ARENA TOUR 2025" in Krakow, Poland🇵🇱 
+      #BABYMETAL #BABYMETALWORLDTOUR2025 
+      #Krakow #Poland
+      📸 
+      @photosbysarai
+    image:
+    - GrY0XDsXwAA3nGo
+    - GrY0ZqUXgAAzv4m
+    - GrY0ybHXQAAcr74
+    - GrY04swXYAAuDIs
+    todo: image 1 which song
+    part-of:
+      show:
+        year: 2025
+        id: krakow
+
+- postximage:
+    post: 1924789470085140940
+    id: GrY04swXYAAuDIs
+    label: Outside
+    published-date: 2025-05-20
+    context:
+    - show:
+        year: 2025
+        id: krakow
+    part-of:
+      postx: 1924789470085140940
+
+- postximage:
+    post: 1924789470085140940
+    id: GrY0XDsXwAA3nGo
+    label: On stage
+    published-date: 2025-05-20
+    context:
+    - show:
+        year: 2025
+        id: krakow
+    part-of:
+      postx: 1924789470085140940
+
+- postximage:
+    post: 1924789470085140940
+    id: GrY0ZqUXgAAzv4m
+    label: Young girl
+    published-date: 2025-05-20
+    context:
+    - show:
+        year: 2025
+        id: krakow
+    part-of:
+      postx: 1924789470085140940
+
+- postximage:
+    post: 1924789470085140940
+    id: GrY0ybHXQAAcr74
+    label: Barrier
+    published-date: 2025-05-20
+    context:
+    - show:
+        year: 2025
+        id: krakow
+    part-of:
+      postx: 1924789470085140940
+

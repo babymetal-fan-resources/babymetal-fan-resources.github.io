@@ -1,0 +1,33 @@
+show:
+  year: 2025
+  id: amsterdam
+  cover-image:
+    localimage:
+      tour: ukeuropearenatour2025
+      id: cover
+  fullname: Amsterdam, Netherlands
+  date: 2025-05-14
+  tour: ukeuropearenatour2025
+  venue: AFAS Live
+  part-of:
+    tour: ukeuropearenatour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1922456138966085924
+        image: Gq3ucSIasAA-t3f
+    short:
+    - youtubeshort: 80fsZ-cdbqM
+    image:
+    - postximage:
+        post: 1922456138966085924
+        image: Gq3ucSIasAA-t3f
+    - postximage:
+        post: 1922456138966085924
+        image: Gq3ueqXbAAAGlx2
+    - postximage:
+        post: 1922456138966085924
+        image: Gq3uf7eXEAAUFDV
+    - postximage:
+        post: 1922456138966085924
+        image: Gq3uhjqbAAEUMFt

@@ -1,0 +1,10 @@
+postximage:
+  post: 1906725673450037384
+  id: GnWBzbdbgAA2zuP
+  label: cover image
+  published-date: 2025-04-01
+  local-copy: true
+  context:
+  - album: metalforth
+  part-of:
+    album: metalforth

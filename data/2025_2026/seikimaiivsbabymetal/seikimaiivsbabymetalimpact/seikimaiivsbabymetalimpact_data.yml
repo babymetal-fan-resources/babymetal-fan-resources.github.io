@@ -1,0 +1,106 @@
+- postx:
+    id: 1951115671615787333
+    account: BABYMETAL_JAPAN
+    label: 2nd day soldout
+    published-date: 2025-08-01
+    text: |-
+      Thank you!! 2DAYS sold out!!😈🦊
+      #BABYMETAL #聖飢魔II
+    image:
+    - GxLLmq4bgAAtGnf
+    part-of:
+      postximage:
+        post: 1951115671615787333
+        image: GxLLmq4bgAAtGnf
+
+- postx:
+    id: 1962359161414664488
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-08-31
+    text: |-
+      Thank you for coming to "聖飢魔Ⅱ vs BABYMETAL〜悪魔が来たりてベビメタる〜" DAY2 !!!😈🦊
+      See you again!!
+      📸 
+      @fujii_taku
+      
+      #BABYMETAL #聖飢魔II
+    image:
+    - GzuyqyUbgAAIxJW
+    - Gzuytj9aEAEZABJ
+    part-of:
+      show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+
+- postx:
+    id: 1962411176324956658
+    account: BABYMETAL_JAPAN
+    label: Thank You
+    published-date: 2025-09-01
+    text: |-
+      Thank you 
+      @seikima_ii40th
+      🤘😈😈😈😈😈🦊🦊🦊🤘
+      📸 
+      @fujii_taku
+    image:
+    - GzvWZWQaIAEQxe2
+    part-of:
+      show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+
+- postximage:
+    post: 1951115671615787333
+    id: GxLLmq4bgAAtGnf
+    label: Poster sold out
+    published-date: 2025-08-01
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+    part-of:
+      show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+
+- postximage:
+    post: 1962359161414664488
+    id: GzuyqyUbgAAIxJW
+    label: On stage
+    published-date: 2025-08-31
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+    todo: which song ?
+    part-of:
+      postx: 1962359161414664488
+
+- postximage:
+    post: 1962359161414664488
+    id: Gzuytj9aEAEZABJ
+    label: On stage
+    published-date: 2025-08-31
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+    todo: which song ?
+    part-of:
+      postx: 1962359161414664488
+
+- postximage:
+    post: 1962411176324956658
+    id: GzvWZWQaIAEQxe2
+    label: Backstage
+    info: BABYMETAL, 聖飢魔Ⅱ
+    published-date: 2025-09-01
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+    part-of:
+      postx: 1962411176324956658
+

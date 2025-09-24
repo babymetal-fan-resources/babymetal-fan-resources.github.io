@@ -1,0 +1,24 @@
+show:
+  year: 2025
+  id: philadelphia
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  fullname: Philadelphia, PA, USA
+  date: 2025-06-28
+  tour: northamerica2025
+  venue: TD Pavilion at The Mann Center
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1939182070535753920
+        image: GulbRctXEAAOF4y
+    short:
+    - youtubeshort: 8ebR_x-wgaU
+    image:
+    - postximage:
+        post: 1939182070535753920
+        image: GulbRctXEAAOF4y

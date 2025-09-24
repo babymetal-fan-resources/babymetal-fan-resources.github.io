@@ -1,0 +1,16 @@
+song:
+  id: theendffdp
+  cover-image:
+    localimage:
+      song: theendffdp
+      id: cover
+  fullname: The End (feat. BABYMETAL)(2025 Version)
+  fullname-en: Five Finger Death Punch
+  release-date: 2025-09-04
+  description:
+  - It is a re-release of the song "The End" by Five Finger Death Punch, featuring BABYMETAL.
+  - The second verse and pre-chorus, and most of the bridge have been re-written in Japanese, and are sung by SU-METAL.
+  lyrics:
+  - main
+  part-of:
+    group: externalcolab

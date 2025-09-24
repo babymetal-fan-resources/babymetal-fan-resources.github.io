@@ -1,0 +1,27 @@
+mediawritten:
+  year: 2025
+  id: rollingstonejp
+  cover-image:
+    postximage:
+      post: 1933722747072622685
+      image: GtX2ksNaoAAtuhv
+  publication: Rolling Stone Japan
+  issue: Vol. 31
+  designation: magazine
+  member:
+  - SU-METAL
+  - MOAMETAL
+  - MOMOMETAL
+  published-date: 2025-06-25
+  webpage: 'https://rollingstonejapan.com/articles/detail/41113?n=2&e=43027'
+  part-of:
+    group: 2025_2026
+  multimedia:
+    short:
+    - postxvideo:
+        post: 1937674603658182921
+        video: 01
+    image:
+    - postximage:
+        post: 1933722747072622685
+        image: GtX2ksNaoAAtuhv

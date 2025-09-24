@@ -1,0 +1,118 @@
+- group:
+    id: release
+    label: Release
+    part-of:
+      song: song3
+
+- postx:
+    id: 1925944898294812963
+    account: BABYMETAL_JAPAN
+    label: Coming soon
+    published-date: 2025-05-23
+    text: |-
+      BABYMETAL x 
+      @STPmetal
+      “Song 3” coming soon. 
+      
+      Pre-order the new album Metal Forth now
+    part-of:
+      youtubevideo: OlHVOlRBOnM
+
+- postx:
+    id: 1926654515031200142
+    account: BABYMETAL_JAPAN
+    label: 3 days
+    published-date: 2025-05-25
+    text: |-
+      3 days until "Song 3"
+      #Song3 #3meme #BABYMETAL #METALFORTH
+      @STPmetal
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        song: song3
+
+- postx:
+    id: 1927243499176329352
+    account: BABYMETAL_JAPAN
+    label: 33 hours
+    published-date: 2025-05-27
+    text: |-
+      3 days until "Song 3"
+      #Song3 #3meme #BABYMETAL #METALFORTH
+      @STPmetal
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        song: song3
+
+- postxvideo:
+    post: 1926654515031200142
+    id: 01
+    label: 3 days
+    published-date: 2025-05-25
+    cover: 1926651017774456832/img/cIaCeGins2YXeWjU.jpg
+    context:
+    - song: song3
+    part-of:
+      postx: 1926654515031200142
+
+- postxvideo:
+    post: 1927243499176329352
+    id: 01
+    label: 33 hours
+    published-date: 2025-05-27
+    cover: 1927243044488622080/img/9m-T-muf14eQFSxu.jpg
+    context:
+    - song: song3
+    part-of:
+      postx: 1927243499176329352
+
+- youtubeshort:
+    id: '-p_T7ci9j48'
+    label: 'Teaser #3'
+    published-date: 2025-05-28
+    context:
+    - song: song3
+    part-of:
+      group:
+        id: release
+        song: song3
+
+- youtubeshort:
+    id: Deo897Pw71o
+    label: 'Teaser #1'
+    published-date: 2025-05-26
+    context:
+    - song: song3
+    part-of:
+      group:
+        id: release
+        song: song3
+
+- youtubeshort:
+    id: omIy1HhQDfQ
+    label: 'Teaser #2'
+    published-date: 2025-05-27
+    context:
+    - song: song3
+    part-of:
+      group:
+        id: release
+        song: song3
+
+- youtubevideo:
+    id: OlHVOlRBOnM
+    label: 'Teaser #0'
+    published-date: 2025-05-23
+    context:
+    - song: song3
+    part-of:
+      group:
+        id: release
+        song: song3
+

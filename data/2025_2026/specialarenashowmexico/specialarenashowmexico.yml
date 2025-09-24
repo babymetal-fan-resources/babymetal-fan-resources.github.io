@@ -1,0 +1,25 @@
+show:
+  year: 2025
+  id: specialarenashowmexico
+  cover-image:
+    localimage:
+      show:
+        year: 2025
+        id: specialarenashowmexico
+      id: cover
+  fullname: Special Arena Show Mexico
+  sublabel: Mexico, Mexico
+  date: 2025-11-07
+  categories:
+  - mainshowtour
+  venue: Arena CDMX
+  part-of:
+    group: 2025_2026
+  multimedia:
+    image:
+    - postximage:
+        post: 1945604355219935396
+        image: Gv_iY7wXsAUHBKv
+    - postximage:
+        post: 1944804083430515175
+        image: Gvy0eR1bgAAkfN_

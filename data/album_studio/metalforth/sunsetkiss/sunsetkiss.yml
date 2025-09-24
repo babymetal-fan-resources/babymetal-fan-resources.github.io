@@ -1,0 +1,23 @@
+song:
+  id: sunsetkiss
+  cover-image:
+    postximage:
+      post: 1906725673450037384
+      image: GnWBzbdbgAA2zuP
+  fullname: Sunset Kiss (feat. Polyphia)
+  shortname: Sunset Kiss
+  album: metalforth
+  release-date: 2025-08-08
+  lyrics:
+  - main
+  lyricist:
+    value: MK-METAL, MEGMETAL
+    source:
+      description: CD jacket
+  composer:
+    value: MK-METAL, MEGMETAL
+    source:
+      description: CD jacket
+  wiki: 'https://babymetal.fandom.com/wiki/Sunset_Kiss'
+  part-of:
+    album: metalforth

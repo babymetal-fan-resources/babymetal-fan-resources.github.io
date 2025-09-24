@@ -1,0 +1,24 @@
+tour:
+  id: asiatour2025
+  cover-image:
+    localimage:
+      tour: asiatour2025
+      id: cover
+  fullname: WORLD TOUR 2025 IN ASIA
+  first-date: 2025-09-28
+  last-date: 2025-11-08
+  shows:
+  - year: 2025
+    id: busanrockfestival
+  - year: 2025
+    id: hongkong
+  - year: 2025
+    id: taipei
+  - year: 2025
+    id: f1singaporegrandprix
+  - year: 2025
+    id: kualalumpur
+  - year: 2025
+    id: manila
+  part-of:
+    group: 2025_2026

@@ -1,0 +1,253 @@
+- lyrics:
+    id: main
+    song: song3
+    part-of:
+      song: song3
+    status:
+      code: warning
+      description: data copied from the sources. The split between vocalists might not be precise enough.
+    languages:
+    - id: ol
+      name: original lyrics
+      details: (from lyrics poster in METAL FORTH - Limited Edition)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: from lyrics poster in METAL FORTH - Limited Edition
+    artists:
+    - id: mm
+      fullname: MOMOMETAL
+      label: MM
+    - id: m
+      fullname: MOAMETAL
+      label: M
+    - id: s
+      fullname: SU-METAL
+      label: S
+    - id: a
+      fullname: Alex Terrible
+      label: A
+      color-code: artist4
+    sections:
+    - lines:
+      - a: mm
+        ol:
+        - Thunder!
+      - a: mm
+        ol:
+        - 1!2!3! 1!2!3! 1!2!3! 1!2!3! 1!2! Thunder!
+    - lines:
+      - a: m
+        ol:
+        - バリ3 僕はバリ3
+      - a: m
+        ol:
+        - 電波バリ3 バリバリ3
+      - a: m
+        ol:
+        - バリ3 人生バリ3
+      - a: m
+        ol:
+        - キテるバリ3 バリバリ3
+      - a: mm
+        ol:
+        - バリ3 Powerバリ3
+      - a: mm
+        ol:
+        - Dangerバリ3 バリバリ3
+      - a: mm
+        ol:
+        - バリ3 Thunderバリ3
+      - a: mm
+        ol:
+        - 昇れ 富士山 ライジング・サン
+    - lines:
+      - a: mm
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: mm
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: mm
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: mm
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+    - lines:
+      - a: s
+        ol:
+        - 3 我らは3 (3!3!3!)
+      - a: s
+        ol:
+        - 3 お前も3
+      - a: s
+        ol:
+        - Thunder!
+      - a: s
+        ol:
+        - 3 我らは3 (3!3!3!)
+      - a: s
+        ol:
+        - 1!2!3! 1!2!3!
+      - a: s
+        ol:
+        - 1!2! Thunder!
+    - lines:
+      - a: mm
+        ol:
+        - 1!2!3! 1!2!3! 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: mm
+        ol:
+        - 1!2!3! 1!2!3! 1!2!3! 1!2!3! 1!2! Thunder!
+    - lines:
+      - a: m
+        ol:
+        - バリ3 I am a 中三
+      - a: m
+        ol:
+        - Brother小三姉高三
+      - a: m
+        ol:
+        - バリ3 粋なグラサン
+      - a: m
+        ol:
+        - 髪は七三 自画自賛
+      - a: mm
+        ol:
+        - 父さん母さん 兄さん姉さん
+      - a: mm
+        ol:
+        - お爺さん お婆さん
+      - a: mm
+        ol:
+        - ジャンジャンバリバリご苦労さん
+      - a: a
+        ol:
+        - Listen, count to three
+    - lines:
+      - a: a
+        ol:
+        - '"ХА ХА ХА ХА ХА'
+      - a: a
+        ol:
+        - 1!2! Thunder!
+      - a: a
+        ol:
+        - Раз два три Бэйби Метал Гризли!
+      - a: a
+        ol:
+        - Раз и два и три и Гризли! Бейби Метал!"
+      - a: a
+        ol:
+        - '"Восстанет Солнце, озаряет свет. Пламя!'
+      - a: a
+        ol:
+        - Восстанет Солнце, поднимите все знамя!"
+    - lines:
+      - a: a
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: a
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: a
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: a
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+    - lines:
+      - a: a
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: a
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: a
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: a
+        ol:
+        - 1!2!3! 1!2!3! 1!2! Thunder!
+    - lines:
+      - a: s
+        ol:
+        - 3 我らは3 (3!3!3!)
+      - a: s
+        ol:
+        - 3 お前も3
+      - a: s
+        ol:
+        - Thunder!
+      - a: s
+        ol:
+        - 3 我らは3 (3!3!3!)
+      - a: s
+        ol:
+        - 1!2!3! 1!2!3!
+      - a: s
+        ol:
+        - 1!2! Thunder!
+    - lines:
+      - a: a
+        ol:
+        - 1!2!3! 1!2!3! 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: mm
+        ol:
+        - 1!2!3! 1!2!3! 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: a
+        ol:
+        - 1!2!3! 1!2!3! 1!2!3! 1!2!3! 1!2! Thunder!
+      - a: mm
+        ol:
+        - 1!2!3! 1!2!3! 1!2!3! 1!2!3! 1!2! Thunder!
+
+- postyoutube:
+    id: Ugkx9s1Spc90uUxKTukNacDarzBVcwTnHXKc
+    account: BABYMETAL
+    published-date: 2025-05-28
+    label: Release
+    text: |-
+      Song 3 with Slaughter To Prevail is out now. Pre-order METAL FORTH, out August 8.
+      METALFORTH.com
+      #Song3 #3meme #BABYMETAL #METALFORTH
+    image:
+    - 9e1DloGNajtEoMDsp9MVG-5AKA07WHAvRy7Mp_XmskjlDsCkHGl6F9PqSxKHXAYQnIShHZS080DJwMo
+    part-of:
+      postyoutubeimage:
+        post: Ugkx9s1Spc90uUxKTukNacDarzBVcwTnHXKc
+        image: 9e1DloGNajtEoMDsp9MVG-5AKA07WHAvRy7Mp_XmskjlDsCkHGl6F9PqSxKHXAYQnIShHZS080DJwMo
+
+- postyoutubeimage:
+    post: Ugkx9s1Spc90uUxKTukNacDarzBVcwTnHXKc
+    id: 9e1DloGNajtEoMDsp9MVG-5AKA07WHAvRy7Mp_XmskjlDsCkHGl6F9PqSxKHXAYQnIShHZS080DJwMo
+    label: Cover
+    info: BABYMETAL, Slaughter To Prevail
+    published-date: 2025-05-28
+    local-copy: true
+    context:
+    - song: song3
+    part-of:
+      song: song3
+
+- youtubeshort:
+    id: GUzoQPMhUB4
+    label: VS
+    info: MOMOMETAL vs Alex Terrible
+    published-date: 2025-05-27
+    context:
+    - song: song3
+    part-of:
+      song: song3
+
+- youtubevideo:
+    id: KEMVgy51kPE
+    label: Music Video
+    published-date: 2025-05-28
+    context:
+    - song: song3
+    part-of:
+      song: song3
+

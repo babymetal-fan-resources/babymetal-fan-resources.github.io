@@ -1,0 +1,306 @@
+- lyrics:
+    id: main
+    song: frommetou
+    part-of:
+      song: frommetou
+    status:
+      code: warning
+      description: data copied from the sources.
+    languages:
+    - id: ol
+      name: original lyrics
+      details: (from lyrics poster in METAL FORTH - Limited Edition)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: from lyrics poster in METAL FORTH - Limited Edition
+    - id: ro
+      name: rōmaji
+      no-translation: true
+    artists:
+    - id: s
+      fullname: SU-METAL
+      label: S
+    - id: p
+      fullname: Poppy
+      label: P
+      color-code: artist1
+    - id: sp
+      fullname: SU-METAL, Poppy
+      label: S+P
+      color-code: s-artist1
+    - id: momoa
+      fullname: MOAMETAL, MOMOMETAL
+      label: M+MM
+    sections:
+    - lines:
+      - a: s
+        ol:
+        - Let's go
+    - lines:
+      - a: s
+        ol:
+        - I know you're scared cuz you're running for cover
+      - a: s
+        ol:
+        - But you might be running far
+      - a: s
+        ol:
+        - And if the demons know you're scared to death
+      - a: s
+        ol:
+        - Then they will find you where you are
+      - a: sp
+        ol:
+        - Is there a virus infecting your system?
+      - a: s
+        ol:
+        - Have the cuts left an animal mark?
+      - a: s
+        ol:
+        - That will make you one of us
+      - a: s
+        ol:
+        - And we will never never never be apart
+    - lines:
+      - a: p
+        ol:
+        - The evil has its motive
+      - a: s
+        ol:
+        - And now so do I
+      - a: s
+        ol:
+        - And I'll hold you to your fragile alibi
+    - lines:
+      - a: s
+        ol:
+        - With this rage inside of me
+      - a: s
+        ol:
+        - 君に届け
+        ro:
+        - Kimi ni todoke
+      - a: s
+        ol:
+        - 君に届け
+        ro:
+        - Kimi ni todoke
+      - a: s
+        ol:
+        - Maybe now
+      - a: s
+        ol:
+        - We can kill the enemy
+      - a: s
+        ol:
+        - とても厳しい
+        ro:
+        - Totemo kibishii
+      - a: p
+        ol:
+        - Stand up and make your move
+      - a: momoa
+        ol:
+        - Let the fire, carry on
+      - a: momoa
+        ol:
+        - Let the power go
+      - a: momoa
+        ol:
+        - From me to you
+    - lines:
+      - a: p
+        ol:
+        - From me to you
+    - lines:
+      - a: p
+        ol:
+        - I need a friend that will never betray me
+      - a: s
+        ol:
+        - There's no time like where we are
+      - a: s
+        ol:
+        - I'm so bored, I don't care for the consequence
+      - a: s
+        ol:
+        - So I'll come find you where you are
+    - lines:
+      - a: p
+        ol:
+        - Is it a sin if I wish for destruction?
+      - a: p
+        ol:
+        - Is it a call that I can make?
+      - a: p
+        ol:
+        - And I hail for the wrath of crimson on the faces in my way
+      - a: p
+        ol:
+        - And it goes from me to you
+    - lines:
+      - a: momoa
+        ol:
+        - I've had enough from your mouth
+      - a: momoa
+        ol:
+        - You can shove it
+      - a: momoa
+        ol:
+        - Cuz you know you don't stand a chance
+    - lines:
+      - a: s
+        ol:
+        - With this rage inside of me
+      - a: s
+        ol:
+        - 君に届け
+        ro:
+        - Kimi ni todoke
+      - a: s
+        ol:
+        - 君に届け
+        ro:
+        - Kimi ni todoke
+      - a: s
+        ol:
+        - Maybe now
+      - a: s
+        ol:
+        - We can kill the enemy
+      - a: s
+        ol:
+        - とても厳しい
+        ro:
+        - Totemo kibishii
+      - a: p
+        ol:
+        - Stand up and make your move
+      - a: momoa
+        ol:
+        - Let the fire, carry on
+      - a: momoa
+        ol:
+        - Let the power go
+      - a: momoa
+        ol:
+        - From me to you
+    - lines:
+      - a: s
+        ol:
+        - 闇を抜け
+      - a: s
+        ol:
+        - 光と共に
+      - a: s
+        ol:
+        - 終わりを告げた時
+      - a: s
+        ol:
+        - 僕はただ
+      - a: s
+        ol:
+        - 絶望を彷徨うのさ
+    - lines:
+      - a: p
+        ol:
+        - You're doing this wrong
+      - a: p
+        ol:
+        - Cuz if the end is a promise
+      - a: p
+        ol:
+        - It's still looking up
+      - a: p
+        ol:
+        - I cannot rest, till you're fucking breathless
+    - lines:
+      - a: s
+        ol:
+        - Has this blind intention
+      - a: s
+        ol:
+        - Been justified
+      - a: s
+        ol:
+        - Hung from the edges
+      - a: s
+        ol:
+        - You'll rest with your lies
+      - a: p
+        ol:
+        - Rest with your lies
+    - lines:
+      - a: s
+        ol:
+        - With this rage inside of me
+      - a: s
+        ol:
+        - 君に届け
+        ro:
+        - Kimi ni todoke
+      - a: s
+        ol:
+        - 君に届け
+        ro:
+        - Kimi ni todoke
+    - lines:
+      - a: s
+        ol:
+        - With this rage inside of me
+      - a: s
+        ol:
+        - 君に届け
+        ro:
+        - Kimi ni todoke
+      - a: s
+        ol:
+        - 君に届け
+        ro:
+        - Kimi ni todoke
+      - a: s
+        ol:
+        - 敵を倒す
+        ro:
+        - Teki wo taosu
+      - a: s
+        ol:
+        - Maybe now
+      - a: s
+        ol:
+        - We can kill the enemy
+      - a: s
+        ol:
+        - とても厳しい
+        ro:
+        - Totemo kibishii
+      - a: p
+        ol:
+        - Stand up and make your move
+      - a: momoa
+        ol:
+        - Let the fire, carry on
+      - a: momoa
+        ol:
+        - Let the power go
+      - a: momoa
+        ol:
+        - From me to you
+    - lines:
+      - a: p
+        ol:
+        - From me to you
+
+- postximage:
+    post: 1908172721055469909
+    id: GnsqdGTbQAAkPmf
+    label: cover image
+    published-date: 2025-04-04
+    local-copy: true
+    context:
+    - song: frommetou
+    part-of:
+      song: frommetou
+

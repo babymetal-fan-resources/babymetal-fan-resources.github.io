@@ -1,0 +1,24 @@
+show:
+  year: 2025
+  id: summersonicosaka
+  cover-image:
+    localimage:
+      show:
+        year: 2025
+        id: summersonictokyo
+      id: cover
+  fullname: SUMMER SONIC 2025
+  sublabel: Osaka, Japan
+  date: 2025-08-17
+  venue: EXPO’70 COMMEMORATIVE PARK
+  event-page: 'https://www.summersonic.com/'
+  part-of:
+    group: 2025_2026
+  multimedia:
+    image:
+    - postximage:
+        post: 1957081720223596950
+        image: GyjyTYOboAA7VXn
+    - postximage:
+        post: 1957085518904139807
+        image: GyjzzOaawAABD4i

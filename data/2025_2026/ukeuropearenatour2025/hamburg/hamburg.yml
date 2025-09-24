@@ -1,0 +1,27 @@
+show:
+  year: 2025
+  id: hamburg
+  cover-image:
+    localimage:
+      tour: ukeuropearenatour2025
+      id: cover
+  fullname: Hamburg, Germany
+  date: 2025-05-12
+  tour: ukeuropearenatour2025
+  venue: Barclays Arena
+  part-of:
+    tour: ukeuropearenatour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1922220340970668112
+        image: Gq0W87iXwAA3oxm
+    short:
+    - youtubeshort: 80fsZ-cdbqM
+    image:
+    - postximage:
+        post: 1922220340970668112
+        image: Gq0W87iXwAA3oxm
+    - postximage:
+        post: 1922220340970668112
+        image: Gq0XPhEXYAAg7xB

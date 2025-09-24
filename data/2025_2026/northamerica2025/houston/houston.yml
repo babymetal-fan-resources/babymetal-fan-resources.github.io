@@ -1,0 +1,30 @@
+show:
+  year: 2025
+  id: houston
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  fullname: Houston, TX, USA
+  date: 2025-06-13
+  tour: northamerica2025
+  venue: 713 Music Hall
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1933786508722589865
+        image: GtYv6GMbwAA7vDf
+    short:
+    - youtubeshort: q9SCWO3JjAc
+    image:
+    - postximage:
+        post: 1933786508722589865
+        image: GtYv6GMbwAA7vDf
+    - postximage:
+        post: 1933786508722589865
+        image: GtYv6GHbMAEk1r0
+    - postximage:
+        post: 1933786508722589865
+        image: GtYv6GJbMAQs6hO

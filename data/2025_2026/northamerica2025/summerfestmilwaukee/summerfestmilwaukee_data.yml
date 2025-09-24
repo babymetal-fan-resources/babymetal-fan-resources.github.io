@@ -1,0 +1,103 @@
+- postx:
+    id: 1941752700879684093
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-07-06
+    text: |-
+      Thank you for coming to "Summer Fest" in Milwaukee🇺🇸 
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #Milwaukee 
+      @Summerfest
+      
+      📸 
+      @v_trvn
+    image:
+    - GvJ6xPgWEAAPk0d
+    - GvJ6z0tWIAEb4kb
+    - GvJ62OBXgAA0Uyw
+    - GvJ65QWXAAAo0Of
+    todo: which song image 2 and 4 ?
+    part-of:
+      show:
+        year: 2025
+        id: summerfestmilwaukee
+
+- postx:
+    id: 1941930972557021327
+    account: BABYMETAL_JAPAN
+    label: With The Warning
+    published-date: 2025-07-06
+    text: |-
+      Thank you 
+      @TheWarningBand2
+      🦊🦊🦊
+      #BABYMETAL #BABYMETALWORLDTOUR20252026NORTHAMERICA #Milwaukee #Summerfest
+    image:
+    - GvL_0eNXMAAc62Q
+    part-of:
+      show:
+        year: 2025
+        id: summerfestmilwaukee
+
+- postximage:
+    post: 1941752700879684093
+    id: GvJ62OBXgAA0Uyw
+    label: On stage
+    info: weeeeeaaaaa
+    published-date: 2025-07-06
+    context:
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
+    part-of:
+      postx: 1941752700879684093
+
+- postximage:
+    post: 1941752700879684093
+    id: GvJ65QWXAAAo0Of
+    label: On stage
+    published-date: 2025-07-06
+    context:
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
+    part-of:
+      postx: 1941752700879684093
+
+- postximage:
+    post: 1941752700879684093
+    id: GvJ6xPgWEAAPk0d
+    label: On stage
+    info: weeeeeaaaaa
+    published-date: 2025-07-06
+    context:
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
+    part-of:
+      postx: 1941752700879684093
+
+- postximage:
+    post: 1941752700879684093
+    id: GvJ6z0tWIAEb4kb
+    label: On stage
+    published-date: 2025-07-06
+    context:
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
+    part-of:
+      postx: 1941752700879684093
+
+- postximage:
+    post: 1941930972557021327
+    id: GvL_0eNXMAAc62Q
+    label: With The Warning
+    info: BABYMETAL, The Warning
+    published-date: 2025-07-06
+    context:
+    - show:
+        year: 2025
+        id: summerfestmilwaukee
+    part-of:
+      postx: 1941930972557021327
+

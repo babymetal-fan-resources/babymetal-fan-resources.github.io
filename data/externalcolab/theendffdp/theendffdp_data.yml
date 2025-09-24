@@ -1,0 +1,330 @@
+- localimage:
+    song: theendffdp
+    id: cover
+    label: Cover
+    published-date: 2025-09-04
+    source:
+      description: YouTube Music
+      url: 'https://youtu.be/I1-rh5INEUI'
+    part-of:
+      song: theendffdp
+
+- lyrics:
+    id: main
+    song: theendffdp
+    part-of:
+      song: theendffdp
+    status:
+      code: ok
+      description: Lyrics from the sources, checked against the audio
+    languages:
+    - id: ol
+      name: original lyrics (based on the Lyrics Video)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: based on the Lyrics Video
+        url: 'https://www.youtube.com/watch?v=rIc383iYLJ4'
+    - id: ro
+      name: rōmaji
+      no-translation: true
+    artists:
+    - id: im
+      fullname: Ivan Moody
+      label: IM
+      color-code: artist4
+    - id: s
+      fullname: SU-METAL
+      label: S
+    sections:
+    - lines:
+      - a: im
+        ol:
+        - It's hard to tell these days in which ways that we're falling
+      - a: im
+        ol:
+        - I'm not sure anymore what's right or what is wrong
+      - a: im
+        ol:
+        - It hurts to feel, to think, to know I may be nothing
+      - a: im
+        ol:
+        - But then again I've been wrong before
+    - lines:
+      - a: im
+        ol:
+        - I've opened up my eyes
+      - a: im
+        ol:
+        - Just to wish that I'd stayed blind
+    - lines:
+      - a: im
+        ol:
+        - Blacken out the sky
+      - a: im
+        ol:
+        - And let the arrows fly
+      - a: im
+        ol:
+        - It's never over
+      - a: im
+        ol:
+        - Not til it's over
+    - lines:
+      - a: im
+        ol:
+        - Outside looking in
+      - a: im
+        ol:
+        - When do the nightmares end?
+      - a: im
+        ol:
+        - Over and over
+      - a: im
+        ol:
+        - Until it's over
+      - a: im
+        ol:
+        - The End
+    - lines:
+      - a: s
+        ol:
+        - いつ
+        - だって
+        - 僕ら
+        - は
+        - 明日
+        - を
+        - 追いかけ
+        ro:
+        - itsu
+        - datte
+        - bokura
+        - wa
+        - asu
+        - o
+        - oikake
+      - a: s
+        ol:
+        - 一生懸命
+        - に
+        - 走り続けてきた
+        ro:
+        - isshoukenmei
+        - ni
+        - hashiritsuzuketekita
+      - a: s
+        ol:
+        - 一瞬
+        - で
+        - 消えゆく
+        - 星屑
+        - の様に
+        ro:
+        - isshun
+        - de
+        - kieyuku
+        - hoshikuzu
+        - noyouni
+      - a: s
+        ol:
+        - 儚い
+        - （
+        - 儚い
+        - ）
+        - 夢
+        - と
+        - 散る
+        ro:
+        - hakanai
+        - (
+        - hakanai
+        - )
+        - yume
+        - to
+        - chiru
+    - lines:
+      - a: s
+        ol:
+        - 誰
+        - も
+        - 気づかない
+        ro:
+        - dare
+        - mo
+        - kizukanai
+      - a: s
+        ol:
+        - 世界
+        - の
+        - 中
+        - で
+        ro:
+        - sekai
+        - no
+        - naka
+        - de
+    - lines:
+      - a: im
+        ol:
+        - Blacken out the sky
+      - a: im
+        ol:
+        - And let the arrows fly
+      - a: im
+        ol:
+        - It's never over
+      - a: im
+        ol:
+        - Not til it's over
+    - lines:
+      - a: im
+        ol:
+        - Outside looking in
+      - a: im
+        ol:
+        - When do the nightmares end
+      - a: im
+        ol:
+        - Over and over
+      - a: im
+        ol:
+        - Until it's over
+    - lines:
+      - a: s
+        ol:
+        - 願い
+        - を
+        - かけて
+        - 祈り
+        - を
+        - 捧げ
+        ro:
+        - negai
+        - o
+        - kakete
+        - inori
+        - o
+        - sasage
+      - a: s
+        ol:
+        - 誰
+        - も
+        - 知らない
+        - 未来
+        - ならば
+        ro:
+        - dare
+        - mo
+        - shiranai
+        - mirai
+        - naraba
+      - a: s
+        ol:
+        - 願い
+        - を
+        - 賭けて
+        - 命
+        - を
+        - 捧げ
+        ro:
+        - negai
+        - o
+        - kakete
+        - inochi
+        - o
+        - sasage
+      - a: s
+        ol:
+        - 全て
+        - が
+        - 消えて
+        - も
+        ro:
+        - subete
+        - ga
+        - kiete
+        - mo
+      - a: s
+        ol:
+        - 構わない
+        ro:
+        - kamawanai
+      - a: im
+        ol:
+        - (Burn it to the ground)
+    - lines:
+      - a: s
+        ol:
+        - 構わない
+        ro:
+        - kamawanai
+      - a: im
+        ol:
+        - (Burn it to the ground)
+      - a: s
+        ol:
+        - 構わない
+        ro:
+        - kamawanai
+      - a: im
+        ol:
+        - (Burn it to the ground)
+      - a: s
+        ol:
+        - 全て
+        - が
+        - 消えて
+        - も
+        ro:
+        - subete
+        - ga
+        - kiete
+        - mo
+      - a: im
+        ol:
+        - Burn it, burn it, burn it, down
+    - lines:
+      - a: im
+        ol:
+        - Blacken out the sky
+      - a: im
+        ol:
+        - And let the arrows fly
+      - a: im
+        ol:
+        - It's never over
+      - a: im
+        ol:
+        - Not 'til it's over
+    - lines:
+      - a: im
+        ol:
+        - Outside looking in
+      - a: im
+        ol:
+        - When do the nightmares end
+      - a: im
+        ol:
+        - Over and over
+      - a: im
+        ol:
+        - Until it's over
+    - lines:
+      - a: im
+        ol:
+        - Just start it over
+      - a: im
+        ol:
+        - Until it's over
+      - a: im
+        ol:
+        - Over and over
+      - a: im
+        ol:
+        - The end
+      - a: im
+        ol:
+        - The end
+

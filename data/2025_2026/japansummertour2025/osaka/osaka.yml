@@ -1,0 +1,24 @@
+show:
+  year: 2025
+  id: osaka
+  cover-image:
+    localimage:
+      tour: japansummertour2025
+      id: cover
+  fullname: Osaka, Japan
+  sublabel: SUMMER TOUR IN JAPAN
+  date: 2025-08-21
+  tour: japansummertour2025
+  venue: Zepp Osaka Bayside
+  event-page: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=0028&id=292132&lang=en'
+  part-of:
+    tour: japansummertour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1958523488035328502
+        image: Gy4SiUxbkAArqQJ
+    image:
+    - postximage:
+        post: 1958523488035328502
+        image: Gy4SiUxbkAArqQJ

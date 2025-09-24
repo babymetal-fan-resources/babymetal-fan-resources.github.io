@@ -1,0 +1,33 @@
+show:
+  year: 2025
+  id: marylandheights
+  cover-image:
+    localimage:
+      tour: northamerica2025
+      id: cover
+  fullname: Marylands Heights, MO, USA
+  date: 2025-07-06
+  tour: northamerica2025
+  venue: Saint Louis Music Park
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1942097146833936737
+        image: GvOzH6gXgAAkLEO
+    short:
+    - youtubeshort: Yhv8ekoNGzo
+    image:
+    - postximage:
+        post: 1942097146833936737
+        image: GvOzE45WAAA28-r
+    - postximage:
+        post: 1942097146833936737
+        image: GvOzGlpW0AAmzPN
+    - postximage:
+        post: 1942097146833936737
+        image: GvOzH6gXgAAkLEO
+    - postximage:
+        post: 1942097146833936737
+        image: GvOzJxiWoAABj99

@@ -1,0 +1,20 @@
+- localimage:
+    song: leaveitallbehind
+    id: cover
+    label: cover
+    published-date: 2024-03-14
+    source:
+      description: TOY'S FACTORY item page
+      url: 'https://www.toysfactory.co.jp/artist/babymetal/disco/2703'
+    part-of:
+      song: leaveitallbehind
+
+- youtubevideo:
+    id: 7rdc-QV6P6s
+    label: Official Music Video
+    published-date: 2024-03-14
+    context:
+    - song: leaveitallbehind
+    part-of:
+      song: leaveitallbehind
+

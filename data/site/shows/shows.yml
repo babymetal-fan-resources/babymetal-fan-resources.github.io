@@ -1,0 +1,23 @@
+categoriespage:
+  id: shows
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  label: Shows
+  display-type: content
+  start-date: 2010-01-01
+  end-date: 2026-01-31
+  description: All the shows where BABYMETAL performed and will be performing.
+  id-prefix:
+  - show
+  - tour
+  categories:
+  - id: show
+    label: Shows
+  - id: tour
+    label: Tours
+  - id: mainshowtour
+    label: Main shows and tours
+  part-of:
+    group: site

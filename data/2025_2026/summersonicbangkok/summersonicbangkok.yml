@@ -1,0 +1,23 @@
+show:
+  year: 2025
+  id: summersonicbangkok
+  cover-image:
+    localimage:
+      show:
+        year: 2025
+        id: summersonicbangkok
+      id: cover
+  fullname: SUMMER SONIC BANGKOK 2025
+  date: 2025-08-24
+  venue: IMPACT CHALLENGER HALL
+  part-of:
+    group: 2025_2026
+  multimedia:
+    main:
+      postximage:
+        post: 1959679931413381381
+        image: GzIuIyDaoAA_S0b
+    image:
+    - postximage:
+        post: 1959679931413381381
+        image: GzIuIyDaoAA_S0b

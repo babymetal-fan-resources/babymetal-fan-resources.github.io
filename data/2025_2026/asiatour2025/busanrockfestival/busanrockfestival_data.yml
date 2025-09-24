@@ -1,0 +1,14 @@
+localimage:
+  show:
+    year: 2025
+    id: busanrockfestival
+  id: cover
+  label: cover
+  published-date: 2025-05-13
+  source:
+    description: event website
+    url: 'https://busanrockfestival.com/'
+  part-of:
+    show:
+      year: 2025
+      id: busanrockfestival

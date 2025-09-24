@@ -1,0 +1,67 @@
+- postx:
+    id: 1957081720223596950
+    account: BABYMETAL_JAPAN
+    label: LiSA
+    published-date: 2025-08-17
+    text: |-
+      Thank you for coming to"SUMMER SONIC 2025 TOKYO & OSAKA" !!!
+      Thank you 
+      @LiSA_OLiVE
+      🦊🦊🦊
+      
+      #BABYMETAL #summersonic #summersonic2025 #サマソニ
+    image:
+    - GyjyTYOboAA7VXn
+    part-of:
+      show:
+        year: 2025
+        id: summersonicosaka
+
+- postx:
+    id: 1957085518904139807
+    account: BABYMETAL_JAPAN
+    label: Official髭男dism
+    published-date: 2025-08-17
+    text: |-
+      Thank you 
+      @officialhige
+      🦊🦊🦊🎸
+      
+      #BABYMETAL #summersonic #summersonic2025 #サマソニ #ヒゲダン #髭男
+    image:
+    - GyjzzOaawAABD4i
+    part-of:
+      show:
+        year: 2025
+        id: summersonicosaka
+
+- postximage:
+    post: 1957081720223596950
+    id: GyjyTYOboAA7VXn
+    label: LiSA
+    published-date: 2025-08-17
+    context:
+    - show:
+        year: 2025
+        id: summersonicosaka
+    - show:
+        year: 2025
+        id: summersonictokyo
+    part-of:
+      postx: 1957081720223596950
+
+- postximage:
+    post: 1957085518904139807
+    id: GyjzzOaawAABD4i
+    label: Official髭男dism
+    published-date: 2025-08-17
+    context:
+    - show:
+        year: 2025
+        id: summersonicosaka
+    - show:
+        year: 2025
+        id: summersonictokyo
+    part-of:
+      postx: 1957085518904139807
+

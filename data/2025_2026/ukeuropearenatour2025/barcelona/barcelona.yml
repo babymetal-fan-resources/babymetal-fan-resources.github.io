@@ -1,0 +1,33 @@
+show:
+  year: 2025
+  id: barcelona
+  cover-image:
+    localimage:
+      tour: ukeuropearenatour2025
+      id: cover
+  fullname: Barcelona, Spain
+  date: 2025-05-26
+  tour: ukeuropearenatour2025
+  venue: Poble Espanyol
+  part-of:
+    tour: ukeuropearenatour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1927166535744753912
+        image: Gr6qVqvXQAA1uZx
+    short:
+    - youtubeshort: Jg50uPtanx8
+    image:
+    - postximage:
+        post: 1927166535744753912
+        image: Gr6qRwjWkAAiw0K
+    - postximage:
+        post: 1927166535744753912
+        image: Gr6qVqvXQAA1uZx
+    - postximage:
+        post: 1927166535744753912
+        image: Gr6qZSdXAAEOJMn
+    - postximage:
+        post: 1927166535744753912
+        image: Gr6qdlFX0AA_1xz

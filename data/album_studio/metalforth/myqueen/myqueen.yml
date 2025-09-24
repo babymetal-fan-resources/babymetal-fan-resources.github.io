@@ -1,0 +1,35 @@
+song:
+  id: myqueen
+  cover-image:
+    localimage:
+      song: myqueen
+      id: cover
+  fullname: My Queen (feat. Spiritbox)
+  shortname: My Queen
+  album: metalforth
+  release-date: 2025-08-08
+  lyrics:
+  - main
+  lyricist:
+    value: TAKEMETAL, Q-METAL, Drew Fulk, Zakk Cervini, Mike Stringer, Courtney LaPlante
+    source:
+      description: CD jacket
+  composer:
+    value: TAKEMETAL, Q-METAL, Drew Fulk, Zakk Cervini, Mike Stringer, Courtney LaPlante
+    source:
+      description: CD jacket
+  wiki: 'https://babymetal.fandom.com/wiki/My_Queen'
+  part-of:
+    album: metalforth
+  multimedia:
+    main:
+      youtubevideo: 6MWlBf2lhno
+    video:
+    - youtubevideo: 6MWlBf2lhno
+    image:
+    - postximage:
+        post: 1954763020607139881
+        image: GyC2l9TaEAA-VeL
+    - postximage:
+        post: 1954763020607139881
+        image: GyC2l9IaQAASNAj

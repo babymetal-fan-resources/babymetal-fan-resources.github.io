@@ -1,0 +1,19 @@
+- youtubevideo:
+    id: TZRvO0S-TLU
+    label: Official Video
+    published-date: 2016-03-28
+    context:
+    - song: theone
+    part-of:
+      song: theone
+
+- youtubevideo:
+    id: gpCufgRwg9I
+    label: THE FIRST TAKE
+    info: Unfinished ver.
+    published-date: 2023-04-14
+    context:
+    - song: theone
+    part-of:
+      song: theone
+

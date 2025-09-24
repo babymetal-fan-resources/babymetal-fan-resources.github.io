@@ -1,0 +1,492 @@
+- group:
+    id: release
+    label: Release
+    part-of:
+      album: metalforth
+
+- postx:
+    id: 1947355895903465757
+    account: BABYMETAL_JAPAN
+    label: US Indie Store Release Event
+    published-date: 2025-07-21
+    text: |-
+      🎉 US Indie Store Release Event 🎉
+      Join us for the exclusive release event at participating indie stores across the U.S. to celebrate the launch of METAL FORTH!
+      
+      🛒 Event Details:
+      * Location: Selected Indie Stores in the U.S.
+      * Date: Aug 8-10
+    image:
+    - GwZaGJLXQAAI8w6
+    - GwZaGJMWsAAfq53
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postx:
+    id: 1947790676302958961
+    account: BABYMETAL_JAPAN
+    label: UK Listening Event
+    published-date: 2025-07-23
+    text: |-
+      🇬🇧UK Listening Event🇬🇧
+      
+      JOIN UK Listening Event at one of 8 stores to hear new album "METAL FORTH"   -　 BEFORE IT'S RELEASED🔥
+      
+      PRE-ORDER NOW TO SECURE YOUR PLACE!
+      
+      FULL DETAILS: http://ow.ly/il4N50Wp5un
+      #HMVLIVE
+    image:
+    - GwfxOUNaQAAzYlR
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postx:
+    id: 1953607569572082150
+    account: BABYMETAL_JAPAN
+    label: Listening party
+    published-date: 2025-08-08
+    text: |-
+      🔥 New album "METAL FORTH" drops this Friday! 🔥
+      🎧 Join the Stationhead listening party this Friday at 3PM PT
+      Let’s listen to the album together and chat live with fellow fans!
+      🗓 Date: This Friday at 3PM PT
+      🎶 http://stationhead.com/babymetal
+      
+      #BABYMETAL #METALFORTH #Stationhead #ListeningParty
+    image:
+    - GxyWrQubsAEhpKs
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postx:
+    id: 1953667529173610859
+    account: amazonmusicjp
+    label: Album is available
+    published-date: 2025-08-08
+    text: |-
+      ＼メンバー間で流行っているものは？／
+      #BABYMETAL『METAL FORTH』配信開始🔥
+      🎧https://amzn.lnky.jp/cNpBeBx
+      
+      結成15周年を迎えるBABYMETALが、新世代の仲間と作ったメタルアルバム🤘
+      “METALのその先へ”向かう彼女たちの作品を #AmazonMusic で✅
+      
+      いいねでリリースをお祝いしよう❤️
+      @BABYMETAL_JAPAN
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postx:
+    id: 1954739559620878453
+    account: BABYMETAL_JAPAN
+    label: Released
+    published-date: 2025-08-11
+    text: |-
+      結成15周年を迎える #BABYMETAL が4thアルバム『METAL FORTH』をリリース❤️‍🔥
+      10曲のうち7曲が豪華ゲストアーティストを迎えた楽曲となっています！
+      
+      🎧試聴はこちら
+      https://umj.lnk.to/BABYMETAL_METALFORTH
+      
+      #METALFORTH
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postx:
+    id: 1954763020607139881
+    account: BABYMETAL_JAPAN
+    label: How do you like METAL FORTH ?
+    published-date: 2025-08-11
+    text: |-
+      How do you like "METAL FORTH"♟️?
+      
+      #BABYMETAL #NEWALBUM
+    image:
+    - GyC2l9TaEAA-VeL
+    - GyC2l9IaQAASNAj
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postx:
+    id: 1955132138040267185
+    account: BABYMETAL_JAPAN
+    label: Banner on Sydney harbor bridge
+    published-date: 2025-08-12
+    text: |-
+      Thank you Australia🇦🇺
+      New album "METAL FORTH" out now
+      
+      #BABYMETAL
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postx:
+    id: 1955192534830854201
+    account: BABYMETAL_JAPAN
+    label: Your favorite song
+    published-date: 2025-08-12
+    text: |-
+      BABYMETALメンバーの推し曲は？
+      4thアルバム『METAL FORTH』配信中❤️‍🔥
+      ぜひみなさんのおすすめ曲もコメントで教えてください！
+      #BABYMETAL #METALFORTH
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postx:
+    id: 1955464333171073353
+    account: BABYMETAL_JAPAN
+    label: BABYMETAL's goals
+    published-date: 2025-08-13
+    text: |-
+      BABYMETALメンバーの目標は？💭
+      
+      本日から Zepp Yokohamaで国内サマーツアーがスタート🔥さらに今週末にはサマーソニックにも出演します！
+      
+      🎧最新アルバム『METAL FORTH』
+      https://umj.lnk.to/BABYMETAL_METALFORTH
+      
+      #BABYMETAL #METALFORTH
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postx:
+    id: 1955564659966394557
+    account: BABYMETAL_JAPAN
+    label: What do you like about BABYMETAL
+    published-date: 2025-08-13
+    text: |-
+      Thank you so much for your continued support🦊
+      "METAL FORTH" is finally out now🔥
+      What do you like about BABYMETAL?
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postx:
+    id: 1955902827995521067
+    account: BABYMETAL_JAPAN
+    label: Billboard in Shibuya
+    published-date: 2025-08-14
+    text: |-
+      Check out METAL FORTH #AmazonMusic
+      @amazonmusicjp
+      OOH in Shibuya!!!
+      
+      https://amzn.to/41wxXOg
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postx:
+    id: 1956637018739634182
+    account: BABYMETAL_JAPAN
+    label: METAL FORTH in London
+    info: projected on walls and bridges
+    published-date: 2025-08-16
+    text: |-
+      Thank you London🇬🇧
+      "METAL FORTH" OUT NOW.
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postx:
+    id: 1957719075632869468
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-08-19
+    text: |-
+      Thank you for your support on "METAL FORTH"!!!💥
+      🇯🇵ORICON NEWS 
+      @oricon
+      
+      🇯🇵Billboard JAPAN 
+      @Billboard_JAPAN
+      
+      🇩🇪OffizielleCharts 
+      @chartsoffiziell
+        
+      🇺🇸billboard 
+      @billboard
+      
+      🇺🇸billboard charts 
+      @billboardcharts
+        
+      🇬🇧Official Charts 
+      @officialcharts
+      
+      
+      #BABYMETAL #METALFORTH 
+      #Poppy 
+      @jordanfish
+        
+      @Bloodywood2
+      
+      @polyphia
+      
+      @spiritboxband
+      
+      @tmorello
+      
+      @daidai_PD
+      
+      @KOBAMETAL_JAPAN
+    image:
+    - GystXd_acAIUsFA
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postx:
+    id: 1958399908320596368
+    account: BABYMETAL_JAPAN
+    label: We Love BABYMETAL
+    published-date: 2025-08-21
+    text: |-
+      🎸 Which BABYMETAL song would you recommend to the kids around you?🦊
+      Let us know your picks! 👧🧒🔥
+      
+      #BABYMETAL #METALFORTH
+    video:
+    - 01
+    part-of:
+      group:
+        id: release
+        album: metalforth
+
+- postximage:
+    post: 1947355895903465757
+    id: GwZaGJLXQAAI8w6
+    label: Us stores poster
+    published-date: 2025-07-21
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1947355895903465757
+
+- postximage:
+    post: 1947355895903465757
+    id: GwZaGJMWsAAfq53
+    label: US stores
+    published-date: 2025-07-21
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1947355895903465757
+
+- postximage:
+    post: 1947790676302958961
+    id: GwfxOUNaQAAzYlR
+    label: UK Listening Event
+    published-date: 2025-07-23
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1947790676302958961
+
+- postximage:
+    post: 1953607569572082150
+    id: GxyWrQubsAEhpKs
+    label: Listening party
+    published-date: 2025-08-08
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1953607569572082150
+
+- postximage:
+    post: 1954763020607139881
+    id: GyC2l9IaQAASNAj
+    label: Music Video
+    published-date: 2025-08-11
+    context:
+    - album: metalforth
+    - song: myqueen
+    part-of:
+      postx: 1954763020607139881
+
+- postximage:
+    post: 1954763020607139881
+    id: GyC2l9TaEAA-VeL
+    label: Music Video
+    published-date: 2025-08-11
+    context:
+    - album: metalforth
+    - song: myqueen
+    part-of:
+      postx: 1954763020607139881
+
+- postximage:
+    post: 1957719075632869468
+    id: GystXd_acAIUsFA
+    label: Thank you
+    published-date: 2025-08-19
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1957719075632869468
+
+- postxvideo:
+    post: 1953667529173610859
+    id: 01
+    label: Album is available
+    published-date: 2025-08-08
+    cover: 1953629445300031488/img/sfqoJKnoZntHqFs-.jpg
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1953667529173610859
+
+- postxvideo:
+    post: 1954739559620878453
+    id: 01
+    label: Released
+    published-date: 2025-08-11
+    cover: 1954737893530054656/img/thDz9rW0DPJcaqyf.jpg
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1954739559620878453
+
+- postxvideo:
+    post: 1955132138040267185
+    id: 01
+    label: Banner on Sydney harbor bridge
+    published-date: 2025-08-12
+    cover: 1955117699782328320/img/kGyn8m84XzbremIg.jpg
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1955132138040267185
+
+- postxvideo:
+    post: 1955192534830854201
+    id: 01
+    label: Your favorite song
+    published-date: 2025-08-12
+    cover: 1955115623828295680/img/nbGFdxeaaaD_Bf-H.jpg
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1955192534830854201
+
+- postxvideo:
+    post: 1955464333171073353
+    id: 01
+    label: BABYMETAL's goals
+    published-date: 2025-08-13
+    cover: 1955264144883716097/img/uWtNAlHQmJC5_uqH.jpg
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1955464333171073353
+
+- postxvideo:
+    post: 1955564659966394557
+    id: 01
+    label: We Love BABYMETAL
+    published-date: 2025-08-13
+    cover: 1955564147221127168/img/7HbHszY_JA4Ph-av.jpg
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1955564659966394557
+
+- postxvideo:
+    post: 1955902827995521067
+    id: 01
+    label: Billboard
+    info: Shibuya
+    published-date: 2025-08-14
+    cover: 1955901612666548224/img/ZtWb5PSdi8oFEB7P.jpg
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1955902827995521067
+
+- postxvideo:
+    post: 1956637018739634182
+    id: 01
+    label: METAL FORTH in London
+    published-date: 2025-08-16
+    cover: 1956636579885371392/img/4v_CgueV6LBTgdt9.jpg
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1956637018739634182
+
+- postxvideo:
+    post: 1957719075632869468
+    id: 01
+    label: Thank you
+    published-date: 2025-08-19
+    cover: 1957708381927665664/img/iqFF7lUgYlhTLc9z.jpg
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1957719075632869468
+
+- postxvideo:
+    post: 1958399908320596368
+    id: 01
+    label: We Love BABYMETAL
+    published-date: 2025-08-21
+    cover: 1958395326387343360/img/Eh18U3X6niaKmbK6.jpg
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1958399908320596368
+
+- youtubeshort:
+    id: yLkRWAl1TUg
+    label: Billboard
+    published-date: 2025-08-09
+    context:
+    - album: metalforth
+    part-of:
+      group:
+        id: release
+        album: metalforth
+

@@ -1,0 +1,26 @@
+show:
+  year: 2025
+  id: losangeles
+  cover-image:
+    postximage:
+      post: 1945891248981832107
+      image: GwEvs9JW8AIIQFg
+  fullname: An evening with BABYMETAL
+  sublabel: Los Angeles, CA, USA - NORTH AMERICA 2025 TOUR
+  date: 2025-07-24
+  tour: northamerica2025
+  venue: The Regent Theater
+  part-of:
+    tour: northamerica2025
+  multimedia:
+    main:
+      postximage:
+        post: 1948781027755000246
+        image: Gwt043dbgAUofoY
+    image:
+    - postximage:
+        post: 1948781027755000246
+        image: Gwt043dbgAUofoY
+    - postximage:
+        post: 1948781027755000246
+        image: Gwt06GjbgAA0_84
