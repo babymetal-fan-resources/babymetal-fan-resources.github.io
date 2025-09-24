@@ -60,7 +60,7 @@ class MediaExtraPage(
 
 object MediaPage {
 
-  def pagesFor(media: Media, generator: CompiledDataGenerator): Seq[SitePage] = {
+  def pagesFor(media: Media[?], generator: CompiledDataGenerator): Seq[SitePage] = {
     val compiledData = generator.getElement(media)
     val multimediaBlock = generator.getMultiMediaBlock(media)
 
@@ -70,7 +70,7 @@ object MediaPage {
       Some(media.id.path.insertSecond(Common.EXTRA))
     }
 
-    val mainPage = ShowPage(
+    val mainPage = MediaPage(
       compiledData,
       multimediaBlock,
       PageDescription(
