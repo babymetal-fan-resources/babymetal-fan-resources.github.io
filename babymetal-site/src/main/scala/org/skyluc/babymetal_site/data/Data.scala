@@ -2,6 +2,7 @@ package org.skyluc.babymetal_site.data
 
 import org.skyluc.babymetal_site.yaml.BabymetalSiteDecoders
 import org.skyluc.fan_resources.data as fr
+import org.skyluc.fan_resources.yaml.DataYamlWriterBuilder
 import org.skyluc.reference.html.edit.EditSupportContext
 
 import fr.Path
@@ -13,6 +14,8 @@ import checks.LocalAssetExistsChecker
 object Data {
 
   val decoders = BabymetalSiteDecoders
+
+  val yamlWriterBuilder = DataYamlWriterBuilder()
 
   val dispatcherBuilder = new fr.op.DataDispatcherBuilder {
 
