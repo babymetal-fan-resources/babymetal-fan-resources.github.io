@@ -1,5 +1,6 @@
 package org.skyluc.babymetal_site.data
 
+import org.skyluc.babymetal_site.yaml.BabymetalSiteDecoders
 import org.skyluc.fan_resources.data as fr
 import org.skyluc.reference.html.edit.EditSupportContext
 
@@ -10,6 +11,8 @@ import fr.checks.ReferencesCheckProcessorBuilder
 import checks.LocalAssetExistsChecker
 
 object Data {
+
+  val decoders = BabymetalSiteDecoders
 
   val dispatcherBuilder = new fr.op.DataDispatcherBuilder {
 
