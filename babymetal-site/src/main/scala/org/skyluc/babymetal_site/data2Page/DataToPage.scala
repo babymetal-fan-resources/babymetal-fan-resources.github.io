@@ -51,6 +51,7 @@ class DataToPage(generator: CompiledDataGenerator) extends ProcessorElement[Seq[
         Path("component", "smallcard.css"),
         Path("component", "socialmediacard.css"),
         Path("component", "updatessection.css"),
+        Path("component", "elementupdate.css"),
         Path("postximage.css"),
       ),
       "styles-fr.css",
