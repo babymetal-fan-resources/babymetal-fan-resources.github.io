@@ -71,3 +71,29 @@
     part-of:
       postx: 1955942133753634993
 
+- webimage:
+    domain: babymetal.com
+    page: 295292
+    id: merch
+    label: Merch
+    info: at A!SMART
+    published-date: 2025-09-08
+    url: 'https://babymetal.com/contents/1/TO/%E5%91%8A%E7%9F%A5%E7%94%BB%E5%83%8F.jpg'
+    context:
+    - tour: japansummertour2025
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 295292
+
+- webpage:
+    domain: babymetal.com
+    id: 295292
+    label: Merch available in store
+    published-date: 2025-09-24
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=295292'
+    image:
+    - merch
+    part-of:
+      tour: japansummertour2025
+

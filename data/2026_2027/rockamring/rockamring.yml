@@ -1,0 +1,15 @@
+show:
+  year: 2026
+  id: rockamring
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 295976
+      id: poster01
+  fullname: Rock Am Ring
+  sublabel: Nürburgring, Germany
+  date: 2026-06-05
+  venue: Nürburgring
+  event-page: 'https://www.rock-am-ring.com/'
+  part-of:
+    group: 2026_2027

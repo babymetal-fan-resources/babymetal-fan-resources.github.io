@@ -1,14 +1,44 @@
-localimage:
-  show:
-    year: 2025
-    id: busanrockfestival
-  id: cover
-  label: cover
-  published-date: 2025-05-13
-  source:
-    description: event website
-    url: 'https://busanrockfestival.com/'
-  part-of:
+- localimage:
     show:
       year: 2025
       id: busanrockfestival
+    id: cover
+    label: cover
+    published-date: 2025-05-13
+    source:
+      description: event website
+      url: 'https://busanrockfestival.com/'
+    part-of:
+      show:
+        year: 2025
+        id: busanrockfestival
+
+- webimage:
+    domain: babymetal.com
+    page: 295855
+    id: merch
+    label: Merch
+    published-date: 2025-09-22
+    url: 'https://babymetal.com/contents/1/TO/250922_1200_babymetal_wt25AsiaMerch_busan_productline.jpg'
+    context:
+    - show:
+        year: 2025
+        id: busanrockfestival
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 295855
+
+- webpage:
+    domain: babymetal.com
+    id: 295855
+    label: Merch announcement
+    published-date: 2025-09-25
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=295855'
+    image:
+    - merch
+    part-of:
+      show:
+        year: 2025
+        id: busanrockfestival
+

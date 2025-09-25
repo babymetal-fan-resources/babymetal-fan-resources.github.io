@@ -58,6 +58,38 @@
         year: 2025
         id: musicstation
 
+- postx:
+    id: 1962863077767971318
+    account: BABYMETAL_JAPAN
+    label: Thank you piki
+    published-date: 2025-09-02
+    text: |-
+      Thank you 
+      @piki__official
+       🦊🦊🦊
+      #BABYMETAL #METALFORTH #frommetou
+    video:
+    - 01
+    part-of:
+      media:
+        year: 2025
+        id: musicstation
+
+- postx:
+    id: 1963195266066268240
+    account: BABYMETAL_JAPAN
+    label: Thank you Perfume
+    published-date: 2025-09-03
+    text: |-
+      Thank you 
+      @perfumeofficial
+       🦊🦊🦊
+      #BABYMETAL #METALFORTH #frommetou
+    part-of:
+      media:
+        year: 2025
+        id: musicstation
+
 - postximage:
     post: 1961463369304510718
     id: GziBdwLbcAAgrIA
@@ -123,4 +155,58 @@
         id: musicstation
     part-of:
       postx: 1961700421652906457
+
+- postxvideo:
+    post: 1962863077767971318
+    id: 01
+    label: Backstage
+    info: BABYMETAL, PiKi
+    published-date: 2025-09-02
+    cover: 1962860536237797376/img/fMlp_ywI1VLBbDHB.jpg
+    context:
+    - song: frommetou
+    - media:
+        year: 2025
+        id: musicstation
+    part-of:
+      postx: 1962863077767971318
+
+- postxvideo:
+    post: 1963195266066268240
+    id: 01
+    label: Backstage
+    info: BABYMETAL, Perfum
+    published-date: 2025-09-03
+    cover: 1963160288439705600/img/CuKWbGjU-XmO5ACD.jpg
+    context:
+    - media:
+        year: 2025
+        id: musicstation
+    - song: frommetou
+    part-of:
+      postx: 1963195266066268240
+
+- update:
+    media:
+      year: 2025
+      id: musicstation
+    date: 2025-09-02
+    text:
+    - Short video with PiKi
+    part-of:
+      postxvideo:
+        post: 1962863077767971318
+        video: 01
+
+- update:
+    media:
+      year: 2025
+      id: musicstation
+    date: 2025-09-03
+    text:
+    - Short video with Perfume
+    part-of:
+      postxvideo:
+        post: 1963195266066268240
+        video: 01
 

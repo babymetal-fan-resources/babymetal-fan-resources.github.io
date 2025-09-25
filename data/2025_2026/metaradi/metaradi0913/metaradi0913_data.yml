@@ -1,0 +1,11 @@
+update:
+  media:
+    year: 2025
+    id: metaradi0913
+  date: 2025-09-13
+  text:
+  - Show with Hyde
+  part-of:
+    media:
+      year: 2025
+      id: metaradi0913

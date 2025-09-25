@@ -328,3 +328,35 @@
         ol:
         - The end
 
+- postx:
+    id: 1963839794980811077
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2025-09-05
+    text: |-
+      Five Finger Death Punch「The End feat. BABYMETAL」配信スタート！
+      Check out our new song with FIVE FINGER DEATH PUNCH, “The End feat. BABYMETAL” out now!
+      https://ffdp.lnk.to/tebm
+    part-of:
+      song: theendffdp
+
+- postximage:
+    post: 1963839794980811077
+    id: G0D12faaYAE8K1c
+    label: Album cover
+    published-date: 2025-09-05
+    context:
+    - song: theendffdp
+    part-of:
+      postx: 1963839794980811077
+
+- update:
+    song: theendffdp
+    date: 2025-09-05
+    text:
+    - Release of the song
+    - Lyrics
+    - Song and album image covers
+    part-of:
+      song: theendffdp
+

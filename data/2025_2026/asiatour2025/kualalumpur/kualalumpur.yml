@@ -2,9 +2,9 @@ show:
   year: 2025
   id: kualalumpur
   cover-image:
-    localimage:
-      tour: asiatour2025
-      id: cover
+    postximage:
+      post: 1967065367022628956
+      image: G0xrdWnbcAc-XTR
   fullname: Kuala Lumpur, Malaysia
   date: 2025-10-06
   tour: asiatour2025

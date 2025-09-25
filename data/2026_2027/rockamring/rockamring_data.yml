@@ -1,0 +1,86 @@
+- postx:
+    id: 1970427926710489350
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2025-09-25
+    text: |-
+      BABYMETAL will perform at Rock am Ring & Rock im Park 2026🔥
+      🎫http://eventim.de/rarrip
+      
+      #RAR2026  #RIP2026
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 295976
+
+- postxvideo:
+    post: 1970427926710489350
+    id: 01
+    label: Trailer
+    info: BABYMETAL
+    published-date: 2025-09-23
+    cover: 1970340430660485120/img/1NMiXtf5uJV-GZ7r.jpg
+    context:
+    - show:
+        year: 2026
+        id: rockamring
+    - show:
+        year: 2026
+        id: rockimpark
+    part-of:
+      postx: 1970427926710489350
+
+- update:
+    show:
+      year: 2026
+      id: rockamring
+    date: 2025-09-23
+    text:
+    - The lineup for Rock Am Ring 2026 has been announced. BABYMETAL will perform on Friday
+    part-of:
+      show:
+        year: 2026
+        id: rockamring
+
+- webimage:
+    domain: babymetal.com
+    page: 295976
+    id: poster01
+    label: Poster
+    published-date: 2025-09-23
+    url: 'https://babymetal.com/contents/1/TO/G1icjekWUAAfwVV.jpeg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 295976
+
+- webpage:
+    domain: babymetal.com
+    id: 295976
+    label: Announcement
+    published-date: 2025-09-25
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=295976'
+    image:
+    - poster01
+    part-of:
+      show:
+        year: 2026
+        id: rockamring
+
+- youtubevideo:
+    id: SK8wcyyOAys
+    label: Lineup reveal
+    published-date: 2025-09-23
+    context:
+    - show:
+        year: 2026
+        id: rockamring
+    - show:
+        year: 2026
+        id: rockimpark
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 295976
+

@@ -1,0 +1,38 @@
+- update:
+    show:
+      year: 2026
+      id: mcrsandiego
+    date: 2025-09-22
+    text:
+    - The My Chemical Romance tour is announced, with BABYMETAL as special guest for the San Diego show
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 295961
+
+- webimage:
+    domain: babymetal.com
+    page: 295961
+    id: poster01
+    label: Poster
+    published-date: 2025-09-22
+    url: 'https://babymetal.com/contents/1/TO/1_1.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 295961
+
+- webpage:
+    domain: babymetal.com
+    id: 295961
+    label: Announcement
+    published-date: 2025-09-22
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=295961'
+    image:
+    - poster01
+    part-of:
+      show:
+        year: 2026
+        id: mcrsandiego
+

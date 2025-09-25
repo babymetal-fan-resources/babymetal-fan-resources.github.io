@@ -1,0 +1,11 @@
+update:
+  show:
+    year: 2026
+    id: rockimpark
+  date: 2025-09-23
+  text:
+  - The lineup for Rock Im Park 2026 has been announced. BABYMETAL will perform on Sunday
+  part-of:
+    show:
+      year: 2026
+      id: rockimpark

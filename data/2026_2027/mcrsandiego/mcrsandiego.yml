@@ -1,0 +1,19 @@
+show:
+  year: 2026
+  id: mcrsandiego
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 295961
+      id: poster01
+  fullname: MY CHEMICAL ROMANCE - THE BLACK PARADE 2026 STADIUM TOUR
+  shortname: THE BLACK PARADE 2026
+  sublabel: San Diego, CA, USA
+  date: 2026-08-30
+  description:
+  - BABYMETAL will support My Chemical Romance as a special guest, for the San Diego stop of their THE BLACK PARADE 2026 STADIUM TOUR.
+  venue: Petco Park
+  event-page: 'https://www.mychemicalromance.com/?frontpage=true#tour'
+  todo: tour announcement video
+  part-of:
+    group: 2026_2027

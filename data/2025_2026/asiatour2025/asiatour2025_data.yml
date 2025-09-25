@@ -1,10 +1,53 @@
-localimage:
-  tour: asiatour2025
-  id: cover
-  label: cover
-  published-date: 2025-05-27
-  source:
-    description: BABYMETAL website site
-    url: 'https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025'
-  part-of:
+- localimage:
     tour: asiatour2025
+    id: cover
+    label: cover
+    published-date: 2025-05-27
+    source:
+      description: BABYMETAL website site
+      url: 'https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025'
+    part-of:
+      tour: asiatour2025
+
+- postx:
+    id: 1967065367022628956
+    account: BABYMETAL_JAPAN
+    label: METALVERSE support announcement
+    published-date: 2025-09-14
+    text: |-
+      BABYMETAL WORLD TOUR 2025-2026 IN ASIA
+      Kuala Lumpur公演とManila公演のOPENING ACTにMETALVERSEの“出現”が決定!!🪽
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #METALFORTH #ASIATOUR 
+      @metalverseworld
+    part-of:
+      tour: asiatour2025
+
+- postximage:
+    post: 1967065367022628956
+    id: G0xrdWnbcAc-XTR
+    label: Poster
+    info: with METALVERSE
+    published-date: 2025-09-14
+    local-copy: true
+    context:
+    - show:
+        year: 2025
+        id: kualalumpur
+    part-of:
+      postx: 1967065367022628956
+
+- postximage:
+    post: 1967065367022628956
+    id: G0xrfRybcAAL8IB
+    label: Poster
+    info: with METALVERSE
+    published-date: 2025-09-14
+    local-copy: true
+    context:
+    - show:
+        year: 2025
+        id: manila
+    part-of:
+      postx: 1967065367022628956
+

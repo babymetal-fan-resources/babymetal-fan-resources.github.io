@@ -33,6 +33,13 @@ song:
       youtubevideo: qayP_YUrf9I
     video:
     - youtubevideo: qayP_YUrf9I
+    short:
+    - postxvideo:
+        post: 1963195266066268240
+        video: 01
+    - postxvideo:
+        post: 1962863077767971318
+        video: 01
     image:
     - postximage:
         post: 1948781027755000246
