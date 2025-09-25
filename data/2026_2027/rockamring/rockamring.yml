@@ -13,3 +13,9 @@ show:
   event-page: 'https://www.rock-am-ring.com/'
   part-of:
     group: 2026_2027
+  multimedia:
+    video:
+    - postxvideo:
+        post: 1970427926710489350
+        video: 01
+    - youtubevideo: SK8wcyyOAys

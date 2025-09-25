@@ -6,8 +6,8 @@ show:
       domain: babymetal.com
       page: 295961
       id: poster01
-  fullname: MY CHEMICAL ROMANCE - THE BLACK PARADE 2026 STADIUM TOUR
-  shortname: THE BLACK PARADE 2026
+  fullname: My Chemical Romance - The Black Parade 2026 stadium tour
+  shortname: The Black Parade 2026
   sublabel: San Diego, CA, USA
   date: 2026-08-30
   description:
@@ -17,3 +17,6 @@ show:
   todo: tour announcement video
   part-of:
     group: 2026_2027
+  multimedia:
+    video:
+    - youtubevideo:  lUeH68K4KJs
