@@ -1,0 +1,14 @@
+song:
+  id: getnosatisfied
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Get No Satisfied!
+  fullname-en: JAM Project feat.BABYMETAL
+  release-date: 2025-10-05
+  description:
+  - '"Get No Satisfied!" will be the opening theme for the anime "One Punch Man" season 3.'
+  - The collaboration was announced on August 24th. The song is expected to be released alongside the new season of the anime.
+  part-of:
+    group: externalcolab

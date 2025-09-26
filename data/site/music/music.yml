@@ -13,6 +13,7 @@ contentpage:
   part-of:
     group: site
   content:
+  - song: getnosatisfied
   - song: theendffdp
   - album: metalforth
   - song: konkon
