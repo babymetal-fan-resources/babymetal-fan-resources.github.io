@@ -9,6 +9,8 @@ show:
   fullname: Rock Am Ring
   sublabel: Nürburgring, Germany
   date: 2026-06-05
+  description:
+  - BABYMETAL will be performing at Rock Am Ring, on Friday.
   venue: Nürburgring
   event-page: 'https://www.rock-am-ring.com/'
   part-of:
