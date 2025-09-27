@@ -75,3 +75,18 @@
           year: 2025
           id: busanrockfestival
 
+- youtubevideo:
+    id: BOYlNL6bb68
+    label: Final Lineup Release
+    published-date: 2025-08-29
+    context:
+    - show:
+        year: 2025
+        id: busanrockfestival
+    part-of:
+      group:
+        id: announcement
+        show:
+          year: 2025
+          id: busanrockfestival
+

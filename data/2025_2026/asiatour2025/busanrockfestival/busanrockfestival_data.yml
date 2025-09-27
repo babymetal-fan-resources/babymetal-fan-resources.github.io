@@ -29,6 +29,38 @@
         domain: babymetal.com
         id: 295855
 
+- webimage:
+    domain: busanrockfestival.com
+    page: timetable2025
+    id: timetablefull
+    label: Timetable weekend
+    published-date: 2025-09-25
+    url: 'https://busanrockfestival.com/wp-content/uploads/2025/09/%E2%98%85-25BIRF-TIMETABLE_FULL-2048x1152.jpg'
+    context:
+    - show:
+        year: 2025
+        id: busanrockfestival
+    part-of:
+      webpage:
+        domain: busanrockfestival.com
+        id: timetable2025
+
+- webimage:
+    domain: busanrockfestival.com
+    page: timetable2025
+    id: timetablesunday
+    label: Timetable Sunday
+    published-date: 2025-09-25
+    url: 'https://busanrockfestival.com/wp-content/uploads/2025/09/25BIRF-TIMETABLE_DAY3_0928_SUN-1638x2048.jpg'
+    context:
+    - show:
+        year: 2025
+        id: busanrockfestival
+    part-of:
+      webpage:
+        domain: busanrockfestival.com
+        id: timetable2025
+
 - webpage:
     domain: babymetal.com
     id: 295855
@@ -37,6 +69,20 @@
     url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=295855'
     image:
     - merch
+    part-of:
+      show:
+        year: 2025
+        id: busanrockfestival
+
+- webpage:
+    domain: busanrockfestival.com
+    id: timetable2025
+    label: Timetable
+    published-date: 2025-09-27
+    url: 'https://busanrockfestival.com/TIMETABLE/'
+    image:
+    - timetablefull
+    - timetablesunday
     part-of:
       show:
         year: 2025

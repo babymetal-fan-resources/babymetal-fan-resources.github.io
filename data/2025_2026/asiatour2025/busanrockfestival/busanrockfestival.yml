@@ -10,7 +10,14 @@ show:
   fullname: Busan International Rock Festival
   date: 2025-09-28
   tour: asiatour2025
+  description:
+  - BABYMETAL is performing at the "2025 Busan International Rock Festival".
+  - They are headlining the show on the last day, Sunday.
+  - It is the opening show for the "WORLD TOUR 2025 IN ASIA" leg of the 2025-2026 word tour.
   venue: SAMNAK PARK
   event-page: 'https://busanrockfestival.com/'
   part-of:
     tour: asiatour2025
+  multimedia:
+    short:
+    - youtubevideo: BOYlNL6bb68
