@@ -1,14 +1,57 @@
-localimage:
-  show:
-    year: 2025
-    id: taipei
-  id: cover
-  label: cover
-  published-date: 2025-05-27
-  source:
-    description: Event website
-    url: 'https://rockempire.kktix.cc/events/ljw6aw'
-  part-of:
+- localimage:
     show:
       year: 2025
       id: taipei
+    id: cover
+    label: cover
+    published-date: 2025-05-27
+    source:
+      description: Event website
+      url: 'https://rockempire.kktix.cc/events/ljw6aw'
+    part-of:
+      show:
+        year: 2025
+        id: taipei
+
+- postx:
+    id: 1971409400209326105
+    account: BABYMETAL_JAPAN
+    label: Merch
+    published-date: 2025-09-26
+    text: |-
+      “BABYMETAL WORLD TOUR 2025-2026 IN ASIA - TAIPEI” Merchandise Announcement🪩
+      https://babymetal.com/2026TaipeiMerch/
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #METALFORTH #ASIATOUR
+    image:
+    - G1s3VB9a0AEcC6U
+    - G1s3VBybAAAf13W
+    part-of:
+      show:
+        year: 2025
+        id: taipei
+
+- postximage:
+    post: 1971409400209326105
+    id: G1s3VB9a0AEcC6U
+    label: Merch
+    published-date: 2025-09-26
+    context:
+    - show:
+        year: 2025
+        id: taipei
+    part-of:
+      postx: 1971409400209326105
+
+- postximage:
+    post: 1971409400209326105
+    id: G1s3VBybAAAf13W
+    label: Merch
+    published-date: 2025-09-26
+    context:
+    - show:
+        year: 2025
+        id: taipei
+    part-of:
+      postx: 1971409400209326105
+

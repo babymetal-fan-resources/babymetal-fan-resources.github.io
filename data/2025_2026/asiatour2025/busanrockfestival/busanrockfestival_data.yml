@@ -13,6 +13,47 @@
         year: 2025
         id: busanrockfestival
 
+- postx:
+    id: 1972314471273209899
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-09-28
+    text: |-
+      Thank you for coming to"Busan International Rock Festival" 🦊🦊🦊
+      So happy to see everyone !!!
+      See you👋
+      
+      #BABYMETAL  #BABYMETALWORLDTOUR20252026 #BUSAN 
+      @busan_rock
+    part-of:
+      show:
+        year: 2025
+        id: busanrockfestival
+
+- postximage:
+    post: 1972314471273209899
+    id: G18QGpNaAAAvEyG
+    label: On stage
+    published-date: 2025-09-28
+    context:
+    - show:
+        year: 2025
+        id: busanrockfestival
+    part-of:
+      postx: 1972314471273209899
+
+- update:
+    show:
+      year: 2025
+      id: busanrockfestival
+    date: 2025-09-30
+    text:
+    - Only one official image from the show so far
+    part-of:
+      show:
+        year: 2025
+        id: busanrockfestival
+
 - webimage:
     domain: babymetal.com
     page: 295855

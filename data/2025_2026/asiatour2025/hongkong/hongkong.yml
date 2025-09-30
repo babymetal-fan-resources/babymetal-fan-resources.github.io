@@ -8,6 +8,10 @@ show:
   fullname: Hong Kong
   date: 2025-09-30
   tour: asiatour2025
+  description:
+  - BABYMETAL is performing in Hong Kong.
+  - They are back at the AsiaWorld-Expo, this time in the big Arena.
+  - It is the second show for the "WORLD TOUR 2025 IN ASIA" leg of the 2025-2026 world tour.
   venue: AsiaWorld-Expo Arena
   event-page: 'https://shows.cityline.com/tc/2025/babymetal2025.html'
   part-of:

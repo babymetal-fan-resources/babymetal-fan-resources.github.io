@@ -65,6 +65,34 @@
         id: seikimaiivsbabymetal
         group: 2025_2026
 
+- postx:
+    id: 1968149409964662848
+    account: OngakuPia
+    label: PMC article
+    published-date: 2025-09-17
+    text: |-
+      📚【PMC編集部】『PMC Vol.38』本日発売！ 8月30・31日に開催された「聖飢魔II vs BABYMETAL～悪魔が来たりてベビメタる～」のレポートも！
+      https://lp.p.pia.jp/article/series/202961/436942/index.html
+      
+      @seikima_ii40th
+       
+      @BABYMETAL_JAPAN
+       #聖飢魔II #BABYMETAL #PMC38
+    translation: |-
+      📚【PMC Editorial Department】"PMC Vol.38" is released today!
+      Also includes a report on "SEIKIMA-II vs BABYMETAL ~Akuma ga Kitarite BABYMETALu~" held on August 30th and 31st!
+      https://
+      lp.p.pia.jp/article/series/202961/436942/index.html
+      @seikima_ii40th
+      @BABYMETAL_JAPAN
+      #SEIKIMAII #BABYMETAL #PMC38
+    image:
+    - G09TDBxaQAAkOsN
+    part-of:
+      group:
+        id: seikimaiivsbabymetal
+        group: 2025_2026
+
 - postximage:
     post: 1959903583710970221
     id: GzLqGXZbYAAPuYv
@@ -120,6 +148,21 @@
         id: seikimaiivsbabymetalencounter
     part-of:
       postx: 1962062532971237576
+
+- postximage:
+    post: 1968149409964662848
+    id: G09TDBxaQAAkOsN
+    label: Article
+    published-date: 2025-09-30
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+    part-of:
+      postx: 1968149409964662848
 
 - postxvideo:
     post: 1961613543176065283
