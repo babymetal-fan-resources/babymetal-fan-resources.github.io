@@ -1,101 +1,347 @@
-lyrics:
-  id: main
-  song: kxaxwxaxixi
-  part-of:
+- lyrics:
+    id: main
     song: kxaxwxaxixi
-  status:
-    code: warning
-    description: data copied from the sources.
-  languages:
-  - id: ol
-    name: original lyrics
-    details: (from lyrics poster in METAL FORTH - Limited Edition)
-    active: true
-    fixed: true
-    no-translation: true
-    source:
-      description: from lyrics poster in METAL FORTH - Limited Edition
-  sections:
-  - lines:
-    - ol:
-      - わたしKAWAII わたしKAWAII
-    - ol:
-      - わたしKAWAII やっぱKAWAIIでしょ？
-    - ol:
-      - I am KAWAII I am KAWAII
-    - ol:
-      - I am KAWAII やっぱKAWAII好き？
-  - lines:
-    - ol:
-      - 駅前 ストリート 養う
-    - ol:
-      - 侍 スピリット 武器は
-    - ol:
-      - 刀 代わり スマホ
-    - ol:
-      - 片手 握り
-  - lines:
-    - ol:
-      - わたしKAWAII わたしKAWAII
-    - ol:
-      - わたしKAWAII やっぱKAWAIIでしょ？
-  - lines:
-    - ol:
-      - KxAxWxAxIxI, KxAxWxAxlxl
-    - ol:
-      - KxAxWxAxIxI, KxAxWxAxIxI
-  - lines:
-    - ol:
-      - With a pink blade, I slash the fake
-    - ol:
-      - Behind a smile, I aim the stake
-    - ol:
-      - Ribbon sways, breaking the dark
-    - ol:
-      - With a sweet trap, I make my mark
-    - ol:
-      - Choker tight, fire's light
-    - ol:
-      - With a delicate gaze, I break the night
-    - ol:
-      - Hiding the fight with a stuffed toy
-    - ol:
-      - Biting with pain, the sweet ploy
-  - lines:
-    - ol:
-      - Kawaii queen, it's a massacre
-    - ol:
-      - History fades with a smile, so pure
-    - ol:
-      - Kawaii demon, sweet and bitter
-    - ol:
-      - Melt in the dark, everything's litter
-  - lines:
-    - ol:
-      - わたしKAWAII わたしKAWAII
-    - ol:
-      - わたしKAWAII やっぱKAWAIIでしょ？
-  - lines:
-    - ol:
-      - わたしKAWAII わたしKAWAII
-    - ol:
-      - わたしKAWAII やっぱKAWAII好き？
-    - ol:
-      - わたしKAWAII I am KAWAII
-    - ol:
-      - We are KAWAII 無敵のFriendsでしょ？
-  - lines:
-    - ol:
-      - We are KAWAII
-    - ol:
-      - We are KAWAII
-    - ol:
-      - We are KAWAII
-    - ol:
-      - KAWAII No.1
-    - ol:
-      - ワタシガイチバン
-    - ol:
-      - アンタハニバン
-    - ol:
-      - KAWAII No.1
+    part-of:
+      song: kxaxwxaxixi
+    status:
+      code: warning
+      description: data copied from the sources, matched with live performance. Additional Moa and Momo one liners to be added.
+    languages:
+    - id: ol
+      name: original lyrics
+      details: (from lyrics poster in METAL FORTH - Limited Edition)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: from lyrics poster in METAL FORTH - Limited Edition
+    - id: ro
+      name: rōmaji
+      no-translation: true
+    artists:
+    - id: bt
+      fullname: backtrack
+      label: bt
+      color-code: artist4
+    - id: s
+      fullname: SU-METAL
+      label: S
+    - id: mm
+      fullname: MOMOMETAL
+      label: MM
+    sections:
+    - lines:
+      - a: bt
+        ol:
+        - KxAxWxAxIxI, KxAxWxAxlxl
+      - a: bt
+        ol:
+        - KxAxWxAxIxI, KxAxWxAxIxI
+    - lines:
+      - a: s
+        ol:
+        - わたし
+        - KAWAII
+        - ' '
+        - わたし
+        - KAWAII
+        ro:
+        - watashi
+        - ''
+        - ''
+        - watashi
+        - ''
+      - a: s
+        ol:
+        - わたし
+        - KAWAII
+        - ' '
+        - やっぱ
+        - KAWAII
+        - でしょ
+        - ？
+        ro:
+        - watashi
+        - ''
+        - ''
+        - yappa
+        - ''
+        - desho
+        - ''
+      - a: s
+        ol:
+        - I am KAWAII I am KAWAII
+      - a: s
+        ol:
+        - I am KAWAII
+        - ' '
+        - やっぱ
+        - KAWAII
+        - 好き
+        - ？
+        ro:
+        - ''
+        - ''
+        - yappa
+        - ''
+        - suki
+        - ''
+    - lines:
+      - a: s
+        ol:
+        - 駅前
+        - ' '
+        - ストリート
+        ro:
+        - ekimae
+        - ''
+        - sutoriito
+      - a: s
+        ol:
+        - 養う
+        - ' '
+        - 侍
+        - ' '
+        - スピリット
+        ro:
+        - yashinau
+        - ''
+        - samurai
+        - ''
+        - supiritto
+      - a: s
+        ol:
+        - 武器
+        - は
+        - ' '
+        - 刀
+        - ' '
+        - 代わり
+        ro:
+        - buki
+        - wa
+        - ''
+        - katana
+        - ''
+        - kawari
+      - a: s
+        ol:
+        - スマホ
+        - ' '
+        - 片手
+        - ' '
+        - 握り
+        ro:
+        - sumaho
+        - ''
+        - katade
+        - ''
+        - nigiri
+    - lines:
+      - a: s
+        ol:
+        - わたし
+        - KAWAII
+        - ' '
+        - わたし
+        - KAWAII
+        ro:
+        - watashi
+        - ''
+        - ''
+        - watashi
+        - ''
+      - a: s
+        ol:
+        - わたし
+        - KAWAII
+        - ' '
+        - やっぱ
+        - KAWAII
+        - でしょ
+        - ？
+        ro:
+        - watashi
+        - ''
+        - ''
+        - yappa
+        - ''
+        - desho
+        - ''
+    - lines:
+      - a: bt
+        ol:
+        - KxAxWxAxIxI, KxAxWxAxlxl
+      - a: bt
+        ol:
+        - KxAxWxAxIxI, KxAxWxAxIxI
+    - lines:
+      - a: s
+        ol:
+        - With a pink blade, I slash the fake
+      - a: s
+        ol:
+        - Behind a smile, I aim the stake
+      - a: s
+        ol:
+        - Ribbon sways, breaking the dark
+      - a: s
+        ol:
+        - With a sweet trap, I make my mark
+      - a: s
+        ol:
+        - Choker tight, fire's light
+      - a: s
+        ol:
+        - With a delicate gaze, I break the night
+      - a: s
+        ol:
+        - Hiding the fight with a stuffed toy
+      - a: s
+        ol:
+        - Biting with pain, the sweet ploy
+    - lines:
+      - a: s
+        ol:
+        - Kawaii queen, it's a massacre
+      - a: s
+        ol:
+        - History fades with a smile, so pure
+      - a: s
+        ol:
+        - Kawaii demon, sweet and bitter
+      - a: s
+        ol:
+        - Melt in the dark, everything's litter
+    - lines:
+      - a: s
+        ol:
+        - わたし
+        - KAWAII
+        - ' '
+        - わたし
+        - KAWAII
+        ro:
+        - watashi
+        - ''
+        - ''
+        - watashi
+        - ''
+      - a: s
+        ol:
+        - わたし
+        - KAWAII
+        - ' '
+        - やっぱ
+        - KAWAII
+        - でしょ
+        - ？
+        ro:
+        - watashi
+        - ''
+        - ''
+        - yappa
+        - ''
+        - desho
+        - ''
+    - lines:
+      - a: s
+        ol:
+        - わたし
+        - KAWAII
+        - ' '
+        - わたし
+        - KAWAII
+        ro:
+        - watashi
+        - ''
+        - ''
+        - watashi
+        - ''
+      - a: s
+        ol:
+        - わたし
+        - KAWAII
+        - ' '
+        - やっぱ
+        - KAWAII
+        - 好き
+        - ？
+        ro:
+        - watashi
+        - ''
+        - ''
+        - yappa
+        - ''
+        - suki
+        - ''
+      - a: s
+        ol:
+        - わたし
+        - KAWAII
+        - ' '
+        - I am KAWAII
+        ro:
+        - watashi
+        - ''
+        - ''
+        - ''
+      - a: s
+        ol:
+        - We are KAWAII
+        - ' '
+        - 無敵
+        - の
+        - Friends
+        - でしょ
+        - ？
+        ro:
+        - ''
+        - ''
+        - muteki
+        - no
+        - furenzu
+        - desho
+        - ''
+    - lines:
+      - ol:
+        - (We are KAWAII)
+      - ol:
+        - (We are KAWAII)
+      - ol:
+        - (We are KAWAII)
+      - a: s
+        ol:
+        - KAWAII No.1
+      - ol:
+        - (We are KAWAII)
+      - a: mm
+        ol:
+        - ワタシガイチバン
+        ro:
+        - watashigaichiban
+      - ol:
+        - (We are KAWAII)
+      - a: mm
+        ol:
+        - アンタハニバン
+        ro:
+        - antahaniban
+      - ol:
+        - (We are KAWAII)
+      - a: mm
+        ol:
+        - KAWAII No.1
+
+- update:
+    song: kxaxwxaxixi
+    date: 2025-09-30
+    text:
+    - Updated the lyrics following the performance in Hong Kong.
+    - Added the splits between singers.
+    - Added romaji information.
+    part-of:
+      lyrics:
+        song: kxaxwxaxixi
+        id: main
+
