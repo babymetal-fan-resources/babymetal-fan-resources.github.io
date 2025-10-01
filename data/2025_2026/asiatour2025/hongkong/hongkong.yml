@@ -9,10 +9,21 @@ show:
   date: 2025-09-30
   tour: asiatour2025
   description:
-  - BABYMETAL is performing in Hong Kong.
-  - They are back at the AsiaWorld-Expo, this time in the big Arena.
-  - It is the second show for the "WORLD TOUR 2025 IN ASIA" leg of the 2025-2026 world tour.
+  - BABYMETAL performed in Hong Kong.
+  - They were back at the AsiaWorld-Expo, this time in the big Arena.
+  - It was the second show for the "WORLD TOUR 2025 IN ASIA" leg of the 2025-2026 world tour.
+  - The usual setlist was tweaked, to include "KxAxWxAxIxI". It was the song first live performance outside Japan.
   venue: AsiaWorld-Expo Arena
   event-page: 'https://shows.cityline.com/tc/2025/babymetal2025.html'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2025/asiaworld-arena-islands-district-hong-kong-sar-china-63477ec3.html'
   part-of:
     tour: asiatour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1973091065692344576
+        image: G2GbCmSaIAArD2g
+    image:
+    - postximage:
+        post: 1973091065692344576
+        image: G2GbCmSaIAArD2g

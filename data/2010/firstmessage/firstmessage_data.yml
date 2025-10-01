@@ -1,3 +1,11 @@
+- update:
+    event: firstmessage
+    date: 2025-10-01
+    text:
+    - Added with the basic information
+    part-of:
+      event: firstmessage
+
 - webimage:
     domain: ameblo.jp.sakuragakuin
     page: entry-10719087116

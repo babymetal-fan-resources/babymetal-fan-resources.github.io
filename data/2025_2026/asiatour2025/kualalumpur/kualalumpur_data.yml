@@ -1,11 +1,51 @@
-update:
-  show:
-    year: 2025
-    id: kualalumpur
-  date: 2025-09-14
-  text:
-  - METALVERSE announced as opening act
-  part-of:
+- postx:
+    id: 1973311939423142152
+    account: BABYMETAL_JAPAN
+    label: Merch
+    published-date: 2025-10-01
+    text: |-
+      “BABYMETAL WORLD TOUR 2025-2026 IN ASIA - KUALA LUMPUR“ Merchandise Announcement🛒
+      https://babymetal.com/2026MalaysiaMerch/
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #METALFORTH #ASIATOUR
+    part-of:
+      show:
+        year: 2025
+        id: kualalumpur
+
+- postximage:
+    post: 1973311939423142152
+    id: G2J8HrYaIAM5PNe
+    label: Merch
+    published-date: 2025-10-01
+    context:
+    - show:
+        year: 2025
+        id: kualalumpur
+    part-of:
+      postx: 1973311939423142152
+
+- postximage:
+    post: 1973311939423142152
+    id: G2J8HrZaIAIuCni
+    label: Merch
+    published-date: 2025-10-01
+    context:
+    - show:
+        year: 2025
+        id: kualalumpur
+    part-of:
+      postx: 1973311939423142152
+
+- update:
     show:
       year: 2025
       id: kualalumpur
+    date: 2025-09-14
+    text:
+    - METALVERSE announced as opening act
+    part-of:
+      show:
+        year: 2025
+        id: kualalumpur
+

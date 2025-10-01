@@ -1,0 +1,11 @@
+update:
+  show:
+    year: 2010
+    id: sakuragakuinfestival
+  date: 2025-10-01
+  text:
+  - Added with the basic information
+  part-of:
+    show:
+      year: 2010
+      id: sakuragakuinfestival

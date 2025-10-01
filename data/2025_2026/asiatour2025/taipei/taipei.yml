@@ -10,6 +10,9 @@ show:
   fullname: Taipei, Taiwan
   date: 2025-10-02
   tour: asiatour2025
+  description:
+  - BABYMETAL is performing in Taipei, Taiwan.
+  - It is the third show for the "WORLD TOUR 2025 IN ASIA" leg of the 2025-2026 world tour.
   venue: ZEPP NEW TAIPEI
   event-page: 'https://rockempire.kktix.cc/events/ljw6aw'
   part-of:

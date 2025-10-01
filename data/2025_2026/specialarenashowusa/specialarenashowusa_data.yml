@@ -13,6 +13,58 @@
         year: 2025
         id: specialarenashowusa
 
+- postx:
+    id: 1973342131692745107
+    account: BABYMETAL_JAPAN
+    label: Live viewing in Japan
+    published-date: 2025-10-01
+    text: |-
+      日本人グループ史上初となる
+      ロサンゼルス・INTUIT DOMEでのワンマンライブを
+      全国各地の映画館に生中継＆ディレイ中継!!
+      
+      🎦日時
+      📡生中継：2025.11.2(日) 11:15開演 (※予定/日本時間)
+      📡ディレイ：2025.11.7(金) 20:00開演 (※日本時間)
+      📍会場： 全国各地の映画館
+      
+      🔽詳細はこちら
+      https://liveviewing.jp/babymetal-liveinla/
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 
+      @Live_Viewing_jp
+    translation: |-
+      The first-ever solo concert by a Japanese group
+      at the INTUIT DOME in Los Angeles
+      will be broadcast live and delayed in movie theaters across Japan!!
+      
+      🎦Date & Time
+      📡Live Broadcast: 2025.11.2 (Sun) Starts 11:15 (※Scheduled/Japan Time)
+      📡Delayed Broadcast: 2025.11.7 (Fri) Starts 20:00 (※Japan Time)
+      📍Venue: Movie theaters across Japan
+      
+      🔽Details here
+      https://liveviewing.jp/babymetal-liveinla/
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026
+      @Live_Viewing_jp
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- postximage:
+    post: 1973342131692745107
+    id: G2KkXYFaIAY_zoq
+    label: Live Viewing
+    published-date: 2025-10-01
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1973342131692745107
+
 - youtubeshort:
     id: Vu1m40iw7yM
     label: Trailer

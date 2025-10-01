@@ -18,6 +18,21 @@
         year: 2025
         id: hongkong
 
+- postx:
+    id: 1973091065692344576
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-09-30
+    text: |-
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 IN ASIA" in Hong Kong !!!🌃
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #METALFORTH
+    image:
+    - G2GbCmSaIAArD2g
+    part-of:
+      show:
+        year: 2025
+        id: hongkong
+
 - postximage:
     post: 1960552858165911699
     id: GzSQ1BkaoAAANIp
@@ -30,4 +45,28 @@
         id: hongkong
     part-of:
       postx: 1960552858165911699
+
+- postximage:
+    post: 1973091065692344576
+    id: G2GbCmSaIAArD2g
+    label: At the venue
+    published-date: 2025-09-30
+    context:
+    - show:
+        year: 2025
+        id: hongkong
+    part-of:
+      postx: 1973091065692344576
+
+- update:
+    show:
+      year: 2025
+      id: hongkong
+    date: 2025-10-01
+    text:
+    - Added the official picture from the show
+    part-of:
+      show:
+        year: 2025
+        id: hongkong
 
