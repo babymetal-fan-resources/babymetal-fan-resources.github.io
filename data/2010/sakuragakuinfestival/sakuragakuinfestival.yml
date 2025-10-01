@@ -1,0 +1,17 @@
+show:
+  year: 2010
+  id: sakuragakuinfestival
+  cover-image:
+    localimage:
+      event: siteimages
+      id: sakura_gakuin_logo
+  fullname: さくら学院祭☆2010
+  sublabel: Sakura Gakuin Festival ☆ 2010
+  date: 2010-11-28
+  description:
+  - Sakura Gakuin first annual festival.
+  - First performance of  "ド・キ・ド・キ☆モーニング" by the sub-unit "重音部 BABYMETAL" (Heavy Music Club BABYMETAL).
+  venue: Yokohama Red Brick Warehouse No. 1, Yokohama
+  setlistfm: 'https://www.setlist.fm/setlist/sakura-gakuin/2010/yokohama-akarenga-sko-1-gkan-yokohama-japan-4be4bbae.html'
+  part-of:
+    group: 2010

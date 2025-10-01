@@ -1,0 +1,25 @@
+- webimage:
+    domain: ameblo.jp.sakuragakuin
+    page: entry-10719087116
+    id: o0580095110882992398
+    label: Suzuka's message
+    published-date: 2025-11-26
+    url: 'https://stat.ameba.jp/user_images/20101126/21/sakuragakuin/9a/ce/j/o0580095110882992398.jpg'
+    context:
+    - event: firstmessage
+    part-of:
+      webpage:
+        domain: ameblo.jp.sakuragakuin
+        id: entry-10719087116
+
+- webpage:
+    domain: ameblo.jp.sakuragakuin
+    id: entry-10719087116
+    label: Secret information about club activities★☆
+    published-date: 2025-11-26
+    url: 'https://ameblo.jp/sakuragakuin/entry-10719087116.html'
+    image:
+    - o0580095110882992398
+    part-of:
+      event: firstmessage
+

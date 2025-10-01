@@ -402,3 +402,7 @@ contentpage:
   - song: kimitoanimegamitai
   - song: iine
   - song: dokidokimorning
+  - show:
+      year: 2010
+      id: sakuragakuinfestival
+  - event: firstmessage

@@ -1,9 +1,22 @@
-localimage:
-  event: siteimages
-  id: kitsune_cover
-  label: Kitsune Logo for cover
-  published-date: 2009-12-31
-  source:
-    description: Created for the site
-  part-of:
+- localimage:
     event: siteimages
+    id: kitsune_cover
+    label: Kitsune Logo for cover
+    published-date: 2009-12-31
+    source:
+      description: Created for the site
+    part-of:
+      event: siteimages
+
+- localimage:
+    event: siteimages
+    id: sakura_gakuin_logo
+    label: Logo
+    info: Sakura Gakuin
+    published-date: 2010-04-01
+    source:
+      description: Sakura Gakuin YouTube page
+      url: 'https://www.youtube.com/@sakuragakuin_official'
+    part-of:
+      event: siteimages
+

@@ -1,0 +1,24 @@
+event:
+  id: firstmessage
+  cover-image:
+    localimage:
+      event: siteimages
+      id: sakura_gakuin_logo
+  label: Secret information about club activities★☆
+  date: 2010-11-26
+  description:
+  - One of the first message about what will become BABYMETAL.
+  - Suzuka Nakamoto is announcing that a new world of music is about to debut, at the Sakura Gakuin Festival.
+  part-of:
+    group: 2010
+  multimedia:
+    main:
+      webimage:
+        domain: ameblo.jp.sakuragakuin
+        page: entry-10719087116
+        id: o0580095110882992398
+    image:
+    - webimage:
+        domain: ameblo.jp.sakuragakuin
+        page: entry-10719087116
+        id: o0580095110882992398
