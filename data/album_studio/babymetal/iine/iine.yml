@@ -18,6 +18,12 @@ song:
     source:
       description: 'JASRAC - work ID: 704-4298-3'
       url: 'https://www2.jasrac.or.jp/'
+  choreographer:
+    value: MIKIKO
+    source:
+      description: MIKIKO website
+      url: 'https://www.mikiko0811.net/#works'
+  wiki: 'https://babymetal.fandom.com/wiki/Iine!'
   part-of:
     album: babymetal
   multimedia:

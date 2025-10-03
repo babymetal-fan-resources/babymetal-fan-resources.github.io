@@ -1,0 +1,18 @@
+localimage:
+  show:
+    year: 2012
+    id: decemberschildren
+  id: logo
+  label: Logo
+  published-date: 2012-12-27
+  source:
+    description: event webpage
+    url: 'https://www.decemberschildren.jp/2012/'
+  context:
+  - show:
+      year: 2012
+      id: decemberschildren
+  part-of:
+    show:
+      year: 2012
+      id: decemberschildren

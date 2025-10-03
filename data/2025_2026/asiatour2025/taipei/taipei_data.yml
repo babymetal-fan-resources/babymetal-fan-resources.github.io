@@ -31,6 +31,21 @@
         year: 2025
         id: taipei
 
+- postx:
+    id: 1973783205930283190
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-10-02
+    text: |-
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 IN ASIA" in TAIPEI !!!🍍
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #TAIPEI #METALFORTH
+    image:
+    - G2RJXLZaYAAJFt_
+    part-of:
+      show:
+        year: 2025
+        id: taipei
+
 - postximage:
     post: 1971409400209326105
     id: G1s3VB9a0AEcC6U
@@ -54,4 +69,28 @@
         id: taipei
     part-of:
       postx: 1971409400209326105
+
+- postximage:
+    post: 1973783205930283190
+    id: G2RJXLZaYAAJFt_
+    label: At the venue
+    published-date: 2025-10-02
+    context:
+    - show:
+        year: 2025
+        id: taipei
+    part-of:
+      postx: 1973783205930283190
+
+- update:
+    show:
+      year: 2025
+      id: taipei
+    date: 2025-10-03
+    text:
+    - Added the official picture from the show
+    part-of:
+      show:
+        year: 2025
+        id: taipei
 

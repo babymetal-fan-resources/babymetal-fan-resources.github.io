@@ -10,6 +10,10 @@ show:
   fullname: F1 SINGAPORE GRAND PRIX
   date: 2025-10-04
   tour: asiatour2025
+  description:
+  - BABYMETAL is performing in Singapore, as part of the F1 Singapore Grand Prix.
+  - Originally, BABYMETAL was scheduled at the same time as the beginning of the F1 qualification session. The time was shifted by 30 minutes, to allow fans to not miss much of the on-track action.
+  - The Singapore show is the fourth show for the "WORLD TOUR 2025 IN ASIA" leg of the 2025-2026 world tour.
   venue: MARINA BAY STREET CIRCUIT
   event-page: 'https://singaporegp.sg/'
   part-of:

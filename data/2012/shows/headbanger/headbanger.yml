@@ -8,6 +8,8 @@ show:
   fullname: ヘドバンギャー！！
   sublabel: Headbanger !!!
   date: 2012-07-21
+  categories:
+  - mainshowtour
   venue: 目黒鹿鳴館, Tokyo
   setlistfm: 'https://www.setlist.fm/setlist/babymetal/2012/rock-may-kan-tokyo-japan-4bcd1b3e.html'
   part-of:

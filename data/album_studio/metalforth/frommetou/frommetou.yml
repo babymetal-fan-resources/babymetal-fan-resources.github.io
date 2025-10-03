@@ -26,6 +26,7 @@ song:
       description: music video description
       url: 'https://www.youtube.com/watch?v=qayP_YUrf9I'
   wiki: 'https://babymetal.fandom.com/wiki/From_me_to_u'
+  todo: release of the live from O2 audio on 2025-10-03
   part-of:
     album: metalforth
   multimedia:
