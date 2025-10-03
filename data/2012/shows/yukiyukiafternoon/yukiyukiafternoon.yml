@@ -1,0 +1,25 @@
+show:
+  year: 2012
+  id: yukiyukiafternoon
+  cover-image:
+    postximage:
+      post: 224052855328342016
+      image: Axv-4oVCAAIunBN
+  fullname: ウ・キ・ウ・キ☆アフタヌーン
+  sublabel: Yuki Yuki ☆ Afternoon
+  date: 2012-07-14
+  venue: STAGE ONE(TOWER RECORDS渋谷店B1), Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2012/stage-one-tokyo-japan-63cab69b.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012
+  multimedia:
+    main:
+      postximage:
+        post: 224052855328342016
+        image: Axv-4oVCAAIunBN
+    image:
+    - postximage:
+        post: 224052855328342016
+        image: Axv-4oVCAAIunBN

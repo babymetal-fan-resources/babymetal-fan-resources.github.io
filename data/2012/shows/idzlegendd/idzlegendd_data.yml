@@ -1,0 +1,32 @@
+- postx:
+    id: 281750437051375617
+    account: BABYMETAL_JAPAN
+    label: Thank you + merch
+    published-date: 2012-12-20
+    text: |-
+      BABYMETAL「LEGEND"D" SU-METAL聖誕祭」ありがとうございました！！感謝の意を込めて金曜日までWEB販売します！Tシャツ→ http://bit.ly/UQeOfA タオル→ http://bit.ly/U0m5cv
+    translation: |-
+      BABYMETAL "LEGEND "D" SU-METAL Seitansai" (Birthday Festival), thank you very much!!
+      As a token of our gratitude, we will be selling goods on the web until Friday!
+      T-shirt → http://bit.ly/UQeOfA
+      Towel → http://bit.ly/U0m5cv
+    image:
+    - A-j6h5xCIAAjOPz
+    part-of:
+      show:
+        year: 2012
+        id: idzlegendd
+
+- postximage:
+    post: 281750437051375617
+    id: A-j6h5xCIAAjOPz
+    label: At the venue
+    published-date: 2012-12-20
+    local-copy: true
+    context:
+    - show:
+        year: 2012
+        id: idzlegendd
+    part-of:
+      postx: 281750437051375617
+

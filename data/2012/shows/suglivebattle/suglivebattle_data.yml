@@ -1,0 +1,30 @@
+- webimage:
+    domain: tower.jp
+    page: 2012.08.28.n04
+    id: A
+    label: On stage
+    published-date: 2012-08-28
+    url: 'https://cdfront.tower.jp/~/media/Images/Article/News/tower/20120820_Live/BABYMETAL_%E3%82%A4%E3%83%B4%E3%82%A7%E3%83%B3%E3%83%88_A.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2012
+        id: suglivebattle
+    part-of:
+      webpage:
+        domain: tower.jp
+        id: 2012.08.28.n04
+
+- webpage:
+    domain: tower.jp
+    id: 2012.08.28.n04
+    label: Report
+    published-date: 2012-08-28
+    url: 'https://tower.jp/article/news/2012/08/28/n04'
+    image:
+    - A
+    part-of:
+      show:
+        year: 2012
+        id: suglivebattle
+

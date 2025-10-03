@@ -1,0 +1,26 @@
+show:
+  year: 2012
+  id: 15minuteoneshot
+  cover-image:
+    postximage:
+      post: 188195318448390144
+      image: ApyapSDCAAEByaI
+  fullname: 15分一本勝負！！～見えづらっくってゴメンなさい！！～
+  shortname: 15分一本勝負！！
+  sublabel: 5-Minute Showdown!! ~Sorry It's Hard to See!!~
+  date: 2012-04-06
+  venue: タワーレコード渋谷店B1F STAGE ONE, Shibuya, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2012/stage-one-tokyo-japan-53cd1b39.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012
+  multimedia:
+    main:
+      postximage:
+        post: 188195318448390144
+        image: ApyapSDCAAEByaI
+    image:
+    - postximage:
+        post: 188195318448390144
+        image: ApyapSDCAAEByaI

@@ -1,0 +1,31 @@
+- postx:
+    id: 224052855328342016
+    account: BABYMETAL_JAPAN
+    label: At the DJ booth
+    published-date: 2012-07-14
+    text: |-
+      ウ・キ・ウ・キ☆アフタヌーン第1部終了DEATH！！楽しかったよ！！第2部ももうすぐDEATH！！土下座ヘドバンは皆さんで協力して、前方かの人から順番に気を付けながら座って下さいね！！ #babymetal
+    translation: |-
+      Uki Uki☆Afternoon Part 1 is over DEATH!!
+      It was fun!! Part 2 is starting soon DEATH!!
+      For the Dogezab Headbang (Kneeling Headbang), please cooperate with everyone and sit down carefully, starting from the people in the front!! #babymetal
+    image:
+    - Axv-4oVCAAIunBN
+    part-of:
+      show:
+        year: 2012
+        id: yukiyukiafternoon
+
+- postximage:
+    post: 224052855328342016
+    id: Axv-4oVCAAIunBN
+    label: At the DJ booth
+    published-date: 2012-07-14
+    local-copy: true
+    context:
+    - show:
+        year: 2012
+        id: yukiyukiafternoon
+    part-of:
+      postx: 224052855328342016
+

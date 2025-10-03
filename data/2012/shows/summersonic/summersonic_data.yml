@@ -1,0 +1,30 @@
+- webimage:
+    domain: summersonic.com
+    page: history_2012
+    id: poster
+    label: Poster
+    published-date: 2012-08-19
+    url: 'https://www.summersonic.com/history/img/poster/poster12.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2012
+        id: summersonic
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: history_2012
+
+- webpage:
+    domain: summersonic.com
+    id: history_2012
+    label: Summer Sonic 2012
+    published-date: 2012-08-19
+    url: 'https://www.summersonic.com/history/2012.html'
+    image:
+    - poster
+    part-of:
+      show:
+        year: 2012
+        id: summersonic
+

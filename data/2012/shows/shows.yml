@@ -1,0 +1,16 @@
+- group:
+    id: shows
+    label: Shows 2012
+    part-of:
+      group: 2012
+
+- update:
+    page: shows
+    date: 2025-10-02
+    text:
+    - Created entries for all 2012 shows listed on babymetal.com
+    part-of:
+      group:
+        id: shows
+        group: 2012
+

@@ -1,0 +1,14 @@
+show:
+  year: 2012
+  id: headbangpilgrimagenagoya2
+  cover-image:
+    postximage:
+      post: 221505277395083264
+      image: AxLx4JCCIAAQp_z
+  fullname: Nagoya 第2回
+  date: 2012-07-08
+  tour: headbangpilgrimage
+  venue: ell.SIZE
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2012/ell-size-nagoya-japan-6bcab6a6.html'
+  part-of:
+    tour: headbangpilgrimage

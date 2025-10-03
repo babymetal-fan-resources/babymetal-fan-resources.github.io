@@ -1,0 +1,28 @@
+- postx:
+    id: 253830781636579329
+    account: BABYMETAL_JAPAN
+    label: Merch
+    published-date: 2012-10-04
+    text: |-
+      10月6日ワンマンLIVEグッズ情報DEATH！！LEGEND"I"を記念する限定グッズ第1弾はTシャツ！！ポーランドから届いた「北欧神話の三女神と世界樹」をモチーフにした会場でしか手に入らないブルータル仕様！？続々物販お知らせします！！
+    translation: |-
+      October 6th One-man LIVE Goods Information DEATH!!
+      The first batch of limited goods commemorating LEGEND "I" is a T-shirt!!
+      It features the "Three Goddesses of Norse Mythology and the World Tree" motif, which arrived from Poland, and is a Brutal Specification only available at the venue!?
+      We will keep announcing more merchandise soon!!
+    image:
+    - A4XJwEWCEAAm--i
+    part-of:
+      show:
+        year: 2012
+        id: idzlegendi1
+
+- postximage:
+    post: 253830781636579329
+    id: A4XJwEWCEAAm--i
+    label: Merch
+    published-date: 2025-10-02
+    local-copy: true
+    part-of:
+      postx: 253830781636579329
+

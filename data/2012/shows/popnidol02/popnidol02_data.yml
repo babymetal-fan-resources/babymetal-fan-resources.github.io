@@ -1,0 +1,48 @@
+- webimage:
+    domain: tower.jp
+    page: 2012.06.25.n07
+    id: A1
+    label: On stage
+    published-date: 2012-06-25
+    url: 'https://cdfront.tower.jp/~/media/Images/Article/News/tower/POPN_IDOL_20120623/BABYMETAL_A1.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2012
+        id: popnidol02
+    part-of:
+      webpage:
+        domain: tower.jp
+        id: 2012.06.25.n07
+
+- webimage:
+    domain: tower.jp
+    page: 2012.06.25.n07
+    id: A2
+    label: On stage
+    published-date: 2012-06-25
+    url: 'https://cdfront.tower.jp/~/media/Images/Article/News/tower/POPN_IDOL_20120623/BABYMETAL_A2.jpg'
+    context:
+    - show:
+        year: 2012
+        id: popnidol02
+    part-of:
+      webpage:
+        domain: tower.jp
+        id: 2012.06.25.n07
+
+- webpage:
+    domain: tower.jp
+    id: 2012.06.25.n07
+    label: Report
+    published-date: 2012-05-25
+    url: 'https://tower.jp/article/news/2012/06/25/n07'
+    image:
+    - A1
+    - A2
+    todo: to fully process
+    part-of:
+      show:
+        year: 2012
+        id: popnidol02
+

@@ -1,0 +1,26 @@
+- webimage:
+    domain: idolfes.com
+    page: 2012
+    id: logo
+    label: Logo
+    published-date: 2025-10-02
+    url: 'https://www.idolfes.com/2012/img/common/logo.png'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: idolfes.com
+        id: 2012
+
+- webpage:
+    domain: idolfes.com
+    id: 2012
+    label: Tokyo Idol Festival
+    published-date: 2012-08-04
+    url: 'https://www.idolfes.com/2012/'
+    image:
+    - logo
+    part-of:
+      show:
+        year: 2012
+        id: tif
+

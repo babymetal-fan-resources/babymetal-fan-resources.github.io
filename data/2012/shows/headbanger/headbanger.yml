@@ -1,0 +1,16 @@
+show:
+  year: 2012
+  id: headbanger
+  cover-image:
+    postximage:
+      post: 226277580251213826
+      image: AyPmQqfCMAA_OPe
+  fullname: ヘドバンギャー！！
+  sublabel: Headbanger !!!
+  date: 2012-07-21
+  venue: 目黒鹿鳴館, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2012/rock-may-kan-tokyo-japan-4bcd1b3e.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012

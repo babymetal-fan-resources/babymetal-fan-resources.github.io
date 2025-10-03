@@ -1,0 +1,17 @@
+show:
+  year: 2012
+  id: afa2012
+  cover-image:
+    webimage:
+      domain: animefestival.asia
+      page: afa12
+      id: logo
+  fullname: Anime Festival Asia 2012
+  date: 2012-11-10
+  venue: Singapore Expo, Singapore
+  event-page: 'https://animefestival.asia/afa12/index.html'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2012/singapore-expo-max-pavilion-singapore-singapore-43cd1b33.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012

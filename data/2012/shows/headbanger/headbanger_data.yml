@@ -1,0 +1,31 @@
+- postx:
+    id: 226277580251213826
+    account: BABYMETAL_JAPAN
+    label: Tomorrow
+    published-date: 2012-07-20
+    text: |-
+      いよいよ明日、目黒鹿鳴館！！コルセット忘れたら、ダメ、ゼッタイ「We are BABYMETAL！！」 #babymetal
+    translation: |-
+      Finally, tomorrow is Meguro Rockmaykan!!
+      If you forget your corset, it's No, Absolutely Not (Dame, Zettai)
+      "We are BABYMETAL!!" #babymetal
+    image:
+    - AyPmQqfCMAA_OPe
+    part-of:
+      show:
+        year: 2012
+        id: headbanger
+
+- postximage:
+    post: 226277580251213826
+    id: AyPmQqfCMAA_OPe
+    label: At the venue
+    published-date: 2012-07-20
+    local-copy: true
+    context:
+    - show:
+        year: 2012
+        id: headbanger
+    part-of:
+      postx: 226277580251213826
+

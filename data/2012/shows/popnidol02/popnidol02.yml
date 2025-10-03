@@ -1,0 +1,24 @@
+show:
+  year: 2012
+  id: popnidol02
+  cover-image:
+    webimage:
+      domain: tower.jp
+      page: 2012.06.25.n07
+      id: A1
+  fullname: TOWER RECORDS Presents Pop'n アイドル02
+  shortname: Pop'n アイドル02
+  sublabel: Pop'n Idol 02
+  date: 2012-06-23
+  venue: Zepp Tokyo, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2012/zepp-tokyo-tokyo-japan-43cd1b3f.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012
+  multimedia:
+    main:
+      webimage:
+        domain: tower.jp
+        page: 2012.06.25.n07
+        id: A1

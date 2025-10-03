@@ -1,0 +1,19 @@
+show:
+  year: 2012
+  id: headbangpilgrimageosaka2
+  cover-image:
+    postximage:
+      post: 221505277395083264
+      image: AxLx4JCCIAAQp_z
+  fullname: Osaka 第2回
+  date: 2012-07-07
+  tour: headbangpilgrimage
+  venue: 難波ROCKETS, Osaka
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2012/nanba-rockets-osaka-japan-7bcab6a0.html'
+  part-of:
+    tour: headbangpilgrimage
+  multimedia:
+    image:
+    - postximage:
+        post: 221505277395083264
+        image: AxLx4JCCIAAQp_z

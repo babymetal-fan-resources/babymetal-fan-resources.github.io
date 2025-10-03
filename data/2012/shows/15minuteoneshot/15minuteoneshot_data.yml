@@ -1,0 +1,30 @@
+- postx:
+    id: 188195318448390144
+    account: BABYMETAL_JAPAN
+    label: Are you ready to mosh
+    published-date: 2012-04-06
+    text: |-
+      Are you ready to moshsh??もうすぐはっじまっるよー！！
+    translation: |-
+      Are you ready to moshsh??
+      It's about to start!!
+    image:
+    - ApyapSDCAAEByaI
+    part-of:
+      show:
+        year: 2012
+        id: 15minuteoneshot
+
+- postximage:
+    post: 188195318448390144
+    id: ApyapSDCAAEByaI
+    label: At the venue
+    published-date: 2012-04-06
+    local-copy: true
+    context:
+    - show:
+        year: 2012
+        id: 15minuteoneshot
+    part-of:
+      postx: 188195318448390144
+

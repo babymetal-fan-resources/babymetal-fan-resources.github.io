@@ -1,0 +1,16 @@
+show:
+  year: 2012
+  id: idzlegendd
+  cover-image:
+    postximage:
+      post: 281750437051375617
+      image: A-j6h5xCIAAjOPz
+  fullname: I、D、Z〜LEGEND "D"　SU-METAL聖誕祭
+  shortname: I、D、Z〜LEGEND "D"
+  date: 2012-12-20
+  venue: 赤坂BLITZ, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2012/akasaka-blitz-tokyo-japan-1bc289d4.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012

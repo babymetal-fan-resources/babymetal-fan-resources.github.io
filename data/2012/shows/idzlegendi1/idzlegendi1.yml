@@ -1,0 +1,15 @@
+show:
+  year: 2012
+  id: idzlegendi1
+  cover-image:
+    postximage:
+      post: 253830781636579329
+      image: A4XJwEWCEAAm--i
+  fullname: I、D、Z〜LEGEND “ I ”
+  date: 2012-10-06
+  venue: Shibuya O-EAST, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2012/shibuya-o-east-tokyo-japan-13c289c9.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012

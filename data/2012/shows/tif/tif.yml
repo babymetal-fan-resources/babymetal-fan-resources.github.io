@@ -1,0 +1,16 @@
+show:
+  year: 2012
+  id: tif
+  cover-image:
+    webimage:
+      domain: idolfes.com
+      page: 2012
+      id: logo
+  fullname: TOKYO IDOL FESTIVAL 2012
+  date: 2012-08-04
+  venue: Odaiba, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2012/odaiba-aomi-yagai-tokusetsu-kaijou-tokyo-japan-6bcab69a.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012

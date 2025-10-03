@@ -1,0 +1,26 @@
+- postx:
+    id: 221505277395083264
+    account: BABYMETAL_JAPAN
+    label: Between shows
+    published-date: 2012-07-07
+    text: |-
+      第一回目終了DEATH！！もうすぐ第二回目もはっじまっるよ〜！！ #babymetal
+    translation: |-
+      First performance is over DEATH!!
+      The second one is about to start soon too!! #babymetal
+    image:
+    - AxLx4JCCIAAQp_z
+    part-of:
+      tour: headbangpilgrimage
+
+- postximage:
+    post: 221505277395083264
+    id: AxLx4JCCIAAQp_z
+    label: At the venue
+    published-date: 2012-07-07
+    local-copy: true
+    context:
+    - tour: headbangpilgrimage
+    part-of:
+      postx: 221505277395083264
+

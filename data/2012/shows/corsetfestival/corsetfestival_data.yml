@@ -1,0 +1,33 @@
+- postx:
+    id: 226690669496905729
+    account: BABYMETAL_JAPAN
+    label: 0 missing corset
+    published-date: 2012-07-21
+    text: |-
+      伝説の目黒鹿鳴館、ホント凄い盛り上がりでアツかった！！皆さんは大丈夫でしたか？？「コルセット祭り」ではコルセットを忘れた人は0人、着用率100%！！ホントにステキな皆さんDEATH！！10月6日は渋谷O-EASTに集合だぉ！！
+    translation: |-
+      The legendary Meguro Rockmaykan was truly incredibly exciting and hot!!
+      Was everyone okay??
+      For the "Corset Festival," the number of people who forgot their corset was 0, a 100% wearing rate!!
+      You are all truly wonderful people DEATH!!
+      Let's gather at Shibuya O-EAST on October 6th!!
+    image:
+    - AyVd9oACMAAGj4X
+    part-of:
+      show:
+        year: 2012
+        id: corsetfestival
+
+- postximage:
+    post: 226690669496905729
+    id: AyVd9oACMAAGj4X
+    label: At the venue
+    published-date: 2012-07-21
+    local-copy: true
+    context:
+    - show:
+        year: 2012
+        id: corsetfestival
+    part-of:
+      postx: 226690669496905729
+

@@ -1,0 +1,30 @@
+- webimage:
+    domain: animefestival.asia
+    page: afa12
+    id: logo
+    label: Logo
+    published-date: 2025-10-02
+    url: 'https://animefestival.asia/afa12/img/logo_afa.png'
+    local-copy: true
+    context:
+    - show:
+        year: 2012
+        id: afa2012
+    part-of:
+      webpage:
+        domain: animefestival.asia
+        id: afa12
+
+- webpage:
+    domain: animefestival.asia
+    id: afa12
+    label: home page
+    published-date: 2012-11-09
+    url: 'https://animefestival.asia/afa12/index.html'
+    image:
+    - logo
+    part-of:
+      show:
+        year: 2012
+        id: afa2012
+

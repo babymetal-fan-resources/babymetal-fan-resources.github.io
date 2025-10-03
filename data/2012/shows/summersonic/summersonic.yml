@@ -1,0 +1,17 @@
+show:
+  year: 2012
+  id: summersonic
+  cover-image:
+    webimage:
+      domain: summersonic.com
+      page: history_2012
+      id: poster
+  fullname: SUMMER SONIC
+  date: 2012-08-19
+  venue: Makuhari Messe
+  event-page: 'https://www.summersonic.com/history/2012.html'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2012/makuhari-messe-kokusai-tenjijou-chiba-japan-73cab6f9.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012

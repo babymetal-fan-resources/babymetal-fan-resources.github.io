@@ -1,0 +1,22 @@
+tour:
+  id: headbangpilgrimage
+  cover-image:
+    postximage:
+      post: 221505277395083264
+      image: AxLx4JCCIAAQp_z
+  fullname: ヘドバ行脚ー！！
+  first-date: 2012-07-07
+  last-date: 2012-07-07
+  shows:
+  - year: 2012
+    id: headbangpilgrimagenagoya2
+  - year: 2012
+    id: headbangpilgrimagenagoya1
+  - year: 2012
+    id: headbangpilgrimageosaka2
+  - year: 2012
+    id: headbangpilgrimageosaka1
+  part-of:
+    group:
+      id: shows
+      group: 2012

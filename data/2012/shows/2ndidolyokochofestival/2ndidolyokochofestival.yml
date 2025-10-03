@@ -1,0 +1,25 @@
+show:
+  year: 2012
+  id: 2ndidolyokochofestival
+  cover-image:
+    postximage:
+      post: 188873019127631872
+      image: Ap8DAp0CEAEsvvb
+  fullname: 第2回アイドル横丁祭!!
+  sublabel: The 2nd Idol Yokocho Festival!!
+  date: 2012-04-08
+  venue: SHIBUYA-AX, Tokyo
+  event-page: 'https://www.setlist.fm/setlist/babymetal/2012/shibuya-ax-tokyo-japan-5bcd1b38.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012
+  multimedia:
+    main:
+      postximage:
+        post: 188873019127631872
+        image: Ap8DAp0CEAEsvvb
+    image:
+    - postximage:
+        post: 188873019127631872
+        image: Ap8DAp0CEAEsvvb

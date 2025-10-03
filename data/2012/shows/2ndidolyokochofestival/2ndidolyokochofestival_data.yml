@@ -1,0 +1,32 @@
+- postx:
+    id: 188873019127631872
+    account: BABYMETAL_JAPAN
+    label: Today
+    published-date: 2012-04-08
+    text: |-
+      今日の渋谷はさくらが満開のお花見日和！！そしてモッシュッシュ日和の最高のお天気DEATH！！Shibuya-AX！！代々木公園のお花見に負けないくらいアツくいくよー！！こいやーっ！！ #babymetal
+    translation: |-
+      Today in Shibuya is a perfect day for viewing cherry blossoms in full bloom!!
+      And it's the greatest weather for a MOSH'SH day DEATH!!
+      Shibuya-AX!! We're going to make this as hot as the cherry blossom viewing at Yoyogi Park!!
+      Bring it on!! #babymetal
+    image:
+    - Ap8DAp0CEAEsvvb
+    part-of:
+      show:
+        year: 2012
+        id: 2ndidolyokochofestival
+
+- postximage:
+    post: 188873019127631872
+    id: Ap8DAp0CEAEsvvb
+    label: At the venue
+    published-date: 2012-04-08
+    local-copy: true
+    context:
+    - show:
+        year: 2012
+        id: 2ndidolyokochofestival
+    part-of:
+      postx: 188873019127631872
+
