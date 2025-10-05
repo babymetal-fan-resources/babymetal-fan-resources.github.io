@@ -1,7 +1,42 @@
-update:
-  song: getnosatisfied
-  date: 2025-09-26
-  text:
-  - Created a placeholder for the song, with the limited information available
-  part-of:
+- update:
     song: getnosatisfied
+    date: 2025-09-26
+    text:
+    - Created a placeholder for the song, with the limited information available
+    part-of:
+      song: getnosatisfied
+
+- update:
+    song: getnosatisfied
+    date: 2025-10-04
+    text:
+    - Jacket cover revealed
+    part-of:
+      song: getnosatisfied
+
+- webimage:
+    domain: onepunchman-anime.net
+    page: goods.cd.op3
+    id: cover
+    label: Cover
+    published-date: 2025-10-03
+    url: 'https://onepunchman-anime.net/goods/cd/op3/img/op3_jk.jpg'
+    local-copy: true
+    context:
+    - song: getnosatisfied
+    part-of:
+      webpage:
+        domain: onepunchman-anime.net
+        id: goods.cd.op3
+
+- webpage:
+    domain: onepunchman-anime.net
+    id: goods.cd.op3
+    label: Get No Satisfied! description page
+    published-date: 2025-10-03
+    url: 'https://onepunchman-anime.net/goods/cd/op3/'
+    image:
+    - cover
+    part-of:
+      song: getnosatisfied
+

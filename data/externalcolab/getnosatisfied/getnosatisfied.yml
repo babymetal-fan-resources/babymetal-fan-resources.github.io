@@ -1,14 +1,25 @@
 song:
   id: getnosatisfied
   cover-image:
-    localimage:
-      event: siteimages
-      id: kitsune_cover
+    webimage:
+      domain: onepunchman-anime.net
+      page: goods.cd.op3
+      id: cover
   fullname: Get No Satisfied!
   fullname-en: JAM Project feat.BABYMETAL
-  release-date: 2025-10-05
+  release-date: 2025-10-12
   description:
   - '"Get No Satisfied!" will be the opening theme for the anime "One Punch Man" season 3.'
   - The collaboration was announced on August 24th. The song is expected to be released alongside the new season of the anime.
+  lyricist:
+    value: 影山ヒロノブ (Hironobu Kageyama)
+    source:
+      description: JAM Project X post
+      url: 'https://x.com/JAMProject_0717/status/1974036711425650993'
+  composer:
+    value: 影山ヒロノブ (Hironobu Kageyama)
+    source:
+      description: JAM Project X post
+      url: 'https://x.com/JAMProject_0717/status/1974036711425650993'
   part-of:
     group: externalcolab

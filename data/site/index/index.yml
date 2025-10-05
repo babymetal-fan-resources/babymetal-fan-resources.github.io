@@ -62,6 +62,9 @@ contentpage:
   - show:
       year: 2025
       id: f1singaporegrandprix
+  - media:
+      year: 2025
+      id: metaradi1004
   - show:
       year: 2025
       id: taipei

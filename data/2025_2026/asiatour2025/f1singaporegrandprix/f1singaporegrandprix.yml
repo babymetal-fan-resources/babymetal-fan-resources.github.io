@@ -18,3 +18,12 @@ show:
   event-page: 'https://singaporegp.sg/'
   part-of:
     tour: asiatour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1974524988947648996
+        image: G2brwsTawAEFREc
+    image:
+    - postximage:
+        post: 1974524988947648996
+        image: G2brwsTawAEFREc

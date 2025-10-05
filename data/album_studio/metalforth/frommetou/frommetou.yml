@@ -31,9 +31,11 @@ song:
     album: metalforth
   multimedia:
     main:
-      youtubevideo: qayP_YUrf9I
+      youtubevideo: EpXtD6dD0MU
     video:
     - youtubevideo: qayP_YUrf9I
+    live:
+    - youtubevideo: EpXtD6dD0MU
     short:
     - postxvideo:
         post: 1963195266066268240

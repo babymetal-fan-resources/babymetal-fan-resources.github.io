@@ -1,14 +1,55 @@
-localimage:
-  show:
-    year: 2025
-    id: f1singaporegrandprix
-  id: cover
-  label: cover
-  published-date: 2025-05-14
-  source:
-    description: BABYMETAL website
-    url: 'https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025'
-  part-of:
+- localimage:
     show:
       year: 2025
       id: f1singaporegrandprix
+    id: cover
+    label: cover
+    published-date: 2025-05-14
+    source:
+      description: BABYMETAL website
+      url: 'https://babymetal.com/mob/news/diarKiji.php?site=TO&ima=3919&cd=TOUR_TO&lang=en&is_past=ON&target_year=2025'
+    part-of:
+      show:
+        year: 2025
+        id: f1singaporegrandprix
+
+- postx:
+    id: 1974524988947648996
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-10-04
+    text: |-
+      Thank you for coming to "Formula 1 Singapore Airlines Singapore Grand Prix"at Marina Bay, Singapore🏎️💨
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #SingaporeGP
+    image:
+    - G2brwsTawAEFREc
+    part-of:
+      show:
+        year: 2025
+        id: f1singaporegrandprix
+
+- postximage:
+    post: 1974524988947648996
+    id: G2brwsTawAEFREc
+    label: At the venue
+    published-date: 2025-10-04
+    context:
+    - show:
+        year: 2025
+        id: f1singaporegrandprix
+    part-of:
+      postx: 1974524988947648996
+
+- update:
+    show:
+      year: 2025
+      id: f1singaporegrandprix
+    date: 2025-10-05
+    text:
+    - Added the official picture from the show
+    part-of:
+      show:
+        year: 2025
+        id: f1singaporegrandprix
+

@@ -304,3 +304,23 @@
     part-of:
       song: frommetou
 
+- update:
+    song: frommetou
+    date: 2025-10-04
+    text:
+    - Video of the live performance at the O2 released
+    part-of:
+      song: frommetou
+
+- youtubevideo:
+    id: EpXtD6dD0MU
+    label: LIVE FROM THE O2
+    published-date: 2025-10-03
+    context:
+    - show:
+        year: 2025
+        id: london
+    - song: frommetou
+    part-of:
+      song: frommetou
+
