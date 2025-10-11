@@ -2,19 +2,24 @@
   --color-black: #080808;
   --color-almost-black: #101010;
   --color-closeto-black: #202020;
-  --color-not-black: darkslategray;
-  --color-not-gray: #d0d0d0;
 
-  --color-designation: #d90009;
+
   --color-text: rgb(190, 190, 190);
+  --color-text-highlight: #d90009;
   --color-text-soft: gray;
-  --color-text-less: gray;
-  --color-text-red: #d90009;
+  --color-text-nav: var(--color-text-highlight);
+
+  --color-designation-text: var(--color-text-highlight);
+
+  --color-border-cover: var(--color-almost-black);
   --color-bg-cover: var(--color-almost-black);
 
-  --color-group-border: grey;
+  --color-border-light: #404040;
 
-  --gradient-page: repeating-linear-gradient(170deg,
+  --color-bg-page: var(--color-almost-black);
+  --color-bg2-page: var(--color-closeto-black);
+
+  --gradient-bg-page: repeating-linear-gradient(170deg,
       var(--color-closeto-black) 0,
       var(--color-closeto-black) 10vh,
       var(--color-almost-black) 50vh,
@@ -22,47 +27,39 @@
       var(--color-closeto-black) 110vh,
       var(--color-closeto-black) 120vh);
 
-  --color-lyrics-section-even: rgb(from blue r g b / 0.05);
-  --color-lyrics-section-odd: rgb(from green r g b / 0.05);
-  --color-lyrics-line-even: rgb(from yellow r g b / 0.05);
-  --color-lyrics-line-odd: rgb(from pink r g b / 0.05);
+
+  --color-bg-bar: var(--color-black);
+  --color-bg2-bar: var(--color-black);
+
+  --gradient-bg-bar: var(--color-black);
+
+  --color-lyrics-section-bg-even: rgb(from blue r g b / 0.05);
+  --color-lyrics-section-bg-odd: rgb(from green r g b / 0.05);
+  --color-lyrics-line-bg-even: rgb(from yellow r g b / 0.05);
+  --color-lyrics-line-bg-odd: rgb(from pink r g b / 0.05);
 
   --color-lyrics-ro: #939060;
 
+  --bg-album: linear-gradient(160deg, transparent 0rem, transparent 20%, #2b2b86);
   --bg-group: linear-gradient(160deg, #545454, transparent 40%, transparent);
-
+  --bg-multimedia: linear-gradient(160deg, transparent 0rem, transparent 20%, #204020);
   --bg-show: linear-gradient(160deg, transparent 0rem, transparent 20%, #505020);
-
+  --bg-song: linear-gradient(160deg, transparent 0rem, transparent 20%, #202040);
   --bg-tour: linear-gradient(160deg, transparent 0rem, transparent 20%, #c4c418);
 
-  --bg-song: linear-gradient(160deg, transparent 0rem, transparent 20%, #202040);
-
-  --bg-album: linear-gradient(160deg, transparent 0rem, transparent 20%, #2b2b86);
-
-  --bg-multimedia: linear-gradient(160deg, transparent 0rem, transparent 20%, #204020);
-
-  --bg-post: linear-gradient(160deg, transparent 0rem, transparent 80%, #ffff00);
+  --color-chronology-bg-light: darkslategray;
+  --color-chronology-bg-dark: #192b2b;
+  --color-chronology-label: var(--color-text-soft);
 
   --color-bm-bg: #be0000;
-
   --color-su-bg: darkred;
-
   --color-moa-bg: dodgerblue;
-
   --color-momo-bg: #b55a38;
-
   --color-momoplus-bg: #8b5e4d;
-
   --color-artist1-bg: #866614;
-
   --color-artist3-bg: #0a8b10;
-
   --color-artist4-bg: #3d3726;
-
   --color-artist5-bg: #29251a;
-
   --color-momoa-bg: rebeccapurple;
-
   --color-momoaplus-bg: indigo;
-
 }

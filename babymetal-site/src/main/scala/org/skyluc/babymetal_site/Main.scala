@@ -1,9 +1,5 @@
 package org.skyluc.babymetal_site
 
-import org.skyluc.babymetal_site.data.Data
-import org.skyluc.babymetal_site.data2Page.DataToPage
-import org.skyluc.babymetal_site.html.CompiledDataGeneratorBuilder
-import org.skyluc.babymetal_site.yaml.BabymetalSiteDecoders
 import org.skyluc.fan_resources.ErrorsHolder
 import org.skyluc.fan_resources.Main.displayErrors
 import org.skyluc.fan_resources.data as frData
@@ -19,31 +15,17 @@ object Main {
     main(Path())
   }
 
-  def main(rootPath: Path): Unit = {
+  def main(rootFolder: Path): Unit = {
 
     println("\n***** Running BABYMETAL Fan Resources site *****\n")
 
-    val dataFolder = rootPath.resolve(DATA_PATH)
-    val staticFolder = rootPath.resolve(STATIC_PATH)
-    val staticFrFolder = rootPath.resolve("fan-resources", STATIC_PATH)
-    val outputFolder = rootPath.resolve(TARGET_PATH, SITE_PATH)
+    val configuration = MainSiteConfiguration(rootFolder)
 
     val errors = ErrorsHolder()
 
-    val (loaderErrors, data) =
-      DataLoader.load(
-        dataFolder,
-        BabymetalSiteDecoders,
-        Data.dispatcherBuilder,
-        Data.defaultExpanders,
-        Data.defaultPopulaters,
-      )
+    val data = errors.record("DATA LOADING", DataLoader.load(configuration.mainDataFolder, configuration))
 
-    errors.append("LOADER ERRORS", loaderErrors)
-
-    val checkErrors = DataCheck.check(data, (Data.defaultCheckers(staticFolder)))
-
-    errors.append("CHECKS ERRORS", checkErrors)
+    errors.append("DATA CHECKING", DataCheck.check(data, configuration.mainDataCheckers))
 
     displayErrors(errors, 10)
 
@@ -51,12 +33,9 @@ object Main {
       System.exit(2)
     }
 
-    val generator = CompiledDataGeneratorBuilder.generator(data)
+    val pages = html.ElementToPage.generate(data, configuration)
 
-    val pages = DataToPage(generator).generate(rootPath, data)
-
-    SiteOutput.generate(pages, Seq(staticFrFolder, staticFolder), outputFolder)
-
+    SiteOutput.generate(pages, configuration)
   }
 
   // -----------

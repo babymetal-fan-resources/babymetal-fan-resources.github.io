@@ -1,0 +1,12 @@
+/* top banner notice */
+
+.tmp-notice {
+  font-size: 0.6rem;
+  line-height: 0.6rem;
+  text-align: center;
+  color: black;
+  background-color: yellowgreen;
+  border: solid 0.5px var(--color-border-cover);
+  padding: 0.2rem;
+  margin: 0 1.5rem 1rem 1.5rem;
+}

@@ -1,7 +1,7 @@
 package org.skyluc.babymetal_site.yaml
 
 import org.skyluc.fan_resources.data.AttributeDefinition
-import org.skyluc.fan_resources.html.ElementInfo
+import org.skyluc.fan_resources.html.compileddata.ElementInfo
 import org.skyluc.fan_resources.yaml.FrDecoders
 
 import YamlKeys.*

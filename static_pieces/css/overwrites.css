@@ -1,0 +1,17 @@
+.header-navigation {
+  border-bottom-color: var(--color-text-highlight);
+  min-height: 3.2rem;
+  padding: 0 0 0.2rem 9.5rem;
+  box-sizing: border-box;
+}
+
+.header-logo {
+  position: absolute;
+  top: 0.1rem;
+  left: -3rem;
+  z-index: 20;
+}
+
+.footer-content {
+  border-top-color: var(--color-text-highlight);
+}
