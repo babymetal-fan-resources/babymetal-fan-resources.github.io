@@ -5,8 +5,8 @@ import org.skyluc.fan_resources.Common
 import org.skyluc.fan_resources.data.Path
 import org.skyluc.fan_resources.html as fr
 import org.skyluc.html.*
-import Html.*
 
+import Html.*
 import fr.component.NavigationItem
 
 object TitleGenerator extends fr.page.TitleGenerator {
@@ -95,8 +95,8 @@ object MainSitePage {
 
   val HREF_FONT_NOTO = "https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap"
 
-  val GOOGLE_VERIFICATION_CODE = "google"
-  val MICROSOFT_VERIFICATION_CODE = "microsoft"
+  val GOOGLE_VERIFICATION_CODE = "5DUf4g9lYSa_jzwy0JIrwsfTppM2uM5culgvgkbXj7U"
+  val MICROSOFT_VERIFICATION_CODE = "B6C2BBE1BBDED01F740330EB10DEAEF8"
 
   val imageNavBar = fr.compileddata.MultimediaCompiledData(
     "image",

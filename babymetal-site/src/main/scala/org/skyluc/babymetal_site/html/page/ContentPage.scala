@@ -15,11 +15,14 @@ class ContentPage(
   override val outputPath: Path = contentPage.id.path.tailSegments().withExtension(Common.HTML_EXTENSION)
 
   override val pageConfiguration: fr.page.MainSitePageConfiguration =
+    val isRoot = outputPath == ContentPage.INDEX_PATH
+
     MainSitePageConfiguration(
       TitleGenerator.generateTitle(contentPage.label),
       TitleGenerator.generateDescription(contentPage.label),
-      outputPath.toAbsoluteString(),
+      if (isRoot) "/" else outputPath.toAbsoluteString(),
       contentPage.cover.imageUrl,
+      isRoot,
     )
 
   override def mainContent(): Seq[BodyElement[?]] = {
@@ -53,5 +56,7 @@ object ContentPage {
     )
 
   }
+
+  val INDEX_PATH = Path("index.html")
 
 }
