@@ -12,3 +12,12 @@ show:
   event-page: 'https://www.zepp.co.jp/hall/kualalumpur/schedule/single/?rid=155565'
   part-of:
     tour: asiatour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1975205693725839694
+        image: G2lW4goWoAASZJP
+    image:
+    - postximage:
+        post: 1975205693725839694
+        image: G2lW4goWoAASZJP

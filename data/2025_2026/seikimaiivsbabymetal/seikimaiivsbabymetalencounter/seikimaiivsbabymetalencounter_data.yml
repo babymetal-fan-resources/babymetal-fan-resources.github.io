@@ -59,3 +59,17 @@
     part-of:
       postx: 1961800272470266363
 
+- update:
+    show:
+      year: 2025
+      id: seikimaiivsbabymetalencounter
+    date: 2025-10-12
+    text:
+    - The shows to get a delay viewing in theater, and be broadcasted on Wowow
+    part-of:
+      localimage:
+        show:
+          year: 2025
+          id: seikimaiivsbabymetalencounter
+        id: cover
+

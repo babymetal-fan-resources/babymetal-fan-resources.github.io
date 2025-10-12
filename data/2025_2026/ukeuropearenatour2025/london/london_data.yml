@@ -1,0 +1,70 @@
+- postx:
+    id: 1975848649172349243
+    account: BABYMETAL_JAPAN
+    label: Blu-ray & DVD announcement
+    published-date: 2025-10-08
+    text: |-
+      12.19(金)にロンドン・O2アリーナのライブ映像作品
+      Blu-ray & DVD「BABYMETAL - LIVE AT THE O2 ARENA」の発売が決定DEATH!!
+      各種ジャケット&購入特典ビジュアルを公開!!
+      https://babymetal.com/2025LIVEATTHEO2/
+      
+      💿ご予約はこちら
+      https://bio.to/O2ARENA_BD_DVD
+      
+      #BABYMETAL #METALFORTH #THEO2
+    translation: |-
+      The release of the live concert film from the London O2 Arena,
+      Blu-ray & DVD "BABYMETAL - LIVE AT THE O2 ARENA," on 12.19 (Fri) has been confirmed DEATH!!
+      The various jacket designs and purchase bonus visuals have been revealed!!
+      https://babymetal.com/2025LIVEATTHEO2/
+      
+      💿 Pre-order here
+      https://bio.to/O2ARENA_BD_DVD
+      
+      #BABYMETAL #METALFORTH #THEO2
+    image:
+    - G2uTRembIAIoSj5
+    - G2uXUy-bIAEh6vU
+    part-of:
+      show:
+        year: 2025
+        id: london
+
+- postximage:
+    post: 1975848649172349243
+    id: G2uTRembIAIoSj5
+    label: Blu-ray / DVD
+    published-date: 2025-10-08
+    context:
+    - show:
+        year: 2025
+        id: london
+    part-of:
+      postx: 1975848649172349243
+
+- postximage:
+    post: 1975848649172349243
+    id: G2uXUy-bIAEh6vU
+    label: Blu-ray / DVD
+    info: bonus
+    published-date: 2025-10-08
+    context:
+    - show:
+        year: 2025
+        id: london
+    part-of:
+      postx: 1975848649172349243
+
+- update:
+    show:
+      year: 2025
+      id: london
+    date: 2025-10-12
+    text:
+    - Blu-ray & DVD announcement
+    part-of:
+      show:
+        year: 2025
+        id: london
+

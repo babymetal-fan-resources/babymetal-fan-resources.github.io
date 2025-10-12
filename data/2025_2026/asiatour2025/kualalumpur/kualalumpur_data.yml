@@ -13,6 +13,22 @@
         year: 2025
         id: kualalumpur
 
+- postx:
+    id: 1975205693725839694
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-10-12
+    text: |-
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 IN ASIA" in Kuala Lumpur !!!🌴
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #Malaysia #METALFORTH
+    image:
+    - G2lW4goWoAASZJP
+    part-of:
+      show:
+        year: 2025
+        id: kualalumpur
+
 - postximage:
     post: 1973311939423142152
     id: G2J8HrYaIAM5PNe
@@ -37,6 +53,18 @@
     part-of:
       postx: 1973311939423142152
 
+- postximage:
+    post: 1975205693725839694
+    id: G2lW4goWoAASZJP
+    label: At the venue
+    published-date: 2025-10-06
+    context:
+    - show:
+        year: 2025
+        id: kualalumpur
+    part-of:
+      postx: 1975205693725839694
+
 - update:
     show:
       year: 2025
@@ -44,6 +72,18 @@
     date: 2025-09-14
     text:
     - METALVERSE announced as opening act
+    part-of:
+      show:
+        year: 2025
+        id: kualalumpur
+
+- update:
+    show:
+      year: 2025
+      id: kualalumpur
+    date: 2025-10-12
+    text:
+    - Official image from the show
     part-of:
       show:
         year: 2025

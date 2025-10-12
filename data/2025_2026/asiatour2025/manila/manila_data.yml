@@ -1,3 +1,44 @@
+- postx:
+    id: 1974848421229142522
+    account: BABYMETAL_JAPAN
+    label: Merch
+    published-date: 2025-10-05
+    text: |-
+      “BABYMETAL WORLD TOUR 2025-2026 IN ASIA -MANILA“ Merchandise Pre-sales Announcement🪩
+      https://babymetal.com/2026ManilaMerch/
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 296442
+    reference:
+    - webimage:
+        domain: babymetal.com
+        page: 296442
+        id: merch
+    - webimage:
+        domain: babymetal.com
+        page: 296442
+        id: merch-pre-sale
+
+- postx:
+    id: 1975967860074983651
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-10-08
+    text: |-
+      Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 IN ASIA" in Manila !!!🥭
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #Philippine #Manila #METALFORTH
+    image:
+    - G2wKjwlbMAAVjrm
+    - G2wMDxPaAAM9vXu
+    part-of:
+      show:
+        year: 2025
+        id: manila
+
 - postximage:
     post: 1927545228505862530
     id: GsAEHwwXIAEk3V7
@@ -13,6 +54,30 @@
         year: 2025
         id: manila
 
+- postximage:
+    post: 1975967860074983651
+    id: G2wKjwlbMAAVjrm
+    label: At the venue
+    published-date: 2025-10-12
+    context:
+    - show:
+        year: 2025
+        id: manila
+    part-of:
+      postx: 1975967860074983651
+
+- postximage:
+    post: 1975967860074983651
+    id: G2wMDxPaAAM9vXu
+    label: Venue
+    published-date: 2025-10-08
+    context:
+    - show:
+        year: 2025
+        id: manila
+    part-of:
+      postx: 1975967860074983651
+
 - update:
     show:
       year: 2025
@@ -24,4 +89,96 @@
       show:
         year: 2025
         id: manila
+
+- update:
+    show:
+      year: 2025
+      id: manila
+    date: 2025-10-12
+    text:
+    - Official images from the show
+    part-of:
+      show:
+        year: 2025
+        id: manila
+
+- webimage:
+    domain: babymetal.com
+    page: 296442
+    id: merch
+    label: Merch
+    published-date: 2025-10-05
+    url: 'https://babymetal.com/contents/1/TO/251005_babymetal_wt25AsiaMerch_MNL_productmenu.jpg'
+    context:
+    - show:
+        year: 2025
+        id: manila
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 296442
+
+- webimage:
+    domain: babymetal.com
+    page: 296442
+    id: merch-pre-sale
+    label: Merch
+    published-date: 2025-10-05
+    url: 'https://babymetal.com/contents/1/TO/251005_babymetal_wt25AsiaMerch_MNL_presales_details.jpg'
+    context:
+    - show:
+        year: 2025
+        id: manila
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 296442
+
+- webimage:
+    domain: babymetal.com
+    page: 296474
+    id: merch-on-site
+    label: Merch
+    published-date: 2025-10-06
+    url: 'https://babymetal.com/contents/1/TO/251006_babymetal_wt25AsiaMerch_MNL_onsite_salesdetails.jpg'
+    context:
+    - show:
+        year: 2025
+        id: manila
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 296474
+
+- webpage:
+    domain: babymetal.com
+    id: 296442
+    label: Merch pre-sale announcement
+    published-date: 2025-10-05
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=296442'
+    image:
+    - merch
+    - merch-pre-sale
+    part-of:
+      show:
+        year: 2025
+        id: manila
+
+- webpage:
+    domain: babymetal.com
+    id: 296474
+    label: Merch on-site announcement
+    published-date: 2025-10-06
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=296474'
+    image:
+    - merch-on-site
+    part-of:
+      show:
+        year: 2025
+        id: manila
+    reference:
+    - webimage:
+        domain: babymetal.com
+        page: 296442
+        id: merch
 

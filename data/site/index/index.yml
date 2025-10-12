@@ -52,6 +52,9 @@ contentpage:
   - show:
       year: 2025
       id: specialarenashowusa
+  - media:
+      year: 2025
+      id: metaradi1011
   - show:
       year: 2025
       id: manila

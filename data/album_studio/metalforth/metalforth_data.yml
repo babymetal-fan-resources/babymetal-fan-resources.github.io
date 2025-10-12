@@ -1,10 +1,92 @@
-postximage:
-  post: 1906725673450037384
-  id: GnWBzbdbgAA2zuP
-  label: cover image
-  published-date: 2025-04-01
-  local-copy: true
-  context:
-  - album: metalforth
-  part-of:
-    album: metalforth
+- postx:
+    id: 1976477139747864886
+    account: BABYMETAL_JAPAN
+    label: For your consideration
+    published-date: 2025-10-10
+    text: |-
+      For your consideration 
+      @RecordingAcad
+       🦊🖤
+      
+      METAL FORTH presents a new style of heavy metal created in collaboration with a new generation of friends encountered across the globe: #Poppy 
+      @ElectricCallboy
+       
+      @STPmetal
+       
+      @Bloodywood2
+       
+      @polyphia
+       
+      @spiritboxband
+       
+      @tmorello
+       
+      
+      Thank you for your continued support🖤
+    image:
+    - G23Zu2dasAA8jBQ
+    part-of:
+      album: metalforth
+
+- postx:
+    id: 1977011694624030820
+    account: BABYMETAL_JAPAN
+    label: For your consideration
+    published-date: 2025-10-11
+    text: |-
+      For your consideration 
+      @RecordingAcad
+       🦊🖤
+      
+      METAL FORTH presents a new style of heavy metal created in collaboration with a new generation of friends encountered across the globe: #Poppy 
+      @ElectricCallboy
+       
+      @STPmetal
+       
+      @Bloodywood2
+       
+      @polyphia
+       
+      @spiritboxband
+       
+      @tmorello
+      
+      
+      Thank you for your continued support🖤
+    video:
+    - 01
+    part-of:
+      album: metalforth
+
+- postximage:
+    post: 1906725673450037384
+    id: GnWBzbdbgAA2zuP
+    label: cover image
+    published-date: 2025-04-01
+    local-copy: true
+    context:
+    - album: metalforth
+    part-of:
+      album: metalforth
+
+- postximage:
+    post: 1976477139747864886
+    id: G23Zu2dasAA8jBQ
+    label: Flyer
+    published-date: 2025-10-10
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1976477139747864886
+
+- postxvideo:
+    post: 1977011694624030820
+    id: 01
+    label: Showcase
+    published-date: 2025-10-12
+    cover: 1977010932552548361/img/JRyRTz3ZNe8wBbX1.jpg
+    context:
+    - album: metalforth
+    part-of:
+      postx: 1977011694624030820
+

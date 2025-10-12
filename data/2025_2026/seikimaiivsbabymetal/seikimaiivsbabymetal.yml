@@ -93,6 +93,106 @@
         id: seikimaiivsbabymetal
         group: 2025_2026
 
+- postx:
+    id: 1975486264242549098
+    account: BABYMETAL_JAPAN
+    label: Delayed viewing in theater
+    published-date: 2025-10-07
+    text: |-
+      聖飢魔II vs BABYMETAL「悪魔が来たりてベビメタる」
+      ディレイ・ヴューイング 開催決定!!🎞️
+      
+      🎦日時
+      ① DAY.1：遭遇-Encounter-
+      魔暦27(2025) 12.21(日) 16:00上映開始
+      魔暦27(2025) 12.22(月) 19:00上映開始
+      ② DAY.2：衝撃-Impact-
+      魔暦28(2026) 1.30(金) 19:00上映開始
+      魔暦28(2026) 1.31(土) 16:00上映開始
+      ※各回、定刻より本編の上映開始となります
+      
+      🍿会場：全国各地の映画館
+      
+      🔽詳細はこちら
+      https://liveviewing.jp/seikimaii-vs-babymetal/
+      
+      #BABYMETAL #聖飢魔II 
+      @Live_Viewing_jp
+    translation: |-
+      SEIKIMA-II vs BABYMETAL "Akuma ga Kitarite BABYMETALu"
+      Delayed Viewing Event Confirmed!! 🎞️
+      
+      🎦 Date & Time
+      ① DAY.1: Encounter -Encounter-
+      Demon Calendar 27 (2025) 12.21 (Sun) Screening starts 16:00
+      Demon Calendar 27 (2025) 12.22 (Mon) Screening starts 19:00
+      ② DAY.2: Impact -Impact-
+      Demon Calendar 28 (2026) 1.30 (Fri) Screening starts 19:00
+      Demon Calendar 28 (2026) 1.31 (Sat) Screening starts 16:00
+      *For each showing, the main feature will start at the specified time
+      
+      🍿 Venue: Movie theaters across Japan
+      
+      🔽Details here
+      https://liveviewing.jp/seikimaii-vs-babymetal/
+      
+      #BABYMETAL #SEIKIMAII
+      @Live_Viewing_jp
+    image:
+    - G2pG0ztasAArF3A
+    part-of:
+      group:
+        id: seikimaiivsbabymetal
+        group: 2025_2026
+
+- postx:
+    id: 1975486624369914368
+    account: wowow_mj
+    label: Wowow broadcast
+    info: image for other show
+    published-date: 2025-10-07
+    text: |-
+      ／
+      #聖飢魔II 期間限定再集結の
+      大黒ミサツアーファイナル公演
+      11月にWOWOWで生中継決定🔥
+      ＼
+      
+      さらに😈🦊
+      #BABYMETAL との世紀のダブルヘッドライン
+      2DAYSを両日独占放送＆配信DEATH🤘🦊🤘
+      
+      【3カ月連続！聖飢魔Ⅱ特集】
+      ラインナップ👇
+      https://wowow.co.jp/music/seikima-ii/?utm_source=twitter_music&utm_medium=social&utm_campaign=251007_twmj_0093
+      
+      @seikima_ii40th
+       
+      @BABYMETAL_JAPAN
+    translation: |-
+      /
+      WOWOW to broadcast the SEIKIMA-II limited-time reunion's
+      Taikyo Misa (Grand Black Mass) tour final performance live in November 🔥
+      /
+      
+      Furthermore 😈🦊
+      The monumental double-headline 2-day event with BABYMETAL
+      will be exclusively broadcast and streamed on both days DEATH 🤘🦊🤘
+      
+      【3-Month Consecutive! SEIKIMA-II Feature】
+      Lineup 👇
+      https://wowow.co.jp/music/seikima-ii/?utm_source=twitter_music&utm_medium=social&utm_campaign=251007_twmj_0093
+      
+      @seikima_ii40th
+      
+      @BABYMETAL_JAPAN
+    image:
+    - G2pWm6NbIAIBmrv
+    part-of:
+      group:
+        id: seikimaiivsbabymetal
+        group: 2025_2026
+
 - postximage:
     post: 1959903583710970221
     id: GzLqGXZbYAAPuYv
@@ -163,6 +263,38 @@
         id: seikimaiivsbabymetalimpact
     part-of:
       postx: 1968149409964662848
+
+- postximage:
+    post: 1975486264242549098
+    id: G2pG0ztasAArF3A
+    label: Poster
+    info: Delay viewing
+    published-date: 2025-10-07
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+    part-of:
+      postx: 1975486264242549098
+
+- postximage:
+    post: 1975486624369914368
+    id: G2pWm6NbIAIBmrv
+    label: Poster
+    info: Wowow broadcast
+    published-date: 2025-10-12
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+    part-of:
+      postx: 1975486624369914368
 
 - postxvideo:
     post: 1961613543176065283

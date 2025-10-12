@@ -12,3 +12,15 @@ show:
   event-page: 'https://www.ticketnet.com.ph/event-detail/BABYMETALMNL2025'
   part-of:
     tour: asiatour2025
+  multimedia:
+    main:
+      postximage:
+        post: 1975967860074983651
+        image: G2wMDxPaAAM9vXu
+    image:
+    - postximage:
+        post: 1975967860074983651
+        image: G2wMDxPaAAM9vXu
+    - postximage:
+        post: 1975967860074983651
+        image: G2wKjwlbMAAVjrm
