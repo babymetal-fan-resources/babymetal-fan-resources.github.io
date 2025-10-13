@@ -14,8 +14,7 @@ class ElementContentPage(
     override val elementContent: ElementContent,
     override val index: Int,
     labels: fr.page.Labels,
-) // TODO: move up to FR
-    extends MainSitePage
+) extends MainSitePage
     with fr.page.ElementContentPage {
 
   override val pageConfiguration: fr.page.MainSitePageConfiguration = {
