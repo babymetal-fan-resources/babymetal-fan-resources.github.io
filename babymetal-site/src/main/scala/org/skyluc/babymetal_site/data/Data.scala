@@ -34,10 +34,6 @@ object Data {
     LocalAssetExistsChecker(staticFolderPath),
   )
 
-  val editSupportContext = new EditSupportContext {
-    override def songAttributeDefinitions: Seq[fr.AttributeDefinition] = BabymetalSiteDecoders.songAttributeDefinitions
-    override def albumAttributeDefinitions: Seq[fr.AttributeDefinition] =
-      BabymetalSiteDecoders.albumAttributeDefinitions
-  }
+  val editSupportContext = new EditSupportContext with BabymetalDataContext {}
 
 }
