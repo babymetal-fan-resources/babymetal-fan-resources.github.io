@@ -1,3 +1,120 @@
+- lyrics:
+    id: main
+    song: getnosatisfied
+    part-of:
+      song: getnosatisfied
+    status:
+      code: danger
+      description: early data.
+    languages:
+    - id: ol
+      name: original lyrics
+      details: (from genious.com)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: genious.com
+        url: 'https://genius.com/Jam-project-get-no-satisfied-lyrics'
+    sections:
+    - lines:
+      - ol:
+        - Power to the people
+      - ol:
+        - 桁外れの剛腕 決めてやるぜ it's my turn
+    - lines:
+      - ol:
+        - 再び始まるこの展開 徒党組んで押し寄せる協会
+      - ol:
+        - ヤバミ全開 すでに限界 どうもこうもない だけど
+      - ol:
+        - Oh, oh, oh, oh, oh 勝敗は数じゃないぜ
+      - ol:
+        - Hi, hi, hi, hi, hi, showtime あげていこうぜ
+    - lines:
+      - ol:
+        - 天が与えし試練をすべて乗り越えてい
+      - ol:
+        - 炎の拳をかざせ
+    - lines:
+      - ol:
+        - 立ち向かうそれが hero どんな時も
+      - ol:
+        - 襲い来る 悪の monster ぶちのめす
+      - ol:
+        - さぁ motto (Motto), motto (Motto) 刺激をくれ
+      - ol:
+        - 足りないぜ no satisfied, yeah
+    - lines:
+      - ol:
+        - 誰よりも 誰よりも ただ強くあれ (Hey)
+      - ol:
+        - 舞い踊れ 舞い踊れ 破壊の空を (Hey)
+      - ol:
+        - いつだって いつだって
+      - ol:
+        - 一撃で決めろ one punch
+    - lines:
+      - ol:
+        - とめどなく這い出てくる怪人 逃げ惑い泣き叫ぶ都会人
+      - ol:
+        - 笑う獣人 挑む超人 勝つか負けるかだけど
+      - ol:
+        - Oh, oh, oh, oh, oh, finalは気愛次第
+      - ol:
+        - Hi, hi, hi, hi, hi, 鉄拳 叩き込んでやる
+    - lines:
+      - ol:
+        - 天が導く理想は終わりのない道のり
+      - ol:
+        - 人類[ヒト]の運命を背負い
+    - lines:
+      - ol:
+        - 越えてゆく それが hero どんな壁も
+      - ol:
+        - おぞましい 悪の monster 打ち砕く
+      - ol:
+        - さぁ motto (Motto), motto (Motto) 強い敵を
+      - ol:
+        - 足りないぜ no satisfied
+    - lines:
+      - ol:
+        - 掲げた旗のもと集いし者よ
+      - ol:
+        - 描いた夢抱いてゆけ
+    - lines:
+      - ol:
+        - Hey, wass up (Wass up)
+      - ol:
+        - So excited, get ready, yeah
+      - ol:
+        - Wass up (Wass up)
+      - ol:
+        - Here we go, get ready, fight
+    - lines:
+      - ol:
+        - 天が与えし試練をすべて乗り越えていく
+      - ol:
+        - 炎の拳をかざせ
+    - lines:
+      - ol:
+        - 立ち向かうそれが hero どんな時も
+      - ol:
+        - 襲い来る悪の monster ぶちのめす
+      - ol:
+        - さぁ motto (Motto), motto (Motto) 刺激をくれ
+      - ol:
+        - 足りないぜ no satisfied, yeah
+    - lines:
+      - ol:
+        - 誰よりも 誰よりも ただ強くあれ (Hey)
+      - ol:
+        - 舞い踊れ 舞い踊れ 破壊の空を (Hey)
+      - ol:
+        - いつだって いつだって
+      - ol:
+        - 一撃で決めろ one punch
+
 - update:
     song: getnosatisfied
     date: 2025-09-26
@@ -11,6 +128,14 @@
     date: 2025-10-04
     text:
     - Jacket cover revealed
+    part-of:
+      song: getnosatisfied
+
+- update:
+    song: getnosatisfied
+    date: 2025-10-13
+    text:
+    - Early version of the lyrics
     part-of:
       song: getnosatisfied
 

@@ -6,8 +6,8 @@ import org.skyluc.fan_resources.data.Path
 import org.skyluc.fan_resources.html as fr
 import org.skyluc.html.*
 
-import Html.*
 import fr.component.NavigationItem
+import Html.*
 
 object TitleGenerator extends fr.page.TitleGenerator {
   override def groupName: String = "BABYMETAL"
@@ -56,7 +56,7 @@ abstract class MainSitePage extends fr.page.MainSitePage {
         )
     )
 
-  override def footerContent(): Seq[BodyElement[?]] = fr.component.Footer.generate("the band NEK!")
+  override def footerContent(): Seq[BodyElement[?]] = fr.component.Footer.generate("BABYMETAL")
 
   override def javascriptFiles(): Seq[Path] = fr.page.MainSitePage.JAVASCRIPT_FILES
 
