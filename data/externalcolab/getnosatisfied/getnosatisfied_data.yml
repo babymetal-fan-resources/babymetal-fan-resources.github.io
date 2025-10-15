@@ -21,19 +21,33 @@
       - ol:
         - Power to the people
       - ol:
-        - 桁外れの剛腕 決めてやるぜ it's my turn
+        - 桁外れの剛腕
+      - ol:
+        - 決めてやるぜ
+      - ol:
+        - (It's my turn)
     - lines:
       - ol:
-        - 再び始まるこの展開 徒党組んで押し寄せる協会
+        - 再び始まるこの展開
       - ol:
-        - ヤバミ全開 すでに限界 どうもこうもない だけど
+        - 徒党組んで押し寄せる協会
       - ol:
-        - Oh, oh, oh, oh, oh 勝敗は数じゃないぜ
+        - ヤバミ全開 すでに限界
       - ol:
-        - Hi, hi, hi, hi, hi, showtime あげていこうぜ
+        - どうもこうもない だけど
+      - ol:
+        - (Woah, woah, woah, woah, woah!)
+      - ol:
+        - 勝敗は数じゃないぜ
+      - ol:
+        - (Hey, hey, hey, hey, hey!)
+      - ol:
+        - Showtime あげていこうぜ
     - lines:
       - ol:
-        - 天が与えし試練をすべて乗り越えてい
+        - 天が与えし試練を
+      - ol:
+        - すべて乗り越えていく
       - ol:
         - 炎の拳をかざせ
     - lines:
@@ -42,30 +56,44 @@
       - ol:
         - 襲い来る 悪の monster ぶちのめす
       - ol:
-        - さぁ motto (Motto), motto (Motto) 刺激をくれ
+        - さぁ motto (Motto!), motto (Motto!) 強い敵を
       - ol:
         - 足りないぜ no satisfied, yeah
     - lines:
       - ol:
-        - 誰よりも 誰よりも ただ強くあれ (Hey)
+        - 誰よりも 誰よりも
       - ol:
-        - 舞い踊れ 舞い踊れ 破壊の空を (Hey)
+        - ただ強くあれ (Hey!)
+      - ol:
+        - 舞い踊れ 舞い踊れ 
+      - ol:
+        - 破壊の空を (Hey!)
       - ol:
         - いつだって いつだって
       - ol:
-        - 一撃で決めろ one punch
+        - 一撃で決めろ (One-Punch!)
     - lines:
       - ol:
-        - とめどなく這い出てくる怪人 逃げ惑い泣き叫ぶ都会人
+        - とめどなく這い出てくる怪人
       - ol:
-        - 笑う獣人 挑む超人 勝つか負けるかだけど
+        - 逃げ惑い泣き叫ぶ都会人
       - ol:
-        - Oh, oh, oh, oh, oh, finalは気愛次第
+        - 笑う獣人 挑む hero
       - ol:
-        - Hi, hi, hi, hi, hi, 鉄拳 叩き込んでやる
+        - 勝つか負けるかだけど
+      - ol:
+        - (Woah, woah, woah, woah, woah!)
+      - ol:
+        - Final は気愛次第
+      - ol:
+        - (Hey, hey, hey, hey, hey!)
+      - ol:
+        - 鉄拳 叩き込んでやる
     - lines:
       - ol:
-        - 天が導く理想は終わりのない道のり
+        - 天が導く理想は
+      - ol:
+        - 終わりのない道のり
       - ol:
         - 人類[ヒト]の運命を背負い
     - lines:
@@ -74,26 +102,30 @@
       - ol:
         - おぞましい 悪の monster 打ち砕く
       - ol:
-        - さぁ motto (Motto), motto (Motto) 強い敵を
+        - さぁ motto (Motto!), motto (Motto!) 強い敵を
       - ol:
         - 足りないぜ no satisfied
     - lines:
       - ol:
-        - 掲げた旗のもと集いし者よ
+        - 掲げた旗のもと
+      - ol:
+        - 集いし者よ
       - ol:
         - 描いた夢抱いてゆけ
     - lines:
       - ol:
-        - Hey, wass up (Wass up)
+        - Hey! What's up? (What's up?)
       - ol:
-        - So excited, get ready, yeah
+        - So excited, get ready, yeah!
       - ol:
-        - Wass up (Wass up)
+        - What's up? (What's up?)
       - ol:
-        - Here we go, get ready, fight
+        - Here we go, get ready, fight!
     - lines:
       - ol:
-        - 天が与えし試練をすべて乗り越えていく
+        - 天が与えし試練を
+      - ol:
+        - すべて乗り越えていく
       - ol:
         - 炎の拳をかざせ
     - lines:
@@ -102,18 +134,21 @@
       - ol:
         - 襲い来る悪の monster ぶちのめす
       - ol:
-        - さぁ motto (Motto), motto (Motto) 刺激をくれ
+        - さぁ motto (Motto!), motto (Motto!) 強い敵を
       - ol:
         - 足りないぜ no satisfied, yeah
     - lines:
       - ol:
-        - 誰よりも 誰よりも ただ強くあれ (Hey)
+        - 誰よりも 誰よりも ただ強くあれ (Hey!)
       - ol:
-        - 舞い踊れ 舞い踊れ 破壊の空を (Hey)
+        - 舞い踊れ 舞い踊れ 破壊の空を (Hеy!)
       - ol:
         - いつだって いつだって
       - ol:
-        - 一撃で決めろ one punch
+        - 一撃で決めろ
+    - lines:
+      - ol:
+        - One-Punch!
 
 - postx:
     id: 1977392564530737451
