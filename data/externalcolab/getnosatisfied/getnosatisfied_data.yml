@@ -115,6 +115,55 @@
       - ol:
         - 一撃で決めろ one punch
 
+- postx:
+    id: 1977392564530737451
+    account: opm_anime
+    label: Available online/CD
+    info: also image of the cover of the ending theme song
+    published-date: 2025-10-12
+    text: |-
+      第3期OP/ED主題歌 本日より配信開始！👊
+      ぜひ、各楽曲をチェックしてください！
+      
+      👊OP主題歌「Get No Satisfied !」
+      配信サイト：https://lnk.to/LZC-3296
+      
+      👊ED主題歌「そこに有る灯り」
+      配信サイト：https://lnk.to/LZC-3293
+      
+      CD収録情報もHPで公開！👇
+      https://onepunchman-anime.net/goods/#cd
+      
+      #onepunchman
+    translation: |-
+      The Season 3 Opening/Ending theme songs are available for distribution starting today! 👊
+      Please be sure to check out each song!
+      
+      👊Opening Theme Song "Get No Satisfied !"
+      Distribution Site: https://lnk.to/LZC-3296
+      
+      👊Ending Theme Song "Soko ni Aru Akari" (The Light That Is There)
+      Distribution Site: https://lnk.to/LZC-3293
+      
+      CD recording information is also available on the official website! 👇
+      https://onepunchman-anime.net/goods/#cd
+      
+      #onepunchman
+    image:
+    - G25COnXaUAArfec
+    part-of:
+      song: getnosatisfied
+
+- postximage:
+    post: 1977392564530737451
+    id: G25COnXaUAArfec
+    label: Cover
+    published-date: 2025-10-15
+    context:
+    - song: getnosatisfied
+    part-of:
+      postx: 1977392564530737451
+
 - update:
     song: getnosatisfied
     date: 2025-09-26

@@ -1,0 +1,54 @@
+- postx:
+    id: 1978400481312399828
+    account: rockforpeople
+    label: Lineup reveal
+    published-date: 2025-10-15
+    text: |-
+      OZNAMUJEME DALŠÍ HEADLINERY #RockforPeople2026 - GORILLAZ & LIMP BIZKIT! 
+      K nim přidáváme Three Days Grace, Babymetal, Nothing But Thieves a další hvězdy! 🤩
+      
+      🎟️ VSTUPENKY V PRODEJI ▶️ https://rockforpeople.cz/tickets/.
+      
+      #jeduRFP #rockforpeople 
+      @gorillaz
+       
+      @limpbizkit
+       #gorillaz #limpbizkit
+    translation: |-
+      WE ANNOUNCE FURTHER HEADLINERS FOR #RockforPeople2026 - GORILLAZ & LIMP BIZKIT!
+      We are adding Three Days Grace, Babymetal, Nothing But Thieves, and other stars to the lineup! 🤩
+      
+      🎟️ TICKETS ON SALE ▶️ https://rockforpeople.cz/tickets/.
+      
+      #jeduRFP #rockforpeople
+      @gorillaz
+      @limpbizkit
+      #gorillaz #limpbizkit
+    image:
+    - G3Sv64bXQAAHpGY
+    part-of:
+      show:
+        year: 2026
+        id: rockforpeople
+
+- postximage:
+    post: 1978400481312399828
+    id: G3Sv64bXQAAHpGY
+    label: Lineup reveal
+    published-date: 2025-10-15
+    local-copy: true
+    part-of:
+      postx: 1978400481312399828
+
+- update:
+    show:
+      year: 2026
+      id: rockforpeople
+    date: 2025-10-15
+    text:
+    - BABYMETAL announced for Rock for People
+    part-of:
+      show:
+        year: 2026
+        id: rockforpeople
+

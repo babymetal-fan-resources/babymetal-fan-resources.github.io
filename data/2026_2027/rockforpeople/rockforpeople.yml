@@ -1,0 +1,15 @@
+show:
+  year: 2026
+  id: rockforpeople
+  cover-image:
+    postximage:
+      post: 1978400481312399828
+      image: G3Sv64bXQAAHpGY
+  fullname: Rock for People 2026
+  date: 2026-06-11
+  description:
+  - BABYMETAL joins the lineup for Rock for People 2026. The band's participation was officially announced on October 15.
+  venue: Park 360, Hradec Králové, Czechia
+  event-page: 'https://rockforpeople.cz/'
+  part-of:
+    group: 2026_2027
