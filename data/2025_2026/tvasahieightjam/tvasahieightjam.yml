@@ -1,0 +1,27 @@
+mediavideo:
+  year: 2025
+  id: tvasahieightjam
+  cover-image:
+    webimage:
+      domain: tv-asahi.co.jp
+      page: music-top
+      id: eightjam-logo
+  channel: tv asahi
+  show: EIGHT-JAM
+  designation: tv show
+  member:
+  - SU-METAL
+  - MOAMETAL
+  - MOMOMETAL
+  published-date: 2025-10-26
+  host: 森香澄 (Kasumi Mori), 高橋茂雄 (Shigeo Takahashi)
+  webpage: 'https://www.tv-asahi.co.jp/eightjam/'
+  part-of:
+    group: 2025_2026
+  description:
+  - BABYMETAL will be the main guest on TV Asahi's "EIGHT-JAM", on October 26.
+  multimedia:
+    main:
+      postximage:
+        post: 1979940586263400886
+        image: G3oir-RXUAAEgFo

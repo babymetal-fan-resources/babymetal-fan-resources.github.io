@@ -26,6 +26,8 @@ contentpage:
     label: Written Media
   - id: audiomedia
     label: Audio Media
+  - id: videomedia
+    label: Video Media
   - id: video
     label: Videos
   part-of:
@@ -42,6 +44,9 @@ contentpage:
       id: rockamring
   - show:
       year: 2026
+      id: swedenrock
+  - show:
+      year: 2026
       id: legendmetalforth2
   - show:
       year: 2026
@@ -52,6 +57,12 @@ contentpage:
   - show:
       year: 2025
       id: specialarenashowusa
+  - media:
+      year: 2025
+      id: tvasahieightjam
+  - media:
+      year: 2025
+      id: metaradi1018
   - media:
       year: 2025
       id: metaradi1011

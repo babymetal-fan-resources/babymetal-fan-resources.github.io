@@ -1,0 +1,55 @@
+- update:
+    show:
+      year: 2026
+      id: swedenrock
+    date: 2025-10-21
+    text:
+    - Added show
+    part-of:
+      show:
+        year: 2026
+        id: swedenrock
+
+- webimage:
+    domain: babymetal.com
+    page: 296975
+    id: bandposter
+    label: Band poster
+    published-date: 2025-10-21
+    url: 'https://babymetal.com/contents/1/TO/Sweden%20Rock2026.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: swedenrock
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 296975
+
+- webpage:
+    domain: babymetal.com
+    id: 296975
+    label: Announcement
+    published-date: 2025-10-21
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=296975'
+    image:
+    - bandposter
+    part-of:
+      show:
+        year: 2026
+        id: swedenrock
+
+- youtubevideo:
+    id: vGPDnWuxj3M
+    label: Lineup reveal
+    published-date: 2025-10-21
+    context:
+    - show:
+        year: 2026
+        id: swedenrock
+    part-of:
+      show:
+        year: 2026
+        id: swedenrock
+

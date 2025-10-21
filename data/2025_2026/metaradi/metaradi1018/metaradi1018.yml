@@ -1,0 +1,32 @@
+mediaaudio:
+  year: 2025
+  id: metaradi1018
+  cover-image:
+    postximage:
+      post: 1875488645987365238
+      image: GgcSW8pa8AEVKP3
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  designation: metaradi
+  member:
+  - MAH from SiM
+  published-date: 2025-10-18
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  program: 'https://www.tfm.co.jp/podcast/metaradi/'
+  webpage: 'https://tfm.co.jp/metaradi/'
+  part-of:
+    group:
+      id: metaradi
+      group: 2025_2026
+  multimedia:
+    main:
+      postximage:
+        post: 1979500868522405945
+        image: G3iZi29XEAA9eoA
+    image:
+    - postximage:
+        post: 1979500868522405945
+        image: G3iZi29XEAA9eoA
+    - postximage:
+        post: 1979500868522405945
+        image: G3iZi3IWUAA-X4E

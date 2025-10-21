@@ -1,0 +1,51 @@
+- postx:
+    id: 1979500868522405945
+    account: metaradi_tfm
+    label: MAH from SiM with the cutouts
+    published-date: 2025-10-18
+    text: |-
+      MAH METALこと #SiM #MAH さん！
+      3週に渡りメタルなお話を沢山ありがとうございました🎤📻
+      @MAHfromSiM
+       
+      
+      #BABYMETAL #TOKYOFM #メタラジ
+    translation: |-
+      MAH-METAL, also known as MAH from #SiM!
+      Thank you very much for all the metal talk over the course of three weeks 🎤📻
+      @MAHfromSiM
+      
+      #BABYMETAL #TOKYOFM #Metaradi
+    image:
+    - G3iZi29XEAA9eoA
+    - G3iZi3IWUAA-X4E
+    part-of:
+      media:
+        year: 2025
+        id: metaradi1018
+
+- postximage:
+    post: 1979500868522405945
+    id: G3iZi29XEAA9eoA
+    label: With the cut outs
+    published-date: 2025-10-21
+    context:
+    - media:
+        year: 2025
+        id: metaradi1018
+    part-of:
+      postx: 1979500868522405945
+
+- postximage:
+    post: 1979500868522405945
+    id: G3iZi3IWUAA-X4E
+    label: Signature
+    info: MAH from SiM
+    published-date: 2025-10-21
+    context:
+    - media:
+        year: 2025
+        id: metaradi1018
+    part-of:
+      postx: 1979500868522405945
+

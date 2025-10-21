@@ -1,0 +1,232 @@
+- display:
+    media:
+      year: 2025
+      id: tvasahieightjam
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: Description before the broadcast
+            subsections:
+            - textsubsection:
+                lines:
+                - line:
+                  - text: 今、世界を熱狂させているBABYMETALが登場!!
+                - line:
+                  - text: 今年5月、イギリス・ロンドンにあるO2アリーナで日本人アーティスト初の単独公演を開催したBABYMETAL。さらに、8月にリリースしたアルバムはアメリカ・ビルボードの総合アルバムチャートで日本人グループ史上初となるTOP10に入るという快挙を達成!!
+                - line:
+                  - text: 今夜はそんなBABYMETALの3人に加え、生みの親であるプロデューサー・KOBAMETALに結成時から振付指導をしてきたMIKIKOが世界中を熱狂させているヒミツを告白！さらに、ファンを公言している凛として時雨のピエール中野、楽曲制作に参加しているPaleduskのDAIDAI、そしてメンバーとも親交のあるOfficial髭男dism・小笹大輔がその魅力を熱く語る。
+                - line:
+                  - text: BABYMETALが世界的に活躍するアーティストになった軌跡KOBAMETALが行った世界戦略、レジェンドアーティストとの裏話など、滅多に日本にいないメンバーから貴重な証言が…！豪華ゲストとともにBABYMETALの魅力を徹底解剖します！
+            - textsubsection:
+                label: Machine translation
+                lines:
+                - line:
+                  - text: BABYMETAL, currently taking the world by storm, will appear!!
+                - line:
+                  - text: In May of this year, BABYMETAL held a solo concert at the O2 Arena in London, UK, becoming the first Japanese artist to do so. Furthermore, the album released in August achieved the remarkable feat of entering the Top 10 of the US Billboard's overall album chart, the first time in history for a Japanese group!!
+                - line:
+                  - text: Tonight, in addition to the three members of such a BABYMETAL, KOBAMETAL, the producer who created the band, and MIKIKO, who has been guiding their choreography since formation, will reveal the secrets behind why they are exciting the world! Furthermore, Pierre Nakano of Ling Tosite Sigure, who is an openly declared fan, DAIDAI of Paledusk, who participated in their song production, and Daisuke Ozasa of Official Hige Dandism, who is also friends with the members, will passionately discuss their appeal.
+                - line:
+                  - text: The trajectory of BABYMETAL becoming globally active artists, the global strategy executed by KOBAMETAL, behind-the-scenes stories with legendary artists, and more, will feature precious testimonies from the members, who are rarely in Japan...! Together with the luxurious guests, we will thoroughly dissect the appeal of BABYMETAL!
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 1979940586263400886
+                    image: G3oir-RXUAAEgFo
+                - webimage:
+                    domain: tv-asahi.co.jp
+                    page: eightjam-next-20251026
+                    id: am9AGDFEAV
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: tv-asahi.co.jp
+                    page: eightjam-next-20251026
+                    id: kudbVda946
+                - webimage:
+                    domain: tv-asahi.co.jp
+                    page: eightjam-next-20251026
+                    id: IAvxJRIiJe
+    part-of:
+      media:
+        year: 2025
+        id: tvasahieightjam
+
+- postx:
+    id: 1979940586263400886
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2025-10-19
+    text: |-
+      テレビ朝日系「EIGHT-JAM」に出演決定DEATH!!🦊
+      📺OA：10.26(日)23:15〜
+      https://tv-asahi.co.jp/eightjam/
+      
+      #BABYMETAL #EIGHTJAM 
+      @EIGHTJAMtvasahi
+       
+      @tv_asahi_PR
+       
+      @sigure_official
+       
+      @daidai_PD
+    translation: |-
+      Appearance on TV Asahi's "EIGHT-JAM" confirmed DEATH!! 🦊
+      📺 On Air: 10.26 (Sun) 23:15〜
+      https://tv-asahi.co.jp/eightjam/
+      
+      #BABYMETAL #EIGHTJAM
+      @EIGHTJAMtvasahi
+      
+      @tv_asahi_PR
+      
+      @sigure_official
+      
+      @daidai_PD
+    image:
+    - G3oir-RXUAAEgFo
+    part-of:
+      media:
+        year: 2025
+        id: tvasahieightjam
+
+- postximage:
+    post: 1979940586263400886
+    id: G3oir-RXUAAEgFo
+    label: On set
+    info: ピエール中野, BABYMETAL, DAIDAI
+    published-date: 2025-10-19
+    context:
+    - media:
+        year: 2025
+        id: tvasahieightjam
+    todo: list peoples in picture
+    part-of:
+      postx: 1979940586263400886
+
+- update:
+    media:
+      year: 2025
+      id: tvasahieightjam
+    date: 2025-10-21
+    text:
+    - Added TV show
+    part-of:
+      media:
+        year: 2025
+        id: tvasahieightjam
+
+- webimage:
+    domain: tv-asahi.co.jp
+    page: eightjam-next-20251026
+    id: IAvxJRIiJe
+    label: The panel
+    published-date: 2025-10-19
+    url: 'https://www.tv-asahi.co.jp/eightjam/backnumber/0074/images/IAvxJRIiJe.jpg'
+    context:
+    - media:
+        year: 2025
+        id: tvasahieightjam
+    part-of:
+      webpage:
+        domain: tv-asahi.co.jp
+        id: eightjam-next-20251026
+
+- webimage:
+    domain: tv-asahi.co.jp
+    page: eightjam-next-20251026
+    id: am9AGDFEAV
+    label: On set
+    info: BABYMETAL, ピエール中野, DAIDAI
+    published-date: 2025-10-19
+    url: 'https://www.tv-asahi.co.jp/eightjam/backnumber/0074/images/am9AGDFEAV.jpg'
+    context:
+    - media:
+        year: 2025
+        id: tvasahieightjam
+    part-of:
+      webpage:
+        domain: tv-asahi.co.jp
+        id: eightjam-next-20251026
+
+- webimage:
+    domain: tv-asahi.co.jp
+    page: eightjam-next-20251026
+    id: iMCMSULyPJ
+    label: On set
+    info: BABYMETAL
+    published-date: 2025-10-19
+    url: 'https://www.tv-asahi.co.jp/eightjam/backnumber/0074/images/iMCMSULyPJ.jpg'
+    context:
+    - media:
+        year: 2025
+        id: tvasahieightjam
+    part-of:
+      webpage:
+        domain: tv-asahi.co.jp
+        id: eightjam-next-20251026
+
+- webimage:
+    domain: tv-asahi.co.jp
+    page: eightjam-next-20251026
+    id: kudbVda946
+    label: The panel
+    published-date: 2025-10-19
+    url: 'https://www.tv-asahi.co.jp/eightjam/backnumber/0074/images/kudbVda946.jpg'
+    context:
+    - media:
+        year: 2025
+        id: tvasahieightjam
+    part-of:
+      webpage:
+        domain: tv-asahi.co.jp
+        id: eightjam-next-20251026
+
+- webimage:
+    domain: tv-asahi.co.jp
+    page: music-top
+    id: eightjam-logo
+    label: Logo
+    published-date: 2025-10-19
+    url: 'https://www.tv-asahi.co.jp/eightjam/poster.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: tv-asahi.co.jp
+        id: music-top
+
+- webpage:
+    domain: tv-asahi.co.jp
+    id: eightjam-next-20251026
+    label: Eight Jam main page, with information about upcoming show with BABYMETAL
+    published-date: 2025-10-19
+    url: 'https://www.tv-asahi.co.jp/eightjam/'
+    image:
+    - IAvxJRIiJe
+    - am9AGDFEAV
+    - iMCMSULyPJ
+    - kudbVda946
+    todo: check after the broadcast. It might become an article
+    part-of:
+      media:
+        year: 2025
+        id: tvasahieightjam
+
+- webpage:
+    domain: tv-asahi.co.jp
+    id: music-top
+    label: music related content
+    published-date: 2025-10-19
+    url: 'https://www.tv-asahi.co.jp/music-top/'
+    image:
+    - eightjam-logo
+    part-of:
+      media:
+        year: 2025
+        id: tvasahieightjam
+
