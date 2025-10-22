@@ -305,3 +305,19 @@
     part-of:
       postx: 1961613543176065283
 
+- youtubevideo:
+    id: E0_-Ti79wWc
+    label: Teaser
+    published-date: 2025-04-15
+    context:
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalencounter
+    - show:
+        year: 2025
+        id: seikimaiivsbabymetalimpact
+    part-of:
+      group:
+        id: seikimaiivsbabymetal
+        group: 2025_2026
+

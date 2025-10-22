@@ -182,3 +182,17 @@
         page: 296442
         id: merch
 
+- youtubevideo:
+    id: lH3YIXsRvV4
+    label: After Movie
+    info: from the production company
+    published-date: 2025-10-09
+    context:
+    - show:
+        year: 2025
+        id: manila
+    part-of:
+      show:
+        year: 2025
+        id: manila
+

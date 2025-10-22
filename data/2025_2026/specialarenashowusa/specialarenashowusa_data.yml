@@ -53,6 +53,36 @@
         year: 2025
         id: specialarenashowusa
 
+- postx:
+    id: 1973705616440074724
+    account: Live_Viewing_jp
+    label: Live viewing merch
+    published-date: 2025-10-03
+    text: |-
+      【🎦生中継】
+      「BABYMETAL 子狐アクリルキーホルダー&ピクチャーチケット」
+      画像はこちら🔥
+      
+      ※画像はイメージです。実際の商品とは仕様や色味が若干異なる場合がございます。
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026
+      #ライブビューイング
+    translation: |-
+      【🎦 Live Broadcast】
+      "BABYMETAL Kogitsune (Little Fox) Acrylic Key Holder & Picture Ticket"
+      Image here 🔥
+      
+      *Image is an illustration. The actual product's specifications and colors may differ slightly.
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026
+      #LiveViewing
+    image:
+    - G2QCk-faYAAWXp8
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
 - postximage:
     post: 1973342131692745107
     id: G2KkXYFaIAY_zoq
@@ -64,6 +94,18 @@
         id: specialarenashowusa
     part-of:
       postx: 1973342131692745107
+
+- postximage:
+    post: 1973705616440074724
+    id: G2QCk-faYAAWXp8
+    label: Live viewing mech
+    published-date: 2025-10-02
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1973705616440074724
 
 - youtubeshort:
     id: Vu1m40iw7yM
