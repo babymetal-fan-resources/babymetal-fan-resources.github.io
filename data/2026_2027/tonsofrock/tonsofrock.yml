@@ -1,0 +1,27 @@
+show:
+  year: 2026
+  id: tonsofrock
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 297294
+      id: bandcover
+  fullname: Tons of Rock
+  sublabel: Oslo, Norway
+  date: 2026-06-24
+  description:
+  - BABYMETAL will perform at Tons of Rock 2026. The band was revealed as part of a lineup announcement on October 28.
+  venue: Olso, Norway
+  event-page: 'https://www.tonsofrock.no/en'
+  part-of:
+    group: 2026_2027
+  multimedia:
+    video:
+    - youtubevideo: zQzug17eOUE
+    image:
+    - postinstagramimage:
+        post: DQWNpCFjeVn
+        image: 06
+    - postinstagramimage:
+        post: DQWNpCFjeVn
+        image: 01

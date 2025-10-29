@@ -200,6 +200,77 @@
         domain: tv-asahi.co.jp
         id: music-top
 
+- webimage:
+    domain: tv-asahi.co.jp
+    page: post-592990
+    id: 593006
+    label: On set
+    published-date: 2025-10-26
+    url: 'https://post.tv-asahi.co.jp/wp-content/uploads/2025/10/L_MMK_0550.jpg'
+    page-url: 'https://post.tv-asahi.co.jp/post-592990/images/593006/'
+    context:
+    - media:
+        year: 2025
+        id: tvasahieightjam
+    part-of:
+      webpage:
+        domain: tv-asahi.co.jp
+        id: post-592990
+
+- webimage:
+    domain: tv-asahi.co.jp
+    page: post-594736
+    id: 594744
+    label: On set
+    published-date: 2025-10-27
+    url: 'https://post.tv-asahi.co.jp/wp-content/uploads/2025/10/1026_1.jpg'
+    page-url: 'https://post.tv-asahi.co.jp/post-594736/images/594744/'
+    context:
+    - media:
+        year: 2025
+        id: tvasahieightjam
+    todo: list people
+    part-of:
+      webpage:
+        domain: tv-asahi.co.jp
+        id: post-594736
+
+- webimage:
+    domain: tv-asahi.co.jp
+    page: post-594736
+    id: 594745
+    label: On stage
+    published-date: 2025-10-29
+    url: 'https://post.tv-asahi.co.jp/wp-content/uploads/2025/10/1026_3.jpg'
+    page-url: 'https://post.tv-asahi.co.jp/post-594736/images/594745/'
+    context:
+    - media:
+        year: 2025
+        id: tvasahieightjam
+    todo: list people
+    part-of:
+      webpage:
+        domain: tv-asahi.co.jp
+        id: post-594736
+
+- webimage:
+    domain: tv-asahi.co.jp
+    page: post-594736
+    id: 594746
+    label: On set
+    info: SU-METAL
+    published-date: 2025-10-27
+    url: 'https://post.tv-asahi.co.jp/wp-content/uploads/2025/10/1026_2.jpg'
+    page-url: 'https://post.tv-asahi.co.jp/post-594736/images/594746'
+    context:
+    - media:
+        year: 2025
+        id: tvasahieightjam
+    part-of:
+      webpage:
+        domain: tv-asahi.co.jp
+        id: post-594736
+
 - webpage:
     domain: tv-asahi.co.jp
     id: eightjam-next-20251026
@@ -225,6 +296,35 @@
     url: 'https://www.tv-asahi.co.jp/music-top/'
     image:
     - eightjam-logo
+    part-of:
+      media:
+        year: 2025
+        id: tvasahieightjam
+
+- webpage:
+    domain: tv-asahi.co.jp
+    id: post-592990
+    label: Pre-broadcast article
+    published-date: 2025-10-26
+    url: 'https://post.tv-asahi.co.jp/post-592990/'
+    image:
+    - 593006
+    part-of:
+      media:
+        year: 2025
+        id: tvasahieightjam
+
+- webpage:
+    domain: tv-asahi.co.jp
+    id: post-594736
+    label: Post-broadcast article
+    published-date: 2025-10-27
+    url: 'https://post.tv-asahi.co.jp/post-594736/'
+    image:
+    - 594744
+    - 594745
+    - 594746
+    todo: fully process
     part-of:
       media:
         year: 2025

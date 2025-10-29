@@ -21,3 +21,8 @@ song:
   wiki: 'https://babymetal.fandom.com/wiki/Sunset_Kiss'
   part-of:
     album: metalforth
+  multimedia:
+    main:
+      youtubevideo: GCMbwc0ZNfE
+    live:
+    - youtubevideo: GCMbwc0ZNfE

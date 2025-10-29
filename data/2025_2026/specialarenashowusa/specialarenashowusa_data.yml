@@ -83,6 +83,76 @@
         year: 2025
         id: specialarenashowusa
 
+- postx:
+    id: 1982643417068028331
+    account: BABYMETAL_JAPAN
+    label: Popup announcement
+    published-date: 2025-10-27
+    text: |-
+      BABYMETAL’s FIRST EVER POP-UP STORE IN LOS ANGELES!🏝️
+      🔗https://babymetal.com/LAPOPUP2025/
+      
+      [Dates]October 31st - November 2nd, 2025
+      [Opening Hours] 10:00 AM - 6:00 PM *Closes at 4:00 PM on the last day
+      [Location] To be announced soon
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 297228
+    reference:
+    - webimage:
+        domain: babymetal.com
+        page: 297228
+        id: popup01
+    - webimage:
+        domain: babymetal.com
+        page: 297228
+        id: popupmedia01
+    - webimage:
+        domain: babymetal.com
+        page: 297228
+        id: popupmerch01
+
+- postx:
+    id: 1982734262618181955
+    account: Live_Viewing_jp
+    label: Live viewing merch
+    published-date: 2025-10-27
+    text: |-
+      ＼\グッズ情報🦊/／
+       #BABYMETAL WORLD TOUR 2025-2026
+      SPECIAL ARENA SHOW IN US INTUITDOME
+      LIVE VIEWING
+      
+      映画館限定デザインのTシャツが販売決定🎊
+      ぜひお買い求めください！
+      
+      🎫一般発売
+      【生中継】10/28 (火) 20:00~
+      【ディレイ】11/3 (月/祝) 13:00~
+      
+      ▼詳細はこちら
+      https://liveviewing.jp/babymetal-liveinla/
+    translation: |-
+      ＼\ Goods Information 🦊/／
+      #BABYMETAL WORLD TOUR 2025-2026
+      SPECIAL ARENA SHOW IN US INTUIT DOME
+      LIVE VIEWING
+      
+      T-shirts with a movie theater exclusive design will be sold 🎊
+      Please be sure to purchase them!
+      
+      🎫 General Sale
+      【Live Broadcast】 10/28 (Tue) 20:00~
+      【Delayed Broadcast】 11/3 (Mon/Holiday) 13:00~
+      
+      ▼ Details here
+      https://liveviewing.jp/babymetal-liveinla/
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
 - postximage:
     post: 1973342131692745107
     id: G2KkXYFaIAY_zoq
@@ -107,6 +177,110 @@
     part-of:
       postx: 1973705616440074724
 
+- postximage:
+    post: 1982734262618181955
+    id: G4PXWmtXUAA57xl
+    label: Live viewing merch
+    published-date: 2025-10-27
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1982734262618181955
+
+- webimage:
+    domain: babymetal.com
+    page: 297195
+    id: merch
+    label: Merch
+    published-date: 2025-10-26
+    url: 'https://babymetal.com/contents/1/TO/BM_US_INTUITDOME_sns_1024_ol.jpg'
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 297195
+
+- webimage:
+    domain: babymetal.com
+    page: 297228
+    id: popup01
+    label: Pop-up poster
+    published-date: 2025-10-27
+    url: 'https://babymetal.com/contents/1/TO/socialmedia_popup01.jpg'
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 297228
+
+- webimage:
+    domain: babymetal.com
+    page: 297228
+    id: popupmedia01
+    label: Pop-up items
+    published-date: 2025-10-27
+    url: 'https://babymetal.com/contents/1/TO/socialmedia_popup03media.jpg'
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 297228
+
+- webimage:
+    domain: babymetal.com
+    page: 297228
+    id: popupmerch01
+    label: Pop-up items
+    published-date: 2025-10-27
+    url: 'https://babymetal.com/contents/1/TO/socialmedia_popup02merch.jpg'
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 297228
+
+- webpage:
+    domain: babymetal.com
+    id: 297195
+    label: Merch
+    published-date: 2025-10-28
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=297195'
+    image:
+    - merch
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- webpage:
+    domain: babymetal.com
+    id: 297228
+    label: Pop-up announcement
+    published-date: 2025-10-27
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=297228'
+    image:
+    - popup01
+    - popupmedia01
+    - popupmerch01
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
 - youtubeshort:
     id: Vu1m40iw7yM
     label: Trailer
@@ -116,6 +290,20 @@
     - show:
         year: 2025
         id: specialarenashowusa
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- youtubeshort:
+    id: jqUmLn54mzE
+    label: Teaser
+    published-date: 2025-10-29
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    - song: myqueen
     part-of:
       show:
         year: 2025

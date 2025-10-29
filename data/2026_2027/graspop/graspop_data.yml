@@ -1,0 +1,42 @@
+- update:
+    show:
+      year: 2026
+      id: graspop
+    date: 2025-10-29
+    text:
+    - Added the show
+    part-of:
+      show:
+        year: 2026
+        id: graspop
+
+- webimage:
+    domain: babymetal.com
+    page: 297146
+    id: lineup01
+    label: Lineup reveal
+    published-date: 2025-10-29
+    url: 'https://babymetal.com/contents/1/TO/GMM26_IG_4x5_headliners_20june_2[12].jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: graspop
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 297146
+
+- webpage:
+    domain: babymetal.com
+    id: 297146
+    label: Announcement
+    published-date: 2025-10-30
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=297146'
+    image:
+    - lineup01
+    part-of:
+      show:
+        year: 2026
+        id: graspop
+

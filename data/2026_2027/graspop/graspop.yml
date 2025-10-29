@@ -1,0 +1,18 @@
+show:
+  year: 2026
+  id: graspop
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 297146
+      id: lineup01
+  fullname: Graspop Metal Meeting
+  shortname: Graspop
+  sublabel: Dessel, Belgium
+  date: 2026-06-20
+  description:
+  - BABYMETAL will perform at Graspop Metal Meeting 2026. The band was revealed as part of a lineup announcement on October 29.
+  venue: Dessel, Belgium
+  event-page: 'https://www.graspop.be/en/'
+  part-of:
+    group: 2026_2027

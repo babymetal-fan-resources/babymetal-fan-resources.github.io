@@ -1,0 +1,112 @@
+- postinstagram:
+    id: DQWNpCFjeVn
+    account: tonsofrock
+    label: Lineup reveal
+    published-date: 2025-10-28
+    text: |-
+      Vi fyller på plakaten med 15 nye navn, i tillegg kan du nå også se hvilken dag dine yndlingsartister skal spille⏰
+      
+      💥YUNGBLUD💥THE OFFSPRING💥A PERFECT CIRCLE💥TOM MORELLO💥  BABYMETAL💥D-A-D💥CAVALERA performing CHAOS A.D💥THE PRETTY RECKLESS💥BLACK LABEL SOCIETY💥APOCALYPTICA💥 DEATH TO ALL💥AUDREY HORNE💥ELDER💥GATECREEPER💥GAEREA💥
+      
+      🎫Dagspass er i salg fredag 31.okt kl 10:00.
+      🤫Meld deg på vårt nyhetsbrev for å få tilgang på forhåndssalget som starter torsdag 30.okt kl 10:00 (link i bio)
+      
+      Forrige forhåndssalg ble utsolgt på rekordtid, så her gjelder det å være rask på labben!🏃‍♀️
+    translation: |-
+      We are filling up the poster with 15 new names, and you can also now see which day your favorite artists will play ⏰
+      
+      💥YUNGBLUD💥THE OFFSPRING💥A PERFECT CIRCLE💥TOM MORELLO💥  BABYMETAL💥D-A-D💥CAVALERA performing CHAOS A.D💥THE PRETTY RECKLESS💥BLACK LABEL SOCIETY💥APOCALYPTICA💥 DEATH TO ALL💥AUDREY HORNE💥ELDER💥GATECREEPER💥GAEREA💥
+      
+      🎫 Day passes go on sale Friday, October 31st at 10:00.
+      🤫 Sign up for our newsletter to get access to the pre-sale which starts Thursday, October 30th at 10:00 (link in bio)
+      
+      The previous pre-sale sold out in record time, so you have to be quick here! 🏃‍♀️
+    image:
+    - 01
+    - 06
+    part-of:
+      show:
+        year: 2026
+        id: tonsofrock
+
+- postinstagramimage:
+    post: DQWNpCFjeVn
+    id: 01
+    label: Lineup reveal
+    published-date: 2025-10-28
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postinstagram: DQWNpCFjeVn
+
+- postinstagramimage:
+    post: DQWNpCFjeVn
+    id: 06
+    label: Band poster
+    published-date: 2025-10-29
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postinstagram: DQWNpCFjeVn
+
+- update:
+    show:
+      year: 2026
+      id: tonsofrock
+    date: 2025-10-28
+    text:
+    - Added the show
+    part-of:
+      show:
+        year: 2026
+        id: tonsofrock
+
+- webimage:
+    domain: babymetal.com
+    page: 297294
+    id: bandcover
+    label: Band poster
+    published-date: 2025-10-29
+    url: 'https://babymetal.com/contents/1/TO/TonsOfRock-2026-Babymetal-2000x2000.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    todo: add show in context
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 297294
+
+- webpage:
+    domain: babymetal.com
+    id: 297294
+    label: Announcement
+    published-date: 2025-10-29
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=297294'
+    image:
+    - bandcover
+    todo: attach to show
+    part-of:
+      show:
+        year: 2026
+        id: tonsofrock
+
+- youtubevideo:
+    id: zQzug17eOUE
+    label: Lineup reveal
+    published-date: 2025-10-28
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      show:
+        year: 2026
+        id: tonsofrock
+

@@ -68,3 +68,17 @@
         year: 2025
         id: london
 
+- youtubevideo:
+    id: GCMbwc0ZNfE
+    label: LIVE FROM THE O2
+    published-date: 2025-10-26
+    context:
+    - song: sunsetkiss
+    - show:
+        year: 2025
+        id: london
+    part-of:
+      show:
+        year: 2025
+        id: london
+

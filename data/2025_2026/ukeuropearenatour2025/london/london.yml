@@ -15,9 +15,10 @@ show:
     tour: ukeuropearenatour2025
   multimedia:
     main:
-      postximage:
-        post: 1928663024081997836
-        image: GsP2prsXAAEh5WO
+      youtubevideo: EpXtD6dD0MU
+    video:
+    - youtubevideo: GCMbwc0ZNfE
+    - youtubevideo: EpXtD6dD0MU
     short:
     - postxvideo:
         post: 1947060377281560607

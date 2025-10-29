@@ -293,6 +293,32 @@
         ol:
         - From me to you
 
+- postx:
+    id: 1983239915099042277
+    account: BABYMETAL_JAPAN
+    label: 10 millions views on YouTube
+    published-date: 2025-10-29
+    text: |-
+      🔥1000万回再生突破！🔥
+      
+      Thank you for 10,000,000 views on YouTube!!   
+      
+      「from me to u(feat. Poppy)」OFFICIAL MUSIC VIDEO 
+      🎦http://Babymetal.lnk.to/FMTUMusicVideo
+      
+      #BABYMETAL #POPPY #frommetou #fmtu #METALFORTH
+    translation: |-
+      🔥 Over 10 million views! 🔥
+      
+      Thank you for 10,000,000 views on YouTube!!   
+      
+      「from me to u(feat. Poppy)」OFFICIAL MUSIC VIDEO 
+      🎦http://Babymetal.lnk.to/FMTUMusicVideo
+      
+      #BABYMETAL #POPPY #frommetou #fmtu #METALFORTH
+    part-of:
+      song: frommetou
+
 - postximage:
     post: 1908172721055469909
     id: GnsqdGTbQAAkPmf
@@ -303,6 +329,16 @@
     - song: frommetou
     part-of:
       song: frommetou
+
+- postximage:
+    post: 1983239915099042277
+    id: G4XhOOWaMAAVV3d
+    label: 10 millions views
+    published-date: 2025-10-29
+    context:
+    - song: frommetou
+    part-of:
+      postx: 1983239915099042277
 
 - update:
     song: frommetou

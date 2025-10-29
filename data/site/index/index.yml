@@ -38,6 +38,12 @@ contentpage:
       id: mcrsandiego
   - show:
       year: 2026
+      id: tonsofrock
+  - show:
+      year: 2026
+      id: graspop
+  - show:
+      year: 2026
       id: rockimpark
   - show:
       year: 2026
@@ -60,6 +66,9 @@ contentpage:
   - media:
       year: 2025
       id: tvasahieightjam
+  - media:
+      year: 2025
+      id: metaradi1025
   - media:
       year: 2025
       id: metaradi1018
