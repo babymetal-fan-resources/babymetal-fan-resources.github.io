@@ -1,0 +1,42 @@
+- update:
+    show:
+      year: 2026
+      id: istanbul
+    date: 2025-10-30
+    text:
+    - Added the show
+    part-of:
+      show:
+        year: 2026
+        id: istanbul
+
+- webimage:
+    domain: babymetal.com
+    page: 297196
+    id: poster01
+    label: Poster
+    published-date: 2025-10-30
+    url: 'https://babymetal.com/contents/1/TO/1001289804[5].jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: istanbul
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 297196
+
+- webpage:
+    domain: babymetal.com
+    id: 297196
+    label: Announcement
+    published-date: 2025-10-30
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=297196'
+    image:
+    - poster01
+    part-of:
+      show:
+        year: 2026
+        id: istanbul
+

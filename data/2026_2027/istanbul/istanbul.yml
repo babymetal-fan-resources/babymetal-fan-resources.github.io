@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: istanbul
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 297196
+      id: poster01
+  fullname: Istanbul, Turkey
+  date: 2026-07-01
+  venue: LIFE PARK, Istanbul, Turkey
+  event-page: 'https://biletinial.com/tr-tr/muzik/100-metal-sunar-babymetal'
+  part-of:
+    group: 2026_2027
