@@ -1,0 +1,18 @@
+show:
+  year: 2026
+  id: copenhell
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 297298
+      id: bandposter
+  fullname: COPENHELL 2026
+  shortname: COPENHELL
+  sublabel: Copenhagen, Denmark
+  date: 2026-06-27
+  description:
+  - BABYMETAL joins the lineup for COPENHELL 2026 in Denmark. The band's participation was announced on October 30.
+  venue: Refshaleøen, Copenhagen, Denmark
+  event-page: 'https://copenhell.dk/en/'
+  part-of:
+    group: 2026_2027

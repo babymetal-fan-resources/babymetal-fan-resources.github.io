@@ -41,6 +41,9 @@ contentpage:
       id: istanbul
   - show:
       year: 2026
+      id: copenhell
+  - show:
+      year: 2026
       id: tonsofrock
   - show:
       year: 2026
