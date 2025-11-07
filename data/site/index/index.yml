@@ -50,6 +50,15 @@ contentpage:
       id: graspop
   - show:
       year: 2026
+      id: summerpunch
+  - show:
+      year: 2026
+      id: download
+  - show:
+      year: 2026
+      id: rockforpeople
+  - show:
+      year: 2026
       id: rockimpark
   - show:
       year: 2026
@@ -69,6 +78,9 @@ contentpage:
   - show:
       year: 2025
       id: specialarenashowusa
+  - media:
+      year: 2025
+      id: metaradi1101
   - media:
       year: 2025
       id: tvasahieightjam

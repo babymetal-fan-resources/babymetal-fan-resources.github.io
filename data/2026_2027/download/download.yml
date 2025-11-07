@@ -1,0 +1,17 @@
+show:
+  year: 2026
+  id: download
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 297560
+      id: poster01
+  fullname: Download festival
+  sublabel: Leicestershire, UK
+  date: 2026-06-13
+  description:
+  - Exact date not announced yet
+  venue: Donington Park, Leicestershire, UK
+  event-page: 'https://downloadfestival.co.uk/'
+  part-of:
+    group: 2026_2027

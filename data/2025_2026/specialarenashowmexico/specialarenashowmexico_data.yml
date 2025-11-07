@@ -1,14 +1,83 @@
-localimage:
-  show:
-    year: 2025
-    id: specialarenashowmexico
-  id: cover
-  label: cover
-  published-date: 2025-07-10
-  source:
-    description: BABYMETAL website site
-    url: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1418&id=292951&lang=en'
-  part-of:
+- localimage:
     show:
       year: 2025
       id: specialarenashowmexico
+    id: cover
+    label: cover
+    published-date: 2025-07-10
+    source:
+      description: BABYMETAL website site
+      url: 'https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1418&id=292951&lang=en'
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowmexico
+
+- postx:
+    id: 1986647217227305318
+    account: BABYMETAL_JAPAN
+    label: See you all there
+    published-date: 2025-11-07
+    text: |-
+      We can’t wait to see everyone tomorrow at Arena CDMX! 🇲🇽 See you all there 💀🕯️
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #Mexico #ArenaCDMX
+    image:
+    - G5H8fsHbIAACASy
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowmexico
+
+- postx:
+    id: 1986674982659776928
+    account: BABYMETAL_JAPAN
+    label: Merch
+    published-date: 2025-11-07
+    text: |-
+      "BABYMETAL WORLD TOUR 2025-2026 SPECIAL ARENA SHOW IN MEXICO ARENA CDMX " Merchandise Announcement💀
+      https://babymetal.com/2026MexicoMerch/
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowmexico
+
+- postximage:
+    post: 1986647217227305318
+    id: G5H8fsHbIAACASy
+    label: Band
+    published-date: 2025-11-07
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowmexico
+    part-of:
+      postx: 1986647217227305318
+
+- postximage:
+    post: 1986674982659776928
+    id: G5ISEfoWQAAaWFn
+    label: Merch
+    published-date: 2025-11-07
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowmexico
+    part-of:
+      postx: 1986674982659776928
+
+- youtubeshort:
+    id: leWpPgAVxcA
+    label: Are you ready
+    published-date: 2025-11-04
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowmexico
+    - song: frommetou
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowmexico
+

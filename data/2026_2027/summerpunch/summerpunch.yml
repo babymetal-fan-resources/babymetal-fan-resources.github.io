@@ -1,0 +1,17 @@
+show:
+  year: 2026
+  id: summerpunch
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 297199
+      id: bandposter
+  fullname: Summer Punch Festival
+  sublabel: Warszawa, Poland
+  date: 2026-06-18
+  description:
+  - Exact date not announced yet
+  venue: Letnia Scena Progresji, Warszawa, Poland
+  event-page: 'https://summerpunchfestival.pl/'
+  part-of:
+    group: 2026_2027

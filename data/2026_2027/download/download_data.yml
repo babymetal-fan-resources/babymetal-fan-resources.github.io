@@ -1,0 +1,42 @@
+- update:
+    show:
+      year: 2026
+      id: download
+    date: 2025-11-07
+    text:
+    - Added the show
+    part-of:
+      show:
+        year: 2026
+        id: download
+
+- webimage:
+    domain: babymetal.com
+    page: 297560
+    id: poster01
+    label: Poster
+    published-date: 2025-11-03
+    url: 'https://babymetal.com/contents/1/TO/DXXIII%20SQ.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: download
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 297560
+
+- webpage:
+    domain: babymetal.com
+    id: 297560
+    label: Announcement
+    published-date: 2025-11-03
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=297560'
+    image:
+    - poster01
+    part-of:
+      show:
+        year: 2026
+        id: download
+

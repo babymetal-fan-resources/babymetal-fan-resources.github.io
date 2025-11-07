@@ -1,0 +1,73 @@
+- postx:
+    id: 1986360406487494656
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2025-11-06
+    text: |-
+      Summer Punch Festival 2026 confirmed🔥
+    image:
+    - G5C3VHgW4AAUqlT
+    part-of:
+      show:
+        year: 2026
+        id: summerpunch
+    reference:
+    - webimage:
+        domain: babymetal.com
+        page: 297199
+        id: bandposter
+
+- postximage:
+    post: 1986360406487494656
+    id: G5C3VHgW4AAUqlT
+    label: Lineup reveal
+    published-date: 2025-11-06
+    context:
+    - show:
+        year: 2026
+        id: summerpunch
+    part-of:
+      postx: 1986360406487494656
+
+- update:
+    show:
+      year: 2026
+      id: summerpunch
+    date: 2025-11-07
+    text:
+    - Added the show
+    part-of:
+      show:
+        year: 2026
+        id: summerpunch
+
+- webimage:
+    domain: babymetal.com
+    page: 297199
+    id: bandposter
+    label: Band Poster
+    published-date: 2025-11-06
+    url: 'https://babymetal.com/contents/1/TO/babymetal[6].png'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: summerpunch
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 297199
+
+- webpage:
+    domain: babymetal.com
+    id: 297199
+    label: Announcement
+    published-date: 2025-11-05
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=297199'
+    image:
+    - bandposter
+    part-of:
+      show:
+        year: 2026
+        id: summerpunch
+

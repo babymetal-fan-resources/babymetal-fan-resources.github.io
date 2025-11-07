@@ -153,6 +153,148 @@
         year: 2025
         id: specialarenashowusa
 
+- postx:
+    id: 1984017470047269292
+    account: BABYMETAL_JAPAN
+    label: Pop-up location reveal
+    published-date: 2025-10-30
+    text: |-
+      BABYMETAL’s FIRST EVER POP-UP STORE IN LOS ANGELES LOCATION REVEALED!
+      
+      📍Location Revealed: 8505 Santa Monica Blvd!
+      
+      [Dates]October 31st - November 2nd, 2025
+      [Opening Hours] 10:00 AM - 6:00 PM *Closes at 4:00 PM on the last day
+    image:
+    - G4frjwwbgAAedC2
+    - G4frmX0a8AQ08tg
+    - G4frneGa8AEsP1Z
+    - G4fronga8AMQNAe
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- postx:
+    id: 1984030818730385508
+    account: BABYMETAL_JAPAN
+    label: BABYMETAL x HEAVYS
+    published-date: 2025-10-30
+    text: |-
+      BABYMETAL teamed up with HEAVYS to bring you this Limited-Edition “METAL FORTH” Shells for their groundbreaking immersive-sound headphones, engineered for Heavy Music! Available both online and at the LA pop-up store starting  10:00AM on October 31!"🎧
+      
+      🛒ONLINE STORE
+      https://heavys.com
+      
+      🎪POP-UP STORE
+      [Dates]October 31st - November 2nd, 2025
+      [Opening Hours]  10:00AM - 6:00PM *Closes at  PM on the last day
+      [Location] 8505 Santa Monica Blvd, West Hollywood
+    image:
+    - G4fpnYMa8AUs5kM
+    - G4fpusOa8AIcbx-
+    - G4fpvs1aIAAS7by
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- postx:
+    id: 1984303773590892704
+    account: BABYMETAL_JAPAN
+    label: BABYMETAL × KAAMOS.CO
+    published-date: 2025-10-31
+    text: |-
+      BABYMETAL × http://KAAMOS.CO Limited-Edition Soap
+      Crafted in collaboration with Finnish brand http://kaamos.co, this Halloween-exclusive soap features BABYMETAL's iconic bone motif, boldly embedded in monochrome.
+      Packaged in a sleek black box stamped with the BABYMETAL logo. Extremely limited quantities. Available at L.A. Pop-Up.
+    image:
+    - G4moVQubQAQOhzR
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- postx:
+    id: 1984787549483569574
+    account: BABYMETAL_JAPAN
+    label: Sold out
+    published-date: 2025-11-02
+    text: |-
+      The Intuit Dome Show is now "sold out" !!!!! 
+      Are you ready to head bang !?🔥🔥🔥
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #METALFORTH #LA
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- postx:
+    id: 1985135500089553098
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-11-03
+    text: |-
+      🇺🇸🦊🦊🦊
+      Thank you sooooo much to everyone who came to our BABYMETAL SPECIAL US ARENA SHOW IN Los Angeles!! We can’t wait to see you again!!
+      
+      special guest 
+      @corklezlaplante
+      
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #METALFORTH #LA #intuitdome 
+      @IntuitDome
+      
+      📸 
+      @photosbysarai
+        #JessLee
+    image:
+    - G4yeINSa4AAfJC-
+    - G4yeJh5boAEvMYx
+    - G4yeLV6bcAAAcGd
+    - G4yeMn6asAI2oVo
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- postx:
+    id: 1985164185937031551
+    account: BABYMETAL_JAPAN
+    label: Thank you Courtney LaPlante
+    published-date: 2025-11-03
+    text: |-
+      Thank you 
+      @corklezlaplante
+       
+      
+      #BABYMETAL #BABYMETALWORLDTOUR20252026 #METALFORTH #LA #intuitdome 
+      @IntuitDome
+       
+      📸 
+      @photosbysarai
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- postx:
+    id: 1986290916827558196
+    account: BABYMETAL_JAPAN
+    label: Thank you pop-up store
+    published-date: 2025-11-06
+    text: |-
+      LA, you are amazing🔥
+      Thank you for stopping by BABYMETAL’s first pop-up store in the City of Angels.
+      Your support means everything.
+      See you!
+    video:
+    - 01
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
 - postximage:
     post: 1973342131692745107
     id: G2KkXYFaIAY_zoq
@@ -188,6 +330,191 @@
         id: specialarenashowusa
     part-of:
       postx: 1982734262618181955
+
+- postximage:
+    post: 1984017470047269292
+    id: G4frjwwbgAAedC2
+    label: Pop-up poster
+    published-date: 2025-10-30
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1984017470047269292
+
+- postximage:
+    post: 1984017470047269292
+    id: G4frmX0a8AQ08tg
+    label: Pop-up merch
+    published-date: 2025-10-30
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1984017470047269292
+
+- postximage:
+    post: 1984017470047269292
+    id: G4frneGa8AEsP1Z
+    label: Pop-up merch
+    published-date: 2025-10-30
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1984017470047269292
+
+- postximage:
+    post: 1984017470047269292
+    id: G4fronga8AMQNAe
+    label: Pop-up albums
+    published-date: 2025-11-07
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1984017470047269292
+
+- postximage:
+    post: 1984030818730385508
+    id: G4fpnYMa8AUs5kM
+    label: BABYMETAL x HEAVYS
+    published-date: 2025-10-30
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1984030818730385508
+
+- postximage:
+    post: 1984030818730385508
+    id: G4fpusOa8AIcbx-
+    label: BABYMETAL x HEAVYS
+    published-date: 2025-10-30
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1984030818730385508
+
+- postximage:
+    post: 1984030818730385508
+    id: G4fpvs1aIAAS7by
+    label: BABYMETAL x HEAVYS
+    published-date: 2025-10-30
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1984030818730385508
+
+- postximage:
+    post: 1984303773590892704
+    id: G4moVQubQAQOhzR
+    label: BABYMETAL × KAAMOS.CO
+    published-date: 2025-10-31
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1984303773590892704
+
+- postximage:
+    post: 1984787549483569574
+    id: G4tPdQxbwAAOUZh
+    label: Poster sold out
+    published-date: 2025-11-02
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1984787549483569574
+
+- postximage:
+    post: 1985135500089553098
+    id: G4yeINSa4AAfJC-
+    label: On stage
+    info: we aaaa
+    published-date: 2025-11-03
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1985135500089553098
+
+- postximage:
+    post: 1985135500089553098
+    id: G4yeJh5boAEvMYx
+    label: On stage
+    published-date: 2025-11-07
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    - song: babymetaldeath
+    part-of:
+      postx: 1985135500089553098
+
+- postximage:
+    post: 1985135500089553098
+    id: G4yeLV6bcAAAcGd
+    label: Venue
+    published-date: 2025-11-07
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    todo: which song
+    part-of:
+      postx: 1985135500089553098
+
+- postximage:
+    post: 1985135500089553098
+    id: G4yeMn6asAI2oVo
+    label: At the venue
+    published-date: 2025-11-07
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1985135500089553098
+
+- postximage:
+    post: 1985164185937031551
+    id: G4y4ESqasAAtj75
+    label: At the venue
+    info: Courtney LaPlante, BABYMETAL
+    published-date: 2025-11-03
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1985164185937031551
+
+- postxvideo:
+    post: 1986290916827558196
+    id: 01
+    label: Pop-up store recap
+    published-date: 2025-11-06
+    cover: 1986290559225417728/img/G9I_ZzcjDXTmV4Sk.jpg
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1986290916827558196
 
 - webimage:
     domain: babymetal.com
