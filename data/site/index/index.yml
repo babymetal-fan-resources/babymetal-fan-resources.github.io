@@ -68,6 +68,22 @@ contentpage:
       id: swedenrock
   - show:
       year: 2026
+      id: brisbane
+  - show:
+      year: 2026
+      id: sydney
+  - show:
+      year: 2026
+      id: melbourne
+  - show:
+      year: 2026
+      id: adelaide
+  - show:
+      year: 2026
+      id: perth
+  - tour: australia2026
+  - show:
+      year: 2026
       id: legendmetalforth2
   - show:
       year: 2026
