@@ -1,0 +1,15 @@
+show:
+  year: 2026
+  id: sydney
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 297754
+      id: poster
+  fullname: Sydney, Australia
+  date: 2026-03-20
+  tour: australia2026
+  venue: Hordern Pavilion, Sydney, Australia
+  event-page: 'https://thehordern.com.au/event/babymetal/'
+  part-of:
+    tour: australia2026

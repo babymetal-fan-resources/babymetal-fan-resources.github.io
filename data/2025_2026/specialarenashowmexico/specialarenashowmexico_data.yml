@@ -43,6 +43,30 @@
         year: 2025
         id: specialarenashowmexico
 
+- postx:
+    id: 1987388374941147356
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2025-11-09
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2025-2026 SPECIAL ARENA SHOW IN MEXICO ARENA CDMX!!🌮💀
+      Very last show in 2025
+      Your energy made it an unforgettable night!🌜
+      Gracias, Mexico!!! See you!!! 🇲🇽🦊🦊🦊
+      
+      #METALFORTH
+      📸 
+      @photosbysarai
+    image:
+    - G5SbJWpbMAAeFdt
+    - G5SbIOCbIAIA1qY
+    - G5Sb_FmbUAAqkqV
+    - G5SbxZ_bMAAlmgm
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowmexico
+
 - postximage:
     post: 1986647217227305318
     id: G5H8fsHbIAACASy
@@ -66,6 +90,61 @@
         id: specialarenashowmexico
     part-of:
       postx: 1986674982659776928
+
+- postximage:
+    post: 1987388374941147356
+    id: G5SbIOCbIAIA1qY
+    label: On stage
+    info: SU-METAL
+    published-date: 2025-11-09
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowmexico
+    - song: headbanger
+    part-of:
+      postx: 1987388374941147356
+
+- postximage:
+    post: 1987388374941147356
+    id: G5SbJWpbMAAeFdt
+    label: On stage
+    info: MOAMETAL
+    published-date: 2025-11-09
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowmexico
+    todo: which song ?
+    part-of:
+      postx: 1987388374941147356
+
+- postximage:
+    post: 1987388374941147356
+    id: G5Sb_FmbUAAqkqV
+    label: On stage
+    info: MOMOMETAL
+    published-date: 2025-11-09
+    context:
+    - song: metali
+    - show:
+        year: 2025
+        id: specialarenashowmexico
+    part-of:
+      postx: 1987388374941147356
+
+- postximage:
+    post: 1987388374941147356
+    id: G5SbxZ_bMAAlmgm
+    label: Venue
+    published-date: 2025-11-09
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowmexico
+    - song: karate
+    part-of:
+      postx: 1987388374941147356
 
 - youtubeshort:
     id: leWpPgAVxcA

@@ -1,0 +1,13 @@
+youtubevideo:
+  id: CaaUrsnbBoM
+  label: 'BABYMETALのメタラジ！#45'
+  info: Jean-Ken Johnny from MAN WITH A MISSION
+  published-date: 2025-11-08
+  context:
+  - media:
+      year: 2025
+      id: metaradi1108
+  part-of:
+    media:
+      year: 2025
+      id: metaradi1108

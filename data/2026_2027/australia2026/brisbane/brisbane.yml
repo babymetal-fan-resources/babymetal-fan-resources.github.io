@@ -1,0 +1,15 @@
+show:
+  year: 2026
+  id: brisbane
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 297754
+      id: poster
+  fullname: Brisbane, Australia
+  date: 2026-03-22
+  tour: australia2026
+  venue: Riverstage, Brisbane, Australia
+  event-page: 'https://www.brisbane.qld.gov.au/events/babymetal-australian-tour/192955350'
+  part-of:
+    tour: australia2026

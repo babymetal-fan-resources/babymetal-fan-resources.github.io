@@ -1,0 +1,15 @@
+show:
+  year: 2026
+  id: adelaide
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 297754
+      id: poster
+  fullname: Adelaide, Australia
+  date: 2026-03-14
+  tour: australia2026
+  venue: AEC Theatre, Adelaide, Australia
+  event-page: 'https://www.adelaideentertainmentcentre.com.au/events/babymetal/'
+  part-of:
+    tour: australia2026

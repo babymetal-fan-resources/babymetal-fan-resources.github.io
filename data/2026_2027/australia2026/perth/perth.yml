@@ -1,0 +1,15 @@
+show:
+  year: 2026
+  id: perth
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 297754
+      id: poster
+  fullname: Perth, Australia
+  date: 2026-03-12
+  tour: australia2026
+  venue: Perth HPC, Perth, Australia
+  event-page: 'https://www.perthhpc.com.au/events/upcoming-events/babymetal'
+  part-of:
+    tour: australia2026

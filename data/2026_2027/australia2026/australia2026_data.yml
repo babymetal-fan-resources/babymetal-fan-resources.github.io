@@ -1,0 +1,26 @@
+- webimage:
+    domain: babymetal.com
+    page: 297754
+    id: poster
+    label: Poster
+    published-date: 2025-11-09
+    url: 'https://babymetal.com/contents/1/TO/babymetal_insta45_OSN%20(2).jpg'
+    local-copy: true
+    context:
+    - tour: australia2026
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 297754
+
+- webpage:
+    domain: babymetal.com
+    id: 297754
+    label: Announcement
+    published-date: 2025-11-10
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=297754'
+    image:
+    - poster
+    part-of:
+      tour: australia2026
+

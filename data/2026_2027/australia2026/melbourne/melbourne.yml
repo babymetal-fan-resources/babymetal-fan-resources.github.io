@@ -1,0 +1,15 @@
+show:
+  year: 2026
+  id: melbourne
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 297754
+      id: poster
+  fullname: Melbourne, Australia
+  date: 2026-03-17
+  tour: australia2026
+  venue: John Cain Arena, Melbourne, Australia
+  event-page: 'https://johncainarena.com.au/event/babymetal-australian-tour-2026/'
+  part-of:
+    tour: australia2026

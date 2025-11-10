@@ -72,6 +72,9 @@ contentpage:
   - show:
       year: 2026
       id: legendmetalforth1
+  - media:
+      year: 2025
+      id: metaradi1108
   - show:
       year: 2025
       id: specialarenashowmexico
