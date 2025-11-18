@@ -5,11 +5,16 @@ contentpage:
       event: siteimages
       id: kitsune_cover
   label: Music
-  display-type: contentwithsub
   start-date: 2010-01-01
   end-date: 2026-01-31
   description: The songs and albums from BABYMETAL, and the other collab songs.
-  categories: []
+  withlinks: true
+  compressed: true
+  isLargeMarker:
+  - album
+  - song
+  isWithSubsMarker:
+  - album
   part-of:
     group: site
   content:

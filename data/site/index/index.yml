@@ -5,31 +5,9 @@ contentpage:
       event: siteimages
       id: kitsune_cover
   label: Chronology
-  display-type: timeline
   start-date: 2010-11-01
   end-date: 2026-08-31
   description: 'Everything about BABYMETAL: songs, albums, shows, tours, Fox Days, interviews, videos, ...'
-  categories:
-  - id: event
-    label: Events
-  - id: song
-    label: Songs
-  - id: album
-    label: Albums
-  - id: show
-    label: Shows
-  - id: tour
-    label: Tours
-  - id: mainshowtour
-    label: Main shows and tours
-  - id: writtenmedia
-    label: Written Media
-  - id: audiomedia
-    label: Audio Media
-  - id: videomedia
-    label: Video Media
-  - id: video
-    label: Videos
   isLargeMarker:
   - album
   - event
