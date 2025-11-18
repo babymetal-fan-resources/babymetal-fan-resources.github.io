@@ -4,14 +4,14 @@
   --color-closeto-black: #202020;
 
 
-  --color-text: rgb(190, 190, 190);
+  --color-text: rgb(223, 223, 223);
   --color-text-highlight: #d90009;
-  --color-text-soft: gray;
+  --color-text-soft: rgb(186, 186, 186);
   --color-text-nav: var(--color-text-highlight);
 
   --color-designation-text: var(--color-text-highlight);
 
-  --color-border-cover: var(--color-almost-black);
+  --color-border-cover: gray;
   --color-bg-cover: var(--color-almost-black);
 
   --color-border-light: #404040;
@@ -47,9 +47,10 @@
   --bg-song: linear-gradient(160deg, transparent 0rem, transparent 20%, #202040);
   --bg-tour: linear-gradient(160deg, transparent 0rem, transparent 20%, #c4c418);
 
-  --color-chronology-bg-light: darkslategray;
-  --color-chronology-bg-dark: #192b2b;
+  --color-chronology-bg-light: #661e1e;
+  --color-chronology-bg-dark: #3a6464;
   --color-chronology-label: var(--color-text-soft);
+  --color-chronology-altcolor: #995164;
 
   --color-bm-bg: #be0000;
   --color-su-bg: darkred;

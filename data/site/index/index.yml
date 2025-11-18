@@ -5,9 +5,9 @@ contentpage:
       event: siteimages
       id: kitsune_cover
   label: Chronology
-  display-type: chronology
-  start-date: 2010-01-01
-  end-date: 2027-01-31
+  display-type: timeline
+  start-date: 2010-11-01
+  end-date: 2026-08-31
   description: 'Everything about BABYMETAL: songs, albums, shows, tours, Fox Days, interviews, videos, ...'
   categories:
   - id: event
@@ -30,6 +30,27 @@ contentpage:
     label: Video Media
   - id: video
     label: Videos
+  isLargeMarker:
+  - album
+  - event
+  - mainshowtour
+  - video
+  - song
+  isWithSubsMarker:
+  - album
+  isSmallMarker:
+  - show
+  isLeftMarker:
+  - audiomedia
+  - event
+  - show
+  - tour
+  - videomedia
+  - writtenmedia
+  isAltColorMarker:
+  - audiomedia
+  - videomedia
+  - writtenmedia
   part-of:
     group: site
   content:
@@ -195,11 +216,6 @@ contentpage:
       year: 2025
       id: metaradi0809
   - album: metalforth
-  - song: whiteflame
-  - song: algorism
-  - song: sunsetkiss
-  - song: kxaxwxaxixi
-  - song: myqueen
   - media:
       year: 2025
       id: kerrang
@@ -230,12 +246,12 @@ contentpage:
   - show:
       year: 2025
       id: sanfrancisco1
-  - media:
-      year: 2025
-      id: revolver
   - show:
       year: 2025
       id: kent
+  - media:
+      year: 2025
+      id: revolver
   - show:
       year: 2025
       id: vancouver
@@ -255,12 +271,12 @@ contentpage:
   - show:
       year: 2025
       id: marylandheights
-  - media:
-      year: 2025
-      id: metaradi0705
   - show:
       year: 2025
       id: summerfestmilwaukee
+  - media:
+      year: 2025
+      id: metaradi0705
   - show:
       year: 2025
       id: sterlingheights
@@ -270,30 +286,30 @@ contentpage:
   - show:
       year: 2025
       id: laval
+  - show:
+      year: 2025
+      id: philadelphia
   - media:
       year: 2025
       id: metaradi0628
   - show:
       year: 2025
-      id: philadelphia
+      id: uncasville
   - show:
       year: 2025
-      id: uncasville
+      id: boston
   - media:
       year: 2025
       id: rollingstonejp
   - show:
       year: 2025
-      id: boston
-  - show:
-      year: 2025
       id: newyork
-  - media:
-      year: 2025
-      id: metaradi0621
   - show:
       year: 2025
       id: baltimore
+  - media:
+      year: 2025
+      id: metaradi0621
   - show:
       year: 2025
       id: charlotte
@@ -309,13 +325,13 @@ contentpage:
   - media:
       year: 2025
       id: metaradi0614
-  - media:
-      year: 2025
-      id: metalhammer
   - show:
       year: 2025
       id: houston
   - tour: northamerica2025
+  - media:
+      year: 2025
+      id: metalhammer
   - media:
       year: 2025
       id: metaradi0607
@@ -365,13 +381,13 @@ contentpage:
   - show:
       year: 2025
       id: hamburg
-  - media:
-      year: 2025
-      id: metaradi0510
   - show:
       year: 2025
       id: brussels
   - tour: ukeuropearenatour2025
+  - media:
+      year: 2025
+      id: metaradi0510
   - media:
       year: 2025
       id: metaradi0503
@@ -387,8 +403,8 @@ contentpage:
   - media:
       year: 2025
       id: metaradi0405
-  - multimedia-event: frommetoumv
   - song: frommetou
+  - multimedia-event: frommetoumv
   - event: foxday2025
   - song: bekhauf
   - song: eternalflames
@@ -397,12 +413,6 @@ contentpage:
   - song: metali
   - song: theend
   - album: theotherone
-  - song: thelegend
-  - song: metalizm
-  - song: believing
-  - song: timewave
-  - song: maya
-  - song: mirrormirror
   - song: lightanddarkness
   - song: metalkingdom
   - song: monochrome
@@ -413,52 +423,20 @@ contentpage:
   - album: legendmetalgalaxyday2
   - album: legendmetalgalaxyday1
   - album: metalgalaxy
-  - song: arkadia
-  - song: shine
-  - song: kagerou
-  - song: bxmxc
-  - song: inthenameof
-  - song: nightnightburn
-  - song: bbab
-  - song: brandnewday
-  - song: ohmajinai
-  - song: shantishantishanti
-  - song: dadadance
-  - song: futuremetal
   - song: papaya
   - song: elevatorgirl
   - song: starlight
   - song: distortion
   - album: liveatwembley
   - album: metalresistance
-  - song: theone
-  - song: talesofthedestinies
-  - song: norainnorainbow
-  - song: sisanger
-  - song: gj
-  - song: syncopation
-  - song: metataro
-  - song: amore
-  - song: yava
-  - song: awadamafever
   - song: karate
   - song: roadofresistance
   - album: liveatbudokanrednight
   - album: babymetal
-  - song: gimichoko
-  - song: 4nouta
-  - song: ukiukimidnight
-  - song: rondoofnightmare
   - album: megitsunefirstpress
-  - song: onedaridaisakusen
   - album: megitsune
-  - song: megitsune
-  - song: akatsuki
   - album: ijimedamezettailimitededition
-  - song: babymetaldeath
   - album: ijimedamezettai
-  - song: ijimedamezettai
-  - song: catchmeifyoucan
   - show:
       year: 2012
       id: decemberschildren
@@ -506,7 +484,6 @@ contentpage:
       id: headbangpilgrimageosaka1
   - tour: headbangpilgrimage
   - album: headbanger
-  - song: headbanger
   - show:
       year: 2012
       id: popnidol02
@@ -517,8 +494,6 @@ contentpage:
       year: 2012
       id: 15minuteoneshot
   - album: babymetalxkibaofakiba
-  - song: kimitoanimegamitai
-  - song: iine
   - song: dokidokimorning
   - show:
       year: 2010
