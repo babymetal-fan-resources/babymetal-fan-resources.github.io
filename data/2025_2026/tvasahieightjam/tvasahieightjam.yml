@@ -20,6 +20,8 @@ mediavideo:
     group: 2025_2026
   description:
   - BABYMETAL will be the main guest on TV Asahi's "EIGHT-JAM", on October 26.
+  categories:
+  - mainmedia
   multimedia:
     main:
       postximage:

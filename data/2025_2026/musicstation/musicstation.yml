@@ -20,6 +20,8 @@ mediavideo:
   webpage: 'https://www.tv-asahi.co.jp/music/'
   part-of:
     group: 2025_2026
+  categories:
+  - mainmedia
   multimedia:
     short:
     - postxvideo:
