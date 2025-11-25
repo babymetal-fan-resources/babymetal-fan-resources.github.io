@@ -1,0 +1,71 @@
+- update:
+    show:
+      year: 2026
+      id: impericon
+    date: 2025-11-25
+    text:
+    - Added the show
+    part-of:
+      show:
+        year: 2026
+        id: impericon
+
+- webimage:
+    domain: babymetal.com
+    page: 298220
+    id: poster
+    label: Poster
+    published-date: 2025-11-21
+    url: 'https://babymetal.com/contents/1/TO/20251120_imp_fest_2026_vo5_social_4x5.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: impericon
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 298220
+
+- webimage:
+    domain: impericon.com
+    page: babymetal2026
+    id: bandposter
+    label: Band poster
+    published-date: 2025-11-21
+    url: 'https://cdn.shopify.com/s/files/1/0689/6061/6685/files/20251120_imp_fest_2026_vo4_referral_social_babymetal_4x5_c853eafa-872e-4d0c-9d1c-ea063dc17bad.jpg?v=1763711589'
+    context:
+    - show:
+        year: 2026
+        id: impericon
+    part-of:
+      webpage:
+        domain: impericon.com
+        id: babymetal2026
+
+- webpage:
+    domain: babymetal.com
+    id: 298220
+    label: Announcement
+    published-date: 2025-11-21
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=298220'
+    image:
+    - poster
+    part-of:
+      show:
+        year: 2026
+        id: impericon
+
+- webpage:
+    domain: impericon.com
+    id: babymetal2026
+    label: Announcement
+    published-date: 2025-11-21
+    url: 'https://www.impericon.com/de/blogs/festival/babymetal-will-be-headlining-the-impericon-festival-2026'
+    image:
+    - bandposter
+    part-of:
+      show:
+        year: 2026
+        id: impericon
+

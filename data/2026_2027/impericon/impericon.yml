@@ -1,0 +1,17 @@
+show:
+  year: 2026
+  id: impericon
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 298220
+      id: poster
+  fullname: Impericon Festival 2026
+  sublabel: Leipzig, Germany
+  date: 2026-06-26
+  description:
+  - BABYMETAL will perform at IMPERICON FESTIVAL in June 2026.
+  venue: 'HALLE:EINS, Leipzig, Germany'
+  event-page: 'https://www.impericon.com/pages/festival'
+  part-of:
+    group: 2026_2027

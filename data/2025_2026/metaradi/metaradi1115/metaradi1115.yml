@@ -1,0 +1,21 @@
+mediaaudio:
+  year: 2025
+  id: metaradi1115
+  cover-image:
+    postximage:
+      post: 1875488645987365238
+      image: GgcSW8pa8AEVKP3
+  radio: TOKYO FM
+  show: BABYMETALのメタラジ!
+  designation: metaradi
+  member:
+  - Demon Kakka of Seikima-II
+  published-date: 2025-11-15
+  host: SU-METAL, MOAMETAL, MOMOMETAL
+  program: 'https://www.tfm.co.jp/podcast/metaradi/'
+  webpage: 'https://tfm.co.jp/metaradi/'
+  todo: add youtube video
+  part-of:
+    group:
+      id: metaradi
+      group: 2025_2026

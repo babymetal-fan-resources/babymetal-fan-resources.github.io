@@ -319,6 +319,18 @@
     part-of:
       song: frommetou
 
+- postx:
+    id: 1988293765069705322
+    account: BABYMETAL_JAPAN
+    label: Vinyl for single day
+    published-date: 2025-11-11
+    text: |-
+      Celebrate single days with the exclusive limited edition 7” vinyl featuring "from me to u(FEAT. POPPY) - LIVE FROM O2.”
+      
+      Orders yours now! https://Babymetal.lnk.to/FromMeToExcluseToExclusiveVinyl…
+    part-of:
+      song: frommetou
+
 - postximage:
     post: 1908172721055469909
     id: GnsqdGTbQAAkPmf
@@ -339,6 +351,16 @@
     - song: frommetou
     part-of:
       postx: 1983239915099042277
+
+- postximage:
+    post: 1988293765069705322
+    id: G5dzJv8bsAAn-Hl
+    label: Vinyl
+    published-date: 2025-11-11
+    context:
+    - song: frommetou
+    part-of:
+      postx: 1988293765069705322
 
 - update:
     song: frommetou

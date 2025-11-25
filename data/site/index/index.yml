@@ -44,6 +44,9 @@ contentpage:
       id: copenhell
   - show:
       year: 2026
+      id: impericon
+  - show:
+      year: 2026
       id: tonsofrock
   - show:
       year: 2026
@@ -88,6 +91,12 @@ contentpage:
   - show:
       year: 2026
       id: legendmetalforth1
+  - media:
+      year: 2025
+      id: metaradi1122
+  - media:
+      year: 2025
+      id: metaradi1115
   - media:
       year: 2025
       id: metaradi1108
