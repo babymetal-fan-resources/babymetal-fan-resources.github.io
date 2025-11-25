@@ -1,3 +1,78 @@
+- display:
+    event: firstmessage
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - textsubsection:
+                lines:
+                - line:
+                  - text: A few days prior to the 2010 Sakura Gakuin Festival (
+                  - show:
+                      year: 2010
+                      id: sakuragakuinfestival
+                  - text: '), Suzuka Nakamoto shared this handwritten update regarding a "new unit" she had joined. This unit was the Heavy Music Club, which would take the stage for the first time at the festival performing '
+                  - song: dokidokimorning
+                  - text: ' (Doki Doki ☆ Morning).'
+                - line:
+                  - text: Below is the translation of her thoughts just before BABYMETAL—and the genre of Kawaii Metal—was introduced to the world.
+            - textsubsection:
+                label: "Suzuka Nakamoto's message "
+                multimedia:
+                  webimage:
+                    domain: ameblo.jp.sakuragakuin
+                    page: entry-10719087116
+                    id: o0580095110882992398
+                lines:
+                - line:
+                  - text: さくら学院祭💗もうすぐですね
+                - line:
+                  - text: 今回、このライブで新しいユニット（部活？）を 披露します(vv) 今まで私が全くやったことのない 新しい音楽の世界です🌸
+                - line:
+                  - text: 『こういうのをやらせてみたい！』と聞いたときは 正直、えっ？(゜o゜)と思いました
+                - line:
+                  - text: でも、今は楽しんでやっています🐻
+                - line:
+                  - text: どんなのだと思いますか
+                - line:
+                  - text: 部員もあっと驚くくらいかわゆいですよ
+                - line:
+                  - text: 最初の仮歌を聴いた時に『かわいい〜♪』って思った 曲が、アレンジで全く別の曲になったと思ったら。。。
+                - line:
+                  - text: ダンスがついてまた雰囲気が変わって。。。
+                - line:
+                  - text: 1つの曲がアレンジやダンスでどんどん変身して いったので、ライブ当日までにどんな風になるのか？
+                - line:
+                  - text: 今からすっごく楽しみです
+            - textsubsection:
+                label: Translation
+                lines:
+                - line:
+                  - text: Sakura Gakuin Festival 💗 is coming soon, isn't it?
+                - line:
+                  - text: This time, at this live show, we will unveil a new unit (club activity?). It is a world of new music that I have never tried before at all. 🌸
+                - line:
+                  - text: When I heard, "We want to have you try this kind of thing!", honestly, I thought, "Eh?".
+                - line:
+                  - text: But now, I am enjoying doing it. 🐻
+                - line:
+                  - text: 'What kind of thing do you think it is? '
+                - line:
+                  - text: The club members are so cute it will surprise you.
+                - line:
+                  - text: When I listened to the initial demo, I thought "Cuuute~♪", but then the song became something completely different through the arrangement..
+                - line:
+                  - text: And then the dance was added, and the atmosphere changed again...
+                - line:
+                  - text: Because one single song kept transforming rapidly through the arrangement and dance, I wonder how it will turn out by the day of the live?
+                - line:
+                  - text: I am really looking forward to it starting now.
+    part-of:
+      event: firstmessage
+
 - update:
     event: firstmessage
     date: 2025-10-01
@@ -6,11 +81,20 @@
     part-of:
       event: firstmessage
 
+- update:
+    event: firstmessage
+    date: 2025-11-25
+    text:
+    - Added translation of the message
+    part-of:
+      event: firstmessage
+
 - webimage:
     domain: ameblo.jp.sakuragakuin
     page: entry-10719087116
     id: o0580095110882992398
     label: Suzuka's message
+    info: with the band members flashing kitsune signs
     published-date: 2025-11-26
     url: 'https://stat.ameba.jp/user_images/20101126/21/sakuragakuin/9a/ce/j/o0580095110882992398.jpg'
     context:
