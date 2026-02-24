@@ -1,0 +1,24 @@
+album:
+  id: o2highlights
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 300952
+      id: cover
+  fullname: LIVE AT THE O2 ARENA — HIGHLIGHTS
+  designation: Live Album
+  release-date: 2026-04-18
+  is-studio: false
+  description:
+  - Released for Record Store Day 2026
+  songs:
+  - babymetaldeath
+  - papaya
+  - metali
+  - sunsetkiss
+  - ratatata
+  - gimichoko
+  - frommetou
+  - roadofresistance
+  part-of:
+    group: album_live

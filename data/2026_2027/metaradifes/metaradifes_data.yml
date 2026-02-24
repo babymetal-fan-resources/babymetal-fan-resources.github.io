@@ -1,0 +1,57 @@
+- postx:
+    id: 1997258646456311954
+    account: metaradi_tfm
+    label: Announcement
+    published-date: 2025-12-06
+    text: |-
+      『TOKYO FM開局55周年記念 BABYMETALのメタラジ！FES』開催決定!!🔥
+      
+      詳細はこちら👇
+      🔗https://tfm.co.jp/metaradi/metaradifes
+      
+      🗓️日程
+      2026年3月29日(日) OPEN 17:00 / START 18:00
+      
+      🎪会場
+      東京ガーデンシアター（有明）
+      
+      👤出演
+      BABYMETAL、マキシマム ザ ホルモン、新しい学校のリーダーズ
+      
+      #TOKYOFM  #メタラジ
+    translation: |-
+      TOKYO FM 55th Anniversary "BABYMETAL's METARADI! FES" to be held!!🔥
+      
+      Details here👇
+      🔗https://tfm.co.jp/metaradi/metaradifes
+      
+      🗓️Date
+      Sunday, March 29, 2026  OPEN 17:00 / START 18:00
+      
+      🎪Venue
+      Tokyo Garden Theater (Ariake)
+      
+      👤Lineup
+      BABYMETAL, MAXIMUM THE HORMONE, ATARASHII GAKKO!
+      
+      #TOKYOFM #METARADI
+    image:
+    - G7ewJpQaYAAN7po
+    part-of:
+      show:
+        year: 2026
+        id: metaradifes
+
+- postximage:
+    post: 1997258646456311954
+    id: G7ewJpQaYAAN7po
+    label: Poster
+    published-date: 2025-12-06
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: metaradifes
+    part-of:
+      postx: 1997258646456311954
+

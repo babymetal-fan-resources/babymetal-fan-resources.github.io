@@ -1,0 +1,42 @@
+- update:
+    show:
+      year: 2026
+      id: louderthanlife
+    date: 2026-02-24
+    text:
+    - Added the show
+    part-of:
+      show:
+        year: 2026
+        id: louderthanlife
+
+- webimage:
+    domain: babymetal.com
+    page: 301636
+    id: poster
+    label: Poster
+    published-date: 2026-02-24
+    url: 'https://babymetal.com/contents/1/TO/LTL26_MAINFEED__1080x1350.png'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: louderthanlife
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 301636
+
+- webpage:
+    domain: babymetal.com
+    id: 301636
+    label: Announcement
+    published-date: 2026-02-24
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=301636'
+    image:
+    - poster
+    part-of:
+      show:
+        year: 2026
+        id: louderthanlife
+

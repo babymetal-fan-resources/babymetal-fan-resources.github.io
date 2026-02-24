@@ -1,0 +1,5 @@
+group:
+  id: theone
+  label: THE ONE
+  part-of:
+    group: band

@@ -6,7 +6,7 @@ contentpage:
       id: kitsune_cover
   label: Music
   start-date: 2010-01-01
-  end-date: 2026-01-31
+  end-date: 2026-04-30
   description: The songs and albums from BABYMETAL, and the other collab songs.
   withlinks: true
   compressed: true
@@ -18,6 +18,8 @@ contentpage:
   part-of:
     group: site
   content:
+  - album: o2highlights
+  - album: headbanger15
   - song: getnosatisfied
   - song: theendffdp
   - album: metalforth

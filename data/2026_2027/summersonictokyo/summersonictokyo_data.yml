@@ -1,0 +1,51 @@
+- webimage:
+    domain: babymetal.com
+    page: 301498
+    id: bandposter
+    label: Band poster
+    published-date: 2026-02-19
+    url: 'https://babymetal.com/contents/1/TO/1080x1350_D.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 301498
+
+- webimage:
+    domain: babymetal.com
+    page: 301498
+    id: lineup
+    label: Lineup
+    published-date: 2026-02-19
+    url: 'https://babymetal.com/contents/1/TO/SS26_artwork_sns1080x1080_0219.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 301498
+
+- webpage:
+    domain: babymetal.com
+    id: 301498
+    label: Announcement
+    published-date: 2026-02-19
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=301498'
+    image:
+    - bandposter
+    - lineup
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+    reference:
+    - show:
+        year: 2026
+        id: summersonicosaka
+

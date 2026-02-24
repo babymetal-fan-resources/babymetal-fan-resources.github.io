@@ -52,3 +52,32 @@
         year: 2026
         id: rockforpeople
 
+- webimage:
+    domain: babymetal.com
+    page: 299152
+    id: bandposter
+    label: Band poster
+    published-date: 2025-12-15
+    url: 'https://babymetal.com/contents/1/TO/RfP_Babymetal_Artist%20Cards-II-3.png'
+    context:
+    - show:
+        year: 2026
+        id: rockforpeople
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 299152
+
+- webpage:
+    domain: babymetal.com
+    id: 299152
+    label: Announcement
+    published-date: 2025-12-15
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?&id=299152'
+    image:
+    - bandposter
+    part-of:
+      show:
+        year: 2026
+        id: rockforpeople
+

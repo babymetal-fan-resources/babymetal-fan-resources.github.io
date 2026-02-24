@@ -6,7 +6,7 @@ contentpage:
       id: kitsune_cover
   label: Chronology
   start-date: 2010-11-01
-  end-date: 2026-08-31
+  end-date: 2026-09-30
   description: 'Everything about BABYMETAL: songs, albums, shows, tours, Fox Days, interviews, videos, ...'
   isLargeMarker:
   - album
@@ -35,6 +35,9 @@ contentpage:
   content:
   - show:
       year: 2026
+      id: louderthanlife
+  - show:
+      year: 2026
       id: mcrsandiego
   - show:
       year: 2026
@@ -56,10 +59,16 @@ contentpage:
       id: summerpunch
   - show:
       year: 2026
+      id: hannover
+  - show:
+      year: 2026
       id: download
   - show:
       year: 2026
       id: rockforpeople
+  - show:
+      year: 2026
+      id: kufstein
   - show:
       year: 2026
       id: rockimpark
@@ -69,12 +78,19 @@ contentpage:
   - show:
       year: 2026
       id: swedenrock
+  - album: o2highlights
+  - show:
+      year: 2026
+      id: metaradifes
   - show:
       year: 2026
       id: brisbane
   - show:
       year: 2026
       id: sydney
+  - show:
+      year: 2026
+      id: sydney2
   - show:
       year: 2026
       id: melbourne
@@ -91,6 +107,7 @@ contentpage:
   - show:
       year: 2026
       id: legendmetalforth1
+  - album: headbanger15
   - media:
       year: 2025
       id: metaradi1122

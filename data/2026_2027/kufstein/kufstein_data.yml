@@ -1,0 +1,52 @@
+- webimage:
+    domain: babymetal.com
+    page: 300492
+    id: posterhannover
+    label: Poster
+    published-date: 2026-01-20
+    url: 'https://babymetal.com/contents/1/TO/PRK-DH_babymetal_key_art_portrait_00[1].png'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: hannover
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 300492
+
+- webimage:
+    domain: babymetal.com
+    page: 300492
+    id: posterkufstein
+    label: Poster
+    published-date: 2026-01-20
+    url: 'https://babymetal.com/contents/1/TO/Babymetal-AW-091225[51][1].jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: kufstein
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 300492
+
+- webpage:
+    domain: babymetal.com
+    id: 300492
+    label: Headline show in Austria and Hanover
+    published-date: 2026-01-20
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=300492'
+    image:
+    - posterkufstein
+    - posterhannover
+    part-of:
+      show:
+        year: 2026
+        id: kufstein
+    reference:
+    - show:
+        year: 2026
+        id: hannover
+

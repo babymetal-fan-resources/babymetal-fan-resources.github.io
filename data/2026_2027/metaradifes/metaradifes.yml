@@ -1,0 +1,16 @@
+show:
+  year: 2026
+  id: metaradifes
+  cover-image:
+    postximage:
+      post: 1997258646456311954
+      image: G7ewJpQaYAAN7po
+  fullname: TOKYO FM開局55周年記念 BABYMETALのメタラジ！FES
+  shortname: メタラジ！FES
+  date: 2026-03-29
+  categories:
+  - mainshow
+  venue: Tokyo Garden Theater, Tokyo
+  event-page: 'https://tfm.co.jp/metaradi/metaradifes/'
+  part-of:
+    group: 2026_2027

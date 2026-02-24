@@ -28,6 +28,22 @@
         domain: babymetal.com
         id: 297879
 
+- webimage:
+    domain: babymetal.com
+    page: 300255
+    id: poster
+    label: Poster
+    info: additional show
+    published-date: 2026-01-13
+    url: 'https://babymetal.com/contents/1/TO/babymetal_insta45_OSD%20(1).jpg'
+    local-copy: true
+    context:
+    - tour: australia2026
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 300255
+
 - webpage:
     domain: babymetal.com
     id: 297754
@@ -45,6 +61,17 @@
     label: Announcement opening act
     published-date: 2025-11-13
     url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=297879'
+    image:
+    - poster
+    part-of:
+      tour: australia2026
+
+- webpage:
+    domain: babymetal.com
+    id: 300255
+    label: Additional show Sydney
+    published-date: 2026-01-13
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=300255'
     image:
     - poster
     part-of:

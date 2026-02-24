@@ -1,0 +1,18 @@
+show:
+  year: 2026
+  id: kufstein
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 300492
+      id: posterkufstein
+  fullname: Kufstein
+  date: 2026-06-09
+  description:
+  - Headline show
+  categories:
+  - mainshow
+  venue: Festung Kufstein, Kufstein, Austria
+  event-page: 'https://festung-kufstein.live/event/babymetal-festung-kufstein-2026-06-09/'
+  part-of:
+    group: 2026_2027

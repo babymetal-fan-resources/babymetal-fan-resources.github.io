@@ -19,3 +19,118 @@
         id: legendmetalforth
         group: 2025_2026
 
+- webimage:
+    domain: babymetal.com
+    page: 298319
+    id: 1ststage
+    label: Cover
+    published-date: 2025-11-26
+    url: 'https://babymetal.com/contents/1/TO/messageImage_1764168332147_L.jpg'
+    context:
+    - show:
+        year: 2026
+        id: legendmetalforth1
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 298319
+
+- webimage:
+    domain: babymetal.com
+    page: 298319
+    id: cover
+    label: Cover
+    published-date: 2025-11-26
+    url: 'https://babymetal.com/contents/1/TO/Title%20SQ2.png'
+    context:
+    - show:
+        year: 2026
+        id: legendmetalforth1
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 298319
+
+- webimage:
+    domain: babymetal.com
+    page: 299691
+    id: merch
+    label: Merch
+    published-date: 2026-01-06
+    url: 'https://babymetal.com/contents/1/TO/%E3%80%901%E6%9C%886%E6%97%A518%EF%BC%9A00%E8%A7%A3%E7%A6%81%E3%80%91BABYMETAL_26%E5%B9%B41%E6%9C%88%E3%81%95%E3%81%84%E3%82%A2%E3%83%AA%E3%82%AF%E3%82%99%E3%83%83%E3%82%B9%E3%82%99_%E4%BC%9A%E5%A0%B4%E8%B2%A9%E5%A3%B2%E5%91%8A%E7%9F%A5%E6%96%87_%E5%91%8A%E7%9F%A5%E7%94%BB%E5%83%8F.jpg'
+    context:
+    - album: legendmetalgalaxyday1
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 299691
+
+- webimage:
+    domain: babymetal.com
+    page: 300017
+    id: merch
+    label: Merch
+    published-date: 2026-01-06
+    url: 'https://babymetal.com/contents/1/TO/%E3%80%902026%E5%B9%B41%E6%9C%886%E6%97%A518%E6%99%82%E8%A7%A3%E7%A6%81%E3%80%91BABYMETAL%20POP-UP%E3%82%B9%E3%83%88%E3%82%A2%E7%AC%AC2%E5%BC%BE%EF%BC%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%8A%E3%83%83%E3%83%95%E3%82%9A%E8%A9%B3%E7%B4%B0%EF%BC%89%E3%82%AF%E3%82%99%E3%83%83%E3%82%B9%E3%82%99%E4%B8%80%E8%A6%A7.jpg'
+    context:
+    - album: legendmetalgalaxyday1
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 300017
+
+- webimage:
+    domain: babymetal.com
+    page: 300017
+    id: products
+    label: Products
+    published-date: 2026-01-06
+    url: 'https://babymetal.com/contents/1/TO/BM_WT26_JP_KV_TSUTAYA-POPUP_TOKUTEN__FIX_L.jpeg'
+    context:
+    - album: legendmetalgalaxyday1
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 300017
+
+- webpage:
+    domain: babymetal.com
+    id: 298319
+    label: 15 LEGEND SONGS TOURNAMENT announcement
+    published-date: 2025-11-26
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=298319'
+    image:
+    - cover
+    - 1ststage
+    part-of:
+      group:
+        id: legendmetalforth
+        group: 2025_2026
+
+- webpage:
+    domain: babymetal.com
+    id: 299691
+    label: Merch
+    published-date: 2026-01-06
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=299691'
+    image:
+    - merch
+    part-of:
+      group:
+        id: legendmetalforth
+        group: 2025_2026
+
+- webpage:
+    domain: babymetal.com
+    id: 300017
+    label: Pop-up merch
+    published-date: 2026-01-06
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=300017'
+    image:
+    - merch
+    - products
+    part-of:
+      group:
+        id: legendmetalforth
+        group: 2025_2026
+

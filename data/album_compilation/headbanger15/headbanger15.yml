@@ -1,0 +1,16 @@
+album:
+  id: headbanger15
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 299690
+      id: cover
+  fullname: Headbangeeeeerrrrr!!!!! 15th Night Ver.
+  designation: single
+  release-date: 2026-01-07
+  description:
+  - Super-Limited Edition CD, sold only at the pop-up store during Legend Metal Forth.
+  songs:
+  - headbanger
+  part-of:
+    group: album_compilation

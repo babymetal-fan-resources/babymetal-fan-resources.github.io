@@ -1,0 +1,15 @@
+show:
+  year: 2026
+  id: summersonicosaka
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 301498
+      id: lineup
+  fullname: SUMMER SONIC 2025
+  sublabel: Osaka
+  date: 2026-08-16
+  venue: EXPO’70 COMMEMORATIVE PARK
+  event-page: 'https://www.summersonic.com/'
+  part-of:
+    group: 2026_2027

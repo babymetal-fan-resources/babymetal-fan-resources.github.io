@@ -1,0 +1,26 @@
+- webimage:
+    domain: babymetal.com
+    page: 300952
+    id: cover
+    label: Cover
+    published-date: 2026-02-05
+    url: 'https://babymetal.com/contents/1/TO/8678370918.jpeg'
+    local-copy: true
+    context:
+    - album: o2highlights
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 300952
+
+- webpage:
+    domain: babymetal.com
+    id: 300952
+    label: Record Store Day announcement
+    published-date: 2026-02-05
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=300952'
+    image:
+    - cover
+    part-of:
+      album: o2highlights
+

@@ -1,0 +1,42 @@
+- webimage:
+    domain: babymetal.com
+    page: 299690
+    id: cover
+    label: Cover
+    published-date: 2026-01-05
+    url: 'https://babymetal.com/contents/1/TO/Hdbn15_artwork_L.jpg'
+    local-copy: true
+    context:
+    - album: headbanger15
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 299690
+
+- webimage:
+    domain: babymetal.com
+    page: 299690
+    id: jacket
+    label: Jacket
+    published-date: 2026-01-05
+    url: 'https://babymetal.com/contents/1/TO/%E7%89%B9%E6%94%BB%E6%9C%8DKV.jpg'
+    context:
+    - album: headbanger15
+    todo: link to LFM pop-up store
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 299690
+
+- webpage:
+    domain: babymetal.com
+    id: 299690
+    label: Headbangeeeeerrrrr!!!!! 15th Night Ver.
+    published-date: 2026-01-05
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=299690'
+    image:
+    - cover
+    - jacket
+    part-of:
+      album: headbanger15
+

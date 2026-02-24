@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: louderthanlife
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 301636
+      id: poster
+  fullname: Louder Than Life
+  date: 2026-09-19
+  venue: Kentucky Expo Center, Louisville, KY, USA
+  event-page: 'https://louderthanlifefestival.com/'
+  part-of:
+    group: 2026_2027

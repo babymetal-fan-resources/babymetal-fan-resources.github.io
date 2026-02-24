@@ -1,0 +1,15 @@
+show:
+  year: 2026
+  id: summersonictokyo
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 301498
+      id: lineup
+  fullname: SUMMER SONIC 2025
+  sublabel: Tokyo
+  date: 2026-08-15
+  venue: ZOZO Marine Stadium & Makuhari Messe
+  event-page: 'https://www.summersonic.com/'
+  part-of:
+    group: 2026_2027

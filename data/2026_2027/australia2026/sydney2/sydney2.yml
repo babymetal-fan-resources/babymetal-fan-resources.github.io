@@ -1,0 +1,17 @@
+show:
+  year: 2026
+  id: sydney2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 300255
+      id: poster
+  fullname: Sydney, Australia
+  date: 2026-03-19
+  tour: australia2026
+  description:
+  - The additional show was announced on January 13.
+  venue: Hordern Pavilion, Sydney, Australia
+  event-page: 'https://thehordern.com.au/event/babymetal/'
+  part-of:
+    tour: australia2026

@@ -3,7 +3,7 @@ tour:
   cover-image:
     webimage:
       domain: babymetal.com
-      page: 297879
+      page: 300255
       id: poster
   fullname: WORLD TOUR 2026 IN AUSTRALIA
   first-date: 2026-03-12
@@ -19,6 +19,8 @@ tour:
     id: sydney
   - year: 2026
     id: brisbane
+  - year: 2026
+    id: sydney2
   event-page: 'https://babymetal.com/mob/news/diarKijiShw.php?id=297754'
   part-of:
     group: 2026_2027
