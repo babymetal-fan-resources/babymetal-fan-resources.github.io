@@ -1,8 +1,18 @@
-youtubevideo:
-  id: 2IzR_ClTE8Y
-  label: Official Music Video
-  published-date: 2012-11-08
-  context:
-  - song: headbanger
-  part-of:
-    song: headbanger
+- youtubevideo:
+    id: 2IzR_ClTE8Y
+    label: Official Music Video
+    published-date: 2012-11-08
+    context:
+    - song: headbanger
+    part-of:
+      song: headbanger
+
+- youtubevideo:
+    id: R09cXutHYCM
+    label: 15th Night Ver. (OFFICIAL)
+    published-date: 2026-01-05
+    context:
+    - song: headbanger
+    part-of:
+      song: headbanger
+

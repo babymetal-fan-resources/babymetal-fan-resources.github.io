@@ -13,4 +13,4 @@ album:
   songs:
   - headbanger
   part-of:
-    group: album_compilation
+    group: album_single

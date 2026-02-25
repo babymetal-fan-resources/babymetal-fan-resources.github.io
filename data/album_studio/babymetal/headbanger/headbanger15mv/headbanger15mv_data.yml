@@ -1,0 +1,10 @@
+localimage:
+  multimedia-event: headbanger15mv
+  id: covermv
+  label: MV cover
+  published-date: 2026-01-05
+  source:
+    description: YouTube video
+    url: 'https://www.youtube.com/watch?v=R09cXutHYCM'
+  part-of:
+    multimedia-event: headbanger15mv

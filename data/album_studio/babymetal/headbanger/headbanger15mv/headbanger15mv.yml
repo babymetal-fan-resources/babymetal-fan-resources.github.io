@@ -1,0 +1,13 @@
+multimedia-event:
+  id: headbanger15mv
+  cover-image:
+    localimage:
+      multimedia-event: headbanger15mv
+      id: covermv
+  youtubevideo: R09cXutHYCM
+  parent:
+    song: headbanger
+  categories:
+  - video
+  part-of:
+    song: headbanger

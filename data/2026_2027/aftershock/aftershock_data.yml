@@ -1,0 +1,34 @@
+- postx:
+    id: 2026356739054919938
+    account: AFTERSHOCKSAC
+    label: Lineup teaser
+    published-date: 2026-02-24
+    text: |-
+      Four clues, one lineup reveal incoming. 
+      
+      One wears a mask.
+      One fights for air.
+      One can’t stay awake.
+      One still wants to be found.
+      
+      Start guessing ⬇️ Full Lineup lands March 4 at 11 am PT.
+    image:
+    - HB8OUhiXUAA6KL0
+    part-of:
+      show:
+        year: 2026
+        id: aftershock
+
+- postximage:
+    post: 2026356739054919938
+    id: HB8OUhiXUAA6KL0
+    label: Lineup teaser
+    published-date: 2026-02-24
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: aftershock
+    part-of:
+      postx: 2026356739054919938
+
