@@ -303,6 +303,60 @@
         year: 2025
         id: specialarenashowusa
 
+- postx:
+    id: 1998996418216779884
+    account: BABYMETAL_JAPAN
+    label: Live viewing merch sale
+    published-date: 2025-12-11
+    text: |-
+      ⚡グッズ情報⚡
+       #BABYMETAL WORLD TOUR 2025-2026
+      SPECIAL ARENA SHOW IN US INTUIT DOME
+      LIVE VIEWING
+      
+      映画館限定デザイングッズの事後通販が決定🎉
+      12/12(金)19時より販売開始いたします🦊
+      
+      ●A!SMART(アスマート)内 BABYMETAL SHOP
+      https://asmart.jp/babymetal/
+      
+      是非この機会にお買い求め下さい！
+    translation: |-
+      ⚡Goods Info⚡
+       #BABYMETAL WORLD TOUR 2025-2026
+      SPECIAL ARENA SHOW IN US INTUIT DOME
+      LIVE VIEWING
+      
+      Post-event online sales for movie theater exclusive design goods have been confirmed🎉
+      Sales will begin on 12/12 (Fri) at 19:00🦊
+      
+      ●BABYMETAL SHOP within A!SMART
+      https://asmart.jp/babymetal/
+      
+      Please take this opportunity to make your purchase!
+    image:
+    - G73INQtbYAA9R9W
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- postx:
+    id: 2011680272971153888
+    account: BABYMETAL_JAPAN
+    label: ANA collab
+    published-date: 2026-01-15
+    text: |-
+      "BABYMETAL SPECIAL US ARENA SHOW 2025 IN Los Angeles" supported by ANA￼
+      ANAのSNSアンバサダー そらっち です￼￼！
+      I'm Soracchi, ANA's social media ambassador￼
+    video:
+    - 01
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
 - postximage:
     post: 1973342131692745107
     id: G2KkXYFaIAY_zoq
@@ -511,6 +565,18 @@
     part-of:
       postx: 1985164185937031551
 
+- postximage:
+    post: 1998996418216779884
+    id: G73INQtbYAA9R9W
+    label: 'Live viewing merch '
+    published-date: 2025-12-11
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 1998996418216779884
+
 - postxvideo:
     post: 1986290916827558196
     id: 01
@@ -523,6 +589,20 @@
         id: specialarenashowusa
     part-of:
       postx: 1986290916827558196
+
+- postxvideo:
+    post: 2011680272971153888
+    id: 01
+    label: With Soracchi
+    info: ANA's social media ambassador
+    published-date: 2026-01-15
+    cover: 2011622834842619904/img/6ENEkjhnETMwct0E.jpg
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 2011680272971153888
 
 - webimage:
     domain: babymetal.com

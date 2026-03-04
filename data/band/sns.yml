@@ -1,0 +1,31 @@
+- group:
+    id: sns
+    label: SNS
+    part-of:
+      group: band
+
+- postx:
+    id: 2006380177358795138
+    account: BABYMETAL_JAPAN
+    label: Happy new year
+    published-date: 2026-01-01
+    text: |-
+      Happy New Year 🦊
+      #2026
+    image:
+    - G9gYI0AXwAAYyP5
+    part-of:
+      group:
+        id: sns
+        group: band
+
+- postximage:
+    post: 2006380177358795138
+    id: G9gYI0AXwAAYyP5
+    label: Teaser
+    published-date: 2026-01-01
+    context:
+    - song: headbanger
+    part-of:
+      postx: 2006380177358795138
+

@@ -1,0 +1,53 @@
+- postx:
+    id: 2010368249599529111
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-01-11
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2025-2026 SPECIAL ARENA SHOW IN JAPAN LEGEND - METAL FORTH DAY2￼
+      See you there!!￼￼￼
+    image:
+    - G-Y_9UKbwAALkg_
+    - G-Y_mACacAA8Qax
+    - G-ZA4N1akAAWsfq
+    part-of:
+      show:
+        year: 2026
+        id: legendmetalforth2
+
+- postximage:
+    post: 2010368249599529111
+    id: G-Y_9UKbwAALkg_
+    label: On stage
+    published-date: 2026-01-11
+    context:
+    - show:
+        year: 2026
+        id: legendmetalforth2
+    part-of:
+      postx: 2010368249599529111
+
+- postximage:
+    post: 2010368249599529111
+    id: G-Y_mACacAA8Qax
+    label: On stage
+    published-date: 2026-01-11
+    context:
+    - show:
+        year: 2026
+        id: legendmetalforth2
+    part-of:
+      postx: 2010368249599529111
+
+- postximage:
+    post: 2010368249599529111
+    id: G-ZA4N1akAAWsfq
+    label: At the venue
+    published-date: 2026-01-11
+    context:
+    - show:
+        year: 2026
+        id: legendmetalforth2
+    part-of:
+      postx: 2010368249599529111
+

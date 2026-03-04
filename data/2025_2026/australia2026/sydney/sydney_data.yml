@@ -1,0 +1,29 @@
+- postx:
+    id: 2001895275561103396
+    account: BABYMETAL_JAPAN
+    label: Sold out
+    published-date: 2025-12-19
+    text: |-
+      Sydney is now "sold out" !!!!!
+      Are you ready to headbang!?￼￼￼
+      Join the waitlist for any further show announcements and ticket releases -- http://destroyalllines.com
+    image:
+    - G8fzb3SaMAAmBed
+    part-of:
+      show:
+        year: 2026
+        id: sydney
+
+- postximage:
+    post: 2001895275561103396
+    id: G8fzb3SaMAAmBed
+    label: Poster sold out
+    published-date: 2026-02-25
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: sydney
+    part-of:
+      postx: 2001895275561103396
+

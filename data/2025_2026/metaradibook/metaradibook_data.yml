@@ -1,0 +1,50 @@
+- postx:
+    id: 2015016857921835342
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2026-01-24
+    text: |-
+      ⚡️📕「BABYMETALのメタラジ！BOOK」発売決定📕⚡️
+      2025.12月までに番組に登場した超豪華16組のゲストたちとのトークを収録📻
+      さらに、今回のために撮り下ろしたビジュアルとインタビューも収録したスペシャルな一冊DEATH!!
+      
+      🗓️発売日：2026.3.31(火)
+      🔗https://tfm.co.jp/metaradi/metaradibook/
+      
+      #BABYMETAL #メタラジ
+      @metaradi_tfm
+       
+      @kadokawa_nf
+    translation: |-
+      ⚡️📕「BABYMETAL's Metaradi! BOOK」Release Confirmed📕⚡️
+      Recording talks with 16 ultra-luxurious guests who appeared on the program through Dec 2025📻
+      Furthermore, it's a special book featuring newly taken visuals and interviews just for this release DEATH!!
+      
+      🗓️Release Date: 2026.3.31(Tue)
+      🔗https://tfm.co.jp/metaradi/metaradibook/
+      
+      #BABYMETAL #Metaradi
+      @metaradi_tfm
+       
+      @kadokawa_nf
+    image:
+    - G_a3w7EbsAAvkYX
+    todo: add webpage
+    part-of:
+      media:
+        year: 2026
+        id: metaradibook
+
+- postximage:
+    post: 2015016857921835342
+    id: G_a3w7EbsAAvkYX
+    label: Cover
+    published-date: 2026-01-24
+    local-copy: true
+    context:
+    - media:
+        year: 2026
+        id: metaradibook
+    part-of:
+      postx: 2015016857921835342
+

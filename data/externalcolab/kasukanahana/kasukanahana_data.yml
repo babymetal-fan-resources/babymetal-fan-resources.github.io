@@ -1,0 +1,130 @@
+- postx:
+    id: 2002252624087654673
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2025-12-20
+    text: |-
+      2026.1.11(日)23:45よりテレ東系他にて放送開始となるアニメ「地獄楽」第2期のオープニングテーマを担当するキ
+      タニタツヤさんのfeaturingアーティストにBABYMETALが決定DEATH!!
+      
+      📺TVアニメ「地獄楽」第2期 第2弾PV｜OPテーマ「かすかなはな」キタニタツヤ feat. BABYMETAL
+      https://youtu.be/JLe_NUnAZVs
+      
+      📺TVアニメ「地獄楽」公式サイト
+      https://jigokuraku.com
+      
+      @TatsuyaKitani
+       
+      @TatsuyaKitani2
+       
+      @jplus_jigokurak
+    translation: |-
+      BABYMETAL has been selected as the featuring artist for Tatsuya Kitani, who will perform the opening theme for the second season of the anime "Hell's Paradise," starting January 11, 2026 (Sun) at 23:45 on TV Tokyo and other networks DEATH!!
+      
+      📺TV Anime "Hell's Paradise" Season 2 2nd PV | OP Theme "Kasuka na Hana" Tatsuya Kitani feat. BABYMETAL
+      https://youtu.be/JLe_NUnAZVs
+      
+      📺TV Anime "Hell's Paradise" Official Website
+      https://jigokuraku.com
+      
+      @TatsuyaKitani
+       
+      @TatsuyaKitani2
+       
+      @jplus_jigokurak
+    image:
+    - G8iaIavb0AEWW4O
+    part-of:
+      song: kasukanahana
+
+- postx:
+    id: 2009550724188025055
+    account: BABYMETAL_JAPAN
+    label: Streaming release announcement
+    published-date: 2026-01-09
+    text: |-
+      2026.1.11(日)23:45よりテレ東系他にて放送開始となるTVアニメ『地獄楽』第二期オープニングテーマ「かすかなはな feat. BABYMETAL」2026.1.12(月・祝)配信決定DEATH !!
+      🎵 https://Tatsuya-Kitani.lnk.to/KasukanaHana 🎵
+    translation: |-
+      TV anime "Hell's Paradise" Season 2 opening theme "Kasukana Hana feat. BABYMETAL," which begins broadcasting on TV Tokyo and other stations from 23:45 on Sunday, 2026.1.11, will be available for streaming on 2026.1.12 (Mon/Holiday) DEATH !!
+      🎵 https://Tatsuya-Kitani.lnk.to/KasukanaHana 🎵
+    image:
+    - G-NFldpaIAAtG1r
+    part-of:
+      song: kasukanahana
+
+- postx:
+    id: 2019697580847030570
+    account: BABYMETAL_JAPAN
+    label: CD release announcement
+    published-date: 2026-02-06
+    text: |-
+      TVアニメ「#地獄楽 」第二期オープニングテーマ「 #かすかなはな 」CD
+      2026.3.11(水)発売決定DEATH!!
+      
+      💿キタニタツヤ feat. BABYMETAL「かすかなはな」
+      
+      CD予約：https://KITANITATSUYA.lnk.to/KasukanaHana_PanaHana_PKG
+      Streaming / Download：
+       https://Tatsuya-Kitani.lnk.to/KasukanaHana
+      #HellsParadise
+    translation: |-
+      TV Anime "#Hell's Paradise" Season 2 Opening Theme "#KasukanaHana" CD
+      Release confirmed for 2026.3.11 (Wed) DEATH!!
+      
+      💿Tatsuya Kitani feat. BABYMETAL "Kasukana Hana"
+      
+      CD Pre-order: https://KITANITATSUYA.lnk.to/KasukanaHana_PanaHana_PKG
+      Streaming / Download:
+       https://Tatsuya-Kitani.lnk.to/KasukanaHana
+      #HellsParadise
+    image:
+    - HAdn2dGb0AAPFBD
+    part-of:
+      song: kasukanahana
+    reference:
+    - postximage:
+        post: 2009550724188025055
+        image: G-NFldpaIAAtG1r
+
+- postximage:
+    post: 2002252624087654673
+    id: G8iaIavb0AEWW4O
+    label: Poster
+    published-date: 2025-12-20
+    context:
+    - song: kasukanahana
+    part-of:
+      postx: 2002252624087654673
+
+- postximage:
+    post: 2009550724188025055
+    id: G-NFldpaIAAtG1r
+    label: Cover
+    published-date: 2026-01-09
+    local-copy: true
+    context:
+    - song: kasukanahana
+    part-of:
+      postx: 2009550724188025055
+
+- postximage:
+    post: 2019697580847030570
+    id: HAdn2dGb0AAPFBD
+    label: Cover
+    published-date: 2026-02-06
+    context:
+    - song: kasukanahana
+    todo: switch cover ?
+    part-of:
+      postx: 2019697580847030570
+
+- youtubevideo:
+    id: gHIA3Mhc618
+    label: non-credit opening
+    published-date: 2026-01-11
+    context:
+    - song: kasukanahana
+    part-of:
+      song: kasukanahana
+

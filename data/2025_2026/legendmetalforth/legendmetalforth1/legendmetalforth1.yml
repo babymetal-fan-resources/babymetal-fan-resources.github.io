@@ -2,11 +2,9 @@ show:
   year: 2026
   id: legendmetalforth1
   cover-image:
-    localimage:
-      show:
-        year: 2026
-        id: legendmetalforth1
-      id: cover
+    postximage:
+      post: 2009207514987151539
+      image: G-IjXp6bwAAaq5m
   fullname: LEGEND - METAL FORTH
   sublabel: Special Arena Show in Japan
   date: 2026-01-10

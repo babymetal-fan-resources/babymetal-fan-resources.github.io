@@ -1,0 +1,21 @@
+mediawritten:
+  year: 2026
+  id: metaradibook
+  cover-image:
+    postximage:
+      post: 2015016857921835342
+      image: G_a3w7EbsAAvkYX
+  publication: BABYMETALのメタラジ！
+  issue: BOOK
+  designation: book
+  member:
+  - SU-METAL
+  - MOAMETAL
+  - MOMOMETAL
+  published-date: 2026-03-31
+  webpage: 'https://tfm.co.jp/metaradi/metaradibook/'
+  todo: adds optional specified name support
+  part-of:
+    group: 2025_2026
+  categories:
+  - mediummedia

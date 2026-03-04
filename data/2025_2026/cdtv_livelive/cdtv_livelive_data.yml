@@ -1,0 +1,26 @@
+- webimage:
+    domain: tbs.co.jp
+    page: cdtv_livelive
+    id: logo
+    label: Logo
+    published-date: 2026-02-16
+    url: 'http://www.tbs.co.jp/cdtv_livelive/img/ogp.png'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: tbs.co.jp
+        id: cdtv_livelive
+
+- webpage:
+    domain: tbs.co.jp
+    id: cdtv_livelive
+    label: Program page
+    published-date: 2026-02-16
+    url: 'https://www.tbs.co.jp/cdtv_livelive/'
+    image:
+    - logo
+    part-of:
+      media:
+        year: 2026
+        id: cdtv_livelive
+

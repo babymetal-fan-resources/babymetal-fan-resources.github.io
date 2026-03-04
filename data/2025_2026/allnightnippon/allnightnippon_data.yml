@@ -1,0 +1,26 @@
+- webimage:
+    domain: allnightnippon.com
+    page: kitani
+    id: flyer
+    label: Flyer
+    published-date: 2026-01-26
+    url: 'https://www.allnightnippon.com/wp/assets/uploads/2025/03/fd5ba4cf11207be8f386d2ab3cca255d.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: allnightnippon.com
+        id: kitani
+
+- webpage:
+    domain: allnightnippon.com
+    id: kitani
+    label: Host page
+    published-date: 2026-01-26
+    url: 'https://www.allnightnippon.com/kitani/'
+    image:
+    - flyer
+    part-of:
+      media:
+        year: 2026
+        id: allnightnippon
+

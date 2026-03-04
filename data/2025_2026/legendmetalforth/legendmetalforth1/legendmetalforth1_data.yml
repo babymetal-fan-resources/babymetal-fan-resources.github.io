@@ -1,0 +1,101 @@
+- postx:
+    id: 2009957158784557347
+    account: UNIVERSAL_INTER
+    label: Thank you
+    published-date: 2026-01-10
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2025-2026 SPECIAL ARENA SHOW IN JAPAN LEGEND - METAL FORTH DAY1 !!
+      
+      明日のグッズ販売整理券は9:00より
+      【超MOSH'SH PIT・SEAT用整理券】 Bゲート横階段付近
+      【そのほか一般チケット用整理券】 Aゲート横階段付近
+      で配布いたします
+      
+      商品は公演ごとに在庫をご用意していますので、
+      本日ソールドアウトした商品も明日も販売いたします
+      なお、グッズ販売は当日の公演チケットをお持ちのお客様のみご利用いただけます
+      
+      1.11(日)公演のチケット追加販売中!!!💨💨
+      https://w.pia.jp/t/babymetal-s/
+    translation: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2025-2026 SPECIAL ARENA SHOW IN JAPAN LEGEND - METAL FORTH DAY1 !!
+      
+      Tomorrow's merchandise sales numbered tickets will be distributed from 9:00 at:
+      [Numbered tickets for CHO MOSH'SH PIT/SEAT] Near the stairs next to Gate B
+      [Numbered tickets for other general tickets] Near the stairs next to Gate A
+      
+      Stock is prepared for each performance,
+      so items that sold out today will be available for sale tomorrow as well.
+      Please note that merchandise sales are only available to customers holding a ticket for that day's performance.
+      
+      Additional tickets for the 1.11 (Sun) performance are now on sale!!!💨💨
+      https://w.pia.jp/t/babymetal-s/
+    image:
+    - G-TNCoNasAIsfeE
+    part-of:
+      show:
+        year: 2026
+        id: legendmetalforth1
+
+- postx:
+    id: 2010268826290794821
+    account: UNIVERSAL_INTER
+    label: Setlist on streaming services
+    published-date: 2026-03-04
+    text: |-
+      ◢◤
+      　#BABYMETAL 
+      　ライブセットリスト公開中🚨
+      ◥◣
+       
+       さいたまスーパーアリーナ公演セットリストを各音楽配信サービスで公開中💥
+      
+      ライブに行かれた方も行かれなかった方も要チェック！
+       
+      ▼今すぐ試聴
+      https://umj.lnk.to/THESETLIST_BABYMETAL
+      @BABYMETAL_JAPAN
+    translation: |-
+      ◢◤
+      　#BABYMETAL 
+      　Live Setlist Now Available🚨
+      ◥◣
+       
+       The Saitama Super Arena performance setlist is now available on various music streaming services💥
+      
+      A must-check whether you went to the show or not!
+       
+      ▼ Listen now
+      https://umj.lnk.to/THESETLIST_BABYMETAL
+      @BABYMETAL_JAPAN
+    image:
+    - G-Xo11xasAMh4uA
+    part-of:
+      show:
+        year: 2026
+        id: legendmetalforth1
+
+- postximage:
+    post: 2009957158784557347
+    id: G-TNCoNasAIsfeE
+    label: At the venue
+    published-date: 2026-01-10
+    context:
+    - show:
+        year: 2026
+        id: legendmetalforth1
+    part-of:
+      postx: 2009957158784557347
+
+- postximage:
+    post: 2010268826290794821
+    id: G-Xo11xasAMh4uA
+    label: Setlist cover
+    published-date: 2026-01-11
+    context:
+    - show:
+        year: 2026
+        id: legendmetalforth1
+    part-of:
+      postx: 2010268826290794821
+

@@ -2,10 +2,9 @@ show:
   year: 2026
   id: sydney
   cover-image:
-    webimage:
-      domain: babymetal.com
-      page: 297879
-      id: poster
+    postximage:
+      post: 2001895275561103396
+      image: G8fzb3SaMAAmBed
   fullname: Sydney, Australia
   date: 2026-03-20
   tour: australia2026

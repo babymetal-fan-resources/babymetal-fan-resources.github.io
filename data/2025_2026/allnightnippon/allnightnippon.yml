@@ -1,0 +1,20 @@
+mediaaudio:
+  year: 2026
+  id: allnightnippon
+  cover-image:
+    webimage:
+      domain: allnightnippon.com
+      page: kitani
+      id: flyer
+  radio: ニッポン放送
+  show: All Night Nippon
+  designation: radio show
+  member:
+  - SU-METAL
+  - MOAMETAL
+  - MOMOMETAL
+  published-date: 2026-02-02
+  host: Tatsuya Kitani
+  program: 'https://www.allnightnippon.com/kitani/'
+  part-of:
+    group: 2025_2026

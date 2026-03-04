@@ -1,0 +1,26 @@
+- webimage:
+    domain: web.nhk
+    page: venue101
+    id: flyer
+    label: Flyer
+    published-date: 2026-02-20
+    url: 'https://imgu.web.nhk/static/assets/images/tvseries/ts/WX1N9WR8GY/WX1N9WR8GY-eyecatch_c74b5c99c559239dd0e9ec0d2720a6ff.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: web.nhk
+        id: venue101
+
+- webpage:
+    domain: web.nhk
+    id: venue101
+    label: Show page
+    published-date: 2026-02-20
+    url: 'https://www.web.nhk/tv/an/venue101/pl/series-tep-WX1N9WR8GY'
+    image:
+    - flyer
+    part-of:
+      media:
+        year: 2026
+        id: venue101
+

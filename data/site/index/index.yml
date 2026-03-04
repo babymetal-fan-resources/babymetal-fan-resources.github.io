@@ -19,6 +19,7 @@ contentpage:
   - album
   isSmallMarker:
   - show
+  - mediummedia
   isLeftMarker:
   - audiomedia
   - event
@@ -82,6 +83,9 @@ contentpage:
       year: 2026
       id: swedenrock
   - album: o2highlights
+  - media:
+      year: 2026
+      id: metaradibook
   - show:
       year: 2026
       id: metaradifes
@@ -104,14 +108,60 @@ contentpage:
       year: 2026
       id: perth
   - tour: australia2026
+  - media:
+      year: 2026
+      id: cdtv_livelive
+  - media:
+      year: 2026
+      id: venue101
+  - media:
+      year: 2026
+      id: metaradi0221
+  - media:
+      year: 2026
+      id: metaradi0214
+  - media:
+      year: 2026
+      id: metaradi0207
+  - media:
+      year: 2026
+      id: allnightnippon
+  - media:
+      year: 2026
+      id: metaradi0131
+  - media:
+      year: 2026
+      id: metaradi0124
+  - media:
+      year: 2026
+      id: metaradi0117
+  - song: kasukanahana
   - show:
       year: 2026
       id: legendmetalforth2
   - show:
       year: 2026
       id: legendmetalforth1
+  - media:
+      year: 2026
+      id: metaradi0110
   - album: headbanger15
   - multimedia-event: headbanger15mv
+  - media:
+      year: 2026
+      id: metaradi0103
+  - media:
+      year: 2025
+      id: metaradi1227
+  - media:
+      year: 2025
+      id: metaradi1220
+  - media:
+      year: 2025
+      id: metaradi1213
+  - media:
+      year: 2025
+      id: metaradi1206
   - media:
       year: 2025
       id: metaradi1122

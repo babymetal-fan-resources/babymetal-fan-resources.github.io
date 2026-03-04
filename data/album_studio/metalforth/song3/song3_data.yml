@@ -204,6 +204,35 @@
         ol:
         - 1!2!3! 1!2!3! 1!2!3! 1!2!3! 1!2! Thunder!
 
+- postx:
+    id: 2019613645861450182
+    account: BABYMETAL_JAPAN
+    label: 10m views
+    published-date: 2026-02-06
+    text: |-
+      🔥1000万回 動画再生突破！🔥
+      Thank(3) you for 10,000,000 views on YouTube!!
+      
+      BABYMETAL x Slaughter to Prevail - Song 3 (OFFICIAL MUSIC VIDEO)
+      🎦https://shorturl.at/bKsTF
+      
+      #BABYMETAL #song3 #METALFORTH 
+      @STPmetal
+    image:
+    - HAcbBcZboAA9Q7S
+    part-of:
+      song: song3
+
+- postximage:
+    post: 2019613645861450182
+    id: HAcbBcZboAA9Q7S
+    label: 10m views
+    published-date: 2026-02-06
+    context:
+    - song: song3
+    part-of:
+      postx: 2019613645861450182
+
 - postyoutube:
     id: Ugkx9s1Spc90uUxKTukNacDarzBVcwTnHXKc
     account: BABYMETAL

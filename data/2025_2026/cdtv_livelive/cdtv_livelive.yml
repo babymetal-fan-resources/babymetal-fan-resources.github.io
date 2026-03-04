@@ -1,0 +1,20 @@
+mediavideo:
+  year: 2026
+  id: cdtv_livelive
+  cover-image:
+    webimage:
+      domain: tbs.co.jp
+      page: cdtv_livelive
+      id: logo
+  channel: TBS
+  show: CDTV ライブ! ライブ!
+  designation: tv show
+  member:
+  - SU-METAL
+  - MOAMETAL
+  - MOMOMETAL
+  - キタニタツヤ
+  published-date: 2026-03-09
+  program: 'https://www.tbs.co.jp/cdtv_livelive/'
+  part-of:
+    group: 2025_2026

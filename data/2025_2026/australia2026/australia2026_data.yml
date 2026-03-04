@@ -1,3 +1,27 @@
+- postx:
+    id: 2017795044791775542
+    account: BABYMETAL_JAPAN
+    label: VIP tickets
+    published-date: 2026-02-01
+    text: |-
+      VIP tickets for BABYMETAL WORLD TOUR 2026 IN AUSTRALIA are on sale now.
+      Secure your ultimate concert experience￼
+      https://please.co/ja-jp/products/babymetal-aus-upgrades-2026…
+    image:
+    - HAABUb1bEAIDTRX
+    part-of:
+      tour: australia2026
+
+- postximage:
+    post: 2017795044791775542
+    id: HAABUb1bEAIDTRX
+    label: VIP tickets
+    published-date: 2026-02-01
+    context:
+    - tour: australia2026
+    part-of:
+      postx: 2017795044791775542
+
 - webimage:
     domain: babymetal.com
     page: 297754

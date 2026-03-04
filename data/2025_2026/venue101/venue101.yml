@@ -1,0 +1,22 @@
+mediavideo:
+  year: 2026
+  id: venue101
+  cover-image:
+    webimage:
+      domain: web.nhk
+      page: venue101
+      id: flyer
+  channel: NHK
+  show: Venue101
+  designation: tv show
+  member:
+  - キタニタツヤ
+  - SU-METAL
+  - MOAMETAL
+  - MOMOMETAL
+  published-date: 2026-02-28
+  host: 濱家 隆一 (Ryuichi Hamaya), 生田 絵梨花 (Erika Ikuta)
+  program: 'https://www.web.nhk/tv/an/venue101/pl/series-tep-WX1N9WR8GY'
+  webpage: 'https://www.web.nhk/tv/an/venue101/pl/series-tep-WX1N9WR8GY/ep/BXP76WXJG2'
+  part-of:
+    group: 2025_2026
