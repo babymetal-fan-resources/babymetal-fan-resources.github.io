@@ -19,6 +19,21 @@
         id: sns
         group: band
 
+- postx:
+    id: 2028485490190782644
+    account: BABYMETAL_JAPAN
+    label: MOMOMETAL birthday
+    published-date: 2026-03-03
+    text: |-
+      Happy Birthday MOMOMETAL  
+      #BABYMETAL
+    image:
+    - HCYAcJ1acAAR5hz
+    part-of:
+      group:
+        id: sns
+        group: band
+
 - postximage:
     post: 2006380177358795138
     id: G9gYI0AXwAAYyP5
@@ -28,4 +43,12 @@
     - song: headbanger
     part-of:
       postx: 2006380177358795138
+
+- postximage:
+    post: 2028485490190782644
+    id: HCYAcJ1acAAR5hz
+    label: MOMOMETAL birthday
+    published-date: 2026-03-03
+    part-of:
+      postx: 2028485490190782644
 

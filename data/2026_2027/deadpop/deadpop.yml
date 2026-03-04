@@ -1,0 +1,15 @@
+show:
+  year: 2026
+  id: deadpop
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 301738
+      id: poster
+  fullname: SiM presents DEAD POP FESTiVAL 2026
+  shortname: DEAD POP FESTiVAL
+  date: 2026-04-04
+  venue: Kawasaki City Higashi-Ogishima East Park, Kawasaki
+  event-page: 'https://deadpopfest.com/'
+  part-of:
+    group: 2026_2027

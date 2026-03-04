@@ -2,13 +2,12 @@ show:
   year: 2026
   id: aftershock
   cover-image:
-    postximage:
-      post: 2026356739054919938
-      image: HB8OUhiXUAA6KL0
+    webimage:
+      domain: babymetal.com
+      page: 301948
+      id: poster
   fullname: Aftershock
   date: 2026-10-03
-  description:
-  - This show has not been confirmed yet, but the lineup teaser poster shows a megitsune mask.
   venue: Discovery Park, Sacramento, CA, USA
   event-page: 'https://aftershockfestival.com/'
   part-of:

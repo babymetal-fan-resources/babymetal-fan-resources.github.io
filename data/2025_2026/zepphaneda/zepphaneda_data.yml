@@ -1,0 +1,79 @@
+- postx:
+    id: 2027217122619978008
+    account: BABYMETAL_JAPAN
+    label: THE ONE oversea lottery
+    published-date: 2026-02-27
+    text: |-
+      「BABYMETAL WORLD TOUR 2026 IN JAPAN」開催決定DEATH!!🦊
+      本日12:00よりTHE ONE先行・THE ONE OVERSEAS TICKET PREORDER (LOTTERY) 受付スタート!!
+      🔗https://babymetal.com/BABYMETAL_WORLD_TOUR_2026_IN_JAPAN/
+      
+      🗓️Information
+      📍Zepp Haneda (Tokyo)
+      2026.3.30(月)OPEN 18:00 / START 19:00
+      
+      💃OPENING ACT：METALVERSE
+      
+      🎫THE ONE先行
+      ⚠️「THE ONE (2025)」登録済の方が対象
+      受付期間：2026.2.27(金) 12:00～3.2(月) 23:59
+      https://babymetal.com/theone_2025/
+      
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+    translation: |-
+      "BABYMETAL WORLD TOUR 2026 IN JAPAN" confirmed DEATH!!🦊
+      THE ONE Pre-order and THE ONE OVERSEAS TICKET PREORDER (LOTTERY) start today from 12:00!!
+      🔗https://babymetal.com/BABYMETAL_WORLD_TOUR_2026_IN_JAPAN/
+      
+      🗓️Information
+      📍Zepp Haneda (Tokyo)
+      2026.3.30 (Mon) OPEN 18:00 / START 19:00
+      
+      💃OPENING ACT：METALVERSE
+      
+      🎫THE ONE Pre-order
+      ⚠️Applicable to those registered for "THE ONE (2025)"
+      Application Period: 2026.2.27 (Fri) 12:00～3.2 (Mon) 23:59
+      https://babymetal.com/theone_2025/
+      
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+    part-of:
+      show:
+        year: 2026
+        id: zepphaneda
+    reference:
+    - webimage:
+        domain: babymetal.com
+        page: 301523
+        id: poster
+
+- webimage:
+    domain: babymetal.com
+    page: 301523
+    id: poster
+    label: Poster
+    published-date: 2026-02-27
+    url: 'https://babymetal.com/contents/1/TO/9526378743.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 301523
+
+- webpage:
+    domain: babymetal.com
+    id: 301523
+    label: Announcement
+    published-date: 2026-02-27
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=301523'
+    image:
+    - poster
+    part-of:
+      show:
+        year: 2026
+        id: zepphaneda
+

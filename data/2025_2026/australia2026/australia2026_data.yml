@@ -12,6 +12,22 @@
     part-of:
       tour: australia2026
 
+- postx:
+    id: 2026902924924944494
+    account: BABYMETAL_JAPAN
+    label: Teaser
+    published-date: 2026-02-26
+    text: |-
+      AUSTRALIA! Our tour with support from 
+      @bloodywood
+       and 
+      @magnoliapark
+       starts in 2 weeks! Get tickets and VIP now at http://babymetal.com/tour !
+    video:
+    - 01
+    part-of:
+      tour: australia2026
+
 - postximage:
     post: 2017795044791775542
     id: HAABUb1bEAIDTRX
@@ -21,6 +37,17 @@
     - tour: australia2026
     part-of:
       postx: 2017795044791775542
+
+- postxvideo:
+    post: 2026902924924944494
+    id: 01
+    label: Teaser
+    published-date: 2026-02-26
+    cover: 2026901435452194816/img/sPi7m6CnOtklS_ES.jpg
+    context:
+    - tour: australia2026
+    part-of:
+      postx: 2026902924924944494
 
 - webimage:
     domain: babymetal.com

@@ -83,9 +83,15 @@ contentpage:
       year: 2026
       id: swedenrock
   - album: o2highlights
+  - show:
+      year: 2026
+      id: deadpop
   - media:
       year: 2026
       id: metaradibook
+  - show:
+      year: 2026
+      id: zepphaneda
   - show:
       year: 2026
       id: metaradifes
@@ -114,6 +120,9 @@ contentpage:
   - media:
       year: 2026
       id: venue101
+  - media:
+      year: 2026
+      id: metaradi0228
   - media:
       year: 2026
       id: metaradi0221

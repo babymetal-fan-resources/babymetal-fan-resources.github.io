@@ -1,3 +1,60 @@
+- display:
+    media:
+      year: 2026
+      id: venue101
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: On set
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2027775470931169485
+                    image: HCQao-ZaEAAC-0r
+    part-of:
+      media:
+        year: 2026
+        id: venue101
+
+- postx:
+    id: 2027775470931169485
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-02-28
+    text: |-
+      Thank you Venue101 !!! ￼
+      Thank you 
+      @hamaitachi
+       
+      @ikuta_staff
+       
+      
+      #BABYMETAL 
+      @nhk_venue101
+    image:
+    - HCQao-ZaEAAC-0r
+    part-of:
+      media:
+        year: 2026
+        id: venue101
+
+- postximage:
+    post: 2027775470931169485
+    id: HCQao-ZaEAAC-0r
+    label: On set
+    info: BABYMETAL, 生田 絵梨花, 濱家 隆一
+    published-date: 2026-03-04
+    context:
+    - media:
+        year: 2026
+        id: venue101
+    part-of:
+      postx: 2027775470931169485
+
 - webimage:
     domain: web.nhk
     page: venue101

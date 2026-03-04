@@ -24,11 +24,36 @@
     id: HB8OUhiXUAA6KL0
     label: Lineup teaser
     published-date: 2026-02-24
-    local-copy: true
     context:
     - show:
         year: 2026
         id: aftershock
     part-of:
       postx: 2026356739054919938
+
+- webimage:
+    domain: babymetal.com
+    page: 301948
+    id: poster
+    label: Poster
+    published-date: 2026-03-05
+    url: 'https://babymetal.com/contents/1/TO/AS26_MAINFEED__1080x1350.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 301948
+
+- webpage:
+    domain: babymetal.com
+    id: 301948
+    label: Announcement
+    published-date: 2026-03-05
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=301948'
+    image:
+    - poster
+    part-of:
+      show:
+        year: 2026
+        id: aftershock
 

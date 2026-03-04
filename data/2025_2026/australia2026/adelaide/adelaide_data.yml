@@ -1,0 +1,25 @@
+- postx:
+    id: 2027273507663720666
+    account: BABYMETAL_JAPAN
+    label: Sold out
+    published-date: 2026-02-27
+    text: |-
+      The Adelaide Show is SOLD OUT !!!￼
+    image:
+    - HCJLQwwaMAAIB0Q
+    part-of:
+      show:
+        year: 2026
+        id: adelaide
+
+- postximage:
+    post: 2027273507663720666
+    id: HCJLQwwaMAAIB0Q
+    label: Poster
+    published-date: 2026-02-27
+    context:
+    - tour: australia2026
+    todo: switch tour to this poster ?
+    part-of:
+      postx: 2027273507663720666
+

@@ -1,0 +1,59 @@
+- update:
+    show:
+      year: 2026
+      id: deadpop
+    date: 2026-03-04
+    text:
+    - Added the show
+    part-of:
+      show:
+        year: 2026
+        id: deadpop
+
+- webimage:
+    domain: babymetal.com
+    page: 301738
+    id: bandposter
+    label: Band poster
+    published-date: 2026-02-26
+    url: 'https://babymetal.com/contents/1/TO/DPF26_Artists_BABYMETAL.jpg'
+    context:
+    - show:
+        year: 2026
+        id: deadpop
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 301738
+
+- webimage:
+    domain: babymetal.com
+    page: 301738
+    id: poster
+    label: Poster
+    published-date: 2026-02-26
+    url: 'https://babymetal.com/contents/1/TO/DPF26_SNS_final_0226_Feed.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: deadpop
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 301738
+
+- webpage:
+    domain: babymetal.com
+    id: 301738
+    label: Announcement
+    published-date: 2026-02-26
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=301738'
+    image:
+    - poster
+    - bandposter
+    part-of:
+      show:
+        year: 2026
+        id: deadpop
+
