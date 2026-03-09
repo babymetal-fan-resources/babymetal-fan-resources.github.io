@@ -1,0 +1,10 @@
+localimage:
+  multimedia-event: kasukanahanamv
+  id: mvcover
+  label: Cover
+  published-date: 2026-03-09
+  source:
+    description: YouTube video
+    url: 'https://www.youtube.com/watch?v=t1gkIY4XvJ0'
+  part-of:
+    multimedia-event: kasukanahanamv

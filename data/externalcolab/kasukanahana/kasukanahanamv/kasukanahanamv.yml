@@ -1,0 +1,13 @@
+multimedia-event:
+  id: kasukanahanamv
+  cover-image:
+    localimage:
+      multimedia-event: kasukanahanamv
+      id: mvcover
+  youtubevideo: t1gkIY4XvJ0
+  parent:
+    song: kasukanahana
+  categories:
+  - video
+  part-of:
+    song: kasukanahana

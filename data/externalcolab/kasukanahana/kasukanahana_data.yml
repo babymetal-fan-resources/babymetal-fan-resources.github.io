@@ -128,3 +128,12 @@
     part-of:
       song: kasukanahana
 
+- youtubevideo:
+    id: t1gkIY4XvJ0
+    label: Official Music Video
+    published-date: 2026-03-09
+    context:
+    - song: kasukanahana
+    part-of:
+      song: kasukanahana
+
