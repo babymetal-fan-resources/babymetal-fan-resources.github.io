@@ -1,0 +1,30 @@
+- webimage:
+    domain: babymetal.com
+    page: 302088
+    id: lineup
+    label: Lineup
+    published-date: 2026-03-10
+    url: 'https://babymetal.com/contents/1/TO/6767120740.png'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 302088
+
+- webpage:
+    domain: babymetal.com
+    id: 302088
+    label: Announcement
+    published-date: 2026-03-10
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=302088'
+    image:
+    - lineup
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
+

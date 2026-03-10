@@ -119,6 +119,16 @@
     part-of:
       postx: 2019697580847030570
 
+- webpage:
+    domain: babymetal.com
+    id: 302107
+    label: Announcement Music Video
+    published-date: 2026-03-09
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=302107'
+    image: []
+    part-of:
+      youtubevideo: t1gkIY4XvJ0
+
 - youtubevideo:
     id: gHIA3Mhc618
     label: non-credit opening

@@ -95,6 +95,20 @@
         domain: babymetal.com
         id: 300255
 
+- webimage:
+    domain: babymetal.com
+    page: 301749
+    id: merch
+    label: Merch
+    published-date: 2026-03-10
+    url: 'https://babymetal.com/contents/1/TO/6938982071.jpg'
+    context:
+    - tour: australia2026
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 301749
+
 - webpage:
     domain: babymetal.com
     id: 297754
@@ -125,6 +139,17 @@
     url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=300255'
     image:
     - poster
+    part-of:
+      tour: australia2026
+
+- webpage:
+    domain: babymetal.com
+    id: 301749
+    label: Merch
+    published-date: 2026-03-05
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=301749'
+    image:
+    - merch
     part-of:
       tour: australia2026
 

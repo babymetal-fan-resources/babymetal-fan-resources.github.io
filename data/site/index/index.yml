@@ -42,6 +42,15 @@ contentpage:
       id: louderthanlife
   - show:
       year: 2026
+      id: summersonicosaka
+  - show:
+      year: 2026
+      id: summersonictokyo
+  - show:
+      year: 2026
+      id: luckyfes
+  - show:
+      year: 2026
       id: mcrsandiego
   - show:
       year: 2026
@@ -118,6 +127,9 @@ contentpage:
   - media:
       year: 2026
       id: cdtv_livelive
+  - media:
+      year: 2026
+      id: metaradi0307
   - media:
       year: 2026
       id: venue101

@@ -1,0 +1,16 @@
+show:
+  year: 2026
+  id: luckyfes
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302088
+      id: lineup
+  fullname: LuckyFes'26
+  date: 2026-08-09
+  description:
+  - BABYMETAL will be at the LuckyFes'26
+  venue: Hitachi Seaside Park, Ibaraki, Japan
+  event-page: 'https://luckyfes.com/'
+  part-of:
+    group: 2026_2027
