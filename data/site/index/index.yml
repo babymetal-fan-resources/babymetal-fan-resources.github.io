@@ -6,7 +6,7 @@ contentpage:
       id: kitsune_cover
   label: Chronology
   start-date: 2010-11-01
-  end-date: 2026-10-31
+  end-date: 2026-12-31
   description: 'Everything about BABYMETAL: songs, albums, shows, tours, Fox Days, interviews, videos, ...'
   isLargeMarker:
   - album
@@ -36,10 +36,81 @@ contentpage:
   content:
   - show:
       year: 2026
+      id: mexico
+  - show:
+      year: 2026
+      id: lima
+  - show:
+      year: 2026
+      id: santiago
+  - show:
+      year: 2026
+      id: buenosaires
+  - show:
+      year: 2026
+      id: saopaulo
+  - tour: latinamerica2026
+  - show:
+      year: 2026
       id: aftershock
   - show:
       year: 2026
+      id: phoenix
+  - show:
+      year: 2026
+      id: albuquerque
+  - show:
+      year: 2026
+      id: austin
+  - show:
+      year: 2026
+      id: thewoodlands
+  - show:
+      year: 2026
+      id: dallas
+  - show:
+      year: 2026
+      id: marylandheights
+  - show:
+      year: 2026
       id: louderthanlife
+  - show:
+      year: 2026
+      id: clarkston
+  - show:
+      year: 2026
+      id: alpharetta
+  - show:
+      year: 2026
+      id: charlotte
+  - show:
+      year: 2026
+      id: raleigh
+  - show:
+      year: 2026
+      id: bristow
+  - show:
+      year: 2026
+      id: mansfield
+  - show:
+      year: 2026
+      id: holmdel
+  - show:
+      year: 2026
+      id: toronto
+  - show:
+      year: 2026
+      id: noblesville
+  - show:
+      year: 2026
+      id: chicago
+  - show:
+      year: 2026
+      id: denver
+  - show:
+      year: 2026
+      id: mcrsandiego
+  - tour: northamerica2026
   - show:
       year: 2026
       id: summersonicosaka
@@ -51,9 +122,6 @@ contentpage:
       id: luckyfes
   - show:
       year: 2026
-      id: mcrsandiego
-  - show:
-      year: 2026
       id: istanbul
   - show:
       year: 2026
@@ -61,6 +129,7 @@ contentpage:
   - show:
       year: 2026
       id: impericon
+  - album: metalforthdelux
   - show:
       year: 2026
       id: tonsofrock
@@ -91,6 +160,7 @@ contentpage:
   - show:
       year: 2026
       id: swedenrock
+  - tour: europe2026
   - album: o2highlights
   - show:
       year: 2026

@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: chicago
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  fullname: Chicago, IL, USA
+  date: 2026-09-04
+  tour: northamerica2026
+  venue: Huntington Bank Pavilion at Northerly Island, Chicago, IL, USA
+  part-of:
+    tour: northamerica2026

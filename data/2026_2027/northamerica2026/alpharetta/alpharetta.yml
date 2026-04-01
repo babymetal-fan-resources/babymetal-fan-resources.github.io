@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: alpharetta
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  fullname: Alpharetta, GA, USA
+  date: 2026-09-16
+  tour: northamerica2026
+  venue: Ameris Bank Amphitheatre, Alpharetta, GA, USA
+  part-of:
+    tour: northamerica2026

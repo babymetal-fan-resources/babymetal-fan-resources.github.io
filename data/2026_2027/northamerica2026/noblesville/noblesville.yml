@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: noblesville
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  fullname: Noblesville, IN, USA
+  date: 2026-09-05
+  tour: northamerica2026
+  venue: Ruoff Music Center, Noblesville, IN, USA
+  part-of:
+    tour: northamerica2026

@@ -1,0 +1,19 @@
+show:
+  year: 2026
+  id: hannover
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 300492
+      id: posterhannover
+  fullname: Hannover, Germany
+  date: 2026-06-16
+  tour: europe2026
+  description:
+  - Headline show
+  categories:
+  - mainshow
+  venue: Swiss Life Hall, Hannover, Germany
+  event-page: 'https://www.swisslife-hall.de/events/babymetal-swiss-life-hall-0dbdb2ed9bae/'
+  part-of:
+    tour: europe2026

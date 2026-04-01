@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: lima
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  fullname: Lima, Peru
+  date: 2026-12-07
+  tour: latinamerica2026
+  venue: Costa 21, Lima, Peru
+  part-of:
+    tour: latinamerica2026

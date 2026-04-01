@@ -1,0 +1,38 @@
+tour:
+  id: europe2026
+  cover-image:
+    postximage:
+      post: 2038994732328919045
+      image: HEv0yWpa8AAPYwm
+  fullname: WORLD TOUR 2026 UK & EUROPE
+  first-date: 2026-06-03
+  last-date: 2026-07-01
+  shows:
+  - year: 2026
+    id: swedenrock
+  - year: 2026
+    id: rockamring
+  - year: 2026
+    id: rockimpark
+  - year: 2026
+    id: kufstein
+  - year: 2026
+    id: rockforpeople
+  - year: 2026
+    id: download
+  - year: 2026
+    id: hannover
+  - year: 2026
+    id: summerpunch
+  - year: 2026
+    id: graspop
+  - year: 2026
+    id: tonsofrock
+  - year: 2026
+    id: impericon
+  - year: 2026
+    id: copenhell
+  - year: 2026
+    id: istanbul
+  part-of:
+    group: 2026_2027

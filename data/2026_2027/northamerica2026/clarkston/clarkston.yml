@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: clarkston
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  fullname: Clarkston, MI, USA
+  date: 2026-09-18
+  tour: northamerica2026
+  venue: Pine Knob Music Theatre, Clarkston, MI, USA
+  part-of:
+    tour: northamerica2026

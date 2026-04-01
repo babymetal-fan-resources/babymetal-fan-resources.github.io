@@ -1,0 +1,24 @@
+show:
+  year: 2026
+  id: rockamring
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 295976
+      id: poster01
+  fullname: Rock Am Ring
+  sublabel: Nürburgring, Germany
+  date: 2026-06-05
+  tour: europe2026
+  description:
+  - BABYMETAL will be performing at Rock Am Ring, on Friday.
+  venue: Nürburgring
+  event-page: 'https://www.rock-am-ring.com/'
+  part-of:
+    tour: europe2026
+  multimedia:
+    video:
+    - postxvideo:
+        post: 1970427926710489350
+        video: 01
+    - youtubevideo: SK8wcyyOAys

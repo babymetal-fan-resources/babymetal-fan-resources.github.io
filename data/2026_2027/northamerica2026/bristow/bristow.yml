@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: bristow
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  fullname: Bristow, VA, USA
+  date: 2026-09-12
+  tour: northamerica2026
+  venue: Jiffy Lube Live, Bristow, VA, USA
+  part-of:
+    tour: northamerica2026

@@ -1,0 +1,16 @@
+show:
+  year: 2026
+  id: aftershock
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 301948
+      id: poster
+  fullname: Aftershock
+  sublabel: Sacramento, CA, USA
+  date: 2026-10-03
+  tour: northamerica2026
+  venue: Discovery Park, Sacramento, CA, USA
+  event-page: 'https://aftershockfestival.com/'
+  part-of:
+    tour: northamerica2026

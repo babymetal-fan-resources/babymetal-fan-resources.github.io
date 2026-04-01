@@ -1,0 +1,41 @@
+- webimage:
+    domain: babymetal.com
+    page: 302816
+    id: album
+    label: Album
+    published-date: 2026-04-01
+    url: 'https://babymetal.com/contents/1/TO/4466972371.png'
+    context:
+    - album: metalforthdelux
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 302816
+
+- webimage:
+    domain: babymetal.com
+    page: 302816
+    id: vinyls
+    label: Vinyls
+    published-date: 2026-04-01
+    url: 'https://babymetal.com/contents/1/TO/3731167517.png'
+    local-copy: true
+    context:
+    - album: metalforthdelux
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 302816
+
+- webpage:
+    domain: babymetal.com
+    id: 302816
+    label: Announcement
+    published-date: 2026-03-31
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=302816'
+    image:
+    - vinyls
+    - album
+    part-of:
+      album: metalforthdelux
+

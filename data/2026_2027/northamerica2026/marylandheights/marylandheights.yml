@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: marylandheights
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  fullname: Maryland Heights, MO, USA
+  date: 2026-09-21
+  tour: northamerica2026
+  venue: Hollywood Casino Amphitheater, Maryland Heights, MO, USA
+  part-of:
+    tour: northamerica2026

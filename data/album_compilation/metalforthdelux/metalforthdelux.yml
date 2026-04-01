@@ -1,0 +1,30 @@
+album:
+  id: metalforthdelux
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302816
+      id: vinyls
+  fullname: METAL FORTH (DELUXE EDITION)
+  designation: deluxe edition
+  release-date: 2026-06-26
+  is-studio: false
+  songs:
+  - frommetou
+  - ratatata
+  - song3
+  - konkon
+  - kxaxwxaxixi
+  - sunsetkiss
+  - myqueen
+  - algorism
+  - metali
+  - whiteflame
+  - frommetou
+  - frommetou
+  - frommetou
+  - myqueen
+  - algorism
+  todo: support for multi version song
+  part-of:
+    group: album_compilation

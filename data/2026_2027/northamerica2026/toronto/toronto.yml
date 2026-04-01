@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: toronto
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  fullname: Toronto, ON, Canada
+  date: 2026-09-07
+  tour: northamerica2026
+  venue: RBC Amphitheatre, Toronto, ON, Canada
+  part-of:
+    tour: northamerica2026

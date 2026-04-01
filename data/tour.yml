@@ -1,0 +1,27 @@
+- webpage:
+    domain: babymetal.com
+    id: tour
+    label: Tour page
+    published-date: 2026-04-01
+    url: 'https://babymetal.com/mob/news/diarKiji.php?cd=TOUR_TO'
+    image:
+    - mexico2026
+    todo: switch images to archive when needed
+
+- webimage:
+    domain: babymetal.com
+    page: tour
+    id: mexico2026
+    label: Poster
+    published-date: 2026-04-01
+    url: 'https://babymetal.com/contents/1/TO/6819689087.jpeg'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: mexico
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: tour
+

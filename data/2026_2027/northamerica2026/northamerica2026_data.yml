@@ -1,0 +1,69 @@
+- postx:
+    id: 2038994732328919045
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2026-04-01
+    text: |-
+      ＼ Tour Confirmed ／
+      
+      NORTH AMERICA / LATIN AMERICA 2026
+      
+      Check http://babymetal.com for more info￼
+      Don't forget to sign up https://laylo.com/babymetal/m/babymetaltour… for ticket presale￼
+      
+      Artist Pre-Sale Signup Ends: April 5th, 2026 at 10pm ET
+      Artist Presale: April 6th, 2026 at 10am Local 
+      General On Sale: April 10th, 2026 at 10am Local
+      
+      Europe, get ready… ￼￼
+    image:
+    - HEv0yWpa8AAPYwm
+    part-of:
+      tour: northamerica2026
+    reference:
+    - tour: latinamerica2026
+    - webimage:
+        domain: babymetal.com
+        page: 302817
+        id: poster
+    - webimage:
+        domain: babymetal.com
+        page: tour
+        id: mexico2026
+
+- postximage:
+    post: 2038994732328919045
+    id: HEv0yWpa8AAPYwm
+    label: Poster
+    published-date: 2026-04-01
+    local-copy: true
+    part-of:
+      postx: 2038994732328919045
+
+- webimage:
+    domain: babymetal.com
+    page: 302817
+    id: poster
+    label: Poster
+    published-date: 2026-04-01
+    url: 'https://babymetal.com/contents/1/TO/5145633011.jpg'
+    local-copy: true
+    context:
+    - tour: northamerica2026
+    - tour: latinamerica2026
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 302817
+
+- webpage:
+    domain: babymetal.com
+    id: 302817
+    label: Announcement
+    published-date: 2026-04-01
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=302817'
+    image:
+    - poster
+    part-of:
+      tour: northamerica2026
+

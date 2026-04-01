@@ -1,0 +1,24 @@
+tour:
+  id: latinamerica2026
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  fullname: WORLD TOUR 2026 LATIN AMERICA
+  first-date: 2026-11-28
+  last-date: 2026-12-12
+  shows:
+  - year: 2026
+    id: saopaulo
+  - year: 2026
+    id: buenosaires
+  - year: 2026
+    id: santiago
+  - year: 2026
+    id: lima
+  - year: 2026
+    id: mexico
+  event-page: 'https://babymetal.com/mob/news/diarKijiShw.php?id=302817'
+  part-of:
+    group: 2026_2027

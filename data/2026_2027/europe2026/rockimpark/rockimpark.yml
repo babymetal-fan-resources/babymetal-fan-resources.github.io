@@ -1,0 +1,24 @@
+show:
+  year: 2026
+  id: rockimpark
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 295976
+      id: poster01
+  fullname: Rock Im Park
+  sublabel: Nuremberg, Germany
+  date: 2026-06-07
+  tour: europe2026
+  description:
+  - BABYMETAL will be performing at Rock Im Park, on Sunday.
+  venue: Zeppelinfeld, Nuremberg
+  event-page: 'https://www.rock-im-park.com/'
+  part-of:
+    tour: europe2026
+  multimedia:
+    video:
+    - postxvideo:
+        post: 1970427926710489350
+        video: 01
+    - youtubevideo: SK8wcyyOAys

@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: mexico
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: tour
+      id: mexico2026
+  fullname: Mexico City, Mexico
+  date: 2026-12-12
+  tour: latinamerica2026
+  venue: Fray Nano Stadium, Mexico City, Mexico
+  part-of:
+    tour: latinamerica2026

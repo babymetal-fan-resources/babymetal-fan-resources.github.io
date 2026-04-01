@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: saopaulo
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  fullname: Sao Paulo, Brazil
+  date: 2026-11-28
+  tour: latinamerica2026
+  venue: Espaco Unimed, Sao Paulo, Brazil
+  part-of:
+    tour: latinamerica2026

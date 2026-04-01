@@ -1,0 +1,54 @@
+tour:
+  id: northamerica2026
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  fullname: WORLD TOUR 2026 NORTH AMERICA
+  first-date: 2026-08-30
+  last-date: 2026-10-03
+  shows:
+  - year: 2026
+    id: mcrsandiego
+  - year: 2026
+    id: denver
+  - year: 2026
+    id: chicago
+  - year: 2026
+    id: noblesville
+  - year: 2026
+    id: toronto
+  - year: 2026
+    id: holmdel
+  - year: 2026
+    id: mansfield
+  - year: 2026
+    id: bristow
+  - year: 2026
+    id: raleigh
+  - year: 2026
+    id: charlotte
+  - year: 2026
+    id: alpharetta
+  - year: 2026
+    id: clarkston
+  - year: 2026
+    id: louderthanlife
+  - year: 2026
+    id: marylandheights
+  - year: 2026
+    id: dallas
+  - year: 2026
+    id: thewoodlands
+  - year: 2026
+    id: austin
+  - year: 2026
+    id: albuquerque
+  - year: 2026
+    id: phoenix
+  - year: 2026
+    id: aftershock
+  event-page: 'https://babymetal.com/mob/news/diarKijiShw.php?id=302817'
+  part-of:
+    group: 2026_2027

@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: holmdel
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  fullname: Holmdel, NJ, USA
+  date: 2026-09-09
+  tour: northamerica2026
+  venue: PNC Bank Arts Center, Holmdel, NJ, USA
+  part-of:
+    tour: northamerica2026

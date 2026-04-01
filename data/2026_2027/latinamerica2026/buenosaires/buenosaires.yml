@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: buenosaires
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  fullname: Buenos Aires, Argentina
+  date: 2026-12-01
+  tour: latinamerica2026
+  venue: Movistar Arena, Buenos Aries, Argentina
+  part-of:
+    tour: latinamerica2026

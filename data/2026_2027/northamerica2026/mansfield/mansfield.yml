@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: mansfield
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  fullname: Mansfield, MA, USA
+  date: 2026-09-10
+  tour: northamerica2026
+  venue: Xfinity Center, Mansfield, MA, USA
+  part-of:
+    tour: northamerica2026

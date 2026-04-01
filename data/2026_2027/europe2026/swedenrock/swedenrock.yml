@@ -1,0 +1,24 @@
+show:
+  year: 2026
+  id: swedenrock
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 296975
+      id: bandposter
+  fullname: Sweden Rock Festival 2026
+  shortname: Sweden Rock
+  sublabel: Sölvesborg, Sweden
+  date: 2026-06-03
+  tour: europe2026
+  description:
+  - BABYMETAL will perform at Sweden Rock Festival 2026. The band was revealed as part of the lineup announcement on October 21.
+  venue: Sölvesborg, Sweden
+  event-page: 'https://swedenrock.com/en/'
+  part-of:
+    tour: europe2026
+  multimedia:
+    main:
+      youtubevideo: vGPDnWuxj3M
+    video:
+    - youtubevideo: vGPDnWuxj3M

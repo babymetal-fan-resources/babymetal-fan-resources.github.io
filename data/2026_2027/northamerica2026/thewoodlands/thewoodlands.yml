@@ -1,0 +1,14 @@
+show:
+  year: 2026
+  id: thewoodlands
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  fullname: The Woodlands, TX, USA
+  date: 2026-09-25
+  tour: northamerica2026
+  venue: The Cynthia Woods Mitchell Pavilion Sponsored by Huntsman, The Woodlands, TX, USA
+  part-of:
+    tour: northamerica2026
