@@ -10,11 +10,11 @@ categoriespage:
   description: Media, interviews, shows featuring BABYMETAL.
   id-prefix:
   - media
-  isLargeMarker:
-  - mainmedia
   isSmallMarker:
   - audiomedia
   - videomedia
   - writtenmedia
+  isLargeMarker:
+  - mainmedia
   part-of:
     group: site

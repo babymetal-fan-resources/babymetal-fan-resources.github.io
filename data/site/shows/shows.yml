@@ -13,10 +13,10 @@ categoriespage:
   - tour
   withlinks: true
   compressed: true
+  isMediumMarker:
+  - show
   isLargeMarker:
   - mainshow
   - tour
-  isSmallMarker:
-  - show
   part-of:
     group: site
