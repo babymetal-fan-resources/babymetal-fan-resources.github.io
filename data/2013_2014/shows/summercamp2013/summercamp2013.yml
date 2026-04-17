@@ -1,0 +1,17 @@
+show:
+  year: 2013
+  id: summercamp2013
+  cover-image:
+    webimage:
+      domain: rockinon.com
+      page: 84935
+      id: logo
+  fullname: SUMMER CAMP 2013
+  sublabel: Kawasaki
+  date: 2013-07-12
+  venue: CLUB CITTA', Kawasaki
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/club-citta-kawasaki-japan-53c7c7b5.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

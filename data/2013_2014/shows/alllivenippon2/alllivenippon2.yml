@@ -1,0 +1,17 @@
+show:
+  year: 2014
+  id: alllivenippon2
+  cover-image:
+    postximage:
+      post: 392433613179863040
+      image: BXI0SsACQAAUYWQ
+  fullname: LIVE EXPO TOKYO 2014  ALL LIVE NIPPON Vol.2
+  shortname: ALL LIVE NIPPON Vol.2
+  sublabel: Tokyo
+  date: 2014-01-18
+  venue: Yoyogi Daiichi Taiikukan, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/yoyogi-daiichi-taiikukan-tokyo-japan-43cd1b1f.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

@@ -1,0 +1,31 @@
+- postx:
+    id: 363827657839882240
+    account: BABYMETAL_JAPAN
+    label: Ticket lottery
+    published-date: 2013-08-04
+    text: |-
+      ロッキンはっじまっるよ〜！！12月21日（土）幕張メッセワンマンライブ「LEGEND"1997" SU-METAL聖誕祭」チケット最速先行受付中DEATH！！今日の23時まで！！→ http://bit.ly/12ldQ4h
+    translation: |-
+      Rockin' is about to start!!
+      Ticket fastest pre-orders for the December 21st (Sat) Makuhari Messe solo live "LEGEND "1997" SU-METAL Seitansai" are now open DEATH!!
+      Until 23:00 today!! → http://bit.ly/12ldQ4h
+    image:
+    - BQyTU8FCMAMkdXe
+    part-of:
+      show:
+        year: 2013
+        id: legend1997
+
+- postximage:
+    post: 363827657839882240
+    id: BQyTU8FCMAMkdXe
+    label: Poster
+    published-date: 2013-08-04
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: legend1997
+    part-of:
+      postx: 363827657839882240
+

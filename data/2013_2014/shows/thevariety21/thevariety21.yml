@@ -1,0 +1,17 @@
+show:
+  year: 2013
+  id: thevariety21
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Act Against AIDS 2013 「THE VARIETY 21」
+  shortname: THE VARIETY 21
+  sublabel: Tokyo
+  date: 2013-12-01
+  venue: Nippon Budokan, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/nippon-budokan-tokyo-japan-4bcd1b1a.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

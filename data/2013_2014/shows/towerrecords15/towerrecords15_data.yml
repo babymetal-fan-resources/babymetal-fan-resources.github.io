@@ -1,0 +1,30 @@
+- webimage:
+    domain: tower.jp
+    page: 2013.10.11.n05
+    id: poster
+    label: Poster
+    published-date: 2013-10-11
+    url: 'https://cdfront.tower.jp/~/media/Images/Article/News/2013/Tower/Shop/Shinjuku/15thCP/shinjuku15_babymetal2.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: towerrecords15
+    part-of:
+      webpage:
+        domain: tower.jp
+        id: 2013.10.11.n05
+
+- webpage:
+    domain: tower.jp
+    id: 2013.10.11.n05
+    label: DJ'TEKINA announcement
+    published-date: 2013-10-11
+    url: 'https://tower.jp/article/news/2013/10/11/n05'
+    image:
+    - poster
+    part-of:
+      show:
+        year: 2013
+        id: towerrecords15
+

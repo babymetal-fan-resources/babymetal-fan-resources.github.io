@@ -1,0 +1,17 @@
+show:
+  year: 2013
+  id: skullmania8
+  cover-image:
+    postximage:
+      post: 387419194293121026
+      image: BWBjtF-CcAAu2Ib
+  fullname: SKULLSHIT presents SKULLMANIA Vol.８
+  shortname: SKULLMANIA Vol.８
+  sublabel: Tokyo
+  date: 2013-11-30
+  venue: 新木場STUDIO COAST, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/studio-coast-tokyo-japan-43cd1b1b.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

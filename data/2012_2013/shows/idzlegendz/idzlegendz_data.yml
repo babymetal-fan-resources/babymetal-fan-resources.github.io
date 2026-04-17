@@ -1,0 +1,31 @@
+- postx:
+    id: 292465238354325504
+    account: BABYMETAL_JAPAN
+    label: Sold out
+    published-date: 2013-01-19
+    text: |-
+      Thank you SOLD OUT！！2月1日（金）ZEPP TOKYO「LEGEND"Z"」ワンマンライブチケットが売り切れとなりました！！「I、D、Z〜LEGEND」シリーズファイナル公演、新たな「LEGEND」誕生の瞬間を共に！！
+    translation: |-
+      Thank you SOLD OUT!!
+      Tickets for the ZEPP TOKYO "LEGEND "Z"" solo live on Friday, February 1st are sold out!!
+      The "I, D, Z ~ LEGEND" series final performance, let's witness the birth of a new "LEGEND" together!!
+    image:
+    - BA8LlbHCcAAEZMO
+    part-of:
+      show:
+        year: 2013
+        id: idzlegendz
+
+- postximage:
+    post: 292465238354325504
+    id: BA8LlbHCcAAEZMO
+    label: Cover
+    published-date: 2013-01-19
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: idzlegendz
+    part-of:
+      postx: 292465238354325504
+

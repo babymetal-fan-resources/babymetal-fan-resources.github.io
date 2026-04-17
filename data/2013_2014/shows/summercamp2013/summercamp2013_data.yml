@@ -1,0 +1,30 @@
+- webimage:
+    domain: rockinon.com
+    page: 84935
+    id: logo
+    label: Logo
+    published-date: 2013-07-08
+    url: 'https://ro69-bucket.s3.ap-northeast-1.amazonaws.com/uploads/text_image/image/107116/text_image.jpgwidth:750/resize_image.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: summercamp2013
+    part-of:
+      webpage:
+        domain: rockinon.com
+        id: 84935
+
+- webpage:
+    domain: rockinon.com
+    id: 84935
+    label: Timetable
+    published-date: 2013-07-08
+    url: 'https://rockinon.com/news/detail/84935'
+    image:
+    - logo
+    part-of:
+      show:
+        year: 2013
+        id: summercamp2013
+

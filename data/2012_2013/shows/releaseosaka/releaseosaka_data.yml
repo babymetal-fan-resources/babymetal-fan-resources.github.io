@@ -1,0 +1,32 @@
+- postx:
+    id: 290803098564321280
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2013-01-14
+    text: |-
+      大阪ライブ終了DEATH！！大阪やそれ以外の地域からも沢山の方々に集まって頂きましてありがとうございました！！タワーレコード梅田NU茶屋町店さんにおじゃまして巨大なPOPにサインさせてもらいました！！皆様応援ありがとうございます！！
+    translation: |-
+      Osaka live is over DEATH!!
+      Thank you very much to so many people for gathering from Osaka and other regions!!
+      We visited the Tower Records Umeda NU Chayamachi store and signed a huge POP!!
+      Thank you all for your support!!
+    image:
+    - BAkj4J4CYAAl3fk
+    part-of:
+      show:
+        year: 2013
+        id: releaseosaka
+
+- postximage:
+    post: 290803098564321280
+    id: BAkj4J4CYAAl3fk
+    label: Poster
+    published-date: 2026-04-16
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: releaseosaka
+    part-of:
+      postx: 290803098564321280
+

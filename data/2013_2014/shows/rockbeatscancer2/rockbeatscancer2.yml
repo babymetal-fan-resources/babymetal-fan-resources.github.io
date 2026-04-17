@@ -1,0 +1,18 @@
+show:
+  year: 2013
+  id: rockbeatscancer2
+  cover-image:
+    webimage:
+      domain: m2cc.co.jp
+      page: rbc-02
+      id: banner
+  fullname: Rock Beats Cancer FES Vol.2
+  sublabel: Tokyo
+  date: 2013-07-07
+  venue: Hibiya Open-Air Concert Hall, Tokyo
+  event-page: 'https://www.m2cc.co.jp/rbc/02/'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/hibiya-yagai-ongakudou-tokyo-japan-3c1ed8b.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

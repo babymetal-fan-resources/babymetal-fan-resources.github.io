@@ -1,0 +1,30 @@
+- postx:
+    id: 363490505838977024
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2013-08-03
+    text: |-
+      11月4日（月・祝）「JAPAN POP CULTURE CARNIVAL 2013 in 松戸」SU-METALが参加決定DEATH！！JAM METAL Project with SU-METALというスペシャルコラボで出演！！
+    translation: |-
+      Monday, November 4th (Holiday) "JAPAN POP CULTURE CARNIVAL 2013 in Matsudo" SU-METAL participation confirmed DEATH!!
+      Appearing in a special collaboration called JAM METAL Project with SU-METAL!!
+    image:
+    - BQtgsHBCYAAO6ML
+    part-of:
+      show:
+        year: 2013
+        id: japanpopculturecarnival
+
+- postximage:
+    post: 363490505838977024
+    id: BQtgsHBCYAAO6ML
+    label: Poster
+    published-date: 2013-08-03
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: japanpopculturecarnival
+    part-of:
+      postx: 363490505838977024
+

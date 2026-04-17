@@ -1,0 +1,16 @@
+show:
+  year: 2013
+  id: japanpopculturecarnival
+  cover-image:
+    postximage:
+      post: 363490505838977024
+      image: BQtgsHBCYAAO6ML
+  fullname: JAPAN POP CULTURE CARNIVAL 2013 in 松戸
+  shortname: JAPAN POP CULTURE CARNIVAL 2013
+  sublabel: Matsudo
+  date: 2013-11-04
+  venue: 森のホール21, Matsudo
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

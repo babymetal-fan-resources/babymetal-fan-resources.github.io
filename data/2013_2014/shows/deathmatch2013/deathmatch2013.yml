@@ -1,0 +1,24 @@
+tour:
+  id: deathmatch2013
+  cover-image:
+    webimage:
+      domain: bigcat-live.com
+      page: 201305
+      id: cover
+  fullname: BABYMETAL DEATH MATCH TOUR 2013
+  shortname: DEATH MATCH TOUR 2013
+  first-date: 2013-05-10
+  last-date: 2013-05-18
+  shows:
+  - year: 2013
+    id: deathmatchbattle1
+  - year: 2013
+    id: deathmatchbattle2
+  - year: 2013
+    id: deathmatchbattle3
+  - year: 2013
+    id: deathmatchbattlefinal
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

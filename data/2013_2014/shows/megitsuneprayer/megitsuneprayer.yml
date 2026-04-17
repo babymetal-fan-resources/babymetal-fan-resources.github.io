@@ -1,0 +1,16 @@
+show:
+  year: 2013
+  id: megitsuneprayer
+  cover-image:
+    localimage:
+      album: megitsune
+      id: cover
+  fullname: 「メギツネ」ヒット祈願
+  sublabel: Tokyo
+  date: 2013-06-22
+  venue: CUTUP STUDIO, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/tower-records-shibuya-cutup-studio-tokyo-japan-5bcd1b28.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

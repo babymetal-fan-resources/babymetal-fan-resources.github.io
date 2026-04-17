@@ -1,0 +1,30 @@
+- webimage:
+    domain: m2cc.co.jp
+    page: rbc-02
+    id: banner
+    label: Banner
+    published-date: 2013-05-09
+    url: 'https://www.m2cc.co.jp/rbc/02/images/img1.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: rockbeatscancer2
+    part-of:
+      webpage:
+        domain: m2cc.co.jp
+        id: rbc-02
+
+- webpage:
+    domain: m2cc.co.jp
+    id: rbc-02
+    label: Show page
+    published-date: 2013-05-09
+    url: 'https://www.m2cc.co.jp/rbc/02/'
+    image:
+    - banner
+    part-of:
+      show:
+        year: 2013
+        id: rockbeatscancer2
+

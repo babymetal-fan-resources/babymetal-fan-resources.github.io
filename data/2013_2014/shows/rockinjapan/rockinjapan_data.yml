@@ -1,0 +1,30 @@
+- webimage:
+    domain: rijfes.jp
+    page: 2013
+    id: banner
+    label: Banner
+    published-date: 2013-01-01
+    url: 'https://rijfes.s3.amazonaws.com/2013/img/top/logo_328.png'
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: rockinjapan
+    part-of:
+      webpage:
+        domain: rijfes.jp
+        id: 2013
+
+- webpage:
+    domain: rijfes.jp
+    id: 2013
+    label: Festival page
+    published-date: 2013-01-01
+    url: 'https://rijfes.jp/2013/'
+    image:
+    - banner
+    part-of:
+      show:
+        year: 2013
+        id: rockinjapan
+

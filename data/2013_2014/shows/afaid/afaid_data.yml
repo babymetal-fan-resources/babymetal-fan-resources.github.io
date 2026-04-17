@@ -1,0 +1,30 @@
+- postx:
+    id: 350131855217020928
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2013-06-27
+    text: |-
+      2度目の海外公演決定！！昨年のシンガポール公演に続きインドネシアのジャカルタで開催される「ANIME FESTIVAL ASIA 2013 INDONESIA」に降臨DEATH！！  http://bit.ly/HPO4uu
+    translation: |-
+      Second overseas performance confirmed!!
+      Following last year's Singapore performance, we will descend upon "ANIME FESTIVAL ASIA 2013 INDONESIA" held in Jakarta, Indonesia DEATH!!  http://bit.ly/HPO4uu
+    image:
+    - BNvrETdCUAAxNSk
+    part-of:
+      show:
+        year: 2013
+        id: afaid
+
+- postximage:
+    post: 350131855217020928
+    id: BNvrETdCUAAxNSk
+    label: Banner
+    published-date: 2013-06-27
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: afaid
+    part-of:
+      postx: 350131855217020928
+

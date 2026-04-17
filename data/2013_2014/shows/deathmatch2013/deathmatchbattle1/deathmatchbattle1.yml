@@ -1,0 +1,15 @@
+show:
+  year: 2013
+  id: deathmatchbattle1
+  cover-image:
+    webimage:
+      domain: bigcat-live.com
+      page: 201305
+      id: cover
+  fullname: '-五月革命- BATTLE-1'
+  date: 2013-05-10
+  tour: deathmatch2013
+  venue: BIGCAT, Osaka
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/bigcat-osaka-japan-4bcd1b36.html'
+  part-of:
+    tour: deathmatch2013

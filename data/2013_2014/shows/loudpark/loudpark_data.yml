@@ -1,0 +1,31 @@
+- postx:
+    id: 385252869340798979
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2013-10-02
+    text: |-
+      日本最大級のメタル・フェス"LOUD PARK 13"さんからまさかのお招きを頂いてBABYMETALラウパ初出演決定DEATH！！サマソニで"メタルマスター"から学んだ教えを心に刻んでステージに挑みます！！両日ともに必見！！
+    translation: |-
+      We've received an unexpected invitation from Japan's largest metal festival "LOUD PARK 13," and BABYMETAL's first LauPa appearance is confirmed DEATH!!
+      We will take the stage with the lessons learned from the "Metal Master" at Summer Sonic engraved in our hearts!!
+      A must-see on both days!!
+    image:
+    - BVixcYpCIAApA8Y
+    part-of:
+      show:
+        year: 2013
+        id: loudpark
+
+- postximage:
+    post: 385252869340798979
+    id: BVixcYpCIAApA8Y
+    label: Poster artists
+    published-date: 2013-10-02
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: loudpark
+    part-of:
+      postx: 385252869340798979
+

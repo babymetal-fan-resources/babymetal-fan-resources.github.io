@@ -1,0 +1,17 @@
+show:
+  year: 2013
+  id: afaid
+  cover-image:
+    postximage:
+      post: 350131855217020928
+      image: BNvrETdCUAAxNSk
+  fullname: ANIME FESTIVAL ASIA 2013 INDONESIA
+  sublabel: Jakarta
+  date: 2013-09-07
+  venue: Jakarta Convention Center, Jakarta
+  event-page: 'https://animefestival.asia/afaid/index.html'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/jakarta-convention-center-kota-administrasi-jakarta-pusat-indonesia-4bcd1b26.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

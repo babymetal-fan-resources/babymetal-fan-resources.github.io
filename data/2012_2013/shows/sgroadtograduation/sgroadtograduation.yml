@@ -1,0 +1,17 @@
+show:
+  year: 2013
+  id: sgroadtograduation
+  cover-image:
+    localimage:
+      event: siteimages
+      id: sakura_gakuin_logo
+  fullname: The Road to Graduation Final ~さくら学院2012年度 卒業~
+  shortname: さくら学院2012年度 卒業
+  sublabel: Tokyo
+  date: 2013-03-31
+  venue: Tokyo Kokusai Forum, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/sakura-gakuin/2013/tokyo-kokusai-forum-hall-c-tokyo-japan-4be4bbd6.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012_2013

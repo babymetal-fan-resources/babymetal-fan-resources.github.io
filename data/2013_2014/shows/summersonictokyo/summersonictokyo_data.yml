@@ -1,0 +1,30 @@
+- webimage:
+    domain: summersonic.com
+    page: history_2013
+    id: poster
+    label: Poster
+    published-date: 2013-01-01
+    url: 'https://www.summersonic.com/history/img/poster/poster13.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: summersonictokyo
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: history_2013
+
+- webpage:
+    domain: summersonic.com
+    id: history_2013
+    label: Festival page
+    published-date: 2013-01-01
+    url: 'https://www.summersonic.com/history/2013.html'
+    image:
+    - poster
+    part-of:
+      show:
+        year: 2013
+        id: summersonictokyo
+

@@ -1,0 +1,18 @@
+show:
+  year: 2013
+  id: summersonictokyo
+  cover-image:
+    webimage:
+      domain: summersonic.com
+      page: history_2013
+      id: poster
+  fullname: SUMMER SONIC 2013
+  sublabel: Tokyo
+  date: 2013-08-10
+  venue: QVC Marine Field & Makuhari Messe, Tokyo
+  event-page: 'https://www.summersonic.com/history/2013.html'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/makuhari-messe-kokusai-tenjijou-hall-8-chiba-japan-3c6c967.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

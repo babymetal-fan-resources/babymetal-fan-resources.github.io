@@ -1,0 +1,18 @@
+show:
+  year: 2013
+  id: inazuma
+  cover-image:
+    webimage:
+      domain: rockinon.com
+      page: 88463
+      id: logo
+  fullname: イナズマロック フェス 2013
+  sublabel: Kusatsu
+  date: 2013-09-22
+  venue: Karasuma Peninsula Lawn Plaza, Kusatsu
+  event-page: 'https://inazumarock.com/2013/'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/karasuma-hantou-shibafu-hiroba-kusatsu-japan-53cd1b25.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

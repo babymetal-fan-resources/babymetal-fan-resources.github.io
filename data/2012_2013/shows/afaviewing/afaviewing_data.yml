@@ -1,0 +1,32 @@
+- postx:
+    id: 290066569453793280
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2013-01-12
+    text: |-
+      上映会＆ミニライブご来場頂きありがとうございました！！シンガポール遠征のドキュメント「ベビメ大陸」いかがでしたか？「イジメ、ダメ、ゼッタイ」デイリーチャート昨日10位、本日7位にランクイン！！「メタルレジスタンス」はまだまだ続きます！！
+    translation: |-
+      Thank you for coming to the screening & mini-live!!
+      How did you like the Singapore expedition document "BABYMETAL Continent"?
+      "Ijime, Dame, Zettai" ranked 10th on the daily chart yesterday and 7th today!!
+      The "Metal Resistance" continues on!!
+    image:
+    - BAaGAhICcAEPU7f
+    part-of:
+      show:
+        year: 2013
+        id: afaviewing
+
+- postximage:
+    post: 290066569453793280
+    id: BAaGAhICcAEPU7f
+    label: At the venue
+    published-date: 2013-01-12
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: afaviewing
+    part-of:
+      postx: 290066569453793280
+

@@ -1,0 +1,19 @@
+show:
+  year: 2013
+  id: idzlegendz
+  cover-image:
+    postximage:
+      post: 292465238354325504
+      image: BA8LlbHCcAAEZMO
+  fullname: BABYMETAL ワンマンライブ「I、D、Z〜LEGEND "Z"」
+  shortname: I、D、Z〜LEGEND "Z"
+  sublabel: Tokyo
+  date: 2013-02-01
+  categories:
+  - mainshow
+  venue: Zepp Tokyo, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/zepp-tokyo-tokyo-japan-13c289d5.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012_2013

@@ -1,0 +1,18 @@
+show:
+  year: 2013
+  id: newyear
+  cover-image:
+    webimage:
+      domain: hmv.co.jp
+      page: 1212110080
+      id: cover
+  fullname: BABYMETAL 新年一般参賀「一曲入魂！爆音ライブ！」
+  shortname: BABYMETAL 新年一般参賀
+  sublabel: Tokyo
+  date: 2013-01-07
+  venue: Shibuya CLUB QUATTRO, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/shibuya-club-quattro-tokyo-japan-53cd1b31.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012_2013

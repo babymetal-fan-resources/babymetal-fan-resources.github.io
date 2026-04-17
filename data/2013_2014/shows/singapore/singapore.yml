@@ -1,0 +1,16 @@
+show:
+  year: 2013
+  id: singapore
+  cover-image:
+    postximage:
+      post: 400968745985642496
+      image: BZCG8zbCEAIeU33
+  fullname: LIVE IN SINGAPORE
+  sublabel: Singapore
+  date: 2013-12-28
+  venue: SCAPE Ground Theatre, Singapore
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/scape-the-ground-theatre-singapore-singapore-53cd1b19.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

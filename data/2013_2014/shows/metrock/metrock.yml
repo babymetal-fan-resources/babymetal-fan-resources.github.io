@@ -1,0 +1,19 @@
+show:
+  year: 2013
+  id: metrock
+  cover-image:
+    webimage:
+      domain: metrock.jp
+      page: 2013
+      id: logo
+  fullname: TOKYO METROPOLITAN ROCK FESTIVAL 2013
+  shortname: METROCK 2013
+  sublabel: Tokyo
+  date: 2013-05-26
+  venue: 新木場若洲公園, Tokyo
+  event-page: 'https://metrock.jp/backnumber/2013/'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/shinkiba-wakasu-kouen-tokyo-japan-53cd1b29.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

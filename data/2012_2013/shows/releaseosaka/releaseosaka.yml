@@ -1,0 +1,17 @@
+show:
+  year: 2013
+  id: releaseosaka
+  cover-image:
+    postximage:
+      post: 290803098564321280
+      image: BAkj4J4CYAAl3fk
+  fullname: リリース記念ライブ「イジメ、ダメ、ゼッタイ」in 大阪
+  shortname: リリース記念ライブ
+  sublabel: Osaka
+  date: 2013-01-14
+  venue: FANJtwice, Osaka
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/fanj-twice-osaka-japan-7bcab690.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012_2013

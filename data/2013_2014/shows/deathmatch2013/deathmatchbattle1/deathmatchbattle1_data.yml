@@ -1,0 +1,29 @@
+- webimage:
+    domain: bigcat-live.com
+    page: 201305
+    id: cover
+    label: Cover
+    published-date: 2013-05-01
+    url: 'https://bigcat-live.com/wp-content/uploads/2013/04/0510BABYMETAL.jpg'
+    local-copy: true
+    context:
+    - tour: deathmatch2013
+    todo: likely available from an other source
+    part-of:
+      webpage:
+        domain: bigcat-live.com
+        id: 201305
+
+- webpage:
+    domain: bigcat-live.com
+    id: 201305
+    label: 2013-05 schedule
+    published-date: 2013-05-01
+    url: 'https://bigcat-live.com/2013/5'
+    image:
+    - cover
+    part-of:
+      show:
+        year: 2013
+        id: deathmatchbattle1
+

@@ -1,0 +1,30 @@
+- webimage:
+    domain: rockinon.com
+    page: 88463
+    id: logo
+    label: Logo
+    published-date: 2026-04-17
+    url: 'https://ro69-bucket.s3.ap-northeast-1.amazonaws.com/uploads/text_image/image/113309/text_image.pngwidth:750/resize_image.png'
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: inazuma
+    part-of:
+      webpage:
+        domain: rockinon.com
+        id: 88463
+
+- webpage:
+    domain: rockinon.com
+    id: 88463
+    label: Timetable
+    published-date: 2013-09-06
+    url: 'https://rockinon.com/news/detail/88463'
+    image:
+    - logo
+    part-of:
+      show:
+        year: 2013
+        id: inazuma
+

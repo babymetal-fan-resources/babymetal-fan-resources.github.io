@@ -1,0 +1,19 @@
+show:
+  year: 2013
+  id: legend1997
+  cover-image:
+    postximage:
+      post: 363827657839882240
+      image: BQyTU8FCMAMkdXe
+  fullname: LEGEND"1997" SU-METAL聖誕祭
+  shortname: LEGEND "1997"
+  sublabel: Chiba
+  date: 2013-12-21
+  categories:
+  - mainshow
+  venue: Makuhari Messe, Chiba
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/makuhari-messe-kokusai-tenjijou-event-hall-chiba-japan-33c45c55.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

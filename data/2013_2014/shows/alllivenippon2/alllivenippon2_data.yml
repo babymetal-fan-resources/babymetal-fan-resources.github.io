@@ -1,0 +1,30 @@
+- postx:
+    id: 392433613179863040
+    account: BABYMETAL_JAPAN
+    label: Ticket lottery
+    published-date: 2013-10-22
+    text: |-
+      ニッポン放送開局60周年記念イベント「LIVE EXPO TOKYO 2014  ALL LIVE NIPPON Vol.2」のチケット番組最速先行受付中DEATH！！詳しくはコチラ→ http://bit.ly/HdLsr0
+    translation: |-
+      Nippon Broadcasting 60th Anniversary event "LIVE EXPO TOKYO 2014 ALL LIVE NIPPON Vol.2" ticket fastest program pre-orders are now open DEATH!!
+      Click here for details → http://bit.ly/HdLsr0
+    image:
+    - BXI0SsACQAAUYWQ
+    part-of:
+      show:
+        year: 2014
+        id: alllivenippon2
+
+- postximage:
+    post: 392433613179863040
+    id: BXI0SsACQAAUYWQ
+    label: Poster
+    published-date: 2013-10-22
+    local-copy: true
+    context:
+    - show:
+        year: 2014
+        id: alllivenippon2
+    part-of:
+      postx: 392433613179863040
+

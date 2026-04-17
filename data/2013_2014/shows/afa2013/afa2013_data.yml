@@ -1,0 +1,30 @@
+- webimage:
+    domain: animefestival.asia
+    page: afa13
+    id: logo
+    label: Logo
+    published-date: 2013-01-01
+    url: 'https://animefestival.asia/afa13/img/img_logo_afa.png'
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: afa2013
+    part-of:
+      webpage:
+        domain: animefestival.asia
+        id: afa13
+
+- webpage:
+    domain: animefestival.asia
+    id: afa13
+    label: Festival page
+    published-date: 2013-01-01
+    url: 'https://animefestival.asia/afa13/index.html'
+    image:
+    - logo
+    part-of:
+      show:
+        year: 2013
+        id: afa2013
+

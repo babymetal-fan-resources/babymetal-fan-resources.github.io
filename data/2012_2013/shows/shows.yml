@@ -1,0 +1,5 @@
+group:
+  id: shows
+  label: Shows 2012-2013
+  part-of:
+    group: 2012_2013

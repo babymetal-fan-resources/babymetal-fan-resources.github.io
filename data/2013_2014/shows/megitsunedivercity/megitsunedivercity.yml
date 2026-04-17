@@ -1,0 +1,17 @@
+show:
+  year: 2013
+  id: megitsunedivercity
+  cover-image:
+    localimage:
+      album: megitsune
+      id: cover
+  fullname: ニューシングル「メギツネ」発売記念フリーライブ！！
+  shortname: 「メギツネ」発売記念
+  sublabel: Tokyo
+  date: 2013-06-23
+  venue: DiverCity Tokyo Plaza, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/divercity-tokyo-plaza-festival-hiroba-tokyo-japan-73cab689.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

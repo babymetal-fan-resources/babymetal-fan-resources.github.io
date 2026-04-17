@@ -1,0 +1,16 @@
+show:
+  year: 2013
+  id: loudpark
+  cover-image:
+    postximage:
+      post: 385252869340798979
+      image: BVixcYpCIAApA8Y
+  fullname: LOUD PARK 13
+  sublabel: Saitama
+  date: 2013-10-20
+  venue: Saitama Super Arena, Saitama
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/saitama-super-arena-saitama-japan-53c77bb9.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

@@ -1,0 +1,27 @@
+- postx:
+    id: 527374637080907776
+    account: BABYMETAL_JAPAN
+    label: DVD released
+    published-date: 2014-10-29
+    text: |-
+      DVD＆Blu-ray「LIVE～LEGEND 1999＆1997 APOCALYPSE」available today!!
+    image:
+    - B1Gcb3MCIAA6xc-
+    part-of:
+      show:
+        year: 2013
+        id: legend1999
+
+- postximage:
+    post: 527374637080907776
+    id: B1Gcb3MCIAA6xc-
+    label: DVD cover
+    published-date: 2014-10-29
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: legend1999
+    part-of:
+      postx: 527374637080907776
+

@@ -1,0 +1,27 @@
+- postx:
+    id: 387419194293121026
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2013-10-08
+    text: |-
+      11/30(土)SKULLSHIT presents SKULLMANIA Vol.8出演決定！J、MERRY、THE 冠、UNISON SQUARE GARDEN、SiMの皆さんと共演！ http://bit.ly/1e5cvjZ
+    image:
+    - BWBjtF-CcAAu2Ib
+    part-of:
+      show:
+        year: 2013
+        id: skullmania8
+
+- postximage:
+    post: 387419194293121026
+    id: BWBjtF-CcAAu2Ib
+    label: Poster
+    published-date: 2013-10-08
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: skullmania8
+    part-of:
+      postx: 387419194293121026
+

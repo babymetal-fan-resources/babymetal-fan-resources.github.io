@@ -1,0 +1,17 @@
+show:
+  year: 2013
+  id: countdownjapan
+  cover-image:
+    postximage:
+      post: 398425374083653632
+      image: BYd9xExCIAAeKhZ
+  fullname: rockin'on presents COUNTDOWN JAPAN 13/14
+  shortname: COUNTDOWN JAPAN 13/14
+  sublabel: Chiba
+  date: 2013-12-30
+  venue: Makuhari Messe, Chiba
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/makuhari-messe-kokusai-tenjijou-event-hall-chiba-japan-5bcd1b18.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

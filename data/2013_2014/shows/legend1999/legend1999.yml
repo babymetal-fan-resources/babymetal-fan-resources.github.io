@@ -1,0 +1,19 @@
+show:
+  year: 2013
+  id: legend1999
+  cover-image:
+    postximage:
+      post: 527374637080907776
+      image: B1Gcb3MCIAA6xc-
+  fullname: LEGEND "1999"　YUIMETAL & MOAMETAL聖誕祭
+  shortname: LEGEND "1999"
+  sublabel: Tokyo
+  date: 2013-06-30
+  categories:
+  - mainshow
+  venue: NHKホール, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/nhk-hall-tokyo-japan-53cd1b2d.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

@@ -1,0 +1,17 @@
+show:
+  year: 2013
+  id: joinalive
+  cover-image:
+    webimage:
+      domain: joinalive.jp
+      page: history
+      id: poster
+  fullname: JOIN ALIVE
+  sublabel: Iwamizawa
+  date: 2013-07-21
+  venue: Iwamizawa Park, Iwamizawa
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/iwamizawa-kouen-iwamizawa-japan-53cd1b21.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

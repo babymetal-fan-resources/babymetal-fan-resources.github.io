@@ -1,0 +1,30 @@
+- postx:
+    id: 398425374083653632
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2013-11-07
+    text: |-
+      「COUNTDOWN JAPAN 13/14」BABYMETAL出演決定DEATH！！2013年最後のフェス出演は12月30日（月）！！ →http://bit.ly/18BPyzK
+    translation: |-
+      "COUNTDOWN JAPAN 13/14" BABYMETAL appearance confirmed DEATH!!
+      The last festival appearance of 2013 is on Monday, December 30th!! →http://bit.ly/18BPyzK
+    image:
+    - BYd9xExCIAAeKhZ
+    part-of:
+      show:
+        year: 2013
+        id: countdownjapan
+
+- postximage:
+    post: 398425374083653632
+    id: BYd9xExCIAAeKhZ
+    label: Logo
+    published-date: 2026-04-17
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: countdownjapan
+    part-of:
+      postx: 398425374083653632
+

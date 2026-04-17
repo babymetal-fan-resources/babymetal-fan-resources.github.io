@@ -1,0 +1,17 @@
+show:
+  year: 2013
+  id: rockinjapan
+  cover-image:
+    webimage:
+      domain: rijfes.jp
+      page: 2013
+      id: banner
+  fullname: ROCK IN JAPAN FESTIVAL 2013
+  sublabel: Ibaraki
+  date: 2013-08-04
+  venue: Hitachi Seaside Park, Ibaraki, Japan
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/hitachi-kaihin-kouen-hitachinaka-japan-5bcd1b20.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

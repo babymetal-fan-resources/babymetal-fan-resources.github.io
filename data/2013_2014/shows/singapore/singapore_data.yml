@@ -1,0 +1,31 @@
+- postx:
+    id: 400968745985642496
+    account: BABYMETAL_JAPAN
+    label: Tickets sales tomorrow
+    published-date: 2013-11-14
+    text: |-
+      初の海外ワンマンライブとなるシンガポール公演のオンラインチケット販売が明日15日（金）13時からスタートDEATH！！
+      専用WEB→ http://bit.ly/HSC10X
+    translation: |-
+      Online ticket sales for the Singapore performance, our first overseas solo live, start tomorrow the 15th (Fri) from 13:00 DEATH!!
+      Dedicated WEB → http://bit.ly/HSC10X
+    image:
+    - BZCG8zbCEAIeU33
+    part-of:
+      show:
+        year: 2013
+        id: singapore
+
+- postximage:
+    post: 400968745985642496
+    id: BZCG8zbCEAIeU33
+    label: Flyer
+    published-date: 2013-11-14
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: singapore
+    part-of:
+      postx: 400968745985642496
+

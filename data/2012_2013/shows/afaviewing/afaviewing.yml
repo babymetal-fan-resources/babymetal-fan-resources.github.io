@@ -1,0 +1,17 @@
+show:
+  year: 2013
+  id: afaviewing
+  cover-image:
+    postximage:
+      post: 290066569453793280
+      image: BAaGAhICcAEPU7f
+  fullname: 初の海外ライブを目撃せよ！ -Anime Festival Asia 2012ライブ上映会-
+  shortname: 初の海外ライブを目撃せよ！
+  sublabel: Tokyo
+  date: 2013-01-12
+  venue: CUTUP STUDIO, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/tower-records-shibuya-cutup-studio-tokyo-japan-5bcd1b30.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012_2013

@@ -1,0 +1,30 @@
+- webimage:
+    domain: joinalive.jp
+    page: history
+    id: poster
+    label: Poster
+    published-date: 2013-01-01
+    url: 'https://joinalive.jp/assets/img/history/joinpos_2013.png'
+    local-copy: true
+    context:
+    - show:
+        year: 2013
+        id: joinalive
+    part-of:
+      webpage:
+        domain: joinalive.jp
+        id: history
+
+- webpage:
+    domain: joinalive.jp
+    id: history
+    label: Festival history
+    published-date: 2010-01-01
+    url: 'https://joinalive.jp/history/'
+    image:
+    - poster
+    part-of:
+      show:
+        year: 2013
+        id: joinalive
+

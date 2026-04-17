@@ -1,0 +1,15 @@
+show:
+  year: 2013
+  id: deathmatchbattle3
+  cover-image:
+    webimage:
+      domain: bigcat-live.com
+      page: 201305
+      id: cover
+  fullname: '-五月革命- BATTLE-3'
+  date: 2013-05-18
+  tour: deathmatch2013
+  venue: Zepp DiverCity, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/zepp-divercity-tokyo-tokyo-japan-43cd1b2b.html'
+  part-of:
+    tour: deathmatch2013

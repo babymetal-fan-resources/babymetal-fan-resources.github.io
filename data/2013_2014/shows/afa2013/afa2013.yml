@@ -1,0 +1,18 @@
+show:
+  year: 2013
+  id: afa2013
+  cover-image:
+    webimage:
+      domain: animefestival.asia
+      page: afa13
+      id: logo
+  fullname: ANIME FESTIVAL ASIA 2013
+  sublabel: Singapore
+  date: 2013-11-09
+  venue: Suntec Convention & Exhibition Centre, Singapore
+  event-page: 'https://animefestival.asia/afa13/index.html'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/suntec-city-concert-hall-singapore-singapore-63cab68f.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

@@ -1,0 +1,26 @@
+- webimage:
+    domain: hmv.co.jp
+    page: 1212110080
+    id: cover
+    label: Cover
+    published-date: 2012-12-12
+    url: 'https://img.hmv.co.jp/news/image/12/1211/title-0080.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: hmv.co.jp
+        id: 1212110080
+
+- webpage:
+    domain: hmv.co.jp
+    id: 1212110080
+    label: Show information
+    published-date: 2012-12-12
+    url: 'https://www.hmv.co.jp/news/article/1212110080/'
+    image:
+    - cover
+    part-of:
+      show:
+        year: 2013
+        id: newyear
+

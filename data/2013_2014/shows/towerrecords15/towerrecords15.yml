@@ -1,0 +1,18 @@
+show:
+  year: 2013
+  id: towerrecords15
+  cover-image:
+    webimage:
+      domain: tower.jp
+      page: 2013.10.11.n05
+      id: poster
+  fullname: タワーレコード新宿店15周年大感謝祭スペシャル「15の夜。」
+  shortname: 15の夜
+  sublabel: Tokyo
+  date: 2013-10-18
+  venue: 赤坂BLITZ, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2013/akasaka-blitz-tokyo-japan-3c701db.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014
