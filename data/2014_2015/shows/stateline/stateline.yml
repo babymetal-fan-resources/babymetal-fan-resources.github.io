@@ -1,0 +1,16 @@
+show:
+  year: 2014
+  id: stateline
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Stateline, NV, USA
+  sublabel: Lady Gaga's artRave - The ARTPOP Ball
+  date: 2014-08-02
+  venue: Lake Tahoe Outdoor Arena at Harvey's, Stateline, NV, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/harveys-outdoor-arena-stateline-nv-7bcab680.html'
+  part-of:
+    group:
+      id: shows
+      group: 2014_2015

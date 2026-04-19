@@ -1,0 +1,15 @@
+show:
+  year: 2014
+  id: summersonictokyo
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: SUMMER SONIC 2014
+  sublabel: Tokyo
+  date: 2014-08-16
+  tour: worldtour2014
+  venue: QVC MARINE FIELD＆MAKUHARI MESSE, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/makuhari-messe-kokusai-tenjijou-hall-1-2-chiba-japan-43cec3f7.html'
+  part-of:
+    tour: worldtour2014

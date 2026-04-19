@@ -1,0 +1,16 @@
+show:
+  year: 2014
+  id: apocrypham
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Apocrypha M
+  sublabel: Tokyo
+  date: 2014-07-21
+  venue: Tsutaya O-East, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/tsutaya-o-east-tokyo-japan-7bcab6d0.html'
+  part-of:
+    group:
+      id: shows
+      group: 2014_2015

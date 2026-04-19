@@ -1,0 +1,16 @@
+show:
+  year: 2014
+  id: apocryphas
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Apocrypha S
+  sublabel: Tokyo
+  date: 2014-12-20
+  venue: Tsutaya O-East, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/toyosu-pit-tokyo-japan-6bcd0aa2.html'
+  part-of:
+    group:
+      id: shows
+      group: 2014_2015

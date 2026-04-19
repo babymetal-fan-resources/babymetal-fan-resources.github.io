@@ -1,0 +1,16 @@
+show:
+  year: 2014
+  id: kinnikushoujotai
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: 筋肉少女帯 / BABYMETAL
+  sublabel: Tokyo
+  date: 2014-01-24
+  venue: Shibuya O-EAST, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/tsutaya-o-east-tokyo-japan-4bcd1b1e.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

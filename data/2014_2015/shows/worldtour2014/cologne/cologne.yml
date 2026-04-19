@@ -1,0 +1,14 @@
+show:
+  year: 2014
+  id: cologne
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Cologne, Germany
+  date: 2014-07-03
+  tour: worldtour2014
+  venue: Live Music Hall, Cologne, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/live-music-hall-cologne-germany-23c18043.html'
+  part-of:
+    tour: worldtour2014

@@ -1,0 +1,14 @@
+show:
+  year: 2014
+  id: losangeles
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Los Angeles, CA, USA
+  date: 2014-07-27
+  tour: worldtour2014
+  venue: Fonda Theatre, Los Angeles, CA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/the-fonda-theatre-los-angeles-ca-bc15596.html'
+  part-of:
+    tour: worldtour2014

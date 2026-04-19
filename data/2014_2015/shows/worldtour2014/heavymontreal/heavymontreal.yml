@@ -1,0 +1,15 @@
+show:
+  year: 2014
+  id: heavymontreal
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Heavy Montréal
+  sublabel: Montréal, Canada
+  date: 2014-08-09
+  tour: worldtour2014
+  venue: Park Jean-Drapeau, Montréal, Canada
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/parc-jean-drapeau-montreal-qc-canada-2bceec3a.html'
+  part-of:
+    tour: worldtour2014

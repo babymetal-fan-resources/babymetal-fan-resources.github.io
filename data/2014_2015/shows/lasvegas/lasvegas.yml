@@ -1,0 +1,16 @@
+show:
+  year: 2014
+  id: lasvegas
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Las Vegas, NV, USA
+  sublabel: Lady Gaga's artRave - The ARTPOP Ball
+  date: 2014-08-01
+  venue: MGM Grand Garden Arena, Las Vegas, NV, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/mgm-grand-garden-arena-las-vegas-nv-7bcab68c.html'
+  part-of:
+    group:
+      id: shows
+      group: 2014_2015

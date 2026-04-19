@@ -1,0 +1,16 @@
+show:
+  year: 2014
+  id: saltlakecity
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Salt Lake City, UT, USA
+  sublabel: Lady Gaga's artRave - The ARTPOP Ball
+  date: 2014-08-04
+  venue: EnergySolutions Arena, Salt Lake City, UT, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/energysolutions-arena-salt-lake-city-ut-63cab687.html'
+  part-of:
+    group:
+      id: shows
+      group: 2014_2015

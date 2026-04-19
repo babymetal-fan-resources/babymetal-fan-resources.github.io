@@ -1,0 +1,15 @@
+show:
+  year: 2014
+  id: summersonicosaka
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: SUMMER SONIC 2014
+  sublabel: Osaka
+  date: 2014-08-17
+  tour: worldtour2014
+  venue: MAISHIMA SUMMER SONIC site, Osaka
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/maishima-osaka-japan-4bce3b62.html'
+  part-of:
+    tour: worldtour2014

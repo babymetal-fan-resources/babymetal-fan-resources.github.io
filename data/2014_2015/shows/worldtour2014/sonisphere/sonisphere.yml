@@ -1,0 +1,14 @@
+show:
+  year: 2014
+  id: sonisphere
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Sonisphere UK 2014
+  sublabel: Knebworth, England
+  date: 2014-07-05
+  tour: worldtour2014
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/knebworth-house-knebworth-england-33c1fce1.html'
+  part-of:
+    tour: worldtour2014

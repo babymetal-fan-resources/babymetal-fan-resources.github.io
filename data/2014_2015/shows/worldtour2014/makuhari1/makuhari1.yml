@@ -1,0 +1,14 @@
+show:
+  year: 2014
+  id: makuhari1
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Makuhari Messe
+  date: 2014-09-13
+  tour: worldtour2014
+  venue: Makuhari Messe, Chiba
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/makuhari-messe-kokusai-tenjijou-event-hall-chiba-japan-7bcfe298.html'
+  part-of:
+    tour: worldtour2014

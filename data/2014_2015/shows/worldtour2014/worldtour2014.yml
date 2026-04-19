@@ -1,0 +1,39 @@
+tour:
+  id: worldtour2014
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: BABYMETAL WORLD TOUR 2014
+  shortname: WORLD TOUR 2014
+  first-date: 2014-07-01
+  last-date: 2014-07-27
+  shows:
+  - year: 2014
+    id: paris
+  - year: 2014
+    id: cologne
+  - year: 2014
+    id: sonisphere
+  - year: 2014
+    id: london
+  - year: 2014
+    id: losangeles
+  - year: 2014
+    id: heavymontreal
+  - year: 2014
+    id: summersonictokyo
+  - year: 2014
+    id: summersonicosaka
+  - year: 2014
+    id: makuhari1
+  - year: 2014
+    id: makuhari2
+  - year: 2014
+    id: newyork
+  - year: 2014
+    id: london2
+  part-of:
+    group:
+      id: shows
+      group: 2014_2015

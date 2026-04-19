@@ -1,0 +1,16 @@
+show:
+  year: 2014
+  id: heavyidolshowdown
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: 完全櫻樂團 第壹團 重音偶像大對決
+  sublabel: Taipei, Taiwan
+  date: 2014-02-02
+  venue: ATT Show Box, Taipei, Taiwan
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/att-showbox-taipei-taiwan-6bc282ca.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

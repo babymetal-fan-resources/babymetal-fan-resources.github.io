@@ -1,0 +1,14 @@
+show:
+  year: 2014
+  id: newyork
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: New York, NY, USA
+  date: 2014-11-04
+  tour: worldtour2014
+  venue: Hammerstein Ballroom, New York, NY, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/hammerstein-ballroom-new-york-ny-7bcc0a28.html'
+  part-of:
+    tour: worldtour2014

@@ -1,0 +1,16 @@
+show:
+  year: 2014
+  id: denver
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Denver, CO, USA
+  sublabel: Lady Gaga's artRave - The ARTPOP Ball
+  date: 2014-08-06
+  venue: Pepsi Center, Denver, CO, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/pepsi-center-denver-co-6bcab686.html'
+  part-of:
+    group:
+      id: shows
+      group: 2014_2015

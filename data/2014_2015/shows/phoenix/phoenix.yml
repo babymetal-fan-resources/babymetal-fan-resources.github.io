@@ -1,0 +1,16 @@
+show:
+  year: 2014
+  id: phoenix
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Phoenix, AZ, USA
+  sublabel: Lady Gaga's artRave - The ARTPOP Ball
+  date: 2014-07-30
+  venue: US Airways Center, Phoenix, AZ, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/us-airways-center-phoenix-az-43cd1b13.html'
+  part-of:
+    group:
+      id: shows
+      group: 2014_2015

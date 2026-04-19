@@ -1,0 +1,17 @@
+show:
+  year: 2014
+  id: budokanrednight
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: 赤い夜　LEGEND “巨大コルセット祭り” 〜天下一メタル武道会ファイナル〜
+  shortname: 赤い夜　LEGEND “巨大コルセット祭り”
+  sublabel: Budokan, red night
+  date: 2014-03-01
+  venue: Nippon Budokan, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/nippon-budokan-tokyo-japan-63c29eb7.html'
+  part-of:
+    group:
+      id: shows
+      group: 2013_2014

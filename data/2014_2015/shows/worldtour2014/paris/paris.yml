@@ -1,0 +1,14 @@
+show:
+  year: 2014
+  id: paris
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Paris, France
+  date: 2014-07-01
+  tour: worldtour2014
+  venue: La Cigale, Paris, France
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2014/la-cigale-paris-france-53c18f51.html'
+  part-of:
+    tour: worldtour2014
