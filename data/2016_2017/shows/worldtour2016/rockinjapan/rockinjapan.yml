@@ -1,0 +1,16 @@
+show:
+  year: 2016
+  id: rockinjapan
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: ROCK IN JAPAN FESTIVAL 2016
+  sublabel: Hitachinaka, Japan
+  date: 2016-08-06
+  tour: worldtour2016
+  venue: Hitachi Seaside Park, Hitachinaka, Japan
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/hitachi-kaihin-kouen-hitachinaka-japan-3fc9da3.html'
+  todo: part of the world tour ?
+  part-of:
+    tour: worldtour2016

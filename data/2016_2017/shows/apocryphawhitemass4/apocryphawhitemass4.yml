@@ -1,0 +1,16 @@
+show:
+  year: 2016
+  id: apocryphawhitemass4
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: APOCRYPHA -THE WHITE MASS-
+  sublabel: Tokyo
+  date: 2016-08-18
+  venue: Zepp Tokyo, Tokyo, Japan
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/zepp-tokyo-tokyo-japan-6bfcd60e.html'
+  part-of:
+    group:
+      id: shows
+      group: 2016_2017

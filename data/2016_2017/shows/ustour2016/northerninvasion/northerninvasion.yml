@@ -1,0 +1,15 @@
+show:
+  year: 2016
+  id: northerninvasion
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Northern Invasion 2016
+  sublabel: Somerset, WI, USA
+  date: 2016-05-14
+  tour: ustour2016
+  venue: Somerset Amphitheater, Somerset, WI, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/somerset-amphitheater-somerset-wi-7bf15a0c.html'
+  part-of:
+    tour: ustour2016

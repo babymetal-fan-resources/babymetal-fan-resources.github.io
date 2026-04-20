@@ -1,0 +1,14 @@
+show:
+  year: 2016
+  id: philadelphia
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Philadelphia, PA, USA
+  date: 2016-05-07
+  tour: ustour2016
+  venue: Electric Factory, Philadelphia, PA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/electric-factory-philadelphia-pa-bf1754a.html'
+  part-of:
+    tour: ustour2016

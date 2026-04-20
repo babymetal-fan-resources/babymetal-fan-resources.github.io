@@ -1,0 +1,14 @@
+show:
+  year: 2016
+  id: silverspring
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Silver Spring, MD, USA
+  date: 2016-05-10
+  tour: ustour2016
+  venue: The Fillmore, Silver Spring, MD, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/the-fillmore-silver-spring-silver-spring-md-6bf1621e.html'
+  part-of:
+    tour: ustour2016

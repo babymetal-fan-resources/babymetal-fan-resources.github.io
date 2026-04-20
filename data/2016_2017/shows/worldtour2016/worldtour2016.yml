@@ -1,0 +1,29 @@
+tour:
+  id: worldtour2016
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: BABYMETAL WORLD TOUR 2016
+  shortname: WORLD TOUR 2016
+  first-date: 2016-04-02
+  last-date: 2016-09-20
+  shows:
+  - year: 2016
+    id: wembleyarena
+  - year: 2016
+    id: fujirockfestival
+  - year: 2016
+    id: rockinjapan
+  - year: 2016
+    id: risingsunrockfestival
+  - year: 2016
+    id: summersonicosaka
+  - year: 2016
+    id: tokyodomerednight
+  - year: 2016
+    id: tokyodomeblacknight
+  part-of:
+    group:
+      id: shows
+      group: 2016_2017

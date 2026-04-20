@@ -1,0 +1,16 @@
+show:
+  year: 2016
+  id: summersonicosaka
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: SUMMER SONIC 2016
+  sublabel: Osaka
+  date: 2016-08-21
+  tour: worldtour2016
+  venue: Maishima Summer Sonic, Osaka
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/fumin-kyousai-super-arena-osaka-japan-13fcc161.html'
+  todo: part of the world tour ?
+  part-of:
+    tour: worldtour2016

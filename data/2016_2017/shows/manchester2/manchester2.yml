@@ -1,0 +1,16 @@
+show:
+  year: 2016
+  id: manchester2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Manchester, England
+  sublabel: RED HOT CHILI PEPPERS UK TOUR
+  date: 2016-12-15
+  venue: Manchester Arena, Manchester, England
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/manchester-arena-manchester-england-1bfbc174.html'
+  part-of:
+    group:
+      id: shows
+      group: 2016_2017

@@ -1,0 +1,17 @@
+show:
+  year: 2016
+  id: tokyodomeblacknight
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: LEGEND -METAL RESISTANCE- BLACK NIGHT
+  shortname: TOKYO DOME -BLACK NIGHT-
+  date: 2016-09-20
+  tour: worldtour2016
+  categories:
+  - mainshow
+  venue: Tokyo Dome, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/tokyo-dome-tokyo-japan-5bfd8f34.html'
+  part-of:
+    tour: worldtour2016

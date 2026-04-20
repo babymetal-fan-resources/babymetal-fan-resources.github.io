@@ -1,0 +1,15 @@
+show:
+  year: 2016
+  id: apocryphaotfgk2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: APOCRYPHA - Only The FOX GOD Knows -
+  sublabel: Tokyo
+  date: 2016-04-21
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/studio-coast-tokyo-japan-7bf1da30.html'
+  part-of:
+    group:
+      id: shows
+      group: 2016_2017

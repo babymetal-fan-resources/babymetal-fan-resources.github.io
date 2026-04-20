@@ -1,0 +1,39 @@
+tour:
+  id: ustour2016
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: BABYMETAL WORLD TOUR 2016 / US TOUR
+  shortname: US TOUR 2016
+  first-date: 2016-05-04
+  last-date: 2016-07-17
+  shows:
+  - year: 2016
+    id: newyork
+  - year: 2016
+    id: boston
+  - year: 2016
+    id: philadelphia
+  - year: 2016
+    id: carolinarebellion
+  - year: 2016
+    id: silverspring
+  - year: 2016
+    id: detroit
+  - year: 2016
+    id: chicago
+  - year: 2016
+    id: northerninvasion
+  - year: 2016
+    id: seattle
+  - year: 2016
+    id: sanfrancisco
+  - year: 2016
+    id: losangeles
+  - year: 2016
+    id: openairchicago
+  part-of:
+    group:
+      id: shows
+      group: 2016_2017

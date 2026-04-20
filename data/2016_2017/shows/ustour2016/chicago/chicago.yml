@@ -1,0 +1,14 @@
+show:
+  year: 2016
+  id: chicago
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Chicago, IL, USA
+  date: 2016-05-13
+  tour: ustour2016
+  venue: House of Blues, Chicago, IL, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/house-of-blues-chicago-il-73f15e55.html'
+  part-of:
+    tour: ustour2016

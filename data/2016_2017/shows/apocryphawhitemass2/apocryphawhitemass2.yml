@@ -1,0 +1,16 @@
+show:
+  year: 2016
+  id: apocryphawhitemass2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: APOCRYPHA -THE WHITE MASS-
+  sublabel: Osaka
+  date: 2016-08-09
+  venue: Nanba Hatch, Osaka, Japan
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/nanba-hatch-osaka-japan-5bfc8f00.html'
+  part-of:
+    group:
+      id: shows
+      group: 2016_2017

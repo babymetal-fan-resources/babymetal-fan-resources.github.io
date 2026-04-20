@@ -1,0 +1,15 @@
+show:
+  year: 2016
+  id: wembleyarena
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: BABYMETAL WORLD TOUR 2016 kicks off at THE SSE ARENA WEMBLEY!!
+  shortname: WEMBLEY ARENA
+  date: 2016-04-02
+  tour: worldtour2016
+  venue: The SSE Arena, Wembley, London, England
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/the-sse-arena-wembley-london-england-63f056ab.html'
+  part-of:
+    tour: worldtour2016

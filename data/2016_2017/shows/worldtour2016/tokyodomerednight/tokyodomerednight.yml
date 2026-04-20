@@ -1,0 +1,17 @@
+show:
+  year: 2016
+  id: tokyodomerednight
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: LEGEND -METAL RESISTANCE- RED NIGHT
+  shortname: TOKYO DOME -RED NIGHT-
+  date: 2016-09-19
+  tour: worldtour2016
+  categories:
+  - mainshow
+  venue: Tokyo Dome, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/tokyo-dome-tokyo-japan-63fd9677.html'
+  part-of:
+    tour: worldtour2016

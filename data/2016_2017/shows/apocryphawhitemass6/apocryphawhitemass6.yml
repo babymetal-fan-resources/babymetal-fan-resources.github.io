@@ -1,0 +1,16 @@
+show:
+  year: 2016
+  id: apocryphawhitemass6
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: APOCRYPHA -THE WHITE MASS-
+  sublabel: Nagoya
+  date: 2016-08-25
+  venue: Zepp Nagoya, Nagoya, Japan
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/zepp-nagoya-nagoya-japan-bfc293e.html'
+  part-of:
+    group:
+      id: shows
+      group: 2016_2017

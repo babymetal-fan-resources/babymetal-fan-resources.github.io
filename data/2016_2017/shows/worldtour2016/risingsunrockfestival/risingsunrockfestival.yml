@@ -1,0 +1,17 @@
+show:
+  year: 2016
+  id: risingsunrockfestival
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: RISING SUN ROCK FESTIVAL 2016 in EZO
+  shortname: 'RISING SUN ROCK FESTIVAL '
+  sublabel: Ishikari, Japan
+  date: 2016-08-12
+  tour: worldtour2016
+  venue: Tarukawa Dock Open-Air Special Stages, Ishikari, Japan
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/tarukawa-dock-open-air-special-stages-sun-stage-ishikari-japan-13fcf1b5.html'
+  todo: part of the world tour ?
+  part-of:
+    tour: worldtour2016

@@ -1,0 +1,14 @@
+show:
+  year: 2016
+  id: losangeles
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Los Angeles, CA, USA
+  date: 2016-07-15
+  tour: ustour2016
+  venue: Wiltern Theatre, Los Angeles, CA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/wiltern-theatre-los-angeles-ca-3bff2ce0.html'
+  part-of:
+    tour: ustour2016

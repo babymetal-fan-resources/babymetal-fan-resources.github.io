@@ -1,0 +1,15 @@
+show:
+  year: 2016
+  id: downloadfrance
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Download Festival France 2016
+  sublabel: Paris, France
+  date: 2016-06-11
+  tour: europetour2016
+  venue: Hippodrome de Longchamp, Paris, France
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/hippodrome-de-longchamp-paris-france-bfe1562.html'
+  part-of:
+    tour: europetour2016

@@ -1,0 +1,16 @@
+show:
+  year: 2016
+  id: fujirockfestival
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: FUJI ROCK FESTIVAL '16
+  sublabel: Yuzawa, Japan
+  date: 2016-07-24
+  tour: worldtour2016
+  venue: Naeba Ski area, Yuzawa, Japan
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/naeba-ski-jou-white-stage-yuzawa-japan-2bff74ea.html'
+  todo: part of the world tour ?
+  part-of:
+    tour: worldtour2016

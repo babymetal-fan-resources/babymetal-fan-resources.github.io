@@ -1,0 +1,16 @@
+show:
+  year: 2016
+  id: glasgow
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Glasgow, Scotland
+  sublabel: RED HOT CHILI PEPPERS UK TOUR
+  date: 2016-12-08
+  venue: The SSE Hydro, Glasgow, Scotland
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/the-sse-hydro-glasgow-scotland-5bfbefc0.html'
+  part-of:
+    group:
+      id: shows
+      group: 2016_2017

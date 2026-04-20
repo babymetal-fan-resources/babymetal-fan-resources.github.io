@@ -1,0 +1,16 @@
+show:
+  year: 2016
+  id: birmingham2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Birmingham, England
+  sublabel: RED HOT CHILI PEPPERS UK TOUR
+  date: 2016-12-11
+  venue: Genting Arena, Birmingham, England
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/genting-arena-birmingham-england-5bfbd78c.html'
+  part-of:
+    group:
+      id: shows
+      group: 2016_2017
