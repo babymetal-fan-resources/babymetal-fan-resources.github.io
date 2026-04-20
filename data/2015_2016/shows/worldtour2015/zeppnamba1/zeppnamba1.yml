@@ -1,0 +1,14 @@
+show:
+  year: 2015
+  id: zeppnamba1
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Zepp Namba
+  date: 2015-09-16
+  tour: worldtour2015
+  venue: Zepp Namba, Osaka
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/zepp-namba-osaka-osaka-japan-7bf4a2cc.html'
+  part-of:
+    tour: worldtour2015

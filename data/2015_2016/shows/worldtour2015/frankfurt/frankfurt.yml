@@ -1,0 +1,14 @@
+show:
+  year: 2015
+  id: frankfurt
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Frankfurt, Germany
+  date: 2015-08-26
+  tour: worldtour2015
+  venue: Batschkapp, Frankfurt, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/batschkapp-frankfurt-germany-3f71d27.html'
+  part-of:
+    tour: worldtour2015

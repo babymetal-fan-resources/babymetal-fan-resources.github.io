@@ -1,0 +1,15 @@
+show:
+  year: 2015
+  id: makuhari
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Makuhari Messe
+  sublabel: Chiba
+  date: 2015-06-21
+  tour: worldtour2015
+  venue: Makuhari Messe, Chiba
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/makuhari-messe-kokusai-tenjijou-hall-1-2-3-chiba-japan-4bc977fa.html'
+  part-of:
+    tour: worldtour2015

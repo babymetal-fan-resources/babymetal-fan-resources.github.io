@@ -1,0 +1,14 @@
+show:
+  year: 2015
+  id: zeppsapporo
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Zepp Sapporo
+  date: 2015-09-21
+  tour: worldtour2015
+  venue: Zepp Sapporo, Sapporo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/zepp-sapporo-sapporo-japan-4bf4cf92.html'
+  part-of:
+    tour: worldtour2015

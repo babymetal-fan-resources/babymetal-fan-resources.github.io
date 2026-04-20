@@ -1,0 +1,15 @@
+show:
+  year: 2015
+  id: rockimrevier
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Rock im Revier 2015
+  sublabel: Gelsenkirchen, Germany
+  date: 2015-05-30
+  tour: worldtour2015
+  venue: Veltins Arena, Gelsenkirchen, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/veltins-arena-gelsenkirchen-germany-33c99871.html'
+  part-of:
+    tour: worldtour2015

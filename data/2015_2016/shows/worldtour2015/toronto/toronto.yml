@@ -1,0 +1,14 @@
+show:
+  year: 2015
+  id: toronto
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Toronto, ON, Canada
+  date: 2015-05-12
+  tour: worldtour2015
+  venue: Danforth Music Hall, Toronto, ON, Canada
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/danforth-music-hall-toronto-on-canada-3c87133.html'
+  part-of:
+    tour: worldtour2015

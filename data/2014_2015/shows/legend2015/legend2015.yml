@@ -1,0 +1,17 @@
+show:
+  year: 2015
+  id: legend2015
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: LEGEND “2015” ~SHINSHUN KITSUNE MATSURI~
+  shortname: 'LEGEND “2015” '
+  sublabel: Saitama
+  date: 2015-01-10
+  venue: Makuhari Messe, Chiba
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/saitama-super-arena-saitama-japan-5bcab7cc.html'
+  part-of:
+    group:
+      id: shows
+      group: 2014_2015

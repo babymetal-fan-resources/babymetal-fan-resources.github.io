@@ -1,0 +1,15 @@
+show:
+  year: 2015
+  id: leedsfestival
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Leeds Festival 2015
+  sublabel: Bramham, England
+  date: 2015-08-30
+  tour: worldtour2015
+  venue: Bramham Park, Bramham, England
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/bramham-park-bramham-england-6bf71ac6.html'
+  part-of:
+    tour: worldtour2015

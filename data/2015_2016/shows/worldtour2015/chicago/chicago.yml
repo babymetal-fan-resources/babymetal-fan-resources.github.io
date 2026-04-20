@@ -1,0 +1,14 @@
+show:
+  year: 2015
+  id: chicago
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Chicago, IL, USA
+  date: 2015-05-14
+  tour: worldtour2015
+  venue: House of Blues, Chicago, IL, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/house-of-blues-chicago-il-bc8657a.html'
+  part-of:
+    tour: worldtour2015

@@ -1,0 +1,16 @@
+show:
+  year: 2015
+  id: summersonicosaka
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: SUMMER SONIC 2015
+  sublabel: Osaka
+  date: 2015-08-16
+  tour: worldtour2015
+  venue: Maishima Summer Sonic, Osaka
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/sora-no-hiroba-osaka-japan-53f78305.html'
+  todo: part of the world tour ?
+  part-of:
+    tour: worldtour2015

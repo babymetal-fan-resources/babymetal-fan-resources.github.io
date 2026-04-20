@@ -1,0 +1,15 @@
+show:
+  year: 2015
+  id: finalchapter2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: BABYMETAL WORLD TOUR 2015 in JAPAN - THE FINAL CHAPTER OF TRILOGY -
+  shortname: 'THE FINAL CHAPTER OF TRILOGY '
+  date: 2015-12-13
+  tour: worldtour2015
+  venue: Yokohama Arena, Yokohama
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/yokohama-arena-yokohama-japan-63f2c653.html'
+  part-of:
+    tour: worldtour2015

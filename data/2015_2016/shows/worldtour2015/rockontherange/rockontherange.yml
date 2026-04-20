@@ -1,0 +1,15 @@
+show:
+  year: 2015
+  id: rockontherange
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Rock on the Range 2015
+  sublabel: Columbus, OH, USA
+  date: 2015-05-16
+  tour: worldtour2015
+  venue: Crew Stadium, Columbus, OH, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/mapfre-stadium-columbus-oh-73c862b1.html'
+  part-of:
+    tour: worldtour2015

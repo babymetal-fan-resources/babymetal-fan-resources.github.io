@@ -1,0 +1,15 @@
+show:
+  year: 2015
+  id: rockavaria
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Rockavaria
+  sublabel: Munich, Germany
+  date: 2015-05-29
+  tour: worldtour2015
+  venue: Olympiapark, Munich, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/olympiahalle-munich-germany-43c9a3e7.html'
+  part-of:
+    tour: worldtour2015

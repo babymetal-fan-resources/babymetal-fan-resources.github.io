@@ -1,0 +1,16 @@
+show:
+  year: 2015
+  id: apocryphablackmass1
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: APOCRYPHA -THE BLACK MASS-
+  sublabel: Tokyo
+  date: 2015-04-23
+  venue: Tsutaya O-East, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/tsutaya-o-east-tokyo-japan-2bc8dce6.html'
+  part-of:
+    group:
+      id: shows
+      group: 2015_2016

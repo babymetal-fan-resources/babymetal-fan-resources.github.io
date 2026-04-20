@@ -1,0 +1,17 @@
+show:
+  year: 2015
+  id: metrock
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: TOKYO METROPOLITAN ROCK FESTIVAL 2015
+  shortname: METROCK 2015
+  sublabel: Tokyo
+  date: 2015-05-24
+  tour: worldtour2015
+  venue: Wakasu Park, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/shinkiba-wakasu-kouen-tokyo-japan-53c9b3e1.html'
+  todo: part of the world tour ?
+  part-of:
+    tour: worldtour2015

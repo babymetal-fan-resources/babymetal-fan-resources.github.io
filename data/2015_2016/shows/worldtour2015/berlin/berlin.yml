@@ -1,0 +1,14 @@
+show:
+  year: 2015
+  id: berlin
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Berlin, Germany
+  date: 2015-08-27
+  tour: worldtour2015
+  venue: Huxleys Neue Welt, Berlin, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/huxleys-neue-welt-berlin-germany-33f718f5.html'
+  part-of:
+    tour: worldtour2015

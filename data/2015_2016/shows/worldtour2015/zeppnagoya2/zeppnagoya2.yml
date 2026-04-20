@@ -1,0 +1,14 @@
+show:
+  year: 2015
+  id: zeppnagoya2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Zepp Nagoya
+  date: 2015-10-08
+  tour: worldtour2015
+  venue: Zepp Nagoya, Nagoya
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/zepp-nagoya-nagoya-japan-5bf407a0.html'
+  part-of:
+    tour: worldtour2015

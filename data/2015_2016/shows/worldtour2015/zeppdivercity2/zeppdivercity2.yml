@@ -1,0 +1,14 @@
+show:
+  year: 2015
+  id: zeppdivercity2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Zepp DiverCity
+  date: 2015-10-16
+  tour: worldtour2015
+  venue: Zepp DiverCity, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/zepp-divercity-tokyo-tokyo-japan-b96fd56.html'
+  part-of:
+    tour: worldtour2015

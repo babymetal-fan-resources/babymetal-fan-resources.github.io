@@ -1,0 +1,16 @@
+show:
+  year: 2015
+  id: summersonictokyo
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: SUMMER SONIC 2015
+  sublabel: Tokyo
+  date: 2015-08-15
+  tour: worldtour2015
+  venue: QVC Marine Field & Makuhari Messe, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/makuhari-messe-kokusai-tenjijou-hall-1-2-chiba-japan-43f7f707.html'
+  todo: part of the world tour ?
+  part-of:
+    tour: worldtour2015

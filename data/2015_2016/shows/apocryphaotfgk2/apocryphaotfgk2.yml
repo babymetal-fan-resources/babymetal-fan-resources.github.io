@@ -1,0 +1,16 @@
+show:
+  year: 2015
+  id: apocryphaotfgk2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: APOCRYPHA - Only The FOX GOD Knows -
+  sublabel: Tokyo
+  date: 2015-07-29
+  venue: Tsutaya O-East, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/tsutaya-o-east-tokyo-japan-3bf668ec.html'
+  part-of:
+    group:
+      id: shows
+      group: 2015_2016

@@ -1,0 +1,14 @@
+show:
+  year: 2015
+  id: bologna
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Bologna, Italy
+  date: 2015-06-05
+  tour: worldtour2015
+  venue: Estragon Club, Bologna, Italy
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/estragon-bologna-italy-6bc9e67a.html'
+  part-of:
+    tour: worldtour2015

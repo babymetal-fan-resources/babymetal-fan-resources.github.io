@@ -1,0 +1,14 @@
+show:
+  year: 2015
+  id: zurich
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Zurich, Switzerland
+  date: 2015-06-03
+  tour: worldtour2015
+  venue: X-TRA, Zurich, Switzerland
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/x-tra-zurich-switzerland-23c9ec67.html'
+  part-of:
+    tour: worldtour2015

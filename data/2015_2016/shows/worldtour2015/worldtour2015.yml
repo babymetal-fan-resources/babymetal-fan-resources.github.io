@@ -1,0 +1,72 @@
+tour:
+  id: worldtour2015
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: BABYMETAL WORLD TOUR 2015
+  first-date: 2015-05-09
+  last-date: 2015-12-13
+  shows:
+  - year: 2015
+    id: mexico
+  - year: 2015
+    id: toronto
+  - year: 2015
+    id: chicago
+  - year: 2015
+    id: rockontherange
+  - year: 2015
+    id: metrock
+  - year: 2015
+    id: rockavaria
+  - year: 2015
+    id: rockimrevier
+  - year: 2015
+    id: strasbourg
+  - year: 2015
+    id: zurich
+  - year: 2015
+    id: bologna
+  - year: 2015
+    id: rockinvienna
+  - year: 2015
+    id: makuhari
+  - year: 2015
+    id: summersonictokyo
+  - year: 2015
+    id: summersonicosaka
+  - year: 2015
+    id: frankfurt
+  - year: 2015
+    id: berlin
+  - year: 2015
+    id: readingfestival
+  - year: 2015
+    id: leedsfestival
+  - year: 2015
+    id: zeppnamba1
+  - year: 2015
+    id: zeppnamba2
+  - year: 2015
+    id: zeppsapporo
+  - year: 2015
+    id: zeppfukuoka
+  - year: 2015
+    id: zeppnagoya1
+  - year: 2015
+    id: zeppnagoya2
+  - year: 2015
+    id: zeppdivercity2
+  - year: 2015
+    id: zeppdivercity1
+  - year: 2015
+    id: zeppdivercity2
+  - year: 2015
+    id: finalchapter1
+  - year: 2015
+    id: finalchapter2
+  part-of:
+    group:
+      id: shows
+      group: 2015_2016

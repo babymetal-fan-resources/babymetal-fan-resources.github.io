@@ -1,0 +1,15 @@
+show:
+  year: 2015
+  id: rockinvienna
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Rock in Vienna 2015
+  sublabel: Vienna, Austria
+  date: 2015-06-06
+  tour: worldtour2015
+  venue: Donauinsel, Vienna, Austria
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/donauinsel-vienna-austria-5bc9ef04.html'
+  part-of:
+    tour: worldtour2015

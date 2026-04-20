@@ -1,0 +1,15 @@
+show:
+  year: 2015
+  id: readingfestival
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Reading Festival 2015
+  sublabel: Reading, England
+  date: 2015-08-29
+  tour: worldtour2015
+  venue: Little John's Farm, Reading, England
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/little-johns-farm-reading-england-23f71c33.html'
+  part-of:
+    tour: worldtour2015

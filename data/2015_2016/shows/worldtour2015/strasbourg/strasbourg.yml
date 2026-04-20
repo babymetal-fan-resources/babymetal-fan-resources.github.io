@@ -1,0 +1,14 @@
+show:
+  year: 2015
+  id: strasbourg
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Strasbourg, France
+  date: 2015-06-01
+  tour: worldtour2015
+  venue: La Laiterie, Strasbourg, France
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/la-laiterie-strasbourg-france-7bc9fe3c.html'
+  part-of:
+    tour: worldtour2015

@@ -1,0 +1,5 @@
+group:
+  id: shows
+  label: Shows 2015-2016
+  part-of:
+    group: 2015_2016

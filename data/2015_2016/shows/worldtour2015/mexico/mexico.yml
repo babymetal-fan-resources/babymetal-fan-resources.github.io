@@ -1,0 +1,14 @@
+show:
+  year: 2015
+  id: mexico
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Mexico City, Mexico
+  date: 2015-05-09
+  tour: worldtour2015
+  venue: Circo Volador, Mexico City, Mexico
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/circo-volador-mexico-city-mexico-7bc80624.html'
+  part-of:
+    tour: worldtour2015

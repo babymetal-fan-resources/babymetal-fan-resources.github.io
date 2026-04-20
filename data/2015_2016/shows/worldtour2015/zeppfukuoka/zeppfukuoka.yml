@@ -1,0 +1,14 @@
+show:
+  year: 2015
+  id: zeppfukuoka
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Zepp Fukuoka
+  date: 2015-10-02
+  tour: worldtour2015
+  venue: Zepp Fukuoka, Fukuoka
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/zepp-fukuoka-fukuoka-japan-73f43229.html'
+  part-of:
+    tour: worldtour2015

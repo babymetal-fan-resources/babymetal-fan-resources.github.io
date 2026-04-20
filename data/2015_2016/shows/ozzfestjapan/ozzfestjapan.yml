@@ -1,0 +1,16 @@
+show:
+  year: 2015
+  id: ozzfestjapan
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Ozzfest Japan 2015
+  sublabel: Chiba
+  date: 2015-11-22
+  venue: Makuhari Messe, Chiba
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/makuhari-messe-kokusai-tenjijou-hall-9-10-11-chiba-japan-bf5495e.html'
+  part-of:
+    group:
+      id: shows
+      group: 2015_2016

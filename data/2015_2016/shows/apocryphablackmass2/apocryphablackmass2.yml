@@ -1,0 +1,16 @@
+show:
+  year: 2015
+  id: apocryphablackmass2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: APOCRYPHA - THE BLACK MASS - II
+  sublabel: Tokyo
+  date: 2015-08-21
+  venue: STUDIO COAST, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/tsutaya-o-east-tokyo-japan-13f7c5e5.html'
+  part-of:
+    group:
+      id: shows
+      group: 2015_2016
