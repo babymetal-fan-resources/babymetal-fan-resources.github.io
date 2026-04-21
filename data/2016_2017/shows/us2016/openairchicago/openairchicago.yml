@@ -1,0 +1,15 @@
+show:
+  year: 2016
+  id: openairchicago
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Chicago Open Air 2016
+  sublabel: Bridgeview, IL, USA
+  date: 2016-07-17
+  tour: us2016
+  venue: Toyota Park, Bridgeview, IL, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/toyota-park-bridgeview-il-1bff2974.html'
+  part-of:
+    tour: us2016

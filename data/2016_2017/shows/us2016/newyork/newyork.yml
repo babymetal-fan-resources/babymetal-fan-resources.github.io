@@ -1,0 +1,14 @@
+show:
+  year: 2016
+  id: newyork
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: New York, NY, USA
+  date: 2016-05-04
+  tour: us2016
+  venue: PlayStation Theater, New York, NY, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/playstation-theater-new-york-ny-bf105b2.html'
+  part-of:
+    tour: us2016

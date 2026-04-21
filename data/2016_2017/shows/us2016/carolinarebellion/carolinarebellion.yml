@@ -1,0 +1,15 @@
+show:
+  year: 2016
+  id: carolinarebellion
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Carolina Rebellion 2016
+  sublabel: Concord, NC, USA
+  date: 2016-05-08
+  tour: us2016
+  venue: Charlotte Motor Speedway, Concord, NC, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/charlotte-motor-speedway-concord-nc-23f17883.html'
+  part-of:
+    tour: us2016

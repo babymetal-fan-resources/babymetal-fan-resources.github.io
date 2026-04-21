@@ -1,0 +1,14 @@
+show:
+  year: 2016
+  id: detroit
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Detroit, MI, USA
+  date: 2016-05-11
+  tour: us2016
+  venue: The Fillmore Detroit, Detroit, MI, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/the-fillmore-detroit-detroit-mi-6bf15ed2.html'
+  part-of:
+    tour: us2016

@@ -1,0 +1,14 @@
+show:
+  year: 2016
+  id: seattle
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Seattle, WA, USA
+  date: 2016-07-12
+  tour: us2016
+  venue: The Showbox SoDo, Seattle, WA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/the-showbox-sodo-seattle-wa-13ff3dfd.html'
+  part-of:
+    tour: us2016

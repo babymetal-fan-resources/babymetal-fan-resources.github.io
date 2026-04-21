@@ -1,0 +1,14 @@
+show:
+  year: 2016
+  id: cologne
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Cologne, Germany
+  date: 2016-06-07
+  tour: europe2016
+  venue: Live Music Hall, Cologne, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/live-music-hall-cologne-germany-23fe2c4f.html'
+  part-of:
+    tour: europe2016

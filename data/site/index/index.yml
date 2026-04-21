@@ -862,7 +862,7 @@ contentpage:
   - show:
       year: 2016
       id: pratteln
-  - tour: europetour2016
+  - tour: europe2016
   - show:
       year: 2016
       id: northerninvasion
@@ -887,7 +887,7 @@ contentpage:
   - show:
       year: 2016
       id: newyork
-  - tour: ustour2016
+  - tour: us2016
   - show:
       year: 2016
       id: apocryphaotfgk2

@@ -1,0 +1,15 @@
+show:
+  year: 2016
+  id: rockinvienna
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Rock in Vienna 2016
+  sublabel: Vienna, Austria
+  date: 2016-06-03
+  tour: europe2016
+  venue: Donauinsel, Vienna, Austria
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/donauinsel-vienna-austria-6bfedab2.html'
+  part-of:
+    tour: europe2016

@@ -1,0 +1,29 @@
+tour:
+  id: europe2016
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: BABYMETAL WORLD TOUR 2016 / EUROPE TOUR
+  shortname: EUROPE TOUR 2026
+  first-date: 2016-06-02
+  last-date: 2016-06-11
+  shows:
+  - year: 2016
+    id: pratteln
+  - year: 2016
+    id: rockinvienna
+  - year: 2016
+    id: fortarock
+  - year: 2016
+    id: cologne
+  - year: 2016
+    id: stuttgart
+  - year: 2016
+    id: download
+  - year: 2016
+    id: downloadfrance
+  part-of:
+    group:
+      id: shows
+      group: 2016_2017

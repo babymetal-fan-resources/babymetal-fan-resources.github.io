@@ -1,0 +1,14 @@
+show:
+  year: 2016
+  id: pratteln
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Pratteln, Switzerland
+  date: 2016-06-02
+  tour: europe2016
+  venue: Z7 Konzertfabrik, Pratteln, Switzerland
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/z7-konzertfabrik-pratteln-switzerland-7bfed2ac.html'
+  part-of:
+    tour: europe2016

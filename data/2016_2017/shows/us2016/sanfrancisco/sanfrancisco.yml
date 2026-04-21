@@ -1,0 +1,14 @@
+show:
+  year: 2016
+  id: sanfrancisco
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: San Francisco, CA, USA
+  date: 2016-07-14
+  tour: us2016
+  venue: The Regency Ballroom, San Francisco, CA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/the-regency-ballroom-san-francisco-ca-3ff3df3.html'
+  part-of:
+    tour: us2016
