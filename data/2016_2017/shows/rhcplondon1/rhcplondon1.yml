@@ -1,15 +1,15 @@
 show:
   year: 2016
-  id: london3
+  id: rhcplondon1
   cover-image:
     localimage:
       event: siteimages
       id: kitsune_cover
   fullname: London, England
   sublabel: RED HOT CHILI PEPPERS UK TOUR
-  date: 2016-12-18
+  date: 2016-12-05
   venue: The O2 Arena, London, England
-  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/the-o2-arena-london-england-6bfb2e2a.html'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2016/the-o2-arena-london-england-1bfbf9d0.html'
   part-of:
     group:
       id: shows

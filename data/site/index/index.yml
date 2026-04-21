@@ -581,28 +581,28 @@ contentpage:
   - album: liveatwembley
   - show:
       year: 2016
-      id: london3
+      id: rhcplondon3
   - show:
       year: 2016
-      id: manchester2
+      id: rhcpmanchester2
   - show:
       year: 2016
-      id: manchester1
+      id: rhcpmanchester1
   - show:
       year: 2016
-      id: birmingham2
+      id: rhcpbirmingham2
   - show:
       year: 2016
-      id: birmingham1
+      id: rhcpbirmingham1
   - show:
       year: 2016
-      id: glasgow
+      id: rhcpglasgow
   - show:
       year: 2016
-      id: london2
+      id: rhcplondon2
   - show:
       year: 2016
-      id: london1
+      id: rhcplondon1
   - show:
       year: 2016
       id: tokyodomeblacknight
