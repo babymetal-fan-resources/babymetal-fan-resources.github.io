@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: dallas
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Dallas, TX, USA
+  date: 2019-09-24
+  tour: metalgalaxyus
+  venue: South Side Ballroom, Dallas, TX, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/south-side-ballroom-dallas-tx-739c3af1.html'
+  part-of:
+    tour: metalgalaxyus

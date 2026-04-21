@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: newyork
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: New York, NY, USA
+  date: 2019-09-15
+  tour: metalgalaxyus
+  venue: Terminal 5, New York, NY, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/terminal-5-new-york-ny-539cfb1d.html'
+  part-of:
+    tour: metalgalaxyus

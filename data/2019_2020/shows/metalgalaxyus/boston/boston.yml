@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: boston
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Boston, MA, USA
+  date: 2019-09-11
+  tour: metalgalaxyus
+  venue: House of Blues, Boston, MA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/house-of-blues-boston-ma-3b9c9828.html'
+  part-of:
+    tour: metalgalaxyus

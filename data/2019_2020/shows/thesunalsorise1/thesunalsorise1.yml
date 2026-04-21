@@ -1,0 +1,17 @@
+show:
+  year: 2019
+  id: thesunalsorise1
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: BABYMETAL AWAKENS - THE SUN ALSO RISES -
+  shortname: THE SUN ALSO RISES
+  sublabel: Yokohama
+  date: 2019-06-28
+  venue: Yokohama Arena, Yokohama
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/yokohama-arena-yokohama-japan-1b91795c.html'
+  part-of:
+    group:
+      id: shows
+      group: 2019_2020

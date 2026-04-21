@@ -1,0 +1,15 @@
+show:
+  year: 2019
+  id: countdownjapan
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: COUNTDOWN JAPAN 19/20
+  date: 2019-12-28
+  venue: Makuhari Messe, Chiba
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/makuhari-messe-kokusai-tenjijou-hall-1-2-3-chiba-japan-b9bdde6.html'
+  part-of:
+    group:
+      id: shows
+      group: 2019_2020

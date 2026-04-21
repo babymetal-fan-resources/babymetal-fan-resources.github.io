@@ -1,0 +1,17 @@
+show:
+  year: 2019
+  id: summersonictokyo
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: SUMMER SONIC 2019
+  sublabel: Tokyo
+  date: 2019-08-17
+  venue: ZOZO Marine Stadium & Makuhari Messe, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/makuhari-messe-kokusai-tenjijou-hall-1-2-chiba-japan-439fdb2b.html'
+  todo: double check venue
+  part-of:
+    group:
+      id: shows
+      group: 2019_2020

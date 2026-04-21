@@ -574,10 +574,117 @@ contentpage:
   - album: legendmetalgalaxyday2
   - album: legendmetalgalaxyday1
   - album: metalgalaxy
+  - show:
+      year: 2019
+      id: countdownjapan
+  - show:
+      year: 2019
+      id: apocryphaanothergalaxy2
+  - show:
+      year: 2019
+      id: apocryphaanothergalaxy1
+  - show:
+      year: 2019
+      id: clockenflap
+  - show:
+      year: 2019
+      id: osaka2
+  - show:
+      year: 2019
+      id: osaka1
+  - show:
+      year: 2019
+      id: saitama2
+  - show:
+      year: 2019
+      id: saitama1
+  - show:
+      year: 2019
+      id: seattle
+  - show:
+      year: 2019
+      id: portland
+  - show:
+      year: 2019
+      id: aftershock
+  - show:
+      year: 2019
+      id: theforum
+  - show:
+      year: 2019
+      id: sanfrancisco
+  - show:
+      year: 2019
+      id: tempe
+  - show:
+      year: 2019
+      id: lasvegas
+  - show:
+      year: 2019
+      id: saltlakecity
+  - show:
+      year: 2019
+      id: denver
+  - show:
+      year: 2019
+      id: dallas
+  - show:
+      year: 2019
+      id: kansascity
+  - show:
+      year: 2019
+      id: saintpaul
+  - show:
+      year: 2019
+      id: chicago
+  - show:
+      year: 2019
+      id: detroit
+  - show:
+      year: 2019
+      id: newyork
+  - show:
+      year: 2019
+      id: philadelphia
+  - show:
+      year: 2019
+      id: boston
+  - show:
+      year: 2019
+      id: washington
+  - show:
+      year: 2019
+      id: atlanta
+  - show:
+      year: 2019
+      id: orlando
+  - tour: metalgalaxyus
+  - show:
+      year: 2019
+      id: summersonictokyo
+  - show:
+      year: 2019
+      id: summersonicosaka
+  - show:
+      year: 2019
+      id: superslippa10
+  - show:
+      year: 2019
+      id: legendm2
+  - show:
+      year: 2019
+      id: legendm1
+  - show:
+      year: 2019
+      id: glastonbury
+  - show:
+      year: 2019
+      id: thesunalsorise2
+  - show:
+      year: 2019
+      id: thesunalsorise1
   - song: papaya
   - song: elevatorgirl
-  - song: starlight
-  - song: distortion
   - show:
       year: 2018
       id: gtbrisbane
@@ -606,6 +713,7 @@ contentpage:
       year: 2018
       id: makuhari1
   - tour: japan2018
+  - song: starlight
   - show:
       year: 2018
       id: download
@@ -650,6 +758,7 @@ contentpage:
       year: 2018
       id: kansascity
   - tour: us2018
+  - song: distortion
   - show:
       year: 2017
       id: legends2

@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: philadelphia
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Philadelphia, PA, USA
+  date: 2019-09-13
+  tour: metalgalaxyus
+  venue: The Fillmore Philadelphia, Philadelphia, PA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/the-fillmore-philadelphia-philadelphia-pa-139c89cd.html'
+  part-of:
+    tour: metalgalaxyus

@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: chicago
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Chicago, IL, USA
+  date: 2019-09-20
+  tour: metalgalaxyus
+  venue: Byline Bank Aragon Ballroom, Chicago, IL, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/byline-bank-aragon-ballroom-chicago-il-b9cd5fa.html'
+  part-of:
+    tour: metalgalaxyus

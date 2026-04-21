@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: lasvegas
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Las Vegas, NV, USA
+  date: 2019-09-30
+  tour: metalgalaxyus
+  venue: House of Blues, Las Vegas, NV, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/house-of-blues-las-vegas-nv-439c0fdf.html'
+  part-of:
+    tour: metalgalaxyus

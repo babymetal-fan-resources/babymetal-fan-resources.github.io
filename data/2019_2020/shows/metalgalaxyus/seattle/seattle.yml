@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: seattle
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Seattle, WA, USA
+  date: 2019-10-16
+  tour: metalgalaxyus
+  venue: Paramount Theatre, Seattle, WA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/paramount-theatre-seattle-wa-439d97bb.html'
+  part-of:
+    tour: metalgalaxyus

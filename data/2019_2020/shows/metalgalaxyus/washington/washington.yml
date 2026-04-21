@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: washington
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Washington, DC, USA
+  date: 2019-09-08
+  tour: metalgalaxyus
+  venue: The Anthem, Washington, DC, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/the-anthem-washington-dc-5b9cb3c0.html'
+  part-of:
+    tour: metalgalaxyus

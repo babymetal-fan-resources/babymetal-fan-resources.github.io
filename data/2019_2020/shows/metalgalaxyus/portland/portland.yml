@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: portland
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Portland, OR, USA
+  date: 2019-10-15
+  tour: metalgalaxyus
+  venue: Roseland Theater, Portland, OR, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/roseland-theater-portland-or-39d99b7.html'
+  part-of:
+    tour: metalgalaxyus

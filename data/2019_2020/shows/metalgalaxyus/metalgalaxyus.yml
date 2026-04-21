@@ -1,0 +1,55 @@
+tour:
+  id: metalgalaxyus
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: METAL GALAXY WORLD TOUR / US TOUR
+  shortname: METAL GALAXY US TOUR
+  first-date: 2019-09-04
+  last-date: 2019-10-16
+  shows:
+  - year: 2019
+    id: orlando
+  - year: 2019
+    id: atlanta
+  - year: 2019
+    id: washington
+  - year: 2019
+    id: boston
+  - year: 2019
+    id: philadelphia
+  - year: 2019
+    id: newyork
+  - year: 2019
+    id: detroit
+  - year: 2019
+    id: chicago
+  - year: 2019
+    id: saintpaul
+  - year: 2019
+    id: kansascity
+  - year: 2019
+    id: dallas
+  - year: 2019
+    id: denver
+  - year: 2019
+    id: saltlakecity
+  - year: 2019
+    id: lasvegas
+  - year: 2019
+    id: tempe
+  - year: 2019
+    id: sanfrancisco
+  - year: 2019
+    id: theforum
+  - year: 2019
+    id: aftershock
+  - year: 2019
+    id: portland
+  - year: 2019
+    id: seattle
+  part-of:
+    group:
+      id: shows
+      group: 2019_2020

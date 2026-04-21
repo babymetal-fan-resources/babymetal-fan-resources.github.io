@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: saltlakecity
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Salt Lake City, UT, USA
+  date: 2019-09-28
+  tour: metalgalaxyus
+  venue: The Union Event Center, Salt Lake City, UT, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/the-union-event-center-salt-lake-city-ut-5b9c1fa8.html'
+  part-of:
+    tour: metalgalaxyus

@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: denver
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Denver, CO, USA
+  date: 2019-09-27
+  tour: metalgalaxyus
+  venue: Ogden Theatre, Denver, CO, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/ogden-theatre-denver-co-7b9c2610.html'
+  part-of:
+    tour: metalgalaxyus

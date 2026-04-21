@@ -1,0 +1,15 @@
+show:
+  year: 2019
+  id: london
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: London, England
+  date: 2019-07-02
+  venue: O2 Academy Brixton, London, England
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/o2-academy-brixton-london-england-53915f21.html'
+  part-of:
+    group:
+      id: shows
+      group: 2019_2020

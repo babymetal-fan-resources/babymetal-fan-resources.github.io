@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: orlando
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Orlando, FL, USA
+  date: 2019-09-04
+  tour: metalgalaxyus
+  venue: Hard Rock Live, Orlando, FL, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/hard-rock-live-orlando-fl-1b9f4d34.html'
+  part-of:
+    tour: metalgalaxyus

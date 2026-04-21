@@ -1,0 +1,16 @@
+show:
+  year: 2019
+  id: glastonbury
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Glastonbury 2019
+  sublabel: Pilton, England
+  date: 2019-06-30
+  venue: Worthy Farm, Pilton, England
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/worthy-farm-pilton-england-1391694d.html'
+  part-of:
+    group:
+      id: shows
+      group: 2019_2020

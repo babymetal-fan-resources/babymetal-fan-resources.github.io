@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: saitama2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Saitama
+  date: 2019-11-17
+  tour: metalgalaxyjapan
+  venue: Saitama Super Arena, Saitama
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/saitama-super-arena-saitama-japan-4b9a934e.html'
+  part-of:
+    tour: metalgalaxyjapan

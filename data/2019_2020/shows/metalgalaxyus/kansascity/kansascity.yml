@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: kansascity
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Kansas City, MO, USA
+  date: 2019-09-23
+  tour: metalgalaxyus
+  venue: Uptown Theater, Kansas City, MO, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/uptown-theater-kansas-city-mo-6b9cc2e6.html'
+  part-of:
+    tour: metalgalaxyus

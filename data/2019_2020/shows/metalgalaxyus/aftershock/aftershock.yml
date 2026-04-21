@@ -1,0 +1,15 @@
+show:
+  year: 2019
+  id: aftershock
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Aftershock
+  sublabel: Sacramento, CA, USA
+  date: 2019-10-13
+  tour: metalgalaxyus
+  venue: Discovery Park, Sacramento, CA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/discovery-park-sacramento-ca-6b9daaa6.html'
+  part-of:
+    tour: metalgalaxyus

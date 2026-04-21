@@ -1,0 +1,17 @@
+show:
+  year: 2019
+  id: clockenflap
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Clockenflap
+  sublabel: Hong Kong
+  date: 2019-11-23
+  description:
+  - The festival was cancelled.
+  venue: Central Harbourfront, Hong Kong
+  part-of:
+    group:
+      id: shows
+      group: 2019_2020

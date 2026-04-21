@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: detroit
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Detroit, MI, USA
+  date: 2019-09-18
+  tour: metalgalaxyus
+  venue: The Fillmore Detroit, Detroit, MI, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/the-fillmore-detroit-detroit-mi-b9ce1d6.html'
+  part-of:
+    tour: metalgalaxyus

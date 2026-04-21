@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: sanfrancisco
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: San Francisco, CA, USA
+  date: 2019-10-04
+  tour: metalgalaxyus
+  venue: The Warfield, San Francisco, CA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/the-warfield-san-francisco-ca-39c6dd3.html'
+  part-of:
+    tour: metalgalaxyus

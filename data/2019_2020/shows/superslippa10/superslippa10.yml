@@ -1,0 +1,16 @@
+show:
+  year: 2019
+  id: superslippa10
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Super Slippa 10
+  sublabel: Taipei, Taiwan
+  date: 2019-08-04
+  venue: TWTC Nangang Exhibition Hall, Taipei, Taiwan
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/twtc-nangang-exhibition-hall-taipei-taiwan-3b9e4860.html'
+  part-of:
+    group:
+      id: shows
+      group: 2019_2020

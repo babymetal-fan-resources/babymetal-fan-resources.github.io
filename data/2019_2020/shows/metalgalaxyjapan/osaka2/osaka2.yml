@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: osaka2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Osaka
+  date: 2019-11-21
+  tour: metalgalaxyjapan
+  venue: Osaka-jō Hall, Osaka, Japan
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/osaka-jou-hall-osaka-japan-3b9aec30.html'
+  part-of:
+    tour: metalgalaxyjapan

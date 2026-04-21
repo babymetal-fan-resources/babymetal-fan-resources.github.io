@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: theforum
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: LIVE AT THE FORUM
+  date: 2019-10-11
+  tour: metalgalaxyus
+  venue: The Forum, Inglewood, CA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/the-forum-inglewood-ca-39db5b7.html'
+  part-of:
+    tour: metalgalaxyus

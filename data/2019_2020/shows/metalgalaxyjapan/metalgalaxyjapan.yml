@@ -1,0 +1,22 @@
+tour:
+  id: metalgalaxyjapan
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: METAL GALAXY WORLD TOUR IN JAPAN
+  first-date: 2019-11-16
+  last-date: 2019-11-21
+  shows:
+  - year: 2019
+    id: saitama1
+  - year: 2019
+    id: saitama2
+  - year: 2019
+    id: osaka1
+  - year: 2019
+    id: osaka2
+  part-of:
+    group:
+      id: shows
+      group: 2019_2020

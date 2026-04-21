@@ -1,0 +1,18 @@
+show:
+  year: 2019
+  id: legendm2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: BABYMETAL ARISES - BEYOND THE MOON - LEGEND - M -
+  shortname: LEGEND - M
+  date: 2019-07-07
+  categories:
+  - mainshow
+  venue: Port Messe Nagoya, Nagoya, Japan
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/port-messe-nagoya-dai-san-tenjikan-nagoya-japan-739eb625.html'
+  part-of:
+    group:
+      id: shows
+      group: 2019_2020

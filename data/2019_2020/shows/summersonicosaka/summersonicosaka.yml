@@ -1,0 +1,16 @@
+show:
+  year: 2019
+  id: summersonicosaka
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: SUMMER SONIC 2019
+  sublabel: Osaka
+  date: 2019-08-16
+  venue: Osaka City Shinyou Kinko Stadium, Osaka
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/osaka-city-shinyou-kinko-stadium-osaka-japan-139fe155.html'
+  part-of:
+    group:
+      id: shows
+      group: 2019_2020

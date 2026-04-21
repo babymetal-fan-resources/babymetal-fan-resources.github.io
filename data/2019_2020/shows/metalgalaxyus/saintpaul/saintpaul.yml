@@ -1,0 +1,14 @@
+show:
+  year: 2019
+  id: saintpaul
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Saint Paul, MN, USA
+  date: 2019-09-21
+  tour: metalgalaxyus
+  venue: Myth, Maplewood, MN, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/myth-maplewood-mn-2b9cccba.html'
+  part-of:
+    tour: metalgalaxyus

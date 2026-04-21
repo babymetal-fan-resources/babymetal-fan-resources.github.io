@@ -1,0 +1,15 @@
+show:
+  year: 2019
+  id: apocryphaanothergalaxy1
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: APOCRYPHA - ANOTHER GALAXY - I
+  date: 2019-12-16
+  venue: Zepp DiverCity, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2019/zepp-divercity-tokyo-tokyo-japan-1b9ba528.html'
+  part-of:
+    group:
+      id: shows
+      group: 2019_2020
