@@ -13,6 +13,8 @@ categoriespage:
   - tour
   withlinks: true
   compressed: true
+  isSmallMarker:
+  - cancelledshow
   isMediumMarker:
   - show
   isLargeMarker:

@@ -8,6 +8,8 @@ contentpage:
   start-date: 2010-11-01
   end-date: 2026-12-31
   description: 'Everything about BABYMETAL: songs, albums, shows, tours, Fox Days, interviews, videos, ...'
+  isSmallMarker:
+  - cancelledshow
   isMediumMarker:
   - mediummedia
   - show

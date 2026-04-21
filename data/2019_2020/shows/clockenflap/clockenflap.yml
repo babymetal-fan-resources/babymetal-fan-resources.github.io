@@ -9,7 +9,9 @@ show:
   sublabel: Hong Kong
   date: 2019-11-23
   description:
-  - The festival was cancelled.
+  - This festival was cancelled due to the unrest in Hong Kong at the time.
+  categories:
+  - cancelledshow
   venue: Central Harbourfront, Hong Kong
   part-of:
     group:
