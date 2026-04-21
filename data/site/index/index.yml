@@ -847,19 +847,19 @@ contentpage:
       id: heavymontreal
   - show:
       year: 2014
-      id: denver
+      id: gagadenver
   - show:
       year: 2014
-      id: saltlakecity
+      id: gagasaltlakecity
   - show:
       year: 2014
-      id: stateline
+      id: gagastateline
   - show:
       year: 2014
-      id: lasvegas
+      id: gagalasvegas
   - show:
       year: 2014
-      id: phoenix
+      id: gagaphoenix
   - show:
       year: 2014
       id: apocrypham
