@@ -1,0 +1,14 @@
+show:
+  year: 2018
+  id: utrecht1
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Utrecht, Netherlands
+  date: 2018-06-05
+  tour: europe2018
+  venue: TivoliVredenburg, Utrecht, Netherlands
+  setlistfm: TivoliVredenburg, Utrecht, Netherlands
+  part-of:
+    tour: europe2018

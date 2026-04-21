@@ -579,6 +579,78 @@ contentpage:
   - song: starlight
   - song: distortion
   - show:
+      year: 2018
+      id: gtbrisbane
+  - show:
+      year: 2018
+      id: gtsydney
+  - show:
+      year: 2018
+      id: gtmelbourne
+  - show:
+      year: 2018
+      id: jpsingapore
+  - show:
+      year: 2018
+      id: kobe2
+  - show:
+      year: 2018
+      id: kobe1
+  - show:
+      year: 2018
+      id: darknightcarnival
+  - show:
+      year: 2018
+      id: makuhari2
+  - show:
+      year: 2018
+      id: makuhari1
+  - tour: japan2018
+  - show:
+      year: 2018
+      id: download
+  - show:
+      year: 2018
+      id: utrecht2
+  - show:
+      year: 2018
+      id: utrecht1
+  - show:
+      year: 2018
+      id: innsbruck
+  - show:
+      year: 2018
+      id: rockimpark
+  - show:
+      year: 2018
+      id: rockamring
+  - tour: europe2018
+  - show:
+      year: 2018
+      id: rockontherange
+  - show:
+      year: 2018
+      id: nashville
+  - show:
+      year: 2018
+      id: charlotte
+  - show:
+      year: 2018
+      id: atlanta
+  - show:
+      year: 2018
+      id: houston
+  - show:
+      year: 2018
+      id: dallas
+  - show:
+      year: 2018
+      id: austin
+  - show:
+      year: 2018
+      id: kansascity
+  - tour: us2018
+  - show:
       year: 2017
       id: legends2
   - show:

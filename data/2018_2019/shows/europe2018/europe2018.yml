@@ -1,0 +1,23 @@
+tour:
+  id: europe2018
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: BABYMETAL WORLD TOUR 2018 / EUROPE TOUR
+  shortname: EUROPE TOUR 2018
+  first-date: 2018-06-01
+  last-date: 2018-06-09
+  shows:
+  - year: 2018
+    id: innsbruck
+  - year: 2018
+    id: utrecht1
+  - year: 2018
+    id: utrecht2
+  - year: 2018
+    id: download
+  part-of:
+    group:
+      id: shows
+      group: 2018_2019

@@ -1,0 +1,16 @@
+show:
+  year: 2018
+  id: gtsydney
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Good Things 2018
+  sublabel: Sydney, Australia
+  date: 2018-12-08
+  venue: Parramatta Park, Sydney, Australia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/parramatta-park-stage-1-sydney-australia-43974bc7.html'
+  part-of:
+    group:
+      id: shows
+      group: 2018_2019

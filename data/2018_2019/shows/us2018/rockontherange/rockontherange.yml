@@ -1,0 +1,15 @@
+show:
+  year: 2018
+  id: rockontherange
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Rock on the Range 2018
+  sublabel: Columbus, OH, USA
+  date: 2018-05-20
+  tour: us2018
+  venue: MAPFRE Stadium, Columbus, OH, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/mapfre-stadium-columbus-oh-3edd17b.html'
+  part-of:
+    tour: us2018

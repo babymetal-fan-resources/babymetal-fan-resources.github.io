@@ -1,0 +1,14 @@
+show:
+  year: 2018
+  id: makuhari2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Makuhari Messe
+  date: 2018-10-24
+  tour: japan2018
+  venue: Makuhari Messe, Chiba
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/makuhari-messe-kokusai-tenjijou-event-hall-chiba-japan-6b96ce8e.html'
+  part-of:
+    tour: japan2018

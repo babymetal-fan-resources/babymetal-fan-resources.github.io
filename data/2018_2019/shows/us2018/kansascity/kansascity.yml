@@ -1,0 +1,14 @@
+show:
+  year: 2018
+  id: kansascity
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Kansas City, MO, USA
+  date: 2018-05-08
+  tour: us2018
+  venue: Uptown Theater, Kansas City, MO, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/uptown-theater-kansas-city-mo-63edb677.html'
+  part-of:
+    tour: us2018

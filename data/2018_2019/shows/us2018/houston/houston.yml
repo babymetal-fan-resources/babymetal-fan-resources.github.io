@@ -1,0 +1,14 @@
+show:
+  year: 2018
+  id: houston
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Houston, TX, USA
+  date: 2018-05-13
+  tour: us2018
+  venue: Revention Music Center, Houston, TX, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/revention-music-center-houston-tx-33ed8889.html'
+  part-of:
+    tour: us2018

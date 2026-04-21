@@ -1,0 +1,14 @@
+show:
+  year: 2018
+  id: nashville
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Nashville, TN, USA
+  date: 2018-05-18
+  tour: us2018
+  venue: Marathon Music Works, Nashville, TN, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/marathon-music-works-nashville-tn-bede176.html'
+  part-of:
+    tour: us2018

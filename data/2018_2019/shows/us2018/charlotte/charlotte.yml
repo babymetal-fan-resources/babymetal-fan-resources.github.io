@@ -1,0 +1,14 @@
+show:
+  year: 2018
+  id: charlotte
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Charlotte, NC, USA
+  date: 2018-05-17
+  tour: us2018
+  venue: The Fillmore, Charlotte, NC, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/the-fillmore-charlotte-nc-bede986.html'
+  part-of:
+    tour: us2018

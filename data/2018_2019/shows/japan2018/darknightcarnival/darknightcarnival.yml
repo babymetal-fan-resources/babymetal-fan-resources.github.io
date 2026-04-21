@@ -1,0 +1,15 @@
+show:
+  year: 2018
+  id: darknightcarnival
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: EXTRA SHOW“DARK NIGHT CARNIVAL”
+  shortname: DARK NIGHT CARNIVAL
+  date: 2018-10-28
+  tour: japan2018
+  venue: Saitama Super Arena, Saitama
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/saitama-super-arena-saitama-japan-3962543.html'
+  part-of:
+    tour: japan2018

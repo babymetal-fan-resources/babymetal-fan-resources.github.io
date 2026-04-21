@@ -1,0 +1,14 @@
+show:
+  year: 2018
+  id: kobe1
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Kobe
+  date: 2018-10-30
+  tour: japan2018
+  venue: World Hall, Kobe
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/world-kinen-hall-kobe-japan-b96158e.html'
+  part-of:
+    tour: japan2018

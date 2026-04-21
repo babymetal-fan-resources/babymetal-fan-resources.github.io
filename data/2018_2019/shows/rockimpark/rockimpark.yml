@@ -1,0 +1,17 @@
+show:
+  year: 2018
+  id: rockimpark
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Rock Im Park
+  sublabel: Nuremberg, Germany
+  date: 2018-06-02
+  venue: Zeppelinfeld, Nuremberg, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/zeppelinfeld-nuremberg-germany-1bed6de4.html'
+  todo: part of the europe tour ?
+  part-of:
+    group:
+      id: shows
+      group: 2018_2019

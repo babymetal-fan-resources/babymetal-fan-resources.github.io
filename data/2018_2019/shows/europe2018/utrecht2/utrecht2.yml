@@ -1,0 +1,14 @@
+show:
+  year: 2018
+  id: utrecht2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Utrecht, Netherlands
+  date: 2018-06-06
+  tour: europe2018
+  venue: TivoliVredenburg, Utrecht, Netherlands
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/tivolivredenburg-ronda-utrecht-netherlands-23ed48d7.html'
+  part-of:
+    tour: europe2018

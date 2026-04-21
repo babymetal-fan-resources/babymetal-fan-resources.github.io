@@ -1,0 +1,25 @@
+tour:
+  id: japan2018
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: BABYMETAL WORLD TOUR 2018 in JAPAN
+  shortname: JAPAN TOUR 2018
+  first-date: 2018-10-23
+  last-date: 2018-10-31
+  shows:
+  - year: 2018
+    id: makuhari1
+  - year: 2018
+    id: makuhari2
+  - year: 2018
+    id: darknightcarnival
+  - year: 2018
+    id: kobe1
+  - year: 2018
+    id: kobe2
+  part-of:
+    group:
+      id: shows
+      group: 2018_2019

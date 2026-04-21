@@ -1,0 +1,31 @@
+tour:
+  id: us2018
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: BABYMETAL WORLD TOUR 2018 / US TOUR
+  shortname: US TOUR 2018
+  first-date: 2018-05-08
+  last-date: 2018-05-20
+  shows:
+  - year: 2018
+    id: kansascity
+  - year: 2018
+    id: austin
+  - year: 2018
+    id: dallas
+  - year: 2018
+    id: houston
+  - year: 2018
+    id: atlanta
+  - year: 2018
+    id: charlotte
+  - year: 2018
+    id: nashville
+  - year: 2018
+    id: rockontherange
+  part-of:
+    group:
+      id: shows
+      group: 2018_2019

@@ -1,0 +1,16 @@
+show:
+  year: 2018
+  id: jpsingapore
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Singapore, Singapore
+  sublabel: JUDAS PRIEST “Fire Power World Tour 2018”
+  date: 2018-12-04
+  venue: Zepp@BIGBOX, Singapore, Singapore
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/zeppbigbox-singapore-singapore-73976e45.html'
+  part-of:
+    group:
+      id: shows
+      group: 2018_2019

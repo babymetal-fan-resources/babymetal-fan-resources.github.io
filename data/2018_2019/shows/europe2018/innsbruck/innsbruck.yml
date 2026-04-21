@@ -1,0 +1,14 @@
+show:
+  year: 2018
+  id: innsbruck
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Innsbruck, Austria
+  date: 2018-06-04
+  tour: europe2018
+  venue: Music Hall, Innsbruck, Austria
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/music-hall-innsbruck-austria-3bed5840.html'
+  part-of:
+    tour: europe2018

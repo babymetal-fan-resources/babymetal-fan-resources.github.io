@@ -1,0 +1,16 @@
+show:
+  year: 2018
+  id: gtbrisbane
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Good Things 2018
+  sublabel: Brisbane, Australia
+  date: 2018-12-09
+  venue: Brisbane Showgrounds, Brisbane, Australia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/brisbane-showgrounds-stage-1-brisbane-australia-5b9743ac.html'
+  part-of:
+    group:
+      id: shows
+      group: 2018_2019

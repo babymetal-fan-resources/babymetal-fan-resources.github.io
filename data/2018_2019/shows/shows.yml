@@ -1,0 +1,5 @@
+group:
+  id: shows
+  label: Shows 2018-2019
+  part-of:
+    group: 2018_2019

@@ -1,0 +1,15 @@
+show:
+  year: 2018
+  id: download
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Download Festival 2018
+  sublabel: Castle Donington, England
+  date: 2018-06-09
+  tour: europe2018
+  venue: Donington Park, Castle Donington, England
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/donington-park-castle-donington-england-5beab7d4.html'
+  part-of:
+    tour: europe2018

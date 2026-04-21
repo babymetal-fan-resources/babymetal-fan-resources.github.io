@@ -1,0 +1,14 @@
+show:
+  year: 2018
+  id: dallas
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Dallas, TX, USA
+  date: 2018-05-11
+  tour: us2018
+  venue: House of Blues, Dallas, TX, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/house-of-blues-dallas-tx-73ed9e55.html'
+  part-of:
+    tour: us2018

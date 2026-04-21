@@ -1,0 +1,14 @@
+show:
+  year: 2018
+  id: austin
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Austin, TX, USA
+  date: 2018-05-10
+  tour: us2018
+  venue: ACL Live at The Moody Theater, Austin, TX, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/acl-live-at-the-moody-theater-austin-tx-6beda6c2.html'
+  part-of:
+    tour: us2018

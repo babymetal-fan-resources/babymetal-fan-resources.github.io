@@ -1,0 +1,17 @@
+show:
+  year: 2018
+  id: rockamring
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Rock am Ring
+  sublabel: Nürburg, Germany
+  date: 2018-06-01
+  venue: Nürburgring, Nürburg, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/nurburgring-nurburg-germany-33ed7435.html'
+  todo: part of the europe tour ?
+  part-of:
+    group:
+      id: shows
+      group: 2018_2019
