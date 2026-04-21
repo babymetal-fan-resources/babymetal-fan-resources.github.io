@@ -1,0 +1,14 @@
+show:
+  year: 2017
+  id: osaka1
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Osaka
+  date: 2017-10-14
+  tour: bigfoxfestival
+  venue: Osaka-jō Hall, Osaka, Japan
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/osaka-jou-hall-osaka-japan-4be3ebf6.html'
+  part-of:
+    tour: bigfoxfestival

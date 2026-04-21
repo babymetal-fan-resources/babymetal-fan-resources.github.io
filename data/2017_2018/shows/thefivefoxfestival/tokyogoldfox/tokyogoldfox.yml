@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: tokyogoldfox
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: 'THE FIVE FOX FESTIVAL in Japan: GOLD FOX FESTIVAL'
+  shortname: GOLD FOX FESTIVAL
+  sublabel: Tokyo
+  date: 2017-07-20
+  tour: thefivefoxfestival
+  venue: Akasaka BLITZ, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/akasaka-blitz-tokyo-japan-63e5b25b.html'
+  part-of:
+    tour: thefivefoxfestival

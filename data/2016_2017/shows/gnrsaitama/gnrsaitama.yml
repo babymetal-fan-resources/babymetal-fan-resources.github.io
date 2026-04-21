@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: gnrsaitama
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Saitama
+  sublabel: Guns N’ Roses JAPAN TOUR 2017
+  date: 2017-01-29
+  venue: Saitama Super Arena, Saitama
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/saitama-super-arena-saitama-japan-2bf8cc76.html'
+  part-of:
+    group:
+      id: shows
+      group: 2016_2017

@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: tokyosilverfox
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: 'THE FIVE FOX FESTIVAL in Japan: SILVER FOX FESTIVAL'
+  shortname: SILVER FOX FESTIVAL
+  sublabel: Tokyo
+  date: 2017-07-25
+  tour: thefivefoxfestival
+  venue: Zepp DiverCity, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/zepp-divercity-tokyo-tokyo-japan-4be58faa.html'
+  part-of:
+    tour: thefivefoxfestival

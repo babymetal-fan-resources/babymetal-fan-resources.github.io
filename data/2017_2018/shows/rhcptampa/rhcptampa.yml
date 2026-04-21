@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: rhcptampa
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Tampa, FL, USA
+  sublabel: RED HOT CHILI PEPPERS US TOUR 2017
+  date: 2017-04-27
+  venue: Amalie Arena, Tampa, FL, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/amalie-arena-tampa-fl-33e60431.html'
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

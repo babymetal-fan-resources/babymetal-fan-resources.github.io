@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: rhcpmiami
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Miami, FL, USA
+  sublabel: RED HOT CHILI PEPPERS US TOUR 2017
+  date: 2017-04-29
+  venue: American Airlines Arena, Miami, FL, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/american-airlines-arena-miami-fl-be67d06.html'
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

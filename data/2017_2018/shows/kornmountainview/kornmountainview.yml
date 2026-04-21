@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: kornmountainview
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Mountain View, CA, USA
+  sublabel: KORN US TOUR
+  date: 2017-06-22
+  venue: Shoreline Amphitheatre, Mountain View, CA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/shoreline-amphitheatre-mountain-view-ca-4be48766.html'
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: nagoyasilverfox
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: 'THE FIVE FOX FESTIVAL in Japan: SILVER FOX FESTIVAL'
+  shortname: SILVER FOX FESTIVAL
+  sublabel: Nagoya
+  date: 2017-08-08
+  tour: thefivefoxfestival
+  venue: Zepp Nagoya, Nagoya
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/zepp-nagoya-nagoya-japan-2be52416.html'
+  part-of:
+    tour: thefivefoxfestival

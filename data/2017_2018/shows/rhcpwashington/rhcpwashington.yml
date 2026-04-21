@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: rhcpwashington
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Washington, DC, USA
+  sublabel: RED HOT CHILI PEPPERS US TOUR 2017
+  date: 2017-04-12
+  venue: Verizon Center, Washington, DC, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/verizon-center-washington-dc-4be6f36e.html'
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

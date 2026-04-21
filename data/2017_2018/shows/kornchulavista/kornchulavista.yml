@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: kornchulavista
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Chula Vista, CA, USA
+  sublabel: KORN US TOUR
+  date: 2017-06-20
+  venue: Mattress Firm Amphitheatre, Chula Vista, CA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/mattress-firm-amphitheatre-chula-vista-ca-63e496e3.html'
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

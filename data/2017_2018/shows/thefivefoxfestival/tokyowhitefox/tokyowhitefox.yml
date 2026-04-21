@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: tokyowhitefox
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: 'THE FIVE FOX FESTIVAL in Japan: WHITE FOX FESTIVAL'
+  shortname: WHITE FOX FESTIVAL
+  sublabel: Tokyo
+  date: 2017-07-26
+  tour: thefivefoxfestival
+  venue: Zepp DiverCity, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/zepp-divercity-tokyo-tokyo-japan-3e581db.html'
+  part-of:
+    tour: thefivefoxfestival

@@ -1,0 +1,18 @@
+show:
+  year: 2017
+  id: legends2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: LEGEND - S - 洗礼の儀
+  shortname: LEGEND - S - 洗礼の儀
+  date: 2017-12-03
+  categories:
+  - mainshow
+  venue: Green Arena, Hiroshima
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/hiroshima-green-arena-hiroshima-japan-73e00661.html'
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

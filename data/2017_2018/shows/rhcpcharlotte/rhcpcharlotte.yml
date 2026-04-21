@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: rhcpcharlotte
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Charlotte, NC, USA
+  sublabel: RED HOT CHILI PEPPERS US TOUR 2017
+  date: 2017-04-17
+  venue: Spectrum Center, Charlotte, NC, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/spectrum-center-charlotte-nc-63e6d2cb.html'
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

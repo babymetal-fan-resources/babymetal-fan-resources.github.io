@@ -1,0 +1,33 @@
+tour:
+  id: thefivefoxfestival
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: THE FIVE FOX FESTIVAL in Japan
+  shortname: 'THE FIVE FOX FESTIVAL '
+  first-date: 2017-07-18
+  last-date: 2017-08-30
+  shows:
+  - year: 2017
+    id: tokyoblackfox
+  - year: 2017
+    id: tokyoredfox
+  - year: 2017
+    id: tokyogoldfox
+  - year: 2017
+    id: tokyosilverfox
+  - year: 2017
+    id: tokyowhitefox
+  - year: 2017
+    id: nagoyasilverfox
+  - year: 2017
+    id: nagoyawhitefox
+  - year: 2017
+    id: osakasilverfox
+  - year: 2017
+    id: osakawhitefox
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

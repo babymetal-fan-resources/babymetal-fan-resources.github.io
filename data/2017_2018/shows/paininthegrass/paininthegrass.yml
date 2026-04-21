@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: paininthegrass
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Pain in the Grass 2017
+  sublabel: Auburn, WA, USA
+  date: 2017-06-24
+  venue: White River Amphitheatre, Auburn, WA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/white-river-amphitheatre-auburn-wa-4be4f7d2.html'
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

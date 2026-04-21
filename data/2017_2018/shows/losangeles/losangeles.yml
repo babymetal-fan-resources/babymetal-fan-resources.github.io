@@ -1,0 +1,18 @@
+show:
+  year: 2017
+  id: losangeles
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: SPECIAL HEADLINE SHOW IN LA
+  date: 2017-06-16
+  categories:
+  - mainshow
+  venue: Hollywood Palladium, Los Angeles, CA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/hollywood-palladium-los-angeles-ca-5be4b34c.html'
+  todo: create a BABYMETAL US TOUR 2017 ?
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: metallicaseoul
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Seoul, South Korea
+  sublabel: METALLICA WorldWired Tour 2017
+  date: 2017-01-11
+  venue: Gocheok Sky Dome, Seoul, South Korea
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/gocheok-sky-dome-seoul-south-korea-4bf8bb5e.html'
+  part-of:
+    group:
+      id: shows
+      group: 2016_2017

@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: rhcpraleigh
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Raleigh, NC, USA
+  sublabel: RED HOT CHILI PEPPERS US TOUR 2017
+  date: 2017-04-15
+  venue: PNC Arena, Raleigh, NC, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/pnc-arena-raleigh-nc-3e6d993.html'
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

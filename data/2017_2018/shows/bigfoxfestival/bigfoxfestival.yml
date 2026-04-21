@@ -1,0 +1,23 @@
+tour:
+  id: bigfoxfestival
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: BIG FOX FESTIVAL in JAPAN
+  shortname: 'BIG FOX FESTIVAL '
+  first-date: 2017-09-26
+  last-date: 2017-10-15
+  shows:
+  - year: 2017
+    id: saitama1
+  - year: 2017
+    id: saitama2
+  - year: 2017
+    id: osaka1
+  - year: 2017
+    id: osaka2
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

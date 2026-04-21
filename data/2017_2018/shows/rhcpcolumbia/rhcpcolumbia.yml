@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: rhcpcolumbia
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Columbia, SC, USA
+  sublabel: RED HOT CHILI PEPPERS US TOUR 2017
+  date: 2017-04-19
+  venue: Colonial Life Arena, Columbia, SC, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/colonial-life-arena-columbia-sc-3e6c163.html'
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

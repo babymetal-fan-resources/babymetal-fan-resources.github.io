@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: tokyoblackfox
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: 'THE FIVE FOX FESTIVAL in Japan: BLACK FOX FESTIVAL'
+  shortname: BLACK FOX FESTIVAL
+  sublabel: Tokyo
+  date: 2017-07-18
+  tour: thefivefoxfestival
+  venue: Akasaka BLITZ, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/akasaka-blitz-tokyo-japan-23e5bc73.html'
+  part-of:
+    tour: thefivefoxfestival

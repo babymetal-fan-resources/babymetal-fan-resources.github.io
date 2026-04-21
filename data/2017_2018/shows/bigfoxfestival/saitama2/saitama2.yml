@@ -1,0 +1,14 @@
+show:
+  year: 2017
+  id: saitama2
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Saitama
+  date: 2017-09-27
+  tour: bigfoxfestival
+  venue: Saitama Super Arena, Saitama
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/saitama-super-arena-saitama-japan-53e25fed.html'
+  part-of:
+    tour: bigfoxfestival

@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: gnrosaka
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Osaka
+  sublabel: Guns N’ Roses JAPAN TOUR 2017
+  date: 2017-01-21
+  venue: KYOCERA DOME OSAKA, Osaka
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/kyocera-dome-osaka-osaka-japan-6bf8fa2e.html'
+  part-of:
+    group:
+      id: shows
+      group: 2016_2017

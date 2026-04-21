@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: summersonicosaka
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: SUMMER SONIC 2017
+  sublabel: Osaka
+  date: 2017-08-19
+  venue: Maishima Summer Sonic, Osaka
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/sora-no-hiroba-osaka-japan-3e5553b.html'
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: kornnampa
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Nampa, ID, USA
+  sublabel: KORN US TOUR
+  date: 2017-06-25
+  venue: Ford Amphitheater, Nampa, ID, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/ford-amphitheater-nampa-id-63e4eeb3.html'
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

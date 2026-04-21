@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: gnryokohama
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Yokohama
+  sublabel: Guns N’ Roses JAPAN TOUR 2017
+  date: 2017-01-25
+  venue: Yokohama Arena, Yokohama
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/yokohama-arena-yokohama-japan-73f8de19.html'
+  part-of:
+    group:
+      id: shows
+      group: 2016_2017

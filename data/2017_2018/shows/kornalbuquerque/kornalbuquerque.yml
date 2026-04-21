@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: kornalbuquerque
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Albuquerque, NM, USA
+  sublabel: KORN US TOUR
+  date: 2017-06-18
+  venue: Isleta Amphitheater, Albuquerque, NM, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/isleta-amphitheater-albuquerque-nm-73e4a279.html'
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

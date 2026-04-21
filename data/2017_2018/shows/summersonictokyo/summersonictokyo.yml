@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: summersonictokyo
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: SUMMER SONIC 2017
+  sublabel: Tokyo
+  date: 2017-08-20
+  venue: ZOZO Marine Stadium & Makuhari Messe, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/zozo-marine-stadium-chiba-japan-43e54f2b.html'
+  part-of:
+    group:
+      id: shows
+      group: 2017_2018

@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: osakasilverfox
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: 'THE FIVE FOX FESTIVAL in Japan: SILVER FOX FESTIVAL'
+  shortname: SILVER FOX FESTIVAL
+  sublabel: Osaka
+  date: 2017-08-29
+  tour: thefivefoxfestival
+  venue: Zepp Osaka Bayside, Osaka
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/zepp-osaka-bayside-osaka-japan-4be293f6.html'
+  part-of:
+    tour: thefivefoxfestival

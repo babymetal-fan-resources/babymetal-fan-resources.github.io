@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: nagoyawhitefox
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: 'THE FIVE FOX FESTIVAL in Japan: WHITE FOX FESTIVAL'
+  shortname: WHITE FOX FESTIVAL
+  sublabel: Nagoya
+  date: 2017-08-09
+  tour: thefivefoxfestival
+  venue: Zepp Nagoya, Nagoya
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/zepp-nagoya-nagoya-japan-33e51c65.html'
+  part-of:
+    tour: thefivefoxfestival

@@ -1,0 +1,16 @@
+show:
+  year: 2017
+  id: gnrkobe
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Kobe
+  sublabel: Guns N’ Roses JAPAN TOUR 2017
+  date: 2017-01-22
+  venue: WORLD Kinen Hall, Kobe
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2017/world-kinen-hall-kobe-japan-6bf8fa9a.html'
+  part-of:
+    group:
+      id: shows
+      group: 2016_2017
