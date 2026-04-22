@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: berlin
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Berlin, Germany
+  date: 2020-02-14
+  tour: metalgalaxyworld
+  venue: Huxleys Neue Welt, Berlin, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/huxleys-neue-welt-berlin-germany-239824e7.html'
+  part-of:
+    tour: metalgalaxyworld

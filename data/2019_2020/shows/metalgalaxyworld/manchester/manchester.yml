@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: manchester
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Manchester, England
+  date: 2020-02-22
+  tour: metalgalaxyworld
+  venue: O2 Apollo Manchester, Manchester, England
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/o2-apollo-manchester-manchester-england-3b986898.html'
+  part-of:
+    tour: metalgalaxyworld

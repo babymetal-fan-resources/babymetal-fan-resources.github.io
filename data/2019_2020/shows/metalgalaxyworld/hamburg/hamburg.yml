@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: hamburg
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Hamburg, Germany
+  date: 2020-02-08
+  tour: metalgalaxyworld
+  venue: Grosse Freiheit 36, Hamburg, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/grosse-freiheit-36-hamburg-germany-2398d01b.html'
+  part-of:
+    tour: metalgalaxyworld

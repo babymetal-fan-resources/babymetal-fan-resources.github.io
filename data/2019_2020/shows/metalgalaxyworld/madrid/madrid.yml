@@ -1,0 +1,17 @@
+show:
+  year: 2020
+  id: madrid
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Madrid, Spain
+  date: 2020-06-23
+  tour: metalgalaxyworld
+  description:
+  - Cancelled due to COVID-19.
+  categories:
+  - cancelledshow
+  venue: La Riviera, Madrid, Spain
+  part-of:
+    tour: metalgalaxyworld

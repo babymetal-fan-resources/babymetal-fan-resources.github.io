@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: copenhagen
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Copenhagen, Denmark
+  date: 2020-02-05
+  tour: metalgalaxyworld
+  venue: Vega, Copenhagen, Denmark
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/vega-store-vega-copenhagen-denmark-2398e85f.html'
+  part-of:
+    tour: metalgalaxyworld

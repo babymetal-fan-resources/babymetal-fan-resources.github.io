@@ -1,0 +1,18 @@
+show:
+  year: 2020
+  id: rockimpark
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Rock Im Park
+  sublabel: Nuremberg, Germany
+  date: 2020-06-06
+  tour: metalgalaxyworld
+  description:
+  - Cancelled due to COVID-19.
+  categories:
+  - cancelledshow
+  venue: Zeppelinfeld, Nuremberg, Germany
+  part-of:
+    tour: metalgalaxyworld

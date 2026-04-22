@@ -1,0 +1,68 @@
+tour:
+  id: metalgalaxyworld
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: METAL GALAXY WORLD TOUR
+  first-date: 2020-02-03
+  last-date: 2020-03-01
+  shows:
+  - year: 2020
+    id: stockholm
+  - year: 2020
+    id: olso
+  - year: 2020
+    id: copenhagen
+  - year: 2020
+    id: hamburg
+  - year: 2020
+    id: paris
+  - year: 2020
+    id: vienna
+  - year: 2020
+    id: cologne
+  - year: 2020
+    id: berlin
+  - year: 2020
+    id: brussels
+  - year: 2020
+    id: tilburg
+  - year: 2020
+    id: glasgow
+  - year: 2020
+    id: cardiff
+  - year: 2020
+    id: manchester
+  - year: 2020
+    id: london
+  - year: 2020
+    id: helsinki
+  - year: 2020
+    id: stpetersburg
+  - year: 2020
+    id: moscow
+  - year: 2020
+    id: rockimpark
+  - year: 2020
+    id: rockamring
+  - year: 2020
+    id: warsaw
+  - year: 2020
+    id: novarockfestival
+  - year: 2020
+    id: download
+  - year: 2020
+    id: utrecht
+  - year: 2020
+    id: graspop
+  - year: 2020
+    id: hellfest
+  - year: 2020
+    id: madrid
+  - year: 2020
+    id: barcelona
+  part-of:
+    group:
+      id: shows
+      group: 2019_2020

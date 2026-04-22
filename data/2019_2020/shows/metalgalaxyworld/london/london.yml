@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: london
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: London, England
+  date: 2020-02-23
+  tour: metalgalaxyworld
+  venue: Eventim Apollo, London, England
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/eventim-apollo-london-england-b98618a.html'
+  part-of:
+    tour: metalgalaxyworld

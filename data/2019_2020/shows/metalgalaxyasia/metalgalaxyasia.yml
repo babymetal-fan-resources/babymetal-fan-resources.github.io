@@ -1,0 +1,27 @@
+tour:
+  id: metalgalaxyasia
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: METAL GALAXY WORLD TOUR IN ASIA
+  shortname: METAL GALAXY ASIA TOUR
+  first-date: 2020-03-22
+  last-date: 2020-12-12
+  description:
+  - Cancelled due to COVID-19.
+  shows:
+  - year: 2020
+    id: bangkok
+  - year: 2020
+    id: kualalumpur
+  - year: 2020
+    id: jakarta
+  - year: 2020
+    id: taipei
+  - year: 2020
+    id: pulpsummerslam
+  part-of:
+    group:
+      id: shows
+      group: 2019_2020

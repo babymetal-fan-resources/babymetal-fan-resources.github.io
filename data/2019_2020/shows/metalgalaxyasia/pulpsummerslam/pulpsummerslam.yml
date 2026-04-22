@@ -1,0 +1,19 @@
+show:
+  year: 2020
+  id: pulpsummerslam
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: PULP Summer Slam
+  sublabel: Manila, Philippines
+  date: 2020-05-16
+  tour: metalgalaxyasia
+  description:
+  - Cancelled due to COVID-19.
+  categories:
+  - cancelledshow
+  venue: MALL OF ASIA ARENA, Manila, Philippines
+  todo: part of the tour ? in 2020-2021 season ?
+  part-of:
+    tour: metalgalaxyasia

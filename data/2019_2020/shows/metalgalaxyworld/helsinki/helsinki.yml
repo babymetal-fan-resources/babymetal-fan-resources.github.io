@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: helsinki
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Helsinki, Finland
+  date: 2020-02-26
+  tour: metalgalaxyworld
+  venue: House of Culture, Helsinki, Finland
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/kulttuuritalo-helsinki-finland-39849bf.html'
+  part-of:
+    tour: metalgalaxyworld

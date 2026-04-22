@@ -1,0 +1,18 @@
+show:
+  year: 2020
+  id: download
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Download Festival
+  sublabel: Castle Donington, England
+  date: 2020-06-14
+  tour: metalgalaxyworld
+  description:
+  - Cancelled due to COVID-19.
+  categories:
+  - cancelledshow
+  venue: Donington Park, Castle Donington, England
+  part-of:
+    tour: metalgalaxyworld

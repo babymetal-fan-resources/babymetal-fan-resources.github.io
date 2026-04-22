@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: stpetersburg
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Saint Petersburg, Russia
+  date: 2020-02-28
+  tour: metalgalaxyworld
+  venue: Tinkoff Arena, Saint Petersburg, Russia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/tinkoff-arena-saint-petersburg-russia-3399b8c5.html'
+  part-of:
+    tour: metalgalaxyworld

@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: tilburg
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Tilburg, Netherlands
+  date: 2020-02-17
+  tour: metalgalaxyworld
+  venue: Poppodium 013, Tilburg, Netherlands
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/poppodium-013-tilburg-netherlands-639812fb.html'
+  part-of:
+    tour: metalgalaxyworld

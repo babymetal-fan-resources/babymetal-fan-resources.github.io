@@ -1,0 +1,17 @@
+show:
+  year: 2020
+  id: barcelona
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Barcelona, Spain
+  date: 2020-06-24
+  tour: metalgalaxyworld
+  description:
+  - Cancelled due to COVID-19.
+  categories:
+  - cancelledshow
+  venue: Razzmatazz, Barcelona, Spain
+  part-of:
+    tour: metalgalaxyworld

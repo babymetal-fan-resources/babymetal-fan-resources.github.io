@@ -1,0 +1,17 @@
+show:
+  year: 2020
+  id: utrecht
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Utrecht, Netherlands
+  date: 2020-06-17
+  tour: metalgalaxyworld
+  description:
+  - Cancelled due to COVID-19.
+  categories:
+  - cancelledshow
+  venue: TivoliVredenburg, Utrecht, Netherlands
+  part-of:
+    tour: metalgalaxyworld

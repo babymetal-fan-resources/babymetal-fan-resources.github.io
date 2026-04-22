@@ -1,0 +1,18 @@
+show:
+  year: 2020
+  id: graspop
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Graspop Metal Meeting
+  sublabel: Dessel, Belgium
+  date: 2020-06-19
+  tour: metalgalaxyworld
+  description:
+  - Cancelled due to COVID-19.
+  categories:
+  - cancelledshow
+  venue: Dessel, Belgium
+  part-of:
+    tour: metalgalaxyworld

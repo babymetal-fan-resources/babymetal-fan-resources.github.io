@@ -1,0 +1,17 @@
+show:
+  year: 2020
+  id: bangkok
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Bangkok, Thailand
+  date: 2020-03-22
+  tour: metalgalaxyasia
+  description:
+  - Cancelled due to COVID-19.
+  categories:
+  - cancelledshow
+  venue: GMM LIVE HOUSE, Bangkok, Thailand
+  part-of:
+    tour: metalgalaxyasia

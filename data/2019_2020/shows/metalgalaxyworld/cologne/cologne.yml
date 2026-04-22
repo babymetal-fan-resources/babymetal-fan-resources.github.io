@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: cologne
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Cologne, Germany
+  date: 2020-02-13
+  tour: metalgalaxyworld
+  venue: Carlswerk Victoria, Cologne, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/carlswerk-victoria-cologne-germany-43982f53.html'
+  part-of:
+    tour: metalgalaxyworld

@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: olso
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Oslo, Norway
+  date: 2020-02-04
+  tour: metalgalaxyworld
+  venue: Sentrum Scene, Oslo, Norway
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/sentrum-scene-oslo-norway-3b98f084.html'
+  part-of:
+    tour: metalgalaxyworld

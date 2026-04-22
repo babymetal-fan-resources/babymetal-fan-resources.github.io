@@ -1,0 +1,17 @@
+show:
+  year: 2020
+  id: legendmetalgalaxy1
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: LEGEND - METAL GALAXY METAL GALAXY WORLD TOUR IN JAPAN EXTRA SHOW
+  shortname: LEGEND - METAL GALAXY
+  date: 2020-01-25
+  tour: metalgalaxyjapan
+  categories:
+  - mainshow
+  venue: Makuhari Messe, Chiba
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/makuhari-messe-kokusai-tenjijou-hall-1-2-chiba-japan-398b927.html'
+  part-of:
+    tour: metalgalaxyjapan

@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: stockholm
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Stockholm, Sweden
+  date: 2020-02-03
+  tour: metalgalaxyworld
+  venue: Arenan/Fryshuset, Stockholm, Sweden
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/arenanfryshuset-stockholm-sweden-398f50f.html'
+  part-of:
+    tour: metalgalaxyworld

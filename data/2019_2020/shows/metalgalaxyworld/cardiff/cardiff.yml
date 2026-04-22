@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: cardiff
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Cardiff, Wales
+  date: 2020-02-20
+  tour: metalgalaxyworld
+  venue: The Great Hall, Cardiff University Students' Union, Cardiff, Wales
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/the-great-hall-cardiff-university-students-union-cardiff-wales-7b987af0.html'
+  part-of:
+    tour: metalgalaxyworld

@@ -1,0 +1,17 @@
+show:
+  year: 2020
+  id: kualalumpur
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Kuala Lumpur, Malaysia
+  date: 2020-03-27
+  tour: metalgalaxyasia
+  description:
+  - Cancelled due to COVID-19.
+  categories:
+  - cancelledshow
+  venue: KL Live, Kuala Lumpur, Malaysia
+  part-of:
+    tour: metalgalaxyasia

@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: paris
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Paris, France
+  date: 2020-02-09
+  tour: metalgalaxyworld
+  venue: Élysée Montmartre, Paris, France
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/elysee-montmartre-paris-france-3398c85d.html'
+  part-of:
+    tour: metalgalaxyworld

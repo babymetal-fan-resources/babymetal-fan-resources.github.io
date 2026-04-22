@@ -16,6 +16,10 @@ tour:
     id: osaka1
   - year: 2019
     id: osaka2
+  - year: 2020
+    id: legendmetalgalaxy1
+  - year: 2020
+    id: legendmetalgalaxy2
   part-of:
     group:
       id: shows

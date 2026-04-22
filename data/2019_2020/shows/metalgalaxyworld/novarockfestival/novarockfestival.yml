@@ -1,0 +1,18 @@
+show:
+  year: 2020
+  id: novarockfestival
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Nova Rock Festival
+  sublabel: Vienna, Austria
+  date: 2020-06-10
+  tour: metalgalaxyworld
+  description:
+  - Cancelled due to COVID-19.
+  categories:
+  - cancelledshow
+  venue: Vienna, Austria
+  part-of:
+    tour: metalgalaxyworld

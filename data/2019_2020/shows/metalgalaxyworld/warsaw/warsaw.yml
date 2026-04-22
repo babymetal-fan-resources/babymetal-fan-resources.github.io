@@ -1,0 +1,17 @@
+show:
+  year: 2020
+  id: warsaw
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Warsaw, Poland
+  date: 2020-06-08
+  tour: metalgalaxyworld
+  description:
+  - Cancelled due to COVID-19.
+  categories:
+  - cancelledshow
+  venue: Stodola, Warsaw, Poland
+  part-of:
+    tour: metalgalaxyworld

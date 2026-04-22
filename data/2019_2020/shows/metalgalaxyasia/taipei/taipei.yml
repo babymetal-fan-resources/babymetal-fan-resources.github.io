@@ -1,0 +1,17 @@
+show:
+  year: 2020
+  id: taipei
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Taipei, Taiwan
+  date: 2020-04-03
+  tour: metalgalaxyasia
+  description:
+  - Cancelled due to COVID-19.
+  categories:
+  - cancelledshow
+  venue: NTU Sports Center 1F, Taipei, Taiwan
+  part-of:
+    tour: metalgalaxyasia

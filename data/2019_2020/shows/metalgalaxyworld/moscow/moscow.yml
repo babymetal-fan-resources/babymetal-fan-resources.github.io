@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: moscow
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Moscow, Russia
+  date: 2020-03-01
+  tour: metalgalaxyworld
+  venue: Stadium Live, Moscow, Russia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/stadium-live-moscow-russia-4399ab9f.html'
+  part-of:
+    tour: metalgalaxyworld

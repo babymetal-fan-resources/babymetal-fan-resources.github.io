@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: vienna
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Vienna, Austria
+  date: 2020-02-11
+  tour: metalgalaxyworld
+  venue: Planet.tt Bank Austria Halle Gasometer, Vienna, Austria
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/planettt-bank-austria-halle-gasometer-vienna-austria-7b983e84.html'
+  part-of:
+    tour: metalgalaxyworld

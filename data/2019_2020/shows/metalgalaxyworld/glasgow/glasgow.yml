@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: glasgow
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Glasgow, Scotland
+  date: 2020-02-19
+  tour: metalgalaxyworld
+  venue: Barrowland, Glasgow, Scotland
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/barrowland-glasgow-scotland-b987d92.html'
+  part-of:
+    tour: metalgalaxyworld

@@ -1,0 +1,17 @@
+show:
+  year: 2020
+  id: jakarta
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Jakarta, Indonesia
+  date: 2020-03-29
+  tour: metalgalaxyasia
+  description:
+  - Cancelled due to COVID-19.
+  categories:
+  - cancelledshow
+  venue: Basket Hall Senayan, Jakarta, Indonesia
+  part-of:
+    tour: metalgalaxyasia

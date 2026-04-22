@@ -575,7 +575,110 @@ contentpage:
   - song: kingslayer
   - album: legendmetalgalaxyday2
   - album: legendmetalgalaxyday1
-  - album: metalgalaxy
+  - show:
+      year: 2020
+      id: barcelona
+  - show:
+      year: 2020
+      id: madrid
+  - show:
+      year: 2020
+      id: hellfest
+  - show:
+      year: 2020
+      id: graspop
+  - show:
+      year: 2020
+      id: utrecht
+  - show:
+      year: 2020
+      id: download
+  - show:
+      year: 2020
+      id: novarockfestival
+  - show:
+      year: 2020
+      id: warsaw
+  - show:
+      year: 2020
+      id: rockimpark
+  - show:
+      year: 2020
+      id: rockamring
+  - show:
+      year: 2020
+      id: pulpsummerslam
+  - show:
+      year: 2020
+      id: taipei
+  - show:
+      year: 2020
+      id: jakarta
+  - show:
+      year: 2020
+      id: kualalumpur
+  - show:
+      year: 2020
+      id: bangkok
+  - tour: metalgalaxyasia
+  - show:
+      year: 2020
+      id: moscow
+  - show:
+      year: 2020
+      id: stpetersburg
+  - show:
+      year: 2020
+      id: helsinki
+  - show:
+      year: 2020
+      id: london
+  - show:
+      year: 2020
+      id: manchester
+  - show:
+      year: 2020
+      id: cardiff
+  - show:
+      year: 2020
+      id: glasgow
+  - show:
+      year: 2020
+      id: tilburg
+  - show:
+      year: 2020
+      id: brussels
+  - show:
+      year: 2020
+      id: berlin
+  - show:
+      year: 2020
+      id: cologne
+  - show:
+      year: 2020
+      id: vienna
+  - show:
+      year: 2020
+      id: paris
+  - show:
+      year: 2020
+      id: hamburg
+  - show:
+      year: 2020
+      id: copenhagen
+  - show:
+      year: 2020
+      id: olso
+  - show:
+      year: 2020
+      id: stockholm
+  - tour: metalgalaxyworld
+  - show:
+      year: 2020
+      id: legendmetalgalaxy2
+  - show:
+      year: 2020
+      id: legendmetalgalaxy1
   - show:
       year: 2019
       id: countdownjapan
@@ -612,6 +715,7 @@ contentpage:
   - show:
       year: 2019
       id: theforum
+  - album: metalgalaxy
   - show:
       year: 2019
       id: sanfrancisco

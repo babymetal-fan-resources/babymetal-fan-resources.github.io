@@ -1,0 +1,18 @@
+show:
+  year: 2020
+  id: rockamring
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Rock am Ring
+  sublabel: Nürburgring, Germany
+  date: 2020-06-07
+  tour: metalgalaxyworld
+  description:
+  - Cancelled due to COVID-19.
+  categories:
+  - cancelledshow
+  venue: Nürburgring, Nürburg, Germany
+  part-of:
+    tour: metalgalaxyworld

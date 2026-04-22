@@ -1,0 +1,18 @@
+show:
+  year: 2020
+  id: hellfest
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Hellfest
+  sublabel: Clisson, France
+  date: 2020-06-21
+  tour: metalgalaxyworld
+  description:
+  - Cancelled due to COVID-19.
+  categories:
+  - cancelledshow
+  venue: Hellfest Grounds, Dessel, Belgium
+  part-of:
+    tour: metalgalaxyworld

@@ -1,0 +1,14 @@
+show:
+  year: 2020
+  id: brussels
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Brussels, Belgium
+  date: 2020-02-16
+  tour: metalgalaxyworld
+  venue: Ancienne Belgique, Brussels, Belgium
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2020/ancienne-belgique-brussels-belgium-139815d1.html'
+  part-of:
+    tour: metalgalaxyworld
