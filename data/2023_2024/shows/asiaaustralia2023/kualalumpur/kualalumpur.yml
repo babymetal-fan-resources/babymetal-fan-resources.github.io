@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: kualalumpur
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: asiaaustraliatour
+  fullname: Kuala Lumpur, Malaysia
+  date: 2023-06-04
+  tour: asiaaustralia2023
+  venue: Zepp Kuala Lumpur, Kuala Lumpur, Malaysia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/zepp-kuala-lumpur-kuala-lumpur-malaysia-1ba6b158.html'
+  part-of:
+    tour: asiaaustralia2023

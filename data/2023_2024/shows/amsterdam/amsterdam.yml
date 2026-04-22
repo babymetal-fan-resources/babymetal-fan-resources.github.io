@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: amsterdam
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Amsterdam, Netherlands
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-05-03
+  venue: Ziggo Dome, Amsterdam, Netherlands
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/ziggo-dome-amsterdam-netherlands-bb85df6.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

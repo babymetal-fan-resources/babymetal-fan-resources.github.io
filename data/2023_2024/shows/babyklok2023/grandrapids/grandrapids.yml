@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: grandrapids
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Grand Rapids, MI, USA
+  date: 2023-09-20
+  tour: babyklok2023
+  venue: GLC Live at 20 Monroe, Grand Rapids, MI, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/glc-live-at-20-monroe-grand-rapids-mi-4ba25fda.html'
+  part-of:
+    tour: babyklok2023

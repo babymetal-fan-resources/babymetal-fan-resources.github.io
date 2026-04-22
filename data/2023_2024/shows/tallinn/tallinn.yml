@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: tallinn
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Tallinn, Estonia
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-05-18
+  venue: Unibet Arena, Tallinn, Estonia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/unibet-arena-tallinn-estonia-2bb9d41e.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

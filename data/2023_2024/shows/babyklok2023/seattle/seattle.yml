@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: seattle
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Seattle, WA, USA
+  date: 2023-10-04
+  tour: babyklok2023
+  venue: WaMu Theater, Seattle, WA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/wamu-theater-seattle-wa-5ba33f94.html'
+  part-of:
+    tour: babyklok2023

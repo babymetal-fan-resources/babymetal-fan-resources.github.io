@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: melbourne
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: asiaaustraliatour
+  fullname: Melbourne, Australia
+  date: 2023-06-11
+  tour: asiaaustralia2023
+  venue: Margaret Court Arena, Melbourne, Australia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/margaret-court-arena-melbourne-australia-73a6ead9.html'
+  part-of:
+    tour: asiaaustralia2023

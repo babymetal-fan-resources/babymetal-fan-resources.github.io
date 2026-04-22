@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: nexfestkobe
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: nexfesttour
+  fullname: NEX_FEST
+  sublabel: Kobe
+  date: 2023-10-31
+  venue: World Hall, Kobe
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/world-kinen-hall-kobe-japan-53a077c1.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

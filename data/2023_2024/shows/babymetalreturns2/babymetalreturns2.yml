@@ -1,0 +1,19 @@
+show:
+  year: 2023
+  id: babymetalreturns2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babymetalreturns
+  fullname: BABYMETAL RETURNS - THE OTHER ONE -
+  shortname: 'BABYMETAL RETURNS '
+  date: 2023-01-29
+  categories:
+  - mainshow
+  venue: Makuhari Messe, Chiba
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/makuhari-messe-kokusai-tenjijou-hall-2-3-chiba-japan-1bbdc13c.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

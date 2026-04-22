@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: cardiff
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Cardiff, Wales
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-04-16
+  venue: Cardiff International Arena, Cardiff, Wales
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/cardiff-international-arena-cardiff-wales-7bb886d4.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

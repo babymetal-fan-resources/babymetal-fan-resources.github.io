@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: oslo2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Oslo, Norway
+  date: 2023-11-14
+  tour: europeuk2023
+  venue: Sentrum Scene, Oslo, Norway
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/sentrum-scene-oslo-norway-3ba1cc94.html'
+  part-of:
+    tour: europeuk2023

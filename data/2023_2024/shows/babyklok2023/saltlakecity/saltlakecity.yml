@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: saltlakecity
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Salt Lake City, UT, USA
+  date: 2023-10-01
+  tour: babyklok2023
+  venue: The Complex, Salt Lake City, UT, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/the-complex-the-lot-salt-lake-city-ut-1ba3ddc4.html'
+  part-of:
+    tour: babyklok2023

@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: boston
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Boston, MA, USA
+  date: 2023-09-14
+  tour: babyklok2023
+  venue: MGM Music Hall at Fenway, Boston, MA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/mgm-music-hall-at-fenway-boston-ma-2ba224de.html'
+  part-of:
+    tour: babyklok2023

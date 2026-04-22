@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: kuopio
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Kuopio, Finland
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-05-20
+  venue: Kuopio-halli, Kuopio, Finland
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/kuopio-halli-kuopio-finland-7bb9c664.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

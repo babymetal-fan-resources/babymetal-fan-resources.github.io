@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: london3
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: London, England
+  date: 2023-11-28
+  tour: europeuk2023
+  venue: Roundhouse, London, England
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/roundhouse-london-england-73aeae09.html'
+  part-of:
+    tour: europeuk2023

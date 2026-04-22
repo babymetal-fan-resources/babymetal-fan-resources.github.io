@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: hamburg2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Hamburg, Germany
+  date: 2023-11-18
+  tour: europeuk2023
+  venue: Alsterdorfer Sporthalle, Hamburg, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/alsterdorfer-sporthalle-hamburg-germany-2ba11ce2.html'
+  part-of:
+    tour: europeuk2023

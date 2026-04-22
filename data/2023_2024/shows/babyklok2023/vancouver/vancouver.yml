@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: vancouver
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Vancouver, BC, Canada
+  date: 2023-10-03
+  tour: babyklok2023
+  venue: PNE Forum, Vancouver, BC, Canada
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/pne-forum-vancouver-bc-canada-73a3cab9.html'
+  part-of:
+    tour: babyklok2023

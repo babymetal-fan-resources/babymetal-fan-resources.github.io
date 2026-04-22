@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: tilburg
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Tilburg, Netherlands
+  date: 2023-12-03
+  tour: europeuk2023
+  venue: Poppodium 013, Tilburg, Netherlands
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/poppodium-013-tilburg-netherlands-4baef76a.html'
+  part-of:
+    tour: europeuk2023

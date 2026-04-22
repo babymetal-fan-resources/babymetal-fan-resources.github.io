@@ -1,0 +1,16 @@
+show:
+  year: 2023
+  id: apocryphaanotherone2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: apocryphaanotherone
+  fullname: BABYMETAL APOCRYPHA - ANOTHER ONE -
+  date: 2023-08-16
+  venue: Zepp Haneda, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/zepp-haneda-tokyo-tokyo-japan-7ba59eb8.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

@@ -1,0 +1,16 @@
+show:
+  year: 2023
+  id: aftershock
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Aftershock
+  sublabel: Sacramento, CA, USA
+  date: 2023-10-07
+  tour: babyklok2023
+  venue: Discovery Park, Sacramento, CA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/discovery-park-sacramento-ca-53a31f95.html'
+  part-of:
+    tour: babyklok2023

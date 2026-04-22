@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: madrid
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Madrid, Spain
+  date: 2023-12-11
+  tour: europeuk2023
+  venue: Palacio Vistalegre, Madrid, Spain
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/palacio-vistalegre-madrid-spain-bae1d9a.html'
+  part-of:
+    tour: europeuk2023

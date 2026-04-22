@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: cleveland
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Cleveland, OH, USA
+  date: 2023-09-06
+  tour: babyklok2023
+  venue: Agora, Cleveland, OH, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/agora-cleveland-oh-43a2ff03.html'
+  part-of:
+    tour: babyklok2023

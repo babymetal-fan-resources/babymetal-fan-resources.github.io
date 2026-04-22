@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: brisbane
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: asiaaustraliatour
+  fullname: Brisbane, Australia
+  date: 2023-06-08
+  tour: asiaaustralia2023
+  venue: Fortitude Music Hall, Brisbane, Australia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/fortitude-music-hall-brisbane-australia-13a689cd.html'
+  part-of:
+    tour: asiaaustralia2023

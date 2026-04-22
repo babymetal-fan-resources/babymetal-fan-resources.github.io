@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: vienna2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Vienna, Austria
+  date: 2023-11-23
+  tour: europeuk2023
+  venue: Planet.tt Bank Austria Halle Gasometer, Vienna, Austria
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/planettt-bank-austria-halle-gasometer-vienna-austria-ba16146.html'
+  part-of:
+    tour: europeuk2023

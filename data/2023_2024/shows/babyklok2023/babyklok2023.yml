@@ -1,0 +1,75 @@
+tour:
+  id: babyklok2023
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: THE BABYKLOK TOUR 2023
+  first-date: 2023-08-30
+  last-date: 2023-10-12
+  shows:
+  - year: 2023
+    id: houston
+  - year: 2023
+    id: dallas
+  - year: 2023
+    id: orlando
+  - year: 2023
+    id: atlanta
+  - year: 2023
+    id: nashville
+  - year: 2023
+    id: cleveland
+  - year: 2023
+    id: pittsburgh
+  - year: 2023
+    id: wallingford
+  - year: 2023
+    id: blueridgerockfestival
+  - year: 2023
+    id: philadelphia
+  - year: 2023
+    id: boston
+  - year: 2023
+    id: newyork
+  - year: 2023
+    id: sterlingheights
+  - year: 2023
+    id: toronto
+  - year: 2023
+    id: grandrapids
+  - year: 2023
+    id: chicago
+  - year: 2023
+    id: louderthanlife
+  - year: 2023
+    id: milwaukee
+  - year: 2023
+    id: minneapolis
+  - year: 2023
+    id: stlouis
+  - year: 2023
+    id: omaha
+  - year: 2023
+    id: denver
+  - year: 2023
+    id: saltlakecity
+  - year: 2023
+    id: vancouver
+  - year: 2023
+    id: seattle
+  - year: 2023
+    id: aftershock
+  - year: 2023
+    id: lasvegas
+  - year: 2023
+    id: phoenix
+  - year: 2023
+    id: losangeles1
+  - year: 2023
+    id: losangeles2
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

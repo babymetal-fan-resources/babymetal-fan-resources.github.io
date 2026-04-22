@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: paris2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Paris, France
+  date: 2023-12-06
+  tour: europeuk2023
+  venue: L'Olympia Bruno Coquatrix, Paris, France
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/lolympia-bruno-coquatrix-paris-france-3aed5c7.html'
+  part-of:
+    tour: europeuk2023

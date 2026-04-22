@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: strasbourg
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Strasbourg, France
+  date: 2023-11-25
+  tour: europeuk2023
+  venue: La Laiterie, Strasbourg, France
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/la-laiterie-strasbourg-france-6ba152b6.html'
+  part-of:
+    tour: europeuk2023

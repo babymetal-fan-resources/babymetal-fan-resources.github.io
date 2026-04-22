@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: dallas
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Dallas, TX, USA
+  date: 2023-08-31
+  tour: babyklok2023
+  venue: South Side Ballroom, Dallas, TX, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/south-side-ballroom-dallas-tx-73a54a71.html'
+  part-of:
+    tour: babyklok2023

@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: atlanta
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Atlanta, GA, USA
+  date: 2023-09-03
+  tour: babyklok2023
+  venue: Coca-Cola Roxy, Atlanta, GA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/coca-cola-roxy-atlanta-ga-4ba2a78a.html'
+  part-of:
+    tour: babyklok2023

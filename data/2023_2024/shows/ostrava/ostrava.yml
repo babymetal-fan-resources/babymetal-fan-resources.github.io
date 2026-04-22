@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: ostrava
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Ostrava, Czechia
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-05-10
+  venue: Ostravar Aréna, Ostrava, Czechia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/ostravar-arena-ostrava-czechia-5bb9a3a4.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

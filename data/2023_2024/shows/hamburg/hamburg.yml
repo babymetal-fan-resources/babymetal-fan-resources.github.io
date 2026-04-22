@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: hamburg
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Hamburg, Germany
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-04-24
+  venue: Barclays Arena, Hamburg, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/barclays-arena-hamburg-germany-4bb83b7a.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

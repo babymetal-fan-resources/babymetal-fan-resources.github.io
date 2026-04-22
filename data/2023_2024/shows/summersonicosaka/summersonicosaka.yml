@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: summersonicosaka
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: summersonic
+  fullname: SUMMER SONIC 2023
+  sublabel: Osaka
+  date: 2023-08-19
+  venue: Maishima Summer Sonic, Osaka
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/osaka-city-shinyou-kinko-stadium-osaka-japan-ba5f982.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

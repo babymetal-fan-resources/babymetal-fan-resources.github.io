@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: jakarta
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: asiaaustraliatour
+  fullname: Jakarta, Indonesia
+  date: 2023-05-25
+  tour: asiaaustralia2023
+  venue: Indonesia Convention Exhibition, BSD City, Tangerang, Indonesia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/indonesia-convention-exhibition-bsd-city-tangerang-indonesia-3b915ef.html'
+  part-of:
+    tour: asiaaustralia2023

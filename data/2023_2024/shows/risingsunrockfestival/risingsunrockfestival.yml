@@ -1,0 +1,18 @@
+show:
+  year: 2023
+  id: risingsunrockfestival
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: risingsunrockfestival
+  fullname: RISING SUN ROCK FESTIVAL 2023 in EZO
+  shortname: 'RISING SUN ROCK FESTIVAL '
+  sublabel: Ishikari, Japan
+  date: 2023-08-12
+  venue: Tarukawa Dock Open-Air Special Stages, Ishikari, Japan
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/tarukawa-dock-open-air-special-stages-sun-stage-ishikari-japan-73a44a29.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

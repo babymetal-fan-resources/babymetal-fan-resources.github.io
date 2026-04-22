@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: omaha
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Omaha, NE, USA
+  date: 2023-09-28
+  tour: babyklok2023
+  venue: Steelhouse Omaha, Omaha, NE, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/steelhouse-omaha-omaha-ne-1ba38148.html'
+  part-of:
+    tour: babyklok2023

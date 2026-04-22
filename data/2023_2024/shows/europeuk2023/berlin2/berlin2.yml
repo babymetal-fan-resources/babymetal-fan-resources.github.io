@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: berlin2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Berlin, Germany
+  date: 2023-11-19
+  tour: europeuk2023
+  venue: Verti Music Hall, Berlin, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/verti-music-hall-berlin-germany-2ba10c1e.html'
+  part-of:
+    tour: europeuk2023

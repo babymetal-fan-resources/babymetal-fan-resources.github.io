@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: glasgow
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Glasgow, Scotland
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-04-18
+  venue: The OVO Hydro, Glasgow, Scotland
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/the-ovo-hydro-glasgow-scotland-43b8f30f.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

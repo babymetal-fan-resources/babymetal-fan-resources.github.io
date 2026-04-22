@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: wolverhampton
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Wolverhampton, England
+  date: 2023-11-29
+  tour: europeuk2023
+  venue: Civic Hall, Wolverhampton, England
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/civic-hall-wolverhampton-england-63aea27b.html'
+  part-of:
+    tour: europeuk2023

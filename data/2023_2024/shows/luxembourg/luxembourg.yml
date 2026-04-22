@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: luxembourg
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Esch-sur-Alzette, Luxembourg
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-04-25
+  venue: Rockhal, Esch-sur-Alzette, Luxembourg
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/rockhal-esch-sur-alzette-luxembourg-3b82d5b.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

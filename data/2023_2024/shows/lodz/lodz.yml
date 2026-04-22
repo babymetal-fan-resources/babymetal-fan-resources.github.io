@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: lodz
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Łódź, Poland
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-05-09
+  venue: Atlas Arena, Łódź, Poland
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/atlas-arena-od-poland-43b9ab4b.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

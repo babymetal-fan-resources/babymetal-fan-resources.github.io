@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: houston
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Houston, TX, USA
+  date: 2023-08-30
+  tour: babyklok2023
+  venue: 713 Music Hall, Houston, TX, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/713-music-hall-houston-tx-43a55733.html'
+  part-of:
+    tour: babyklok2023

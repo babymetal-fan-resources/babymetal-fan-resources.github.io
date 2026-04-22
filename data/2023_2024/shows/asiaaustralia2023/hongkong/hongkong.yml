@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: hongkong
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: asiaaustraliatour
+  fullname: Hong Kong
+  date: 2023-05-31
+  tour: asiaaustralia2023
+  venue: AsiaWorld-Expo, Islands District, Hong Kong
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/asiaworld-expo-hall-10-islands-district-hong-kong-sar-china-2bb95892.html'
+  part-of:
+    tour: asiaaustralia2023

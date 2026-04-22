@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: minneapolis
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Minneapolis, MN, USA
+  date: 2023-09-25
+  tour: babyklok2023
+  venue: The Fillmore Minneapolis, Minneapolis, MN, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/fillmore-minneapolis-minneapolis-mn-43a3a36f.html'
+  part-of:
+    tour: babyklok2023

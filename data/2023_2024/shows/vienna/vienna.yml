@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: vienna
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Vienna, Austria
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-05-07
+  venue: Wiener Stadthalle, Vienna, Austria
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/wiener-stadthalle-halle-d-vienna-austria-33b9b899.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

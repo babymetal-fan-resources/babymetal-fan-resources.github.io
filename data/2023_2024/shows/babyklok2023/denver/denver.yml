@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: denver
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Denver, CO, USA
+  date: 2023-09-30
+  tour: babyklok2023
+  venue: Fillmore Auditorium, Denver, CO, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/fillmore-auditorium-denver-co-73a3eef9.html'
+  part-of:
+    tour: babyklok2023

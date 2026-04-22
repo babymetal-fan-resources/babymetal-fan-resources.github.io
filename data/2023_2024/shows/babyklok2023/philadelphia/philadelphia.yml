@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: philadelphia
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Philadelphia, PA, USA
+  date: 2023-09-12
+  tour: babyklok2023
+  venue: TD Pavilion at the Mann, Philadelphia, PA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/td-pavilion-at-the-mann-philadelphia-pa-13a2394d.html'
+  part-of:
+    tour: babyklok2023

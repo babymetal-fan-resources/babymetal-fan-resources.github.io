@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: frankfurt
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Frankfurt, Germany
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-04-22
+  venue: Festhalle, Frankfurt, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/festhalle-frankfurt-germany-3bb8ccc4.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

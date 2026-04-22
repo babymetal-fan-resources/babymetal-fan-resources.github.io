@@ -1,0 +1,245 @@
+- group:
+    id: shows
+    label: Shows 2023-2024
+    part-of:
+      group: 2023_2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2023
+    id: apocryphaanotherone
+    label: Cover
+    published-date: 2023-08-16
+    url: 'https://babymetal.com/contents/1/TO/THEONE%E9%99%90%E5%AE%9A%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99KV_FIX0607.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2023
+        id: apocryphaanotherone1
+    todo: better published date
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2023
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2023
+    id: asiaaustraliatour
+    label: Cover
+    published-date: 2023-05-25
+    url: 'https://babymetal.com/contents/1/TO/tourimg/20230526_tour_jp.jpg'
+    local-copy: true
+    context:
+    - tour: asiaaustralia2023
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2023
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2023
+    id: babyklokla
+    label: Poster
+    published-date: 2023-10-11
+    url: 'https://babymetal.com/contents/1/TO/babyklok-LA-BOTH%20SHOWS%20Large.jpeg'
+    local-copy: true
+    todo: better published date
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2023
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2023
+    id: babykloktour
+    label: Cover
+    published-date: 2023-08-30
+    url: 'https://babymetal.com/contents/1/TO/BABYKLOK-FINAL%20(1)%20Large.jpeg'
+    local-copy: true
+    todo: better published date
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2023
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2023
+    id: babymetalbegins
+    label: Cover
+    published-date: 2023-04-01
+    url: 'https://babymetal.com/contents/1/TO/tourimg/20230401_tour_jp.jpg'
+    local-copy: true
+    todo: better published date, better quality image
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2023
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2023
+    id: babymetalreturns
+    label: Cover
+    published-date: 2023-01-28
+    url: 'https://babymetal.com/contents/1/TO/tourimg/20230128_tour_jp.jpg'
+    local-copy: true
+    todo: better published date
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2023
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2023
+    id: blueridgerockfestival
+    label: Poster
+    published-date: 2023-09-10
+    url: 'https://babymetal.com/contents/1/TO/BABYKLOK-FINAL%20(1)%20Large.jpeg'
+    local-copy: true
+    context:
+    - show:
+        year: 2023
+        id: blueridgerockfestival
+    todo: better published date
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2023
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2023
+    id: europeuktour
+    label: Cover
+    published-date: 2023-11-14
+    url: 'https://babymetal.com/contents/1/TO/0417_BMWT23%20Poster_Europe_Aph%20Large.jpeg'
+    local-copy: true
+    context:
+    - tour: europeuk2023
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2023
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2023
+    id: nexfest
+    label: Flyer
+    published-date: 2023-11-03
+    url: 'https://babymetal.com/contents/1/TO/NEXFEST-SLIDE2-SQUARE_web.jpeg'
+    local-copy: true
+    context:
+    - show:
+        year: 2023
+        id: nexfest
+    todo: better published date
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2023
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2023
+    id: nexfestextra
+    label: Flyer
+    published-date: 2023-11-04
+    url: 'https://babymetal.com/contents/1/TO/NEXFEST_EXTRA_Square.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2023
+        id: nexfestextra
+    todo: better published date
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2023
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2023
+    id: nexfesttour
+    label: Flyer
+    published-date: 2023-10-31
+    url: 'https://babymetal.com/contents/1/TO/JAPAN-SLIDE2_SNS.jpeg'
+    local-copy: true
+    todo: better published date
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2023
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2023
+    id: risingsunrockfestival
+    label: Lineup reveal
+    published-date: 2023-08-11
+    url: 'https://babymetal.com/contents/1/TO/%E7%AC%AC3%E5%BC%BE_1080_1080.png'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2023
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2023
+    id: sabatontour
+    label: Cover
+    published-date: 2023-04-14
+    url: 'https://babymetal.com/contents/1/TO/tourimg/20230414_tour_jp.jpg'
+    local-copy: true
+    todo: better published date, better quality
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2023
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2023
+    id: summersonic
+    label: Cover
+    published-date: 2023-08-19
+    url: 'https://babymetal.com/contents/1/TO/sns_artist_all%20Large.jpeg'
+    local-copy: true
+    todo: better published date
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2023
+
+- webpage:
+    domain: babymetal.com
+    id: shows.2023
+    label: Shows 2023
+    published-date: 2023-01-28
+    url: 'https://babymetal.com/mob/news/diarKiji.php?rw=100&cd=TOUR_TO&is_past=ON&target_year=2023'
+    image:
+    - babymetalreturns
+    - babymetalbegins
+    - sabatontour
+    - risingsunrockfestival
+    - apocryphaanotherone
+    - summersonic
+    - babykloktour
+    - blueridgerockfestival
+    - nexfesttour
+    - nexfest
+    - nexfestextra
+    - babyklokla
+    - asiaaustraliatour
+    - europeuktour
+    part-of:
+      group:
+        id: shows
+        group: 2023_2024
+

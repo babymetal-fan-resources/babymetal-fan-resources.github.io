@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: copenhagen2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Copenhagen, Denmark
+  date: 2023-11-16
+  tour: europeuk2023
+  venue: Amager Bio, Copenhagen, Denmark
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/amager-bio-copenhagen-denmark-4ba13742.html'
+  part-of:
+    tour: europeuk2023

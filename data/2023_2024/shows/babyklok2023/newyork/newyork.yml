@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: newyork
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: New York, NY, USA
+  date: 2023-09-15
+  tour: babyklok2023
+  venue: Hammerstein Ballroom, New York, NY, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/hammerstein-ballroom-new-york-ny-33a218dd.html'
+  part-of:
+    tour: babyklok2023

@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: louderthanlife
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Louder Than Life 2023
+  date: 2023-09-23
+  tour: babyklok2023
+  venue: Kentucky Expo Center, Louisville, KY, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/highland-festival-grounds-at-the-kentucky-expo-center-louisville-ky-73a3be25.html'
+  part-of:
+    tour: babyklok2023

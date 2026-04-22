@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: luxembourg2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Esch-sur-Alzette, Luxembourg
+  date: 2023-12-07
+  tour: europeuk2023
+  venue: Rockhal, Esch-sur-Alzette, Luxembourg
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/rockhal-esch-sur-alzette-luxembourg-43aecf23.html'
+  part-of:
+    tour: europeuk2023

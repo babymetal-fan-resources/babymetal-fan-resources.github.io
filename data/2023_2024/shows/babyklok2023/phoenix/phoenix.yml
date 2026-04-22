@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: phoenix
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Phoenix, AZ, USA
+  date: 2023-10-10
+  tour: babyklok2023
+  venue: Arizona Financial Theatre, Phoenix, AZ, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/arizona-financial-theatre-phoenix-az-3a37537.html'
+  part-of:
+    tour: babyklok2023

@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: orlando
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Orlando, FL, USA
+  date: 2023-09-02
+  tour: babyklok2023
+  venue: Orlando Amphitheater, Orlando, FL, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/orlando-amphitheater-orlando-fl-3a2b1d7.html'
+  part-of:
+    tour: babyklok2023

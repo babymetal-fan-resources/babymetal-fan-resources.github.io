@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: sydney
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: asiaaustraliatour
+  fullname: Sydney, Australia
+  date: 2023-06-09
+  tour: asiaaustralia2023
+  venue: Hordern Pavilion, Sydney, Australia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/hordern-pavilion-sydney-australia-4ba683e2.html'
+  part-of:
+    tour: asiaaustralia2023

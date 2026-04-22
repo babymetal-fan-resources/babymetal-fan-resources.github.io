@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: nexfestextra
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: nexfestextra
+  fullname: NEX_FEST -Extra-
+  sublabel: Tokyo
+  date: 2023-11-04
+  venue: Makuhari Messe, Chiba
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/makuhari-messe-kokusai-tenjijou-hall-9-10-chiba-japan-43a0474f.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

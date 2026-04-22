@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: munich2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Munich, Germany
+  date: 2023-11-24
+  tour: europeuk2023
+  venue: Zenith, Munich, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/zenith-munich-germany-13a15905.html'
+  part-of:
+    tour: europeuk2023

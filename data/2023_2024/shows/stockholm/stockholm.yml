@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: stockholm
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Stockholm, Sweden
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-04-28
+  venue: Avicii Arena, Stockholm, Sweden
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/avicii-arena-stockholm-sweden-33b810e9.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: wallingford
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Wallingford, CT, USA
+  date: 2023-09-09
+  tour: babyklok2023
+  venue: Toyota Presents the Oakdale Theatre, Wallingford, CT, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/toyota-presents-the-oakdale-theatre-wallingford-ct-3ba2d860.html'
+  part-of:
+    tour: babyklok2023

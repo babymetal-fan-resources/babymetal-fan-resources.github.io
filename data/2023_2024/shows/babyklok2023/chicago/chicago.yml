@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: chicago
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Chicago, IL, USA
+  date: 2023-09-21
+  tour: babyklok2023
+  venue: Byline Bank Aragon Ballroom, Chicago, IL, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/byline-bank-aragon-ballroom-chicago-il-53a253a9.html'
+  part-of:
+    tour: babyklok2023

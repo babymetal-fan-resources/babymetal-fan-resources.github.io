@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: brussels
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Brussels, Belgium
+  date: 2023-12-04
+  tour: europeuk2023
+  venue: Ancienne Belgique, Brussels, Belgium
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/ancienne-belgique-brussels-belgium-3baee8fc.html'
+  part-of:
+    tour: europeuk2023

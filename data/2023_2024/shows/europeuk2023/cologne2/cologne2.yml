@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: cologne2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Cologne, Germany
+  date: 2023-11-21
+  tour: europeuk2023
+  venue: Palladium, Cologne, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/palladium-cologne-germany-43a17b1f.html'
+  part-of:
+    tour: europeuk2023

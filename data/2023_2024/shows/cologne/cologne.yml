@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: cologne
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Cologne, Germany
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-05-12
+  venue: Lanxess Arena, Cologne, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/lanxess-arena-cologne-germany-4bb99322.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

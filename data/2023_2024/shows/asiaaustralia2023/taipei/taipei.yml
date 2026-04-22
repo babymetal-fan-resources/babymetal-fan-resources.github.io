@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: taipei
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: asiaaustraliatour
+  fullname: Taipei, Taiwan
+  date: 2023-06-02
+  tour: asiaaustralia2023
+  venue: Zepp New Taipei, Taipei, Taiwan
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/zepp-new-taipei-taipei-taiwan-13b94519.html'
+  part-of:
+    tour: asiaaustralia2023

@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: copenhagen
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Copenhagen, Denmark
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-04-30
+  venue: Royal Arena, Copenhagen, Denmark
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/royal-arena-copenhagen-denmark-2bb87cd2.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

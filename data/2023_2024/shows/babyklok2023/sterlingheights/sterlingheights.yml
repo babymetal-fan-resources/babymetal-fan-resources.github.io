@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: sterlingheights
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Sterling Heights, MI, USA
+  date: 2023-09-17
+  tour: babyklok2023
+  venue: Michigan Lottery Amphitheatre at Freedom Hill, Sterling Heights, MI, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/michigan-lottery-amphitheatre-at-freedom-hill-sterling-heights-mi-3ba200b0.html'
+  part-of:
+    tour: babyklok2023

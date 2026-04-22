@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: barcelona
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Barcelona, Spain
+  date: 2023-12-10
+  tour: europeuk2023
+  venue: Razzmatazz, Barcelona, Spain
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/razzmatazz-barcelona-spain-3bae286c.html'
+  part-of:
+    tour: europeuk2023

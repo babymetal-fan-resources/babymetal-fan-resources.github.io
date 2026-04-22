@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: lasvegas
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Las Vegas, NV, USA
+  date: 2023-10-08
+  tour: babyklok2023
+  venue: Palms Casino Resort, Las Vegas, NV, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/palms-casino-resort-pearl-concert-theater-las-vegas-nv-3ba30c64.html'
+  part-of:
+    tour: babyklok2023

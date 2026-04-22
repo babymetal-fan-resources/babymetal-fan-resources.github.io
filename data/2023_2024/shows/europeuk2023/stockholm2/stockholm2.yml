@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: stockholm2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Stockholm, Sweden
+  date: 2023-11-15
+  tour: europeuk2023
+  venue: Annexet, Stockholm, Sweden
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/annexet-stockholm-sweden-33a1c0dd.html'
+  part-of:
+    tour: europeuk2023

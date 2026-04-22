@@ -1,0 +1,19 @@
+show:
+  year: 2023
+  id: babymetalbegins2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babymetalbegins
+  fullname: BABYMETAL BEGINS - THE OTHER ONE -
+  shortname: BABYMETAL BEGINS
+  date: 2023-04-02
+  categories:
+  - mainshow
+  venue: PIA Arena MM, Yokohama
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/pia-arena-mm-yokohama-japan-53bb0f15.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

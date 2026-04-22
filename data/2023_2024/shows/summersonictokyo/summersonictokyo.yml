@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: summersonictokyo
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: summersonic
+  fullname: SUMMER SONIC 2023
+  sublabel: Tokyo
+  date: 2023-08-20
+  venue: ZOZO Marine Stadium & Makuhari Messe, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/makuhari-messe-kokusai-tenjijou-hall-1-2-chiba-japan-1ba5e9f4.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

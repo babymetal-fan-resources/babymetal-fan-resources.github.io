@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: pittsburgh
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Pittsburgh, PA, USA
+  date: 2023-09-08
+  tour: babyklok2023
+  venue: UPMC Events Center, Moon, PA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/upmc-events-center-moon-pa-1ba2e5ac.html'
+  part-of:
+    tour: babyklok2023

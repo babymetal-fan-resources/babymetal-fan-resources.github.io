@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: offenback
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Offenbach am Main, Germany
+  date: 2023-12-01
+  tour: europeuk2023
+  venue: Stadthalle, Offenbach am Main, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/stadthalle-offenbach-am-main-germany-2bae8c42.html'
+  part-of:
+    tour: europeuk2023

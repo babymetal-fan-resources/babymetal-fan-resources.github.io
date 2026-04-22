@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: nexfestnagoya
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: nexfesttour
+  fullname: NEX_FEST
+  sublabel: Nagoya
+  date: 2023-11-01
+  venue: Nippon Gaishi Hall, Nagoya
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/nihon-gaishi-hall-nagoya-japan-53a06be1.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

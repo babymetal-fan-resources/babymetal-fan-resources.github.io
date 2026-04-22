@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: london
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: London, England
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-04-15
+  venue: OVO Arena Wembley, London, England
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/ovo-arena-wembley-london-england-63b892b3.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

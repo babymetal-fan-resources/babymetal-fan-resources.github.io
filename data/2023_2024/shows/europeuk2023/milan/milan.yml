@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: milan
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: Milan, Italy
+  date: 2023-12-08
+  tour: europeuk2023
+  venue: Fabrique, Milan, Italy
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/fabrique-milan-italy-3aec1bb.html'
+  part-of:
+    tour: europeuk2023

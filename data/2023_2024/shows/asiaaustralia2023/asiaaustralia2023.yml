@@ -1,0 +1,32 @@
+tour:
+  id: asiaaustralia2023
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: asiaaustraliatour
+  fullname: BABYMETAL WORLD TOUR 2023 - ASIA, AUSTRALIA TOUR
+  shortname: ASIA, AUSTRALIA TOUR 2023
+  first-date: 2023-05-25
+  last-date: 2023-06-11
+  shows:
+  - year: 2023
+    id: jakarta
+  - year: 2023
+    id: bangkok
+  - year: 2023
+    id: hongkong
+  - year: 2023
+    id: taipei
+  - year: 2023
+    id: kualalumpur
+  - year: 2023
+    id: brisbane
+  - year: 2023
+    id: sydney
+  - year: 2023
+    id: melbourne
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

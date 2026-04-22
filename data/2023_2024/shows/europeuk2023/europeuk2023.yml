@@ -1,0 +1,56 @@
+tour:
+  id: europeuk2023
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: europeuktour
+  fullname: BABYMETAL WORLD TOUR 2023 - EU & UK TOUR
+  shortname: EU & UK TOUR 2023
+  first-date: 2023-11-14
+  last-date: 2023-12-11
+  shows:
+  - year: 2023
+    id: oslo2
+  - year: 2023
+    id: stockholm2
+  - year: 2023
+    id: copenhagen2
+  - year: 2023
+    id: hamburg2
+  - year: 2023
+    id: berlin2
+  - year: 2023
+    id: cologne2
+  - year: 2023
+    id: vienna2
+  - year: 2023
+    id: munich2
+  - year: 2023
+    id: strasbourg
+  - year: 2023
+    id: london2
+  - year: 2023
+    id: london3
+  - year: 2023
+    id: wolverhampton
+  - year: 2023
+    id: offenback
+  - year: 2023
+    id: tilburg
+  - year: 2023
+    id: brussels
+  - year: 2023
+    id: paris2
+  - year: 2023
+    id: luxembourg2
+  - year: 2023
+    id: milan
+  - year: 2023
+    id: barcelona
+  - year: 2023
+    id: madrid
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

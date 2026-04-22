@@ -1,0 +1,15 @@
+show:
+  year: 2023
+  id: nashville
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: babykloktour
+  fullname: Nashville, TN, USA
+  date: 2023-09-05
+  tour: babyklok2023
+  venue: Nashville Municipal Auditorium, Nashville, TN, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/nashville-municipal-auditorium-nashville-tn-33a28895.html'
+  part-of:
+    tour: babyklok2023

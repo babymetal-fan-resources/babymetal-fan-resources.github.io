@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: munich
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Munich, Germany
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-05-15
+  venue: Olympiahalle, Munich, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/olympiahalle-munich-germany-73b9f6e9.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

@@ -1,0 +1,17 @@
+show:
+  year: 2023
+  id: leeds
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2023
+      id: sabatontour
+  fullname: Leeds, England
+  sublabel: Sabaton’s “THE TOUR TO END ALL TOURS”
+  date: 2023-04-14
+  venue: First Direct Arena, Leeds, England
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2023/first-direct-arena-leeds-england-4bb89f82.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024
