@@ -2,9 +2,10 @@ show:
   year: 2021
   id: doomsday1
   cover-image:
-    localimage:
-      event: siteimages
-      id: kitsune_cover
+    webimage:
+      domain: babymetal.com
+      page: shows.2021
+      id: 10babymetalbudokan
   fullname: 10 BABYMETAL BUDOKAN DOOMSDAY ‒ I
   shortname: DOOMSDAY ‒ I
   date: 2021-01-19

@@ -1,5 +1,35 @@
-group:
-  id: shows
-  label: Shows 2020-2021
-  part-of:
-    group: 2020_2021
+- group:
+    id: shows
+    label: Shows 2020-2021
+    part-of:
+      group: 2020_2021
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2021
+    id: 10babymetalbudokan
+    label: Cover
+    published-date: 2021-01-19
+    url: 'https://babymetal.com/contents/1/TO/tourimg/20230119_tour_jp.jpg'
+    local-copy: true
+    context:
+    - tour: 10babymetalbudokan
+    todo: better published date
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2021
+
+- webpage:
+    domain: babymetal.com
+    id: shows.2021
+    label: Shows 2021
+    published-date: 2021-01-11
+    url: 'https://babymetal.com/mob/news/diarKiji.php?page=0&rw=100&cd=TOUR_TO&is_past=ON&target_year=2021'
+    image:
+    - 10babymetalbudokan
+    part-of:
+      group:
+        id: shows
+        group: 2020_2021
+

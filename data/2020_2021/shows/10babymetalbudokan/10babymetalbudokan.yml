@@ -1,9 +1,10 @@
 tour:
   id: 10babymetalbudokan
   cover-image:
-    localimage:
-      event: siteimages
-      id: kitsune_cover
+    webimage:
+      domain: babymetal.com
+      page: shows.2021
+      id: 10babymetalbudokan
   fullname: 10 BABYMETAL BUDOKAN
   first-date: 2021-01-19
   last-date: 2021-04-15
