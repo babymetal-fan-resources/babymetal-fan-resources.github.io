@@ -1,0 +1,34 @@
+tour:
+  id: 10babymetalbudokan
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: 10 BABYMETAL BUDOKAN
+  first-date: 2021-01-19
+  last-date: 2021-04-15
+  shows:
+  - year: 2021
+    id: doomsday1
+  - year: 2021
+    id: doomsday2
+  - year: 2021
+    id: doomsday3
+  - year: 2021
+    id: doomsday4
+  - year: 2021
+    id: doomsday5
+  - year: 2021
+    id: doomsday6
+  - year: 2021
+    id: doomsday7
+  - year: 2021
+    id: doomsday8
+  - year: 2021
+    id: doomsday9
+  - year: 2021
+    id: doomsday10
+  part-of:
+    group:
+      id: shows
+      group: 2020_2021

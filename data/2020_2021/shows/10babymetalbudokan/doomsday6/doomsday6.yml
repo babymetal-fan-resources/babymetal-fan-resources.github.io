@@ -1,0 +1,17 @@
+show:
+  year: 2021
+  id: doomsday6
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: 10 BABYMETAL BUDOKAN DOOMSDAY ‒ VI
+  shortname: DOOMSDAY ‒ VI
+  date: 2021-02-20
+  tour: 10babymetalbudokan
+  categories:
+  - mainshow
+  venue: Budokan, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2021/nippon-budokan-tokyo-japan-2380dc8f.html'
+  part-of:
+    tour: 10babymetalbudokan

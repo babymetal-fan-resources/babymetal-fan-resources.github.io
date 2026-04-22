@@ -1,0 +1,17 @@
+show:
+  year: 2021
+  id: doomsday7
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: 10 BABYMETAL BUDOKAN DOOMSDAY ‒ VII
+  shortname: DOOMSDAY ‒ VII
+  date: 2021-03-15
+  tour: 10babymetalbudokan
+  categories:
+  - mainshow
+  venue: Budokan, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2021/nippon-budokan-tokyo-japan-b81bd86.html'
+  part-of:
+    tour: 10babymetalbudokan

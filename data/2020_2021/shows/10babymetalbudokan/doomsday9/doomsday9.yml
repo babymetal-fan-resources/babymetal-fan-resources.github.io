@@ -1,0 +1,17 @@
+show:
+  year: 2021
+  id: doomsday9
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: 10 BABYMETAL BUDOKAN DOOMSDAY ‒ IX
+  shortname: DOOMSDAY ‒ IX
+  date: 2021-04-14
+  tour: 10babymetalbudokan
+  categories:
+  - mainshow
+  venue: Budokan, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2021/nippon-budokan-tokyo-japan-53810301.html'
+  part-of:
+    tour: 10babymetalbudokan
