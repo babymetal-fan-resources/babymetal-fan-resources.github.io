@@ -1,0 +1,17 @@
+show:
+  year: 2025
+  id: knotfestbrisbane
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2025
+      id: knotfestaustralia
+  fullname: Brisbane, Australia
+  sublabel: KNOTFEST Australia
+  date: 2025-03-02
+  venue: Brisbane Showgrounds, Brisbane, Australia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2025/brisbane-showgrounds-brisbane-australia-63500e83.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

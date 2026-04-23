@@ -1,0 +1,16 @@
+show:
+  year: 2025
+  id: brisbane
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2025
+      id: brisbane
+  fullname: Brisbane, Australia
+  date: 2025-03-04
+  venue: Fortitude Music Hall, Brisbane, Australia
+  event-page: 'https://www.setlist.fm/setlist/babymetal/2025/fortitude-music-hall-brisbane-australia-135d795d.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

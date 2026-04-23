@@ -394,6 +394,45 @@
         domain: babymetal.com
         id: shows.2024
 
+- webimage:
+    domain: babymetal.com
+    page: shows.2025
+    id: brisbane
+    label: Cover
+    published-date: 2025-03-04
+    url: 'https://babymetal.com/contents/1/TO/babymetal_insta_square_bris_OSD.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2025
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2025
+    id: knotfestaustralia
+    label: Cover
+    published-date: 2025-02-28
+    url: 'https://babymetal.com/contents/1/TO/knotfest25_square_OSD.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2025
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2025
+    id: sydney
+    label: Cover
+    published-date: 2025-03-06
+    url: 'https://babymetal.com/contents/1/TO/babymetal_insta_square_syd_OSD.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2025
+
 - webpage:
     domain: babymetal.com
     id: shows.2024
@@ -432,6 +471,21 @@
     - us
     - slipknotmexico
     todo: better published date
+    part-of:
+      group:
+        id: shows
+        group: 2024_2025
+
+- webpage:
+    domain: babymetal.com
+    id: shows.2025
+    label: Shows 2025
+    published-date: 2025-02-28
+    url: 'https://babymetal.com/mob/news/diarKiji.php?rw=100&cd=TOUR_TO&is_past=ON&target_year=2025'
+    image:
+    - knotfestaustralia
+    - brisbane
+    - sydney
     part-of:
       group:
         id: shows

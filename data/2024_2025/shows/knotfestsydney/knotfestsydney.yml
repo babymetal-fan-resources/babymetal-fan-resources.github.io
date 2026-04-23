@@ -1,0 +1,17 @@
+show:
+  year: 2025
+  id: knotfestsydney
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2025
+      id: knotfestaustralia
+  fullname: Sydney, Australia
+  sublabel: KNOTFEST Australia
+  date: 2025-03-08
+  venue: Centennial Park, Sydney, Australia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2025/centennial-park-sydney-australia-73500e85.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

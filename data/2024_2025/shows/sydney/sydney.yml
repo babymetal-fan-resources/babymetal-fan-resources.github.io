@@ -1,0 +1,16 @@
+show:
+  year: 2025
+  id: sydney
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2025
+      id: brisbane
+  fullname: Sydney, Australia
+  date: 2025-03-06
+  venue: Enmore Theatre, Sydney, Australia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2025/enmore-theatre-sydney-australia-1b5d795c.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

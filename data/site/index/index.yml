@@ -559,6 +559,21 @@ contentpage:
   - song: frommetou
   - multimedia-event: frommetoumv
   - event: foxday2025
+  - show:
+      year: 2025
+      id: knotfestsydney
+  - show:
+      year: 2025
+      id: sydney
+  - show:
+      year: 2025
+      id: brisbane
+  - show:
+      year: 2025
+      id: knotfestbrisbane
+  - show:
+      year: 2025
+      id: knotfestmelbourne
   - song: bekhauf
   - show:
       year: 2024

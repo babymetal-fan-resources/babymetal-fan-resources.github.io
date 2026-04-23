@@ -1,0 +1,17 @@
+show:
+  year: 2025
+  id: knotfestmelbourne
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2025
+      id: knotfestaustralia
+  fullname: Melbourne, Australia
+  sublabel: KNOTFEST Australia
+  date: 2025-02-28
+  venue: Flemington Racecourse, Melbourne, Australia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2025/flemington-racecourse-melbourne-australia-6b500e96.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025
