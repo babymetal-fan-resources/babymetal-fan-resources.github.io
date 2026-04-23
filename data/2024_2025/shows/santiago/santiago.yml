@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: santiago
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: santiago
+  fullname: Santiago, Chile
+  date: 2024-11-01
+  venue: Basel Venue, Santiago, Chile
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/basel-venue-santiago-chile-3526d17.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

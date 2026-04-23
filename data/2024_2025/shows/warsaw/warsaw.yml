@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: warsaw
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: warsaw
+  fullname: Warsaw, Poland
+  date: 2024-06-18
+  venue: Letnia Scena Progresji, Warsaw, Poland
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/letnia-scena-progresji-warsaw-poland-4bab8f5a.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

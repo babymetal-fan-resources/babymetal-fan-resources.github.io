@@ -1,0 +1,19 @@
+show:
+  year: 2024
+  id: legend431
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: legend43
+  fullname: BABYMETAL WORLD TOUR 2023 - 2024 TOUR FINAL IN JAPAN LEGEND - 43
+  shortname: LEGEND - 43
+  date: 2024-03-23
+  categories:
+  - mainshow
+  venue: Okinawa Convention Center, Tenjitou, Ginowan
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/okinawa-convention-center-tenjitou-ginowan-japan-23aa0443.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

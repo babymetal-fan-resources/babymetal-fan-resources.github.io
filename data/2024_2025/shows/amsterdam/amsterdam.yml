@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: amsterdam
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: amsterdam
+  fullname: Amsterdam, Netherlands
+  date: 2024-06-12
+  venue: AFAS Live, Amsterdam, Netherlands
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/afas-live-amsterdam-netherlands-5baba38c.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

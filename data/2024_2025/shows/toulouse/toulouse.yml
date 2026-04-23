@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: toulouse
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: toulouse
+  fullname: Toulouse, France
+  date: 2024-06-23
+  venue: Le Zénith, Toulouse, France
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/le-zenith-toulouse-france-43ab8fb7.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

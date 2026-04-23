@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: rockimpark
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: rockimpark
+  fullname: Rock Im Park
+  date: 2024-06-07
+  venue: Zeppelinfeld, Nuremberg, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/zeppelinfeld-nuremberg-germany-3baba0b0.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

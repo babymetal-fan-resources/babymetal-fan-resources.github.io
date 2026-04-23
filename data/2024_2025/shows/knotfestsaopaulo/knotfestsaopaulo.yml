@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: knotfestsaopaulo
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: knotfestsaopaulo
+  fullname: São Paulo, Brazil
+  sublabel: KNOTFEST
+  date: 2024-10-20
+  venue: Allianz Parque, São Paulo, Brazil
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/allianz-parque-sao-paulo-brazil-5354bb19.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

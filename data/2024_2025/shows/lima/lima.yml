@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: lima
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: southamerica
+  fullname: Lima, Peru
+  date: 2024-10-30
+  venue: Anfiteatro del Parque de la Exposición, Lima, Peru
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/anfiteatro-del-parque-de-la-exposicion-lima-peru-1b541128.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

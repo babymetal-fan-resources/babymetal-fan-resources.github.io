@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: bmthkualalumpur
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: bmthkualalumpur
+  fullname: Kuala Lumpur, Malaysia
+  sublabel: Bring Me The Horizon Live
+  date: 2024-08-21
+  venue: Sunway Lagoon, Kuala Lumpur, Malaysia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/surf-beach-at-sunway-lagoon-kuala-lumpur-malaysia-4b573b9e.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

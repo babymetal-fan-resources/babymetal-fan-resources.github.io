@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: download
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: download
+  fullname: Download Festival
+  sublabel: Castle Donington, England
+  date: 2024-06-15
+  venue: Donington Park, Castle Donington, England
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/donington-park-castle-donington-england-73aba221.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

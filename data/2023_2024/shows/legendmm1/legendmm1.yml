@@ -1,0 +1,19 @@
+show:
+  year: 2024
+  id: legendmm1
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: legendmm
+  fullname: BABYMETAL WORLD TOUR 2023 - 2024 LEGEND - MM
+  shortname: LEGEND - MM
+  date: 2024-03-02
+  categories:
+  - mainshow
+  venue: Yokohama Arena, Yokohama
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/yokohama-arena-yokohama-japan-43ad7347.html'
+  part-of:
+    group:
+      id: shows
+      group: 2023_2024

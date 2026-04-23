@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: resurrectionfest
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: resurrectionfest
+  fullname: Resurrection Fest
+  sublabel: Viveiro, Spain
+  date: 2024-06-29
+  venue: Campo de fútbol Celeiro, Viveiro, Spain
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/campo-de-futbol-celeiro-viveiro-spain-3ab894f.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

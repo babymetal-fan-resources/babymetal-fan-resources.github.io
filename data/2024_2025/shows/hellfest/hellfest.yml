@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: hellfest
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: hellfest
+  fullname: Hellfest
+  sublabel: Clisson, France
+  date: 2024-06-27
+  venue: Hellfest Grounds, Clisson, France
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/val-de-moine-clisson-france-73ab8ecd.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

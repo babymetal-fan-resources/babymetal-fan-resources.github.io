@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: novarock
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: novarock
+  fullname: Nova Rock Festival
+  sublabel: Nickelsdorf, Austria
+  date: 2024-06-16
+  venue: Pannonia Fields II, Nickelsdorf, Austria
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/pannonia-fields-ii-blue-stage-nickelsdorf-austria-bab8dc6.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

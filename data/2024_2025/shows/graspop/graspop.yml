@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: graspop
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: graspop
+  fullname: Graspop Metal Meeting
+  sublabel: Dessel, Belgium
+  date: 2024-06-20
+  venue: Festivalterrein Stenehei, Dessel, Belgium
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/festivalterrein-stenehei-dessel-belgium-33aba871.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

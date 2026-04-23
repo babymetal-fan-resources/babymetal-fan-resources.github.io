@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: newyork2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: us
+  fullname: New York, NY, USA
+  date: 2024-11-19
+  venue: Terminal 5, New York, NY, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/terminal-5-new-york-ny-5b5657d8.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

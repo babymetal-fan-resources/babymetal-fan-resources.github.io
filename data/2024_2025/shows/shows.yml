@@ -1,0 +1,439 @@
+- group:
+    id: shows
+    label: Shows 2024-2025
+    part-of:
+      group: 2024_2025
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: amsterdam
+    label: Cover
+    published-date: 2024-06-12
+    url: 'https://babymetal.com/contents/1/TO/Babymetal%201x1.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: babykloktour
+    label: Cover
+    published-date: 2024-04-25
+    url: 'https://babymetal.com/contents/1/TO/babyklok-SAN%20FRANCISCO.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: bmthkualalumpur
+    label: Cover
+    published-date: 2024-08-21
+    url: 'https://babymetal.com/contents/1/TO/Malaysia_BMTH.jpeg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: download
+    label: Cover
+    published-date: 2024-06-15
+    url: 'https://babymetal.com/contents/1/TO/GFFesd8XUAEHryY.jpeg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: dreamfestival
+    label: Cover
+    published-date: 2024-09-15
+    url: 'https://babymetal.com/contents/1/TO/DF24_SNS_0915_BABYMETAL.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: foxfest
+    label: Cover
+    published-date: 2024-05-25
+    url: 'https://babymetal.com/contents/1/TO/0329_FOX_FEST_KV_Second%20Announcement_com_Light.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: graspop
+    label: Cover
+    published-date: 2024-06-20
+    url: 'https://babymetal.com/contents/1/TO/GMM24_IG_Babymetal.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: greenfield
+    label: Cover
+    published-date: 2024-06-13
+    url: 'https://babymetal.com/contents/1/TO/GF_2024_Keyvisual_updated_page-0001.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: hellfest
+    label: Cover
+    published-date: 2024-06-27
+    url: 'https://babymetal.com/contents/1/TO/HELLFEST_LINEUP.JPG'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: knotfestbuenosaires
+    label: Cover
+    published-date: 2024-10-26
+    url: 'https://babymetal.com/contents/1/TO/KNOTFEST%20-%20ANUNCIO%20-%20FEED.png'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: knotfestsantiago
+    label: Cover
+    published-date: 2024-11-02
+    url: 'https://babymetal.com/contents/1/TO/KNOTFEST_CHILE_1x1_PREV.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: knotfestsaopaulo
+    label: Cover
+    published-date: 2024-10-20
+    url: 'https://babymetal.com/contents/1/TO/KNOTFEST24_LineUp_Final%20Artwork.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: legend43
+    label: Cover
+    published-date: 2024-03-23
+    url: 'https://babymetal.com/contents/1/TO/OKNW-KV-1214(RESIZE).jpeg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: legendmm
+    label: Cover
+    published-date: 2024-03-02
+    url: 'https://babymetal.com/contents/1/TO/LEGEND_MM_20NIGHT_21NIGHT.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: nexfest
+    label: Cover
+    published-date: 2024-08-25
+    url: 'https://babymetal.com/contents/1/TO/NEXFEST_Cover.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: novarock
+    label: Cover
+    published-date: 2024-06-16
+    url: 'https://babymetal.com/contents/1/TO/NR24_Bandgraphic_14.png'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: pinkpop
+    label: Cover
+    published-date: 2024-06-21
+    url: 'https://babymetal.com/contents/1/TO/PP24%20-%20Babymetal%20-%20SQ%20-%20EN.png'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: resurrectionfest
+    label: Cover
+    published-date: 2024-06-29
+    url: 'https://babymetal.com/contents/1/TO/Resurrection%20fest_0302.jpeg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: rockamring
+    label: Cover
+    published-date: 2024-06-08
+    url: 'https://babymetal.com/contents/1/TO/ROCK%20AM%20RING%20TT.jpeg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: rockimpark
+    label: Cover
+    published-date: 2024-06-07
+    url: 'https://babymetal.com/contents/1/TO/ROCK%20IM%20PARK%20TT.jpeg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: rockinroma
+    label: Cover
+    published-date: 2024-06-25
+    url: 'https://babymetal.com/contents/1/TO/BABYMETAL_2024_Quadrato(1200x1200).jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: santiago
+    label: Cover
+    published-date: 2024-11-01
+    url: 'https://babymetal.com/contents/1/TO/Baby%20Metal%20sideshow%201x1.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: sicknewworld
+    label: Cover
+    published-date: 2024-04-27
+    url: 'https://babymetal.com/contents/1/TO/SNW_1200x1500.png'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: singapore
+    label: Cover
+    published-date: 2024-08-20
+    url: 'https://babymetal.com/contents/1/TO/Babymetal%20-%20Singapore%20-%20Opener2.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: slipknotmexico
+    label: Cover
+    published-date: 2024-11-09
+    url: 'https://babymetal.com/contents/1/TO/SKT_CDMX_Post_1x1.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: southamerica
+    label: Cover
+    published-date: 2024-10-21
+    url: 'https://babymetal.com/contents/1/TO/2024_SA.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: summersonicbangkok
+    label: Cover
+    published-date: 2024-08-24
+    url: 'https://babymetal.com/contents/1/TO/SSBK_Square.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: toulouse
+    label: Cover
+    published-date: 2024-06-23
+    url: 'https://babymetal.com/contents/1/TO/BABYMETAL%20FRANCE%20-%20WEB.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: us
+    label: Cover
+    published-date: 2024-11-05
+    url: 'https://babymetal.com/contents/1/TO/2024_NA.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webimage:
+    domain: babymetal.com
+    page: shows.2024
+    id: warsaw
+    label: Cover
+    published-date: 2024-06-18
+    url: 'https://babymetal.com/contents/1/TO/2406_WARSZAWA.PNG'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: shows.2024
+
+- webpage:
+    domain: babymetal.com
+    id: shows.2024
+    label: Shows 2024
+    published-date: 2024-03-02
+    url: 'https://babymetal.com/mob/news/diarKiji.php?rw=100&cd=TOUR_TO&is_past=ON&target_year=2024'
+    image:
+    - legendmm
+    - legend43
+    - babykloktour
+    - sicknewworld
+    - foxfest
+    - rockimpark
+    - rockamring
+    - amsterdam
+    - greenfield
+    - download
+    - novarock
+    - warsaw
+    - graspop
+    - pinkpop
+    - toulouse
+    - rockinroma
+    - hellfest
+    - resurrectionfest
+    - singapore
+    - bmthkualalumpur
+    - summersonicbangkok
+    - nexfest
+    - dreamfestival
+    - knotfestsaopaulo
+    - southamerica
+    - knotfestbuenosaires
+    - santiago
+    - knotfestsantiago
+    - us
+    - slipknotmexico
+    todo: better published date
+    part-of:
+      group:
+        id: shows
+        group: 2024_2025
+

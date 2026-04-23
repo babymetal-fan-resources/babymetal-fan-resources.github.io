@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: hollywood
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: us
+  fullname: Hollywood, FL, USA
+  date: 2024-11-06
+  venue: Hard Rock Live, Hollywood, FL, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/hard-rock-live-hollywood-fl-7b561644.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

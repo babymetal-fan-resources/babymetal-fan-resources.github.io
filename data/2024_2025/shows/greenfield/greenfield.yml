@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: greenfield
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: greenfield
+  fullname: Greenfield Festival
+  sublabel: Interlaken, Switzerland
+  date: 2024-06-13
+  venue: Flugplatz Interlaken, Matten bei Interlaken, Switzerland
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/flugplatz-interlaken-jungfrau-stage-matten-bei-interlaken-switzerland-4ba91b12.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

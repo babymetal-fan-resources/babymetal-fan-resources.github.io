@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: anaheim1
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: us
+  fullname: Anaheim, CA, USA
+  date: 2024-12-03
+  venue: House of Blues, Anaheim, CA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/house-of-blues-anaheim-ca-7b5616e8.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

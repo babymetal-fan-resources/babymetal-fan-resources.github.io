@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: oklahomacity
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: us
+  fullname: Oklahoma City, OK, USA
+  date: 2024-11-29
+  venue: The Criterion, Oklahoma City, OK, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/the-criterion-oklahoma-city-ok-6b5616fe.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: dreamfestival
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: dreamfestival
+  fullname: DREAM FESTIVAL 2024
+  sublabel: Tokyo
+  date: 2024-09-15
+  venue: Makuhari Messe, Chiba
+  setlistfm: 'https://www.setlist.fm/setlist/tak-matsumoto-group/2024/makuhari-messe-kokusai-tenjijou-hall-4-5-6-chiba-japan-355910f.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

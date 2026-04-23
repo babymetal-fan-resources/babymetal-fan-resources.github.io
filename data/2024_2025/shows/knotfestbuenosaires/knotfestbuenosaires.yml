@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: knotfestbuenosaires
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: knotfestbuenosaires
+  fullname: Buenos Aires, Argentina
+  sublabel: KNOTFEST
+  date: 2024-10-26
+  venue: Parque de la Ciudad, Buenos Aires, Argentina
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/parque-de-la-ciudad-buenos-aires-argentina-3354549d.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

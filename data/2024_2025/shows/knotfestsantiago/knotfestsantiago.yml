@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: knotfestsantiago
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: knotfestbuenosaires
+  fullname: Santiago, Chile
+  sublabel: KNOTFEST
+  date: 2024-11-02
+  venue: Parque Estadio Nacional, Santiago, Chile
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/parque-estadio-nacional-santiago-chile-53545f4d.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

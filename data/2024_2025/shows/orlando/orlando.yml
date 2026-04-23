@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: orlando
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: us
+  fullname: Orlando, FL, USA
+  date: 2024-11-05
+  venue: Hard Rock Live, Orlando, FL, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/hard-rock-live-orlando-fl-53561775.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

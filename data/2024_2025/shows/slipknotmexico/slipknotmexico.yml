@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: slipknotmexico
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: slipknotmexico
+  fullname: Mexico City, Mexico
+  sublabel: Slipknot 25th Anniversary
+  date: 2024-11-09
+  venue: Parque Bicentenario, Mexico City, Mexico
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/parque-bicentenario-mexico-city-mexico-354f537.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

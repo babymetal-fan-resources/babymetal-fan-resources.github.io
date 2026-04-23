@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: rockinroma
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: rockinroma
+  fullname: Rock in Roma
+  sublabel: Rome, Italy
+  date: 2024-06-25
+  venue: ppodromo delle Capannelle, Rome, Italy
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/ippodromo-delle-capannelle-rome-italy-63ab8e2b.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

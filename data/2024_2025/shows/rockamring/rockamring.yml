@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: rockamring
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: rockamring
+  fullname: Rock am Ring
+  date: 2024-06-08
+  venue: Nürburgring, Nürburg, Germany
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/nurburgring-mandora-stage-nurburg-germany-43aba32b.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

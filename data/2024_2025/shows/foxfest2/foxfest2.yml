@@ -1,0 +1,18 @@
+show:
+  year: 2024
+  id: foxfest2
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: foxfest
+  fullname: FOX FEST 2024
+  date: 2024-05-26
+  categories:
+  - mainshow
+  venue: Saitama Super Arena, Saitama
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/saitama-super-arena-saitama-japan-5bab6f2c.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

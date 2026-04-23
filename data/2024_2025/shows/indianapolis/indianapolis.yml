@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: indianapolis
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: us
+  fullname: Indianapolis, IN, USA
+  date: 2024-11-26
+  venue: Egyptian Room at Old National Centre, Indianapolis, IN, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/egyptian-room-at-old-national-centre-indianapolis-in-7356160d.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

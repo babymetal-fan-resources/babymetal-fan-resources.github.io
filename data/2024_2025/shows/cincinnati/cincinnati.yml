@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: cincinnati
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: us
+  fullname: Cincinnati, OH, USA
+  date: 2024-11-23
+  venue: The Andrew J. Brady Music Center, Cincinnati, OH, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/the-andrew-j-brady-music-center-cincinnati-oh-6b561612.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

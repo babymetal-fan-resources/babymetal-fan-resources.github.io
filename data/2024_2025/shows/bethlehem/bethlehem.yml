@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: bethlehem
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: us
+  fullname: Bethlehem, PA, USA
+  date: 2024-11-21
+  venue: Wind Creek Event Center, Bethlehem, PA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/wind-creek-event-center-bethlehem-pa-6b56161a.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

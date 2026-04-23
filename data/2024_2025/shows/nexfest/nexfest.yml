@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: nexfest
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: summersonicbangkok
+  fullname: NEXFEST
+  sublabel: Jakarta, Indonesia
+  date: 2024-08-25
+  venue: Carnaval Circuit Ancol, Jakarta, Indonesia
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/carnaval-circuit-ancol-jakarta-indonesia-235620e7.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

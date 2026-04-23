@@ -1,0 +1,16 @@
+show:
+  year: 2024
+  id: desmoines
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: us
+  fullname: Des Moines, IA, USA
+  date: 2024-11-27
+  venue: Vibrant Music Hall, Waukee, IA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/vibrant-music-hall-waukee-ia-6b561602.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

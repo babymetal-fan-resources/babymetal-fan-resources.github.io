@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: sicknewworld
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: sicknewworld
+  fullname: Sick New World 2024
+  date: 2024-04-27
+  venue: Las Vegas Festival Grounds, Las Vegas, NV, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/las-vegas-festival-grounds-las-vegas-nv-33aba8d9.html'
+  todo: THE BABYKLOK TOUR 2024 ?
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

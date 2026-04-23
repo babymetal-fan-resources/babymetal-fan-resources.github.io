@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: sanfrancisco1
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: babykloktour
+  fullname: San Francisco, CA, USA
+  sublabel: THE BABYKLOK TOUR 2024
+  date: 2024-04-24
+  venue: Masonic Auditorium, San Francisco, CA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2024/masonic-auditorium-san-francisco-ca-1baba980.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025

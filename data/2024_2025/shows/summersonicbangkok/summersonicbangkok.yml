@@ -1,0 +1,17 @@
+show:
+  year: 2024
+  id: summersonicbangkok
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: summersonicbangkok
+  fullname: SUMMER SONIC BANGKOK 2024
+  sublabel: Bangkok, Thailand
+  date: 2024-08-24
+  venue: IMPACT Challenger Hall 1, Bangkok, Thailand
+  setlistfm: 'https://www.setlist.fm/setlist/bodyslam/2024/impact-challenger-hall-1-bangkok-thailand-355715b.html'
+  part-of:
+    group:
+      id: shows
+      group: 2024_2025
