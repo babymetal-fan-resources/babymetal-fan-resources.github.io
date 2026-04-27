@@ -1,0 +1,13 @@
+youtubevideo:
+  id: hb2mMVdx1KU
+  label: Live in Tokyo
+  published-date: 2023-12-12
+  context:
+  - song: kingslayer
+  - show:
+      year: 2023
+      id: nexfest
+  part-of:
+    show:
+      year: 2023
+      id: nexfest

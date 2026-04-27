@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: divineattacklivev
+  id: cover
+  label: Live video cover
+  published-date: 2023-10-25
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: divineattacklivev

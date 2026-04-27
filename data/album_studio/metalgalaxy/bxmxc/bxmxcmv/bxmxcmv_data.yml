@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: bxmxcmv
+  id: cover
+  label: Music video cover
+  published-date: 2020-10-09
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: bxmxcmv

@@ -1,0 +1,13 @@
+multimedia-event:
+  id: frommetoulivev
+  cover-image:
+    localimage:
+      multimedia-event: frommetoulivev
+      id: cover
+  youtubevideo: EpXtD6dD0MU
+  parent:
+    song: frommetou
+  categories:
+  - video
+  part-of:
+    song: frommetou

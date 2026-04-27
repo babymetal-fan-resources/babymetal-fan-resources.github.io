@@ -1,0 +1,13 @@
+multimedia-event:
+  id: theonethefirsttake
+  cover-image:
+    localimage:
+      multimedia-event: theonethefirsttake
+      id: cover
+  youtubevideo: gpCufgRwg9I
+  parent:
+    song: theone
+  categories:
+  - video
+  part-of:
+    song: theone

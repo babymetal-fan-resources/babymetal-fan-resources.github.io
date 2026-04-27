@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: myqueenmv
+  id: cover
+  label: Music video cover
+  published-date: 2025-08-08
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: myqueenmv

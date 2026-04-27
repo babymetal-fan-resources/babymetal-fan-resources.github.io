@@ -1,0 +1,13 @@
+multimedia-event:
+  id: divineattacklivev
+  cover-image:
+    localimage:
+      multimedia-event: divineattacklivev
+      id: cover
+  youtubevideo: INRPP78SvXs
+  parent:
+    song: divineattack
+  categories:
+  - video
+  part-of:
+    song: divineattack

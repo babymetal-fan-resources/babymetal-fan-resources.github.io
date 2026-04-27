@@ -13,3 +13,6 @@ show:
   setlistfm: 'https://www.setlist.fm/setlist/babymetal/2018/donington-park-castle-donington-england-5beab7d4.html'
   part-of:
     tour: europe2018
+  multimedia:
+    video:
+    - youtubevideo: FzgU3W5ZgzU

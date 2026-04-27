@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: shantishantishantimv
+  id: cover
+  label: Music video cover
+  published-date: 2019-09-26
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: shantishantishantimv

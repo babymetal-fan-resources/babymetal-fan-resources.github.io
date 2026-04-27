@@ -13,3 +13,6 @@ show:
   setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/yokohama-arena-yokohama-japan-73f2ca55.html'
   part-of:
     tour: worldtour2015
+  multimedia:
+    video:
+    - youtubevideo: TZRvO0S-TLU

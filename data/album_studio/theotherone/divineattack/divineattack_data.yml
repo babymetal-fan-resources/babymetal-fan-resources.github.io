@@ -10,15 +10,6 @@
       song: divineattack
 
 - youtubevideo:
-    id: INRPP78SvXs
-    label: Official Live Video
-    published-date: 2023-10-25
-    context:
-    - song: divineattack
-    part-of:
-      song: divineattack
-
-- youtubevideo:
     id: _gUW2OnPvHI
     label: Official Visualizer
     published-date: 2022-10-20

@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: karatelivev
+  id: cover
+  label: Live video cover
+  published-date: 2024-12-10
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: karatelivev

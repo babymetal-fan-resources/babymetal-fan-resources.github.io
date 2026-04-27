@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: ratatatamv
+  id: cover
+  label: Music video cover
+  published-date: 2024-05-23
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: ratatatamv

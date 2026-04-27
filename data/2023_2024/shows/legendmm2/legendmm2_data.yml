@@ -1,0 +1,13 @@
+youtubevideo:
+  id: _4G5pa1sd2c
+  label: Official Live Video
+  published-date: 2024-07-09
+  context:
+  - song: bxmxc
+  - show:
+      year: 2024
+      id: legendmm2
+  part-of:
+    show:
+      year: 2024
+      id: legendmm2

@@ -1,0 +1,28 @@
+- youtubevideo:
+    id: ALznpaBWUTo
+    label: Official Music Video
+    published-date: 2023-02-03
+    context:
+    - song: metalkingdom
+    - show:
+        year: 2023
+        id: babymetalreturns1
+    part-of:
+      show:
+        year: 2023
+        id: babymetalreturns1
+
+- youtubevideo:
+    id: VavzD_bTov4
+    label: Official Music Video
+    published-date: 2023-02-23
+    context:
+    - song: lightanddarkness
+    - show:
+        year: 2023
+        id: babymetalreturns1
+    part-of:
+      show:
+        year: 2023
+        id: babymetalreturns1
+

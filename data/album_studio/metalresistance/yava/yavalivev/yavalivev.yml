@@ -1,0 +1,13 @@
+multimedia-event:
+  id: yavalivev
+  cover-image:
+    localimage:
+      multimedia-event: yavalivev
+      id: cover
+  youtubevideo: 88bpKtSQGRE
+  parent:
+    song: yava
+  categories:
+  - video
+  part-of:
+    song: yava

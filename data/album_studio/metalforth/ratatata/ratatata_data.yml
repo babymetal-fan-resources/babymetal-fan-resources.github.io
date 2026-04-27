@@ -401,15 +401,6 @@
       song: ratatata
 
 - youtubevideo:
-    id: ChmVcJK7N-c
-    label: Official Live Video
-    published-date: 2024-06-07
-    context:
-    - song: ratatata
-    part-of:
-      song: ratatata
-
-- youtubevideo:
     id: EDnIEWyVIlE
     label: Official Music Video
     published-date: 2024-05-23

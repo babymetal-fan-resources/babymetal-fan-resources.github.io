@@ -1,0 +1,13 @@
+multimedia-event:
+  id: iinelivev
+  cover-image:
+    localimage:
+      multimedia-event: iinelivev
+      id: cover
+  youtubevideo: stmFt7GaM-Q
+  parent:
+    song: iine
+  categories:
+  - video
+  part-of:
+    song: iine

@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: papayamv
+  id: cover
+  label: Music video cover
+  published-date: 2019-07-01
+  source:
+    description: YouTube channel
+  part-of:
+    multimedia-event: papayamv

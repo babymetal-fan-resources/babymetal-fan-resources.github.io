@@ -1,0 +1,13 @@
+multimedia-event:
+  id: elevatorgirllivev
+  cover-image:
+    localimage:
+      multimedia-event: elevatorgirllivev
+      id: cover
+  youtubevideo: Q48bwxyqVpQ
+  parent:
+    song: elevatorgirl
+  categories:
+  - video
+  part-of:
+    song: elevatorgirl

@@ -1,0 +1,13 @@
+multimedia-event:
+  id: bxmxcmv
+  cover-image:
+    localimage:
+      multimedia-event: bxmxcmv
+      id: cover
+  youtubevideo: ng8mh6JUIqY
+  parent:
+    song: bxmxc
+  categories:
+  - video
+  part-of:
+    song: bxmxc

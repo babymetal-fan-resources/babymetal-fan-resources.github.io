@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: gimichokolivev
+  id: cover
+  label: Live video cover
+  published-date: 2024-12-19
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: gimichokolivev

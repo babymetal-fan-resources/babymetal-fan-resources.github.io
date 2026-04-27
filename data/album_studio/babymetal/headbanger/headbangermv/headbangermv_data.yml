@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: headbangermv
+  id: cover
+  label: Music video cover
+  published-date: 2012-11-08
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: headbangermv

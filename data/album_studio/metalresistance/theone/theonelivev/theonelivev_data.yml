@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: theonelivev
+  id: cover
+  label: Live video cover
+  published-date: 2016-03-28
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: theonelivev

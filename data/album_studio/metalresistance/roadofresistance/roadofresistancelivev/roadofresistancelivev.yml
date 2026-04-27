@@ -1,0 +1,13 @@
+multimedia-event:
+  id: roadofresistancelivev
+  cover-image:
+    localimage:
+      multimedia-event: roadofresistancelivev
+      id: cover
+  youtubevideo: zTEYUFgLveY
+  parent:
+    song: roadofresistance
+  categories:
+  - video
+  part-of:
+    song: roadofresistance

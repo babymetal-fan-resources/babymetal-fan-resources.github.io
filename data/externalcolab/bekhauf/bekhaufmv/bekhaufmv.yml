@@ -1,0 +1,13 @@
+multimedia-event:
+  id: bekhaufmv
+  cover-image:
+    localimage:
+      multimedia-event: bekhaufmv
+      id: cover
+  youtubevideo: skXlKxjlUoo
+  parent:
+    song: bekhauf
+  categories:
+  - video
+  part-of:
+    song: bekhauf

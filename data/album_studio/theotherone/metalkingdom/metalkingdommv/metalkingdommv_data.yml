@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: metalkingdommv
+  id: cover
+  label: Music video cover
+  published-date: 2023-02-03
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: metalkingdommv

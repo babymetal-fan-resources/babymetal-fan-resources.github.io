@@ -1,0 +1,42 @@
+- youtubevideo:
+    id: 7uOoH2PTYl0
+    label: Official Music Video
+    published-date: 2023-04-07
+    context:
+    - song: mirrormirror
+    - show:
+        year: 2023
+        id: babymetalbegins2
+    part-of:
+      show:
+        year: 2023
+        id: babymetalbegins2
+
+- youtubevideo:
+    id: DHA_HuGA-Mc
+    label: Live
+    published-date: 2024-02-26
+    context:
+    - song: babymetaldeath
+    - show:
+        year: 2023
+        id: babymetalbegins2
+    part-of:
+      show:
+        year: 2023
+        id: babymetalbegins2
+
+- youtubevideo:
+    id: INRPP78SvXs
+    label: Official Live Video
+    published-date: 2023-10-25
+    context:
+    - song: divineattack
+    - show:
+        year: 2023
+        id: babymetalbegins2
+    part-of:
+      show:
+        year: 2023
+        id: babymetalbegins2
+

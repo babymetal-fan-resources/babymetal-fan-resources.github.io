@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: dokidokimorninglivev
+  id: cover
+  label: Live video cover
+  published-date: 2024-07-12
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: dokidokimorninglivev

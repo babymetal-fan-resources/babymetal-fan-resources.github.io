@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: karatemv
+  id: cover
+  label: Music video cover
+  published-date: 2016-03-18
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: karatemv

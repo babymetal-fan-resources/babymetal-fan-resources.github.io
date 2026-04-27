@@ -1,0 +1,13 @@
+multimedia-event:
+  id: metalkingdommv
+  cover-image:
+    localimage:
+      multimedia-event: metalkingdommv
+      id: cover
+  youtubevideo: ALznpaBWUTo
+  parent:
+    song: metalkingdom
+  categories:
+  - video
+  part-of:
+    song: metalkingdom

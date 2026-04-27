@@ -1,0 +1,13 @@
+multimedia-event:
+  id: metalimv
+  cover-image:
+    localimage:
+      multimedia-event: metalimv
+      id: cover
+  youtubevideo: hkij4LvACZ0
+  parent:
+    song: metali
+  categories:
+  - video
+  part-of:
+    song: metali

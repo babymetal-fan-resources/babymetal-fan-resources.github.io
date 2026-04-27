@@ -1,0 +1,13 @@
+multimedia-event:
+  id: ratatatalivev
+  cover-image:
+    localimage:
+      multimedia-event: ratatatalivev
+      id: cover
+  youtubevideo: ChmVcJK7N-c
+  parent:
+    song: ratatata
+  categories:
+  - video
+  part-of:
+    song: ratatata

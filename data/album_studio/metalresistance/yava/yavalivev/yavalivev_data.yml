@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: yavalivev
+  id: cover
+  label: Live video cover
+  published-date: 2024-07-10
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: yavalivev

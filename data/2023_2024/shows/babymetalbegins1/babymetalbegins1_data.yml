@@ -1,0 +1,28 @@
+- youtubevideo:
+    id: DE8lACLWMtI
+    label: Official Live Video
+    published-date: 2023-10-24
+    context:
+    - song: mirrormirror
+    - show:
+        year: 2023
+        id: babymetalbegins1
+    part-of:
+      show:
+        year: 2023
+        id: babymetalbegins1
+
+- youtubevideo:
+    id: Gz9_j1SpX5E
+    label: Official Music Video
+    published-date: 2023-04-21
+    context:
+    - song: metalizm
+    - show:
+        year: 2023
+        id: babymetalbegins1
+    part-of:
+      show:
+        year: 2023
+        id: babymetalbegins1
+

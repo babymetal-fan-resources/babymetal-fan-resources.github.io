@@ -1,0 +1,13 @@
+multimedia-event:
+  id: papayamv
+  cover-image:
+    localimage:
+      multimedia-event: papayamv
+      id: cover
+  youtubevideo: oO7Y8NsnkRg
+  parent:
+    song: papaya
+  categories:
+  - video
+  part-of:
+    song: papaya

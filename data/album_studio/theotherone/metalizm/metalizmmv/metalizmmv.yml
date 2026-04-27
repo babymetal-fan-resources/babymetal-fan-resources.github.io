@@ -1,0 +1,13 @@
+multimedia-event:
+  id: metalizmmv
+  cover-image:
+    localimage:
+      multimedia-event: metalizmmv
+      id: cover
+  youtubevideo: Gz9_j1SpX5E
+  parent:
+    song: metalizm
+  categories:
+  - video
+  part-of:
+    song: metalizm

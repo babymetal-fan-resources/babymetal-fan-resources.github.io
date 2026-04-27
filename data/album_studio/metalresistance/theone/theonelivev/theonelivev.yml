@@ -1,0 +1,15 @@
+multimedia-event:
+  id: theonelivev
+  cover-image:
+    localimage:
+      multimedia-event: theonelivev
+      id: cover
+  localimage:
+    multimedia-event: syncopationlivev
+    id: cover
+  parent:
+    song: theone
+  categories:
+  - video
+  part-of:
+    song: theone

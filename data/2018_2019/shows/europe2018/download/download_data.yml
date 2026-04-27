@@ -1,0 +1,13 @@
+youtubevideo:
+  id: FzgU3W5ZgzU
+  label: Live
+  published-date: 2018-09-28
+  context:
+  - song: distortion
+  - show:
+      year: 2018
+      id: download
+  part-of:
+    show:
+      year: 2018
+      id: download

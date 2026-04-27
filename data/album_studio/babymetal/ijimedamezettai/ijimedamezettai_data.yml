@@ -1,13 +1,4 @@
 - youtubevideo:
-    id: Ro-_cbfdrYE
-    label: Live at Sonisphere 2014,UK
-    published-date: 2015-08-26
-    context:
-    - song: ijimedamezettai
-    part-of:
-      song: ijimedamezettai
-
-- youtubevideo:
     id: nDqaTXqCN-Q
     label: Official Music Video
     published-date: 2012-11-27

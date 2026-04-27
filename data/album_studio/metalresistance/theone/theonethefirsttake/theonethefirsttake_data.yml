@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: theonethefirsttake
+  id: cover
+  label: Video cover
+  published-date: 2023-04-14
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: theonethefirsttake

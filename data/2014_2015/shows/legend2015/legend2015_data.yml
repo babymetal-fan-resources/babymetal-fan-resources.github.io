@@ -1,0 +1,13 @@
+youtubevideo:
+  id: zTEYUFgLveY
+  label: Official Live Video
+  published-date: 2015-05-07
+  context:
+  - song: roadofresistance
+  - show:
+      year: 2015
+      id: legend2015
+  part-of:
+    show:
+      year: 2015
+      id: legend2015

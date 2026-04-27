@@ -1,0 +1,13 @@
+multimedia-event:
+  id: shantishantishantimv
+  cover-image:
+    localimage:
+      multimedia-event: shantishantishantimv
+      id: cover
+  youtubevideo: gQnG_T7kbtY
+  parent:
+    song: shantishantishanti
+  categories:
+  - video
+  part-of:
+    song: shantishantishanti

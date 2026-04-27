@@ -17,3 +17,7 @@ show:
     group:
       id: shows
       group: 2024_2025
+  multimedia:
+    video:
+    - youtubevideo: ChmVcJK7N-c
+    - youtubevideo: G9li0LFVaGU

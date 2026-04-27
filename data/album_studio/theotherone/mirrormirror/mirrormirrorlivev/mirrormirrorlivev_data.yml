@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: mirrormirrorlivev
+  id: cover
+  label: Live video cover
+  published-date: 2023-10-24
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: mirrormirrorlivev

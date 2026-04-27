@@ -1,0 +1,13 @@
+multimedia-event:
+  id: kingslayerlivev
+  cover-image:
+    localimage:
+      multimedia-event: kingslayerlivev
+      id: cover
+  youtubevideo: hb2mMVdx1KU
+  parent:
+    song: kingslayer
+  categories:
+  - video
+  part-of:
+    song: kingslayer

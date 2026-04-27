@@ -1,0 +1,13 @@
+multimedia-event:
+  id: leaveitallbehindmv
+  cover-image:
+    localimage:
+      multimedia-event: leaveitallbehindmv
+      id: cover
+  youtubevideo: 7rdc-QV6P6s
+  parent:
+    song: leaveitallbehind
+  categories:
+  - video
+  part-of:
+    song: leaveitallbehind

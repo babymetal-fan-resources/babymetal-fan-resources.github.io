@@ -1,0 +1,13 @@
+multimedia-event:
+  id: megitsunemv
+  cover-image:
+    localimage:
+      multimedia-event: megitsunemv
+      id: cover
+  youtubevideo: cK3NMZAUKGw
+  parent:
+    song: megitsune
+  categories:
+  - video
+  part-of:
+    song: megitsune

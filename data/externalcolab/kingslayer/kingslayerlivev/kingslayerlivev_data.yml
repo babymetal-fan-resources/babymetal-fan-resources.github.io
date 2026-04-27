@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: kingslayerlivev
+  id: cover
+  label: Live video cover
+  published-date: 2023-12-12
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: kingslayerlivev

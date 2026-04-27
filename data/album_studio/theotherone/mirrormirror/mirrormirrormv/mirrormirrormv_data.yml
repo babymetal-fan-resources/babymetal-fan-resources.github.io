@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: mirrormirrormv
+  id: cover
+  label: Music video cover
+  published-date: 2023-04-07
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: mirrormirrormv

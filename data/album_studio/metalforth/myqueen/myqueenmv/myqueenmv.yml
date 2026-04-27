@@ -1,0 +1,13 @@
+multimedia-event:
+  id: myqueenmv
+  cover-image:
+    localimage:
+      multimedia-event: myqueenmv
+      id: cover
+  youtubevideo: 6MWlBf2lhno
+  parent:
+    song: myqueen
+  categories:
+  - video
+  part-of:
+    song: myqueen

@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: leaveitallbehindmv
+  id: cover
+  label: Music video cover
+  published-date: 2024-03-14
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: leaveitallbehindmv

@@ -1,0 +1,13 @@
+multimedia-event:
+  id: starlightmv
+  cover-image:
+    localimage:
+      multimedia-event: starlightmv
+      id: cover
+  youtubevideo: hPVx7IazcEw
+  parent:
+    song: starlight
+  categories:
+  - video
+  part-of:
+    song: starlight

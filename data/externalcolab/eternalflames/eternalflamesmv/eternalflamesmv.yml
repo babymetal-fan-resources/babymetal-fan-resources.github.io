@@ -1,0 +1,13 @@
+multimedia-event:
+  id: eternalflamesmv
+  cover-image:
+    localimage:
+      multimedia-event: eternalflamesmv
+      id: cover
+  youtubevideo: lN1WmeVd22Y
+  parent:
+    song: eternalflames
+  categories:
+  - video
+  part-of:
+    song: eternalflames

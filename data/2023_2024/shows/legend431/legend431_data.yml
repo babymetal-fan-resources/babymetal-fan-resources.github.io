@@ -1,0 +1,42 @@
+- youtubevideo:
+    id: c2qTDJcU15w
+    label: Live
+    published-date: 2024-12-10
+    context:
+    - song: karate
+    - show:
+        year: 2024
+        id: legend431
+    part-of:
+      show:
+        year: 2024
+        id: legend431
+
+- youtubevideo:
+    id: rt9bEzh5r-Y
+    label: Live
+    published-date: 2024-12-19
+    context:
+    - song: gimichoko
+    - show:
+        year: 2024
+        id: legend431
+    part-of:
+      show:
+        year: 2024
+        id: legend431
+
+- youtubevideo:
+    id: zXmQHajCs4U
+    label: Live
+    published-date: 2024-12-11
+    context:
+    - song: megitsune
+    - show:
+        year: 2024
+        id: legend431
+    part-of:
+      show:
+        year: 2024
+        id: legend431
+

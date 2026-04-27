@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: distortionmv
+  id: cover
+  label: Music video cover
+  published-date: 2018-05-07
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: distortionmv

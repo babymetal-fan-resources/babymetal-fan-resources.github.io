@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: iinelivev
+  id: cover
+  label: Live video cover
+  published-date: 2012-04-27
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: iinelivev

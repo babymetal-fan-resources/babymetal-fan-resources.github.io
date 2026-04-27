@@ -1,0 +1,43 @@
+- youtubevideo:
+    id: 4hSiQHPbsbE
+    label: Live
+    published-date: 2024-07-11
+    context:
+    - song: syncopation
+    - show:
+        year: 2024
+        id: legendmm1
+    part-of:
+      show:
+        year: 2024
+        id: legendmm1
+
+- youtubevideo:
+    id: 88bpKtSQGRE
+    label: Live
+    published-date: 2024-07-10
+    context:
+    - song: yava
+    - show:
+        year: 2024
+        id: legendmm1
+    part-of:
+      show:
+        year: 2024
+        id: legendmm1
+
+- youtubevideo:
+    id: h-fesmi6bL8
+    label: Live
+    published-date: 2024-07-12
+    context:
+    - song: dokidokimorning
+    - show:
+        year: 2024
+        id: legendmm1
+    todo: anyway to know if day 1 or day2
+    part-of:
+      show:
+        year: 2024
+        id: legendmm1
+

@@ -9,9 +9,14 @@ show:
   shortname: 'LEGEND “2015” '
   sublabel: Saitama
   date: 2015-01-10
-  venue: Makuhari Messe, Chiba
+  categories:
+  - mainshow
+  venue: Saitama Super Arena, Saitama
   setlistfm: 'https://www.setlist.fm/setlist/babymetal/2015/saitama-super-arena-saitama-japan-5bcab7cc.html'
   part-of:
     group:
       id: shows
       group: 2014_2015
+  multimedia:
+    video:
+    - youtubevideo: zTEYUFgLveY

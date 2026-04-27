@@ -69,6 +69,20 @@
         id: london
 
 - youtubevideo:
+    id: EpXtD6dD0MU
+    label: LIVE FROM THE O2
+    published-date: 2025-10-03
+    context:
+    - show:
+        year: 2025
+        id: london
+    - song: frommetou
+    part-of:
+      show:
+        year: 2025
+        id: london
+
+- youtubevideo:
     id: GCMbwc0ZNfE
     label: LIVE FROM THE O2
     published-date: 2025-10-26

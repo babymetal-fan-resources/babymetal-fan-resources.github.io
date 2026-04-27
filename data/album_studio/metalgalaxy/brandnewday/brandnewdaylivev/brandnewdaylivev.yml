@@ -1,0 +1,13 @@
+multimedia-event:
+  id: brandnewdaylivev
+  cover-image:
+    localimage:
+      multimedia-event: brandnewdaylivev
+      id: cover
+  youtubevideo: G9li0LFVaGU
+  parent:
+    song: brandnewday
+  categories:
+  - video
+  part-of:
+    song: brandnewday

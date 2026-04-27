@@ -1,0 +1,13 @@
+multimedia-event:
+  id: babymetaldeathlivev
+  cover-image:
+    localimage:
+      multimedia-event: babymetaldeathlivev
+      id: cover
+  youtubevideo: DHA_HuGA-Mc
+  parent:
+    song: babymetaldeath
+  categories:
+  - video
+  part-of:
+    song: babymetaldeath

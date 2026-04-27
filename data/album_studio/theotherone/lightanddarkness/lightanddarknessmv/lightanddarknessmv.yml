@@ -1,0 +1,13 @@
+multimedia-event:
+  id: lightanddarknessmv
+  cover-image:
+    localimage:
+      multimedia-event: lightanddarknessmv
+      id: cover
+  youtubevideo: VavzD_bTov4
+  parent:
+    song: lightanddarkness
+  categories:
+  - video
+  part-of:
+    song: lightanddarkness

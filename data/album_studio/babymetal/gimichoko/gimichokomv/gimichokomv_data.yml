@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: gimichokomv
+  id: cover
+  label: Music video cover
+  published-date: 2014-02-26
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: gimichokomv

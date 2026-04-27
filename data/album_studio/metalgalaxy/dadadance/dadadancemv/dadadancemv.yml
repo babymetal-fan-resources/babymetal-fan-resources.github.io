@@ -1,0 +1,13 @@
+multimedia-event:
+  id: dadadancemv
+  cover-image:
+    localimage:
+      multimedia-event: dadadancemv
+      id: cover
+  youtubevideo: qMKlj_1zbYc
+  parent:
+    song: dadadance
+  categories:
+  - video
+  part-of:
+    song: dadadance

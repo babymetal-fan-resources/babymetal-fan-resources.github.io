@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: eternalflamesmv
+  id: cover
+  label: Music video cover
+  published-date: 2024-09-06
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: eternalflamesmv

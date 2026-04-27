@@ -1,0 +1,13 @@
+multimedia-event:
+  id: ijimedamezettaimv
+  cover-image:
+    localimage:
+      multimedia-event: ijimedamezettaimv
+      id: cover
+  youtubevideo: nDqaTXqCN-Q
+  parent:
+    song: ijimedamezettai
+  categories:
+  - video
+  part-of:
+    song: ijimedamezettai

@@ -1,0 +1,13 @@
+multimedia-event:
+  id: karatemv
+  cover-image:
+    localimage:
+      multimedia-event: karatemv
+      id: cover
+  youtubevideo: GvD3CHA48pA
+  parent:
+    song: karate
+  categories:
+  - video
+  part-of:
+    song: karate

@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: dokidokimorningmv
+  id: cover
+  label: Music Video cover
+  published-date: 2012-11-08
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: dokidokimorningmv

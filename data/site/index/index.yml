@@ -299,6 +299,7 @@ contentpage:
   - media:
       year: 2025
       id: metaradi1004
+  - multimedia-event: frommetoulivev
   - show:
       year: 2025
       id: taipei
@@ -369,6 +370,7 @@ contentpage:
       year: 2025
       id: metaradi0809
   - album: metalforth
+  - multimedia-event: myqueenmv
   - media:
       year: 2025
       id: kerrang
@@ -574,7 +576,11 @@ contentpage:
   - show:
       year: 2025
       id: knotfestmelbourne
+  - multimedia-event: gimichokolivev
+  - multimedia-event: megitsunelivev
+  - multimedia-event: karatelivev
   - song: bekhauf
+  - multimedia-event: bekhaufmv
   - show:
       year: 2024
       id: anaheim3
@@ -657,6 +663,7 @@ contentpage:
       year: 2024
       id: dreamfestival
   - song: eternalflames
+  - multimedia-event: eternalflamesmv
   - show:
       year: 2024
       id: nexfest
@@ -669,6 +676,10 @@ contentpage:
   - show:
       year: 2024
       id: singapore
+  - multimedia-event: dokidokimorninglivev
+  - multimedia-event: syncopationlivev
+  - multimedia-event: yavalivev
+  - multimedia-event: bxmxclivev
   - show:
       year: 2024
       id: resurrectionfest
@@ -687,6 +698,7 @@ contentpage:
   - show:
       year: 2024
       id: graspop
+  - multimedia-event: brandnewdaylivev
   - show:
       year: 2024
       id: warsaw
@@ -708,6 +720,7 @@ contentpage:
   - show:
       year: 2024
       id: rockimpark
+  - multimedia-event: ratatatalivev
   - show:
       year: 2024
       id: foxfest2
@@ -715,6 +728,7 @@ contentpage:
       year: 2024
       id: foxfest1
   - song: ratatata
+  - multimedia-event: ratatatamv
   - show:
       year: 2024
       id: sicknewworld
@@ -731,12 +745,16 @@ contentpage:
       year: 2024
       id: legend431
   - song: leaveitallbehind
+  - multimedia-event: leaveitallbehindmv
   - show:
       year: 2024
       id: legendmm2
   - show:
       year: 2024
       id: legendmm1
+  - multimedia-event: babymetaldeathlivev
+  - multimedia-event: metalilivev
+  - multimedia-event: kingslayerlivev
   - show:
       year: 2023
       id: madrid
@@ -751,7 +769,7 @@ contentpage:
       id: luxembourg
   - show:
       year: 2023
-      id: paris
+      id: paris2
   - show:
       year: 2023
       id: brussels
@@ -810,6 +828,8 @@ contentpage:
   - show:
       year: 2023
       id: nexfestkobe
+  - multimedia-event: divineattacklivev
+  - multimedia-event: mirrormirrorlivev
   - show:
       year: 2023
       id: losangeles2
@@ -908,6 +928,7 @@ contentpage:
       year: 2023
       id: summersonicosaka
   - song: metali
+  - multimedia-event: metalimv
   - show:
       year: 2023
       id: apocryphaanotherone2
@@ -1000,6 +1021,7 @@ contentpage:
   - show:
       year: 2023
       id: frankfurt
+  - multimedia-event: metalizmmv
   - show:
       year: 2023
       id: paris
@@ -1015,6 +1037,9 @@ contentpage:
   - show:
       year: 2023
       id: leeds
+  - multimedia-event: theonethefirsttake
+  - multimedia-event: divineattackthefirsttake
+  - multimedia-event: mirrormirrormv
   - show:
       year: 2023
       id: babymetalbegins2
@@ -1023,6 +1048,8 @@ contentpage:
       id: babymetalbegins1
   - album: theotherone
   - song: lightanddarkness
+  - multimedia-event: lightanddarknessmv
+  - multimedia-event: metalkingdommv
   - show:
       year: 2023
       id: babymetalreturns2
@@ -1031,7 +1058,9 @@ contentpage:
       id: babymetalreturns1
   - song: metalkingdom
   - song: monochrome
+  - multimedia-event: monochromemv
   - song: divineattack
+  - multimedia-event: divineattackmv
   - album: 10babymetalbudokan
   - show:
       year: 2021
@@ -1066,6 +1095,7 @@ contentpage:
   - tour: 10babymetalbudokan
   - album: 10babymetalyears
   - song: kingslayer
+  - multimedia-event: bxmxcmv
   - album: legendmetalgalaxyday2
   - album: legendmetalgalaxyday1
   - show:
@@ -1181,6 +1211,7 @@ contentpage:
   - show:
       year: 2019
       id: apocryphaanothergalaxy1
+  - multimedia-event: dadadancemv
   - show:
       year: 2019
       id: clockenflap
@@ -1224,6 +1255,7 @@ contentpage:
   - show:
       year: 2019
       id: denver
+  - multimedia-event: shantishantishantimv
   - show:
       year: 2019
       id: dallas
@@ -1264,6 +1296,7 @@ contentpage:
   - show:
       year: 2019
       id: summersonicosaka
+  - multimedia-event: elevatorgirllivev
   - show:
       year: 2019
       id: superslippa10
@@ -1273,6 +1306,7 @@ contentpage:
   - show:
       year: 2019
       id: legendm1
+  - multimedia-event: papayamv
   - show:
       year: 2019
       id: glastonbury
@@ -1313,6 +1347,8 @@ contentpage:
       id: makuhari1
   - tour: japan2018
   - song: starlight
+  - multimedia-event: starlightmv
+  - multimedia-event: distortionlivev
   - show:
       year: 2018
       id: download
@@ -1332,6 +1368,7 @@ contentpage:
       year: 2018
       id: rockamring
   - tour: europe2018
+  - multimedia-event: norainnorainbowlivev
   - show:
       year: 2018
       id: rockontherange
@@ -1358,6 +1395,7 @@ contentpage:
       id: kansascity
   - tour: us2018
   - song: distortion
+  - multimedia-event: distortionmv
   - show:
       year: 2017
       id: legends2
@@ -1607,6 +1645,8 @@ contentpage:
       id: wembleyarena
   - tour: worldtour2016
   - album: metalresistance
+  - multimedia-event: theonelivev
+  - multimedia-event: karatemv
   - song: karate
   - show:
       year: 2015
@@ -1653,6 +1693,7 @@ contentpage:
   - show:
       year: 2015
       id: frankfurt
+  - multimedia-event: ijimedamezettailivev
   - show:
       year: 2015
       id: apocryphablackmass2
@@ -1708,6 +1749,7 @@ contentpage:
       year: 2015
       id: mexico
   - tour: worldtour2015
+  - multimedia-event: roadofresistancelivev
   - show:
       year: 2015
       id: apocrypharedmass1
@@ -1790,6 +1832,7 @@ contentpage:
       year: 2014
       id: budokanrednight
   - album: babymetal
+  - multimedia-event: gimichokomv
   - show:
       year: 2014
       id: heavyidolshowdown
@@ -1861,6 +1904,7 @@ contentpage:
       id: megitsuneprayer
   - album: megitsunefirstpress
   - album: megitsune
+  - multimedia-event: megitsunemv
   - show:
       year: 2013
       id: metrock
@@ -1900,9 +1944,13 @@ contentpage:
   - show:
       year: 2012
       id: idzlegendd
+  - multimedia-event: ijimedamezettaimv
   - show:
       year: 2012
       id: afa2012
+  - multimedia-event: headbangermv
+  - multimedia-event: iinemv
+  - multimedia-event: dokidokimorningmv
   - show:
       year: 2012
       id: idzlegendi2
@@ -1941,6 +1989,7 @@ contentpage:
       id: headbangpilgrimageosaka1
   - tour: headbangpilgrimage
   - album: headbanger
+  - multimedia-event: iinelivev
   - show:
       year: 2012
       id: popnidol02

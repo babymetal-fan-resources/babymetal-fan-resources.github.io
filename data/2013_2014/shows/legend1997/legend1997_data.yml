@@ -29,3 +29,17 @@
     part-of:
       postx: 363827657839882240
 
+- youtubevideo:
+    id: WIKqgE4BwAY
+    label: Official Music Video
+    published-date: 2014-02-26
+    context:
+    - song: gimichoko
+    - show:
+        year: 2013
+        id: legend1997
+    part-of:
+      show:
+        year: 2013
+        id: legend1997
+

@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: brandnewdaylivev
+  id: cover
+  label: Live video cover
+  published-date: 2024-06-19
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: brandnewdaylivev

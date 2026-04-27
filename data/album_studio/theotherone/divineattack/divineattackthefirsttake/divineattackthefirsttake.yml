@@ -1,0 +1,13 @@
+multimedia-event:
+  id: divineattackthefirsttake
+  cover-image:
+    localimage:
+      multimedia-event: divineattackthefirsttake
+      id: cover
+  youtubevideo: h-hPGRSjgms
+  parent:
+    song: divineattack
+  categories:
+  - video
+  part-of:
+    song: divineattack

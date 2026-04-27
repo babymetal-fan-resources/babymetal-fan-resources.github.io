@@ -1,0 +1,13 @@
+multimedia-event:
+  id: distortionlivev
+  cover-image:
+    localimage:
+      multimedia-event: distortionlivev
+      id: cover
+  youtubevideo: FzgU3W5ZgzU
+  parent:
+    song: distortion
+  categories:
+  - video
+  part-of:
+    song: distortion

@@ -1,0 +1,13 @@
+multimedia-event:
+  id: monochromemv
+  cover-image:
+    localimage:
+      multimedia-event: monochromemv
+      id: cover
+  youtubevideo: FpPBPQUdFx8
+  parent:
+    song: monochrome
+  categories:
+  - video
+  part-of:
+    song: monochrome

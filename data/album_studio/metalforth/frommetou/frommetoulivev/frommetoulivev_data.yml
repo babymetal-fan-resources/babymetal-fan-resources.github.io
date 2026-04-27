@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: frommetoulivev
+  id: cover
+  label: Live video cover
+  published-date: 2025-10-03
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: frommetoulivev

@@ -1,0 +1,13 @@
+multimedia-event:
+  id: norainnorainbowlivev
+  cover-image:
+    localimage:
+      multimedia-event: norainnorainbowlivev
+      id: cover
+  youtubevideo: pDgqo6fcliY
+  parent:
+    song: norainnorainbow
+  categories:
+  - video
+  part-of:
+    song: norainnorainbow

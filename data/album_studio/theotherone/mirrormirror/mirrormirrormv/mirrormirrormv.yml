@@ -1,0 +1,13 @@
+multimedia-event:
+  id: mirrormirrormv
+  cover-image:
+    localimage:
+      multimedia-event: mirrormirrormv
+      id: cover
+  youtubevideo: 7uOoH2PTYl0
+  parent:
+    song: mirrormirror
+  categories:
+  - video
+  part-of:
+    song: mirrormirror

@@ -1,0 +1,13 @@
+multimedia-event:
+  id: gimichokomv
+  cover-image:
+    localimage:
+      multimedia-event: gimichokomv
+      id: cover
+  youtubevideo: WIKqgE4BwAY
+  parent:
+    song: gimichoko
+  categories:
+  - video
+  part-of:
+    song: gimichoko

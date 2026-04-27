@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: megitsunemv
+  id: cover
+  label: Music video cover
+  published-date: 2013-06-04
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: megitsunemv

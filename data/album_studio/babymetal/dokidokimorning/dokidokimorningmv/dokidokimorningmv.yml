@@ -1,0 +1,13 @@
+multimedia-event:
+  id: dokidokimorningmv
+  cover-image:
+    localimage:
+      multimedia-event: dokidokimorningmv
+      id: cover
+  youtubevideo: cirhQ8iLdbw
+  parent:
+    song: dokidokimorning
+  categories:
+  - video
+  part-of:
+    song: dokidokimorning

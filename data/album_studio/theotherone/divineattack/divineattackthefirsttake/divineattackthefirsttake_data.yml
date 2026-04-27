@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: divineattackthefirsttake
+  id: cover
+  label: Video cover
+  published-date: 2023-04-10
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: divineattackthefirsttake

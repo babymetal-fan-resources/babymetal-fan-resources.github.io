@@ -1,0 +1,13 @@
+multimedia-event:
+  id: syncopationlivev
+  cover-image:
+    localimage:
+      multimedia-event: syncopationlivev
+      id: cover
+  youtubevideo: TZRvO0S-TLU
+  parent:
+    song: syncopation
+  categories:
+  - video
+  part-of:
+    song: syncopation
