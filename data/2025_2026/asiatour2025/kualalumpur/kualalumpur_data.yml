@@ -20,7 +20,7 @@
     id: 1975205693725839694
     account: BABYMETAL_JAPAN
     label: Thank you
-    published-date: 2025-10-12
+    published-date: 2025-10-06
     text: |-
       Thank you for coming to "BABYMETAL WORLD TOUR 2025–2026 IN ASIA" in Kuala Lumpur !!!🌴
       
@@ -36,7 +36,6 @@
     post: 1973311939423142152
     id: G2J8HrYaIAM5PNe
     label: Merch
-    published-date: 2025-10-01
     context:
     - show:
         year: 2025
@@ -48,7 +47,6 @@
     post: 1973311939423142152
     id: G2J8HrZaIAIuCni
     label: Merch
-    published-date: 2025-10-01
     context:
     - show:
         year: 2025
@@ -60,7 +58,6 @@
     post: 1975205693725839694
     id: G2lW4goWoAASZJP
     label: At the venue
-    published-date: 2025-10-06
     context:
     - show:
         year: 2025

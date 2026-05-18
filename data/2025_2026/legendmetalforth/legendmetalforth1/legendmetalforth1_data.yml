@@ -41,7 +41,7 @@
     id: 2010268826290794821
     account: UNIVERSAL_INTER
     label: Setlist on streaming services
-    published-date: 2026-03-04
+    published-date: 2026-01-11
     text: |-
       ◢◤
       　#BABYMETAL 
@@ -79,7 +79,6 @@
     post: 2009957158784557347
     id: G-TNCoNasAIsfeE
     label: At the venue
-    published-date: 2026-01-10
     context:
     - show:
         year: 2026
@@ -91,7 +90,6 @@
     post: 2010268826290794821
     id: G-Xo11xasAMh4uA
     label: Setlist cover
-    published-date: 2026-01-11
     context:
     - show:
         year: 2026

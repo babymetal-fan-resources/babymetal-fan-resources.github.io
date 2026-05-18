@@ -55,7 +55,6 @@
     post: 1951115671615787333
     id: GxLLmq4bgAAtGnf
     label: Poster sold out
-    published-date: 2025-08-01
     context:
     - show:
         year: 2025
@@ -69,7 +68,6 @@
     post: 1962359161414664488
     id: GzuyqyUbgAAIxJW
     label: On stage
-    published-date: 2025-08-31
     context:
     - show:
         year: 2025
@@ -82,7 +80,6 @@
     post: 1962359161414664488
     id: Gzuytj9aEAEZABJ
     label: On stage
-    published-date: 2025-08-31
     context:
     - show:
         year: 2025
@@ -96,7 +93,6 @@
     id: GzvWZWQaIAEQxe2
     label: Backstage
     info: BABYMETAL, 聖飢魔Ⅱ
-    published-date: 2025-09-01
     context:
     - show:
         year: 2025

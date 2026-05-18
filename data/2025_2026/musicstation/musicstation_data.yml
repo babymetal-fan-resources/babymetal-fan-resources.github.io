@@ -97,7 +97,6 @@
     id: GziBdwLbcAAgrIA
     label: Backstage
     info: BABYMETAL, Perfume
-    published-date: 2025-08-29
     context:
     - media:
         year: 2025
@@ -110,7 +109,6 @@
     id: GziBfyUaYAANDvg
     label: Backstage
     info: BABYMETAL, LiSA
-    published-date: 2025-08-29
     context:
     - media:
         year: 2025
@@ -123,7 +121,6 @@
     id: GziBg8Ma4AAgQlZ
     label: Backstage
     info: BABYMETAL, PiKi
-    published-date: 2025-08-29
     context:
     - media:
         year: 2025
@@ -136,7 +133,6 @@
     id: GziBiI7bkAEPGIm
     label: Backstage
     info: BABYMETAL, 鈴木新彩 (Sarasa Suzuki)
-    published-date: 2025-08-29
     context:
     - media:
         year: 2025
@@ -149,7 +145,6 @@
     id: 01
     label: Backstage
     info: BABYMETAL, Travis Japan
-    published-date: 2025-08-30
     cover: 1961696644917071873/img/fzWEfewFPamcEd3T.jpg
     context:
     - media:
@@ -163,7 +158,6 @@
     id: 01
     label: Backstage
     info: BABYMETAL, PiKi
-    published-date: 2025-09-02
     cover: 1962860536237797376/img/fMlp_ywI1VLBbDHB.jpg
     context:
     - song: frommetou
@@ -178,7 +172,6 @@
     id: 01
     label: Backstage
     info: BABYMETAL, Perfum
-    published-date: 2025-09-03
     cover: 1963160288439705600/img/CuKWbGjU-XmO5ACD.jpg
     context:
     - media:

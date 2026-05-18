@@ -133,7 +133,6 @@
     post: 1906725673450037384
     id: GnWCAIwaQAAsAww
     label: vinyl
-    published-date: 2025-04-01
     context:
     - album: metalforth
     part-of:
@@ -143,7 +142,6 @@
     post: 1906725673450037384
     id: GnWCBKhbMAAJmAA
     label: CD
-    published-date: 2025-04-01
     context:
     - album: metalforth
     part-of:
@@ -153,7 +151,6 @@
     post: 1914967729335103936
     id: GpNU6shb0AAhOHP
     label: bonuses
-    published-date: 2025-04-23
     context:
     - album: metalforth
     part-of:
@@ -163,7 +160,6 @@
     post: 1914967729335103936
     id: GpNU6shbQAIXMfC
     label: THE ONE Limited Edition
-    published-date: 2025-04-23
     context:
     - album: metalforth
     part-of:
@@ -173,7 +169,6 @@
     post: 1918244078157992025
     id: Gp7B0L-awAIBYI2
     label: THE ONE Limited Edition
-    published-date: 2025-05-02
     context:
     - album: metalforth
     part-of:
@@ -184,7 +179,6 @@
     id: 01
     label: promo
     info: vinyl + CD + from me to u
-    published-date: 2025-04-24
     cover: 1915281840564506624/img/JqQ3I81EaBCDodoK.jpg
     context:
     - album: metalforth
@@ -195,7 +189,6 @@
     post: 1919270842812207226
     id: 01
     label: Edition
-    published-date: 2025-05-05
     cover: 1919134985824444416/img/rcaykVHaKR34sn4u.jpg
     context:
     - album: metalforth

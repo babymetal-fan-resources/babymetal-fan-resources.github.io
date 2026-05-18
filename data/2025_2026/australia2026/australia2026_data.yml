@@ -32,7 +32,6 @@
     post: 2017795044791775542
     id: HAABUb1bEAIDTRX
     label: VIP tickets
-    published-date: 2026-02-01
     context:
     - tour: australia2026
     part-of:
@@ -42,7 +41,6 @@
     post: 2026902924924944494
     id: 01
     label: Teaser
-    published-date: 2026-02-26
     cover: 2026901435452194816/img/sPi7m6CnOtklS_ES.jpg
     context:
     - tour: australia2026

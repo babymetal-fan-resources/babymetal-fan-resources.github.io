@@ -73,7 +73,6 @@
     post: 1986647217227305318
     id: G5H8fsHbIAACASy
     label: Band
-    published-date: 2025-11-07
     context:
     - show:
         year: 2025
@@ -85,7 +84,6 @@
     post: 1986674982659776928
     id: G5ISEfoWQAAaWFn
     label: Merch
-    published-date: 2025-11-07
     context:
     - show:
         year: 2025
@@ -98,7 +96,6 @@
     id: G5SbIOCbIAIA1qY
     label: On stage
     info: SU-METAL
-    published-date: 2025-11-09
     context:
     - show:
         year: 2025
@@ -112,7 +109,6 @@
     id: G5SbJWpbMAAeFdt
     label: On stage
     info: MOAMETAL
-    published-date: 2025-11-09
     context:
     - show:
         year: 2025
@@ -126,7 +122,6 @@
     id: G5Sb_FmbUAAqkqV
     label: On stage
     info: MOMOMETAL
-    published-date: 2025-11-09
     context:
     - song: metali
     - show:
@@ -139,7 +134,6 @@
     post: 1987388374941147356
     id: G5SbxZ_bMAAlmgm
     label: Venue
-    published-date: 2025-11-09
     context:
     - show:
         year: 2025

@@ -32,7 +32,7 @@
     id: 1977011694624030820
     account: BABYMETAL_JAPAN
     label: For your consideration
-    published-date: 2025-10-11
+    published-date: 2025-10-12
     text: |-
       For your consideration 
       @RecordingAcad
@@ -62,7 +62,6 @@
     post: 1906725673450037384
     id: GnWBzbdbgAA2zuP
     label: cover image
-    published-date: 2025-04-01
     local-copy: true
     context:
     - album: metalforth
@@ -73,7 +72,6 @@
     post: 1976477139747864886
     id: G23Zu2dasAA8jBQ
     label: Flyer
-    published-date: 2025-10-10
     context:
     - album: metalforth
     part-of:
@@ -83,7 +81,6 @@
     post: 1977011694624030820
     id: 01
     label: Showcase
-    published-date: 2025-10-12
     cover: 1977010932552548361/img/JRyRTz3ZNe8wBbX1.jpg
     context:
     - album: metalforth

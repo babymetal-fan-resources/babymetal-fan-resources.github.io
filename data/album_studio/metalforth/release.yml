@@ -300,7 +300,6 @@
     post: 1947355895903465757
     id: GwZaGJLXQAAI8w6
     label: Us stores poster
-    published-date: 2025-07-21
     context:
     - album: metalforth
     part-of:
@@ -310,7 +309,6 @@
     post: 1947355895903465757
     id: GwZaGJMWsAAfq53
     label: US stores
-    published-date: 2025-07-21
     context:
     - album: metalforth
     part-of:
@@ -320,7 +318,6 @@
     post: 1947790676302958961
     id: GwfxOUNaQAAzYlR
     label: UK Listening Event
-    published-date: 2025-07-23
     context:
     - album: metalforth
     part-of:
@@ -330,7 +327,6 @@
     post: 1953607569572082150
     id: GxyWrQubsAEhpKs
     label: Listening party
-    published-date: 2025-08-08
     context:
     - album: metalforth
     part-of:
@@ -340,7 +336,6 @@
     post: 1954763020607139881
     id: GyC2l9IaQAASNAj
     label: Music Video
-    published-date: 2025-08-11
     context:
     - album: metalforth
     - song: myqueen
@@ -351,7 +346,6 @@
     post: 1954763020607139881
     id: GyC2l9TaEAA-VeL
     label: Music Video
-    published-date: 2025-08-11
     context:
     - album: metalforth
     - song: myqueen
@@ -362,7 +356,6 @@
     post: 1957719075632869468
     id: GystXd_acAIUsFA
     label: Thank you
-    published-date: 2025-08-19
     context:
     - album: metalforth
     part-of:
@@ -372,7 +365,6 @@
     post: 1953667529173610859
     id: 01
     label: Album is available
-    published-date: 2025-08-08
     cover: 1953629445300031488/img/sfqoJKnoZntHqFs-.jpg
     context:
     - album: metalforth
@@ -383,7 +375,6 @@
     post: 1954739559620878453
     id: 01
     label: Released
-    published-date: 2025-08-11
     cover: 1954737893530054656/img/thDz9rW0DPJcaqyf.jpg
     context:
     - album: metalforth
@@ -394,7 +385,6 @@
     post: 1955132138040267185
     id: 01
     label: Banner on Sydney harbor bridge
-    published-date: 2025-08-12
     cover: 1955117699782328320/img/kGyn8m84XzbremIg.jpg
     context:
     - album: metalforth
@@ -405,7 +395,6 @@
     post: 1955192534830854201
     id: 01
     label: Your favorite song
-    published-date: 2025-08-12
     cover: 1955115623828295680/img/nbGFdxeaaaD_Bf-H.jpg
     context:
     - album: metalforth
@@ -416,7 +405,6 @@
     post: 1955464333171073353
     id: 01
     label: BABYMETAL's goals
-    published-date: 2025-08-13
     cover: 1955264144883716097/img/uWtNAlHQmJC5_uqH.jpg
     context:
     - album: metalforth
@@ -427,7 +415,6 @@
     post: 1955564659966394557
     id: 01
     label: We Love BABYMETAL
-    published-date: 2025-08-13
     cover: 1955564147221127168/img/7HbHszY_JA4Ph-av.jpg
     context:
     - album: metalforth
@@ -439,7 +426,6 @@
     id: 01
     label: Billboard
     info: Shibuya
-    published-date: 2025-08-14
     cover: 1955901612666548224/img/ZtWb5PSdi8oFEB7P.jpg
     context:
     - album: metalforth
@@ -450,7 +436,6 @@
     post: 1956637018739634182
     id: 01
     label: METAL FORTH in London
-    published-date: 2025-08-16
     cover: 1956636579885371392/img/4v_CgueV6LBTgdt9.jpg
     context:
     - album: metalforth
@@ -461,7 +446,6 @@
     post: 1957719075632869468
     id: 01
     label: Thank you
-    published-date: 2025-08-19
     cover: 1957708381927665664/img/iqFF7lUgYlhTLc9z.jpg
     context:
     - album: metalforth
@@ -472,7 +456,6 @@
     post: 1958399908320596368
     id: 01
     label: We Love BABYMETAL
-    published-date: 2025-08-21
     cover: 1958395326387343360/img/Eh18U3X6niaKmbK6.jpg
     context:
     - album: metalforth

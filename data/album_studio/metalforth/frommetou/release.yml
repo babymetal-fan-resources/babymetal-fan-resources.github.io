@@ -78,7 +78,6 @@
     id: GnnoDBdbkAAegxk
     label: Music Video
     info: first part background
-    published-date: 2025-04-04
     context:
     - song: frommetou
     part-of:
@@ -88,7 +87,6 @@
     post: 1908006616361799954
     id: 01
     label: MV Short
-    published-date: 2025-04-04
     cover: 1907985120726040576/pu/img/WXgnjDKx3gmsk4By.jpg
     context:
     - song: frommetou
@@ -99,7 +97,6 @@
     post: 1917749117322932480
     id: 01
     label: MV Short
-    published-date: 2025-05-01
     cover: 1917748799784771585/img/qZcZu7H_q5eBoVlL.jpg
     context:
     - song: frommetou

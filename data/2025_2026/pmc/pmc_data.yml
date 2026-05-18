@@ -76,7 +76,6 @@
     post: 1914876896082583656
     id: GpLfm5xa4AM7Owd
     label: cover
-    published-date: 2025-04-23
     local-copy: true
     context:
     - media:
@@ -89,7 +88,6 @@
     post: 1925023744986058905
     id: GrYhyIWbAAQ_HF2
     label: cover
-    published-date: 2025-05-21
     context:
     - media:
         year: 2025
@@ -101,7 +99,6 @@
     post: 1925023744986058905
     id: GrYhyIzbwAAP05r
     label: inside
-    published-date: 2025-05-21
     context:
     - media:
         year: 2025
@@ -114,7 +111,6 @@
     id: Gs-JgZfbQAAhUWX
     label: Billboard
     info: Shibuya Station
-    published-date: 2025-06-09
     context:
     - media:
         year: 2025
@@ -126,7 +122,6 @@
     post: 1934898813619065008
     id: GtoFCX1a0AQgQ2W
     label: Store front
-    published-date: 2025-06-17
     context:
     - media:
         year: 2025
@@ -138,7 +133,6 @@
     post: 1934898813619065008
     id: GtoFDiGboAAaC0w
     label: Store window
-    published-date: 2025-06-17
     context:
     - media:
         year: 2025

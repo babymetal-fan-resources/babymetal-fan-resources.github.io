@@ -221,7 +221,6 @@
     post: 2009207514987151539
     id: G-IjXp6bwAAaq5m
     label: Poster sold out
-    published-date: 2026-01-08
     local-copy: true
     part-of:
       postx: 2009207514987151539
@@ -230,7 +229,6 @@
     post: 2009806787139289293
     id: G-REWn8asAAkpSp
     label: Merch
-    published-date: 2026-01-10
     part-of:
       postx: 2009806787139289293
 
@@ -238,7 +236,6 @@
     post: 2009806787139289293
     id: G-REX0DbsAAuODl
     label: Merch
-    published-date: 2026-01-10
     part-of:
       postx: 2009806787139289293
 
@@ -246,7 +243,6 @@
     post: 2009936211583057929
     id: G-S6VKIaEAAWxcl
     label: Reward
-    published-date: 2026-01-10
     part-of:
       postx: 2009936211583057929
 
@@ -254,7 +250,6 @@
     post: 2010173948181496281
     id: G-WSYdsbEAAK3rH
     label: Merch
-    published-date: 2026-01-11
     part-of:
       postx: 2010173948181496281
 
@@ -262,7 +257,6 @@
     post: 2010361196025893239
     id: G-Y8qJgboAAEXlf
     label: Signed board
-    published-date: 2026-01-11
     part-of:
       postx: 2010361196025893239
 
@@ -271,7 +265,6 @@
     id: G-Y8sz9a4AAHBPF
     label: Staff
     info: used during the shows
-    published-date: 2026-01-11
     part-of:
       postx: 2010361196025893239
 
@@ -279,7 +272,6 @@
     post: 2010361196025893239
     id: G-Y8u4taMAA6oe9
     label: Merch
-    published-date: 2026-01-11
     part-of:
       postx: 2010361196025893239
 
@@ -287,7 +279,6 @@
     post: 2010361196025893239
     id: G-Y8xpeaMAA6nmu
     label: Merch
-    published-date: 2026-01-11
     part-of:
       postx: 2010361196025893239
 
@@ -295,7 +286,6 @@
     post: 2010908637695521128
     id: G-gs0ZDbQAEyQjV
     label: Poster pop-up store
-    published-date: 2026-01-13
     part-of:
       postx: 2010908637695521128
 
@@ -303,7 +293,6 @@
     post: 2004114900575309850
     id: 01
     label: Popup
-    published-date: 2025-12-25
     cover: 2004083691044458500/img/vnJqPzcZkKaVRZqE.jpg
     part-of:
       postx: 2004114900575309850
@@ -312,7 +301,6 @@
     post: 2009806787139289293
     id: 01
     label: Merch
-    published-date: 2026-01-10
     cover: 2009806459337658368/img/8jkDzCl1JmP5QkrB.jpg
     part-of:
       postx: 2009806787139289293

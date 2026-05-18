@@ -91,7 +91,6 @@
     post: 2002252624087654673
     id: G8iaIavb0AEWW4O
     label: Poster
-    published-date: 2025-12-20
     context:
     - song: kasukanahana
     part-of:
@@ -101,7 +100,6 @@
     post: 2009550724188025055
     id: G-NFldpaIAAtG1r
     label: Cover
-    published-date: 2026-01-09
     local-copy: true
     context:
     - song: kasukanahana
@@ -112,7 +110,6 @@
     post: 2019697580847030570
     id: HAdn2dGb0AAPFBD
     label: Cover
-    published-date: 2026-02-06
     context:
     - song: kasukanahana
     todo: switch cover ?

@@ -21,7 +21,6 @@
     post: 1935585150110425156
     id: GtyUQSGWUAAZ64_
     label: Venue
-    published-date: 2025-06-19
     context:
     - show:
         year: 2025
@@ -35,7 +34,6 @@
     id: GtyURlAWQAAsetc
     label: On stage
     info: Weeeee aaaaa!!
-    published-date: 2025-06-19
     context:
     - show:
         year: 2025
@@ -47,7 +45,6 @@
     post: 1935585150110425156
     id: GtyURlBXgAAsFrl
     label: From the back of the stage
-    published-date: 2025-06-19
     context:
     - show:
         year: 2025

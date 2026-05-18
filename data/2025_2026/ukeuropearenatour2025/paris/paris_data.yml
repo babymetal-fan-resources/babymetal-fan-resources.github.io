@@ -38,7 +38,6 @@
     id: Gr6MzAwWEAAVQqO
     label: Poster
     info: sold out
-    published-date: 2025-05-27
     local-copy: true
     context:
     - show:
@@ -51,7 +50,6 @@
     post: 1927881848094437402
     id: GsE0WAJXUAELhja
     label: On stage
-    published-date: 2025-05-29
     context:
     - show:
         year: 2025
@@ -65,7 +63,6 @@
     id: GsE0ZHDWwAAhLtb
     label: On stage
     info: weeee aaarre!!
-    published-date: 2025-05-29
     context:
     - show:
         year: 2025
@@ -77,7 +74,6 @@
     post: 1927881848094437402
     id: GsE0cROXYAAIOJs
     label: Crowd
-    published-date: 2025-05-29
     context:
     - show:
         year: 2025
@@ -90,7 +86,6 @@
     post: 1927881848094437402
     id: GsE0eAHXAAAI7k2
     label: Crowd
-    published-date: 2025-05-29
     context:
     - show:
         year: 2025

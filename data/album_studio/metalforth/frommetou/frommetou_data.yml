@@ -339,7 +339,6 @@
     post: 1908172721055469909
     id: GnsqdGTbQAAkPmf
     label: cover image
-    published-date: 2025-04-04
     local-copy: true
     context:
     - song: frommetou
@@ -350,7 +349,6 @@
     post: 1983239915099042277
     id: G4XhOOWaMAAVV3d
     label: 10 millions views
-    published-date: 2025-10-29
     context:
     - song: frommetou
     part-of:
@@ -360,7 +358,6 @@
     post: 1988293765069705322
     id: G5dzJv8bsAAn-Hl
     label: Vinyl
-    published-date: 2025-11-11
     context:
     - song: frommetou
     part-of:

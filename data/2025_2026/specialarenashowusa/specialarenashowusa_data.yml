@@ -59,7 +59,7 @@
     id: 1973705616440074724
     account: Live_Viewing_jp
     label: Live viewing merch
-    published-date: 2025-10-03
+    published-date: 2025-10-02
     text: |-
       【🎦生中継】
       「BABYMETAL 子狐アクリルキーホルダー&ピクチャーチケット」
@@ -361,7 +361,6 @@
     post: 1973342131692745107
     id: G2KkXYFaIAY_zoq
     label: Live Viewing
-    published-date: 2025-10-01
     context:
     - show:
         year: 2025
@@ -373,7 +372,6 @@
     post: 1973705616440074724
     id: G2QCk-faYAAWXp8
     label: Live viewing mech
-    published-date: 2025-10-02
     context:
     - show:
         year: 2025
@@ -385,7 +383,6 @@
     post: 1982734262618181955
     id: G4PXWmtXUAA57xl
     label: Live viewing merch
-    published-date: 2025-10-27
     context:
     - show:
         year: 2025
@@ -397,7 +394,6 @@
     post: 1984017470047269292
     id: G4frjwwbgAAedC2
     label: Pop-up poster
-    published-date: 2025-10-30
     context:
     - show:
         year: 2025
@@ -409,7 +405,6 @@
     post: 1984017470047269292
     id: G4frmX0a8AQ08tg
     label: Pop-up merch
-    published-date: 2025-10-30
     context:
     - show:
         year: 2025
@@ -421,7 +416,6 @@
     post: 1984017470047269292
     id: G4frneGa8AEsP1Z
     label: Pop-up merch
-    published-date: 2025-10-30
     context:
     - show:
         year: 2025
@@ -433,7 +427,6 @@
     post: 1984017470047269292
     id: G4fronga8AMQNAe
     label: Pop-up albums
-    published-date: 2025-11-07
     context:
     - show:
         year: 2025
@@ -445,7 +438,6 @@
     post: 1984030818730385508
     id: G4fpnYMa8AUs5kM
     label: BABYMETAL x HEAVYS
-    published-date: 2025-10-30
     context:
     - show:
         year: 2025
@@ -457,7 +449,6 @@
     post: 1984030818730385508
     id: G4fpusOa8AIcbx-
     label: BABYMETAL x HEAVYS
-    published-date: 2025-10-30
     context:
     - show:
         year: 2025
@@ -469,7 +460,6 @@
     post: 1984030818730385508
     id: G4fpvs1aIAAS7by
     label: BABYMETAL x HEAVYS
-    published-date: 2025-10-30
     context:
     - show:
         year: 2025
@@ -481,7 +471,6 @@
     post: 1984303773590892704
     id: G4moVQubQAQOhzR
     label: BABYMETAL × KAAMOS.CO
-    published-date: 2025-10-31
     context:
     - show:
         year: 2025
@@ -493,7 +482,6 @@
     post: 1984787549483569574
     id: G4tPdQxbwAAOUZh
     label: Poster sold out
-    published-date: 2025-11-02
     context:
     - show:
         year: 2025
@@ -506,7 +494,6 @@
     id: G4yeINSa4AAfJC-
     label: On stage
     info: we aaaa
-    published-date: 2025-11-03
     context:
     - show:
         year: 2025
@@ -518,7 +505,6 @@
     post: 1985135500089553098
     id: G4yeJh5boAEvMYx
     label: On stage
-    published-date: 2025-11-07
     context:
     - show:
         year: 2025
@@ -531,7 +517,6 @@
     post: 1985135500089553098
     id: G4yeLV6bcAAAcGd
     label: Venue
-    published-date: 2025-11-07
     context:
     - show:
         year: 2025
@@ -544,7 +529,6 @@
     post: 1985135500089553098
     id: G4yeMn6asAI2oVo
     label: At the venue
-    published-date: 2025-11-07
     context:
     - show:
         year: 2025
@@ -557,7 +541,6 @@
     id: G4y4ESqasAAtj75
     label: At the venue
     info: Courtney LaPlante, BABYMETAL
-    published-date: 2025-11-03
     context:
     - show:
         year: 2025
@@ -569,7 +552,6 @@
     post: 1998996418216779884
     id: G73INQtbYAA9R9W
     label: 'Live viewing merch '
-    published-date: 2025-12-11
     context:
     - show:
         year: 2025
@@ -581,7 +563,6 @@
     post: 1986290916827558196
     id: 01
     label: Pop-up store recap
-    published-date: 2025-11-06
     cover: 1986290559225417728/img/G9I_ZzcjDXTmV4Sk.jpg
     context:
     - show:
@@ -595,7 +576,6 @@
     id: 01
     label: With Soracchi
     info: ANA's social media ambassador
-    published-date: 2026-01-15
     cover: 2011622834842619904/img/6ENEkjhnETMwct0E.jpg
     context:
     - show:

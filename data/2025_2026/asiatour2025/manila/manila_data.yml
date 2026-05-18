@@ -43,7 +43,6 @@
     post: 1927545228505862530
     id: GsAEHwwXIAEk3V7
     label: Poster
-    published-date: 2025-05-28
     local-copy: true
     context:
     - show:
@@ -58,7 +57,6 @@
     post: 1975967860074983651
     id: G2wKjwlbMAAVjrm
     label: At the venue
-    published-date: 2025-10-12
     context:
     - show:
         year: 2025
@@ -70,7 +68,6 @@
     post: 1975967860074983651
     id: G2wMDxPaAAM9vXu
     label: Venue
-    published-date: 2025-10-08
     context:
     - show:
         year: 2025

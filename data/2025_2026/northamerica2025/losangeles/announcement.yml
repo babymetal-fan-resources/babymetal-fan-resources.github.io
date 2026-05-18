@@ -55,7 +55,6 @@
     post: 1945891248981832107
     id: GwEvs9JW8AIIQFg
     label: Poster
-    published-date: 2025-07-17
     local-copy: true
     context:
     - show:
@@ -68,7 +67,6 @@
     post: 1947367057655316932
     id: GwZvm_0WAAAfaFP
     label: Poster sold out
-    published-date: 2025-07-21
     context:
     - show:
         year: 2025
