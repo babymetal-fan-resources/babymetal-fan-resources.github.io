@@ -1,0 +1,36 @@
+- postx:
+    id: 2044249358368121109
+    account: BABYMETAL_JAPAN
+    label: Message
+    published-date: 2026-04-15
+    text: |-
+      🇩🇪WORLD TOUR 2026 in Germany🇩🇪
+      June 16th at Swiss Life Hall
+      
+      https://prk-dreamhaus.com/talent/babymetal
+      #BABYMETAL
+    translation: |-
+      🇩🇪WORLD TOUR 2026 in Germany🇩🇪
+      June 16th at Swiss Life Hall
+      
+      https://prk-dreamhaus.com/talent/babymetal
+      #BABYMETAL
+    video:
+    - 01
+    part-of:
+      show:
+        year: 2026
+        id: hannover
+
+- postxvideo:
+    post: 2044249358368121109
+    id: 01
+    label: Message
+    cover: 2044051832453115907/img/ZuQSaq-gIOFtB0up.jpg
+    context:
+    - show:
+        year: 2026
+        id: hannover
+    part-of:
+      postx: 2044249358368121109
+

@@ -2,10 +2,9 @@ show:
   year: 2026
   id: buenosaires
   cover-image:
-    webimage:
-      domain: babymetal.com
-      page: 302817
-      id: poster
+    postximage:
+      post: 2047707142438707472
+      image: HGrneQMaQAAP8ww
   fullname: Buenos Aires, Argentina
   date: 2026-12-01
   tour: latinamerica2026

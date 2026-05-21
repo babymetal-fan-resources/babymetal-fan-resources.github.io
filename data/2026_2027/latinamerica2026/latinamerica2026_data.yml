@@ -1,0 +1,30 @@
+- postx:
+    id: 2047707142438707472
+    account: BABYMETAL_JAPAN
+    label: General sales
+    published-date: 2026-04-24
+    text: |-
+      {{{ LATIN AMERICA }}}
+      
+      🎟️ General On Sale 🎫
+      WORLD TOUR IN LATIN AMERICA 🔥
+      http://babymetal.com/tour
+      
+      Get your tickets now
+      
+      #BABYMETAL
+    image:
+    - HGrneQMaQAAP8ww
+    part-of:
+      tour: latinamerica2026
+
+- postximage:
+    post: 2047707142438707472
+    id: HGrneQMaQAAP8ww
+    label: Poster
+    local-copy: true
+    context:
+    - tour: latinamerica2026
+    part-of:
+      postx: 2047707142438707472
+

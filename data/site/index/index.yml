@@ -164,6 +164,7 @@ contentpage:
       id: swedenrock
   - tour: europe2026
   - album: o2highlights
+  - multimedia-event: frommetoumajorlazerlyric
   - show:
       year: 2026
       id: deadpop
@@ -176,9 +177,15 @@ contentpage:
   - show:
       year: 2026
       id: metaradifes
+  - media:
+      year: 2026
+      id: metaradi0328
   - show:
       year: 2026
       id: brisbane
+  - media:
+      year: 2026
+      id: metaradi0321
   - show:
       year: 2026
       id: sydney
@@ -191,6 +198,9 @@ contentpage:
   - show:
       year: 2026
       id: adelaide
+  - media:
+      year: 2026
+      id: metaradi0314
   - show:
       year: 2026
       id: perth

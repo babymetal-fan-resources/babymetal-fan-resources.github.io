@@ -1,0 +1,139 @@
+- display:
+    show:
+      year: 2026
+      id: sydney2
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postximage:
+                    post: 2034800245373379022
+                    image: HD0PtPCboAQznbb
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2034800245373379022
+                    image: HD0PtPDbkAAIfwD
+    part-of:
+      show:
+        year: 2026
+        id: sydney2
+
+- postinstagram:
+    id: DWFmlhhmF_i
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-03-20
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Sydney DAY1🇦🇺
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #SYDNEY
+      📸 @gxbriellemxry
+    image:
+    - 1
+    - 2
+    - 4
+    - 5
+    part-of:
+      show:
+        year: 2026
+        id: sydney2
+    reference:
+    - postximage:
+        post: 2034800245373379022
+        image: HD0PtPDbkAAIfwD
+
+- postinstagramimage:
+    post: DWFmlhhmF_i
+    id: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: sydney2
+    todo: which song ?
+    part-of:
+      postinstagram: DWFmlhhmF_i
+
+- postinstagramimage:
+    post: DWFmlhhmF_i
+    id: 2
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: sydney2
+    part-of:
+      postinstagram: DWFmlhhmF_i
+
+- postinstagramimage:
+    post: DWFmlhhmF_i
+    id: 4
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: sydney2
+    - song: kxaxwxaxixi
+    todo: check song
+    part-of:
+      postinstagram: DWFmlhhmF_i
+
+- postinstagramimage:
+    post: DWFmlhhmF_i
+    id: 5
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: sydney2
+    - song: roadofresistance
+    part-of:
+      postinstagram: DWFmlhhmF_i
+
+- postx:
+    id: 2034800245373379022
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-03-20
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Sydney DAY1🇦🇺
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #SYDNEY
+    image:
+    - HD0PtPCboAQznbb
+    - HD0PtPDbkAAIfwD
+    part-of:
+      show:
+        year: 2026
+        id: sydney2
+
+- postximage:
+    post: 2034800245373379022
+    id: HD0PtPCboAQznbb
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: sydney2
+    - song: babymetaldeath
+    todo: double check song
+    part-of:
+      postx: 2034800245373379022
+
+- postximage:
+    post: 2034800245373379022
+    id: HD0PtPDbkAAIfwD
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: sydney2
+    part-of:
+      postx: 2034800245373379022
+

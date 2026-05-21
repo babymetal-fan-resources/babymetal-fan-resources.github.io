@@ -34,10 +34,47 @@
         id: theone
         group: band
 
+- postx:
+    id: 2039266532145111381
+    account: BABYMETAL_JAPAN
+    label: THE ONE 2026 open
+    published-date: 2026-05-20
+    text: |-
+      📢THE ONE 2026 OPEN 📢
+      
+      THE ONE エントリーアイテム
+      THE ONE TEE 2026 販売中!!🦊
+      
+      https://babymetal.com/theone_2026/
+      
+      #BABYMETAL
+    translation: |-
+      📢 THE ONE 2026 OPEN 📢
+      
+      THE ONE Entry Item
+      THE ONE TEE 2026 Now on Sale!!🦊
+      
+      https://babymetal.com/theone_2026/
+      
+      #BABYMETAL
+    image:
+    - HEv9yp1aUAE139M
+    part-of:
+      group:
+        id: theone
+        group: band
+
 - postximage:
     post: 2027313006124863705
     id: HCFNyBaasAAFLYG
     label: THE ONE TEE 2026
     part-of:
       postx: 2027313006124863705
+
+- postximage:
+    post: 2039266532145111381
+    id: HEv9yp1aUAE139M
+    label: THE ONE TEE 2026
+    part-of:
+      postx: 2039266532145111381
 

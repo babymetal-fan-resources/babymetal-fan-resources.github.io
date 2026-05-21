@@ -1,3 +1,82 @@
+- display:
+    show:
+      year: 2026
+      id: sydney
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postximage:
+                    post: 2034975485500039215
+                    image: HD2ujboaIAAoB40
+    part-of:
+      show:
+        year: 2026
+        id: sydney
+
+- postinstagram:
+    id: DWG1qHQCqM4
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-03-20
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Sydney DAY2!!🇦🇺 
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #SYDNEY
+      📸 @gxbriellemxry
+    image:
+    - 1
+    - 2
+    - 3
+    part-of:
+      show:
+        year: 2026
+        id: sydney
+
+- postinstagramimage:
+    post: DWG1qHQCqM4
+    id: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: sydney
+    - song: metali
+    todo: check song
+    part-of:
+      postinstagram: DWG1qHQCqM4
+
+- postinstagramimage:
+    post: DWG1qHQCqM4
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: sydney
+    - song: babymetaldeath
+    todo: check song
+    part-of:
+      postinstagram: DWG1qHQCqM4
+
+- postinstagramimage:
+    post: DWG1qHQCqM4
+    id: 3
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: sydney
+    todo: which song ?
+    part-of:
+      postinstagram: DWG1qHQCqM4
+
 - postx:
     id: 2001895275561103396
     account: BABYMETAL_JAPAN
@@ -14,6 +93,38 @@
         year: 2026
         id: sydney
 
+- postx:
+    id: 2034800727147880927
+    account: BABYMETAL_JAPAN
+    label: Merch
+    published-date: 2026-03-20
+    text: |-
+      BABYMETAL WORLD TOUR 2026 in Sydney Day 2!!
+      Merch is available again today!🛒
+      Make sure to check it out 🦊🔥
+    image:
+    - HD0QSBNb0AAckGP
+    - HD0QU7BboAARcBs
+    part-of:
+      show:
+        year: 2026
+        id: sydney
+
+- postx:
+    id: 2034975485500039215
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-03-20
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Sydney DAY2!!￼ 
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #SYDNEY
+    image:
+    - HD2ujboaIAAoB40
+    part-of:
+      show:
+        year: 2026
+        id: sydney
+
 - postximage:
     post: 2001895275561103396
     id: G8fzb3SaMAAmBed
@@ -25,4 +136,37 @@
         id: sydney
     part-of:
       postx: 2001895275561103396
+
+- postximage:
+    post: 2034800727147880927
+    id: HD0QSBNb0AAckGP
+    label: '"HYAKKO YAKO" tee'
+    context:
+    - show:
+        year: 2026
+        id: sydney
+    part-of:
+      postx: 2034800727147880927
+
+- postximage:
+    post: 2034800727147880927
+    id: HD0QU7BboAARcBs
+    label: '"HYAKKO YAKO" tee'
+    context:
+    - show:
+        year: 2026
+        id: sydney
+    part-of:
+      postx: 2034800727147880927
+
+- postximage:
+    post: 2034975485500039215
+    id: HD2ujboaIAAoB40
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: sydney
+    part-of:
+      postx: 2034975485500039215
 

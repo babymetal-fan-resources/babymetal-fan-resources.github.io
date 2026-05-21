@@ -1,3 +1,127 @@
+- postinstagram:
+    id: DWeUOzImIPt
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-03-29
+    text: |-
+      Thank you for coming to "TOKYO FM開局55周年記念 BABYMETALのメタラジ！FES"📻🔥
+      1年3ヶ月間の集大成となる有明の夜になりました！
+      これまで番組に出演してくださった"メタトモ"ゲスト、そして全世界の"メタトモ"の皆様、ありがとうございました！
+      See you🦊
+      
+      #BABYMETAL #メタラジ
+      @mth_official_33cjl @japan_leaders
+    translation: |-
+      Thank you for coming to "TOKYO FM 55th Anniversary Celebration: BABYMETAL's Meta-Radi! FES"📻🔥
+      It became an Ariake night that served as the culmination of 1 year and 3 months!
+      To all the "Meta-Tomo" guests who have appeared on the program so far, and to all the "Meta-Tomo" around the world, thank you so much!
+      See you🦊
+      
+      #BABYMETAL #メタラジ
+      @mth_official_33cjl @japan_leaders
+    image:
+    - 2
+    - 3
+    part-of:
+      show:
+        year: 2026
+        id: metaradifes
+    reference:
+    - postximage:
+        post: 2038279641316884620
+        image: HElorXXaYAAXaZj
+    - postximage:
+        post: 2038279641316884620
+        image: HElqVeeacAA3sw_
+
+- postinstagram:
+    id: DWjV7BFkrL9
+    account: babymetal_official
+    label: Backstage
+    published-date: 2026-03-31
+    text: |-
+      Thank you @japan_leaders 🦊🦊🦊
+      
+      #BABYMETAL #frommetou #メタラジフェス
+    video:
+    - 1
+    todo: other on atarachii gakko
+    part-of:
+      show:
+        year: 2026
+        id: metaradifes
+
+- postinstagram:
+    id: DWl4L3IETre
+    account: babymetal_official
+    label: Backstage
+    published-date: 2026-04-01
+    text: |-
+      BABYMETAL × ATARASHII GAKKO!
+      3/29 #メタラジフェス ❤️‍🔥 東京ガーデンシアター 
+      photo by @usamiryo 
+      #BABYMETAL #ATARASHIIGAKKO #新しい学校のリーダーズ
+    translation: |-
+      BABYMETAL × ATARASHII GAKKO!
+      3/29 #メタラジフェス ❤️‍🔥 Tokyo Garden Theatre 
+      photo by @usamiryo 
+      #BABYMETAL #ATARASHIIGAKKO #新しい学校のリーダーズ
+    image:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: metaradifes
+
+- postinstagramimage:
+    post: DWeUOzImIPt
+    id: 2
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: metaradifes
+    part-of:
+      postinstagram: DWeUOzImIPt
+
+- postinstagramimage:
+    post: DWeUOzImIPt
+    id: 3
+    label: On stage
+    info: ATARASHII GAKKO, BABYMETAL, Mao (maximum the hormone)
+    context:
+    - show:
+        year: 2026
+        id: metaradifes
+    - song: gimichoko
+    part-of:
+      postinstagram: DWeUOzImIPt
+
+- postinstagramimage:
+    post: DWl4L3IETre
+    id: 1
+    label: Bands
+    info: ATARASHII GAKKO, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: metaradifes
+    part-of:
+      postinstagram: DWl4L3IETre
+
+- postinstagramvideo:
+    post: DWjV7BFkrL9
+    id: 1
+    label: Short
+    info: ATARASHII GAKKO, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: metaradifes
+    - song: frommetou
+    part-of:
+      postinstagram: DWjV7BFkrL9
+
 - postx:
     id: 1997258646456311954
     account: metaradi_tfm
@@ -42,6 +166,155 @@
         year: 2026
         id: metaradifes
 
+- postx:
+    id: 2036994361117073613
+    account: metaradi_tfm
+    label: Merch
+    published-date: 2026-03-26
+    text: |-
+      TOKYOFM 開局55周年記念
+      BABYMETALのメタラジ！FES
+      
+      当日販売するグッズの情報が公開されました‼️
+      
+      Tシャツ、スポーツタオル、ラバーバンド、ランダムピックキーホルダー、他多数ご用意しています。
+      
+      ▼▽詳しくはこちらから▼▽
+      https://tfm.co.jp/metaradi/metaradifes/
+      
+      #メタラジ #TOKYOFM #BABYMETAL
+    translation: |-
+      TOKYO FM 55th Anniversary Celebration
+      BABYMETAL's Meta-Radi! FES
+      
+      Information about the merch to be sold on the day of the event has been released‼️
+      
+      We have T-shirts, sports towels, rubber bands, random pick keychains, and many other items available.
+      
+      ▼▽ Click here for details ▼▽
+      https://tfm.co.jp/metaradi/metaradifes/
+      
+      #メタラジ #TOKYOFM #BABYMETAL
+    image:
+    - HETbgMMbYAAndu6
+    - HETbgMVbIAAUn1C
+    part-of:
+      show:
+        year: 2026
+        id: metaradifes
+
+- postx:
+    id: 2038078740262257032
+    account: metaradi_tfm
+    label: Merch
+    published-date: 2026-03-29
+    text: |-
+      「#TOKYOFM 開局55周年記念 BABYMETALのメタラジ！FES」グッズ 
+      本日12時から会場販売開始‼️
+      
+      会場販売は公演チケットをお持ちのお客様を対象に、事前にWEB上で取得できる「会場販売整理券」を使って実施いたします。
+      
+      ▼▽詳しくはこちらから▼▽
+      https://tfm.co.jp/metaradi/metaradifes/
+      
+      #メタラジ
+      #メタラジフェス
+    translation: |-
+      "#TOKYO FM 55th Anniversary Celebration: BABYMETAL's Meta-Radi! FES" Merch 
+      Venue sales start today at 12:00‼️
+      
+      Venue sales will be conducted for customers holding performance tickets, using a "Venue Sales Numbered Ticket" that can be obtained in advance on the WEB.
+      
+      ▼▽ Click here for details ▼▽
+      https://tfm.co.jp/metaradi/metaradifes/
+      
+      #メタラジ
+      #メタラジフェス
+    video:
+    - 01
+    part-of:
+      show:
+        year: 2026
+        id: metaradifes
+
+- postx:
+    id: 2038279641316884620
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-03-29
+    text: |-
+      Thank you for coming to "TOKYO FM開局55周年記念 BABYMETALのメタラジ！FES"📻🔥
+      1年3ヶ月間の集大成となる有明の夜になりました！
+      これまで番組に出演してくださった"メタトモ"ゲスト、そして全世界の"メタトモ"の皆様、ありがとうございました！
+      See you🦊
+      #BABYMETAL #メタラジ
+      @metaradi_tfm
+       
+      @MTH_OFFICIAL
+       
+      @japanleaders
+    translation: |-
+      Thank you for coming to "TOKYO FM 55th Anniversary Celebration: BABYMETAL's Meta-Radi! FES"📻🔥
+      It became an Ariake night that served as the culmination of 1 year and 3 months!
+      To all the "Meta-Tomo" guests who have appeared on the program so far, and to all the "Meta-Tomo" around the world, thank you so much!
+      See you🦊
+      #BABYMETAL #メタラジ
+      @metaradi_tfm
+       
+      @MTH_OFFICIAL
+       
+      @japanleaders
+    image:
+    - HElorXXaYAAXaZj
+    - HElqTKOb0AAbbZQ
+    - HElqVeeacAA3sw_
+    part-of:
+      show:
+        year: 2026
+        id: metaradifes
+
+- postx:
+    id: 2044324850920272229
+    account: metaradi_tfm
+    label: Merch online sales
+    published-date: 2026-04-15
+    text: |-
+      【BABYMETALのメタラジ！FES
+       一部グッズ　オンライン販売決定‼️🔥】
+      
+      人気アイテムがオンラインで登場！
+      
+      〇TIE DYE LONG SLEEVE TEE
+      〇PULLOVER HOODIE
+      〇トートバッグ
+      
+      数量限定のためお早めに🦊
+      詳しくはこちらから！
+      https://shop.tfm.co.jp/categories/7286061
+      
+      #BABYMETAL #メタラジ #メタラジフェス #TOKYOFM
+    translation: |-
+      【 BABYMETAL's Meta-Radi! FES
+        Online Sales Confirmed for Select Merch‼️🔥 】
+      
+      Popular items are now available online!
+      
+      〇 TIE DYE LONG SLEEVE TEE
+      〇 PULLOVER HOODIE
+      〇 Tote Bag
+      
+      Quantities are limited, so hurry🦊
+      Click here for details!
+      https://shop.tfm.co.jp/categories/7286061
+      
+      #BABYMETAL #メタラジ #メタラジフェス #TOKYOFM
+    image:
+    - HFwHrYEbAAAVsnu
+    part-of:
+      show:
+        year: 2026
+        id: metaradifes
+
 - postximage:
     post: 1997258646456311954
     id: G7ewJpQaYAAN7po
@@ -53,4 +326,115 @@
         id: metaradifes
     part-of:
       postx: 1997258646456311954
+
+- postximage:
+    post: 2036994361117073613
+    id: HETbgMMbYAAndu6
+    label: Merch
+    context:
+    - show:
+        year: 2026
+        id: metaradifes
+    part-of:
+      postx: 2036994361117073613
+
+- postximage:
+    post: 2036994361117073613
+    id: HETbgMVbIAAUn1C
+    label: Book
+    context:
+    - show:
+        year: 2026
+        id: metaradifes
+    part-of:
+      postx: 2036994361117073613
+
+- postximage:
+    post: 2038279641316884620
+    id: HElorXXaYAAXaZj
+    label: Bands
+    info: maximum the hormone, ATARASHII GAKKO, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: metaradifes
+    part-of:
+      postx: 2038279641316884620
+
+- postximage:
+    post: 2038279641316884620
+    id: HElqTKOb0AAbbZQ
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: metaradifes
+    - song: metali
+    part-of:
+      postx: 2038279641316884620
+
+- postximage:
+    post: 2038279641316884620
+    id: HElqVeeacAA3sw_
+    label: On stage
+    info: ATARASHII GAKKO, BABYMETAL, Mao (maximum the hormone)
+    context:
+    - show:
+        year: 2026
+        id: metaradifes
+    todo: we aaa ?
+    part-of:
+      postx: 2038279641316884620
+
+- postximage:
+    post: 2044324850920272229
+    id: HFwHrYEbAAAVsnu
+    label: Merch
+    context:
+    - show:
+        year: 2026
+        id: metaradifes
+    part-of:
+      postx: 2044324850920272229
+
+- postxvideo:
+    post: 2038078740262257032
+    id: 01
+    label: Merch
+    cover: 2038078499781775360/img/QyFOvGVtJX_XmpoI.jpg
+    context:
+    - show:
+        year: 2026
+        id: metaradifes
+    part-of:
+      postx: 2038078740262257032
+
+- webimage:
+    domain: babymetal.com
+    page: 302662
+    id: merch
+    label: Merch
+    published-date: 2026-05-20
+    url: 'https://babymetal.com/contents/1/TO/6098930400.jpg'
+    context:
+    - show:
+        year: 2026
+        id: metaradifes
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 302662
+
+- webpage:
+    domain: babymetal.com
+    id: 302662
+    label: Merch
+    published-date: 2026-03-25
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=302662'
+    image:
+    - merch
+    part-of:
+      show:
+        year: 2026
+        id: metaradifes
 

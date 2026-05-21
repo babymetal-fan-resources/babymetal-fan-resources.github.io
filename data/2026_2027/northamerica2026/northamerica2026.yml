@@ -1,10 +1,9 @@
 tour:
   id: northamerica2026
   cover-image:
-    webimage:
-      domain: babymetal.com
-      page: 302817
-      id: poster
+    postximage:
+      post: 2041153961328062869
+      image: HFMp-NdaIAAXmjZ
   fullname: WORLD TOUR 2026 NORTH AMERICA
   first-date: 2026-08-30
   last-date: 2026-10-03

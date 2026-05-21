@@ -1,0 +1,180 @@
+- display:
+    show:
+      year: 2026
+      id: perth
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postximage:
+                    post: 2032411604885930481
+                    image: HDSTTHlaMAAspig
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2032411702982263201
+                    image: HDSTXRoaMAAqqka
+                - postximage:
+                    post: 2032411702982263201
+                    image: HDSTXRebwAAPCi9
+    - basicblock:
+        id: beforeevent
+        label: Before the show
+        sections:
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2031652389741277310
+                    image: HDHgijLaQAA-M-e
+    part-of:
+      show:
+        year: 2026
+        id: perth
+
+- postinstagram:
+    id: DV0xTIVigsq
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-05-21
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Perth🇦🇺 
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #PERTH
+      📸 @cassandraedwards_
+    translation: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Perth🇦🇺 
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #PERTH
+      📸 @cassandraedwards_
+    image:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: perth
+    reference:
+    - postximage:
+        post: 2032411604885930481
+        image: HDSTTHlaMAAspig
+
+- postinstagramimage:
+    post: DV0xTIVigsq
+    id: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: perth
+    - song: dokidokimorning
+    todo: check song
+    part-of:
+      postinstagram: DV0xTIVigsq
+
+- postx:
+    id: 2031652389741277310
+    account: BABYMETAL_JAPAN
+    label: Tomorrow
+    published-date: 2026-03-11
+    text: |-
+      ＼🇦🇺Tomorrow 🇦🇺／
+      
+      BABYMETAL's biggest Australia tour starts tomorrow from Perth🔥
+      Final tickets remain at http://BABYMETAL.com/tour
+      
+      See you🦊
+    image:
+    - HDHgijLaQAA-M-e
+    part-of:
+      show:
+        year: 2026
+        id: perth
+
+- postx:
+    id: 2032411604885930481
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-03-13
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Perth🇦🇺 
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #PERTH
+    image:
+    - HDSTTHlaMAAspig
+    part-of:
+      show:
+        year: 2026
+        id: perth
+
+- postx:
+    id: 2032411702982263201
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-03-13
+    text: |-
+      Thank you 
+      @Bloodywood2
+       
+      @Magnoliaparkfl
+       
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #Australia #PERTH
+    image:
+    - HDSTXRebwAAPCi9
+    - HDSTXRoaMAAqqka
+    part-of:
+      show:
+        year: 2026
+        id: perth
+
+- postximage:
+    post: 2031652389741277310
+    id: HDHgijLaQAA-M-e
+    label: Display
+    context:
+    - show:
+        year: 2026
+        id: perth
+    part-of:
+      postx: 2031652389741277310
+
+- postximage:
+    post: 2032411604885930481
+    id: HDSTTHlaMAAspig
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: perth
+    todo: which song ?
+    part-of:
+      postx: 2032411604885930481
+
+- postximage:
+    post: 2032411702982263201
+    id: HDSTXRebwAAPCi9
+    label: Backstage
+    info: Magnolia Park, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: perth
+    part-of:
+      postx: 2032411702982263201
+
+- postximage:
+    post: 2032411702982263201
+    id: HDSTXRoaMAAqqka
+    label: Backstage
+    info: Bloodywood, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: perth
+    part-of:
+      postx: 2032411702982263201
+

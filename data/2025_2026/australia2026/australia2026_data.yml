@@ -28,6 +28,23 @@
     part-of:
       tour: australia2026
 
+- postx:
+    id: 2032109022053298407
+    account: BABYMETAL_JAPAN
+    label: See you at the show
+    published-date: 2026-03-12
+    text: |-
+      BABYMETAL's biggest Australia tour has just started🇦🇺  
+      🎫http://BABYMETAL.com/tour 
+      
+      See you at the show🔥
+    video:
+    - 01
+    part-of:
+      postxvideo:
+        post: 2032109022053298407
+        video: 01
+
 - postximage:
     post: 2017795044791775542
     id: HAABUb1bEAIDTRX
@@ -46,6 +63,16 @@
     - tour: australia2026
     part-of:
       postx: 2026902924924944494
+
+- postxvideo:
+    post: 2032109022053298407
+    id: 01
+    label: See you at the show
+    cover: 2032108615981830144/img/5ViwyziOd_7j4bwq.jpg
+    context:
+    - tour: australia2026
+    part-of:
+      tour: australia2026
 
 - webimage:
     domain: babymetal.com
@@ -148,6 +175,16 @@
     url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=301749'
     image:
     - merch
+    part-of:
+      tour: australia2026
+
+- youtubevideo:
+    id: sfDgihmY_6o
+    label: Recap movie
+    published-date: 2026-03-22
+    context:
+    - song: frommetou
+    - tour: australia2026
     part-of:
       tour: australia2026
 

@@ -1,3 +1,71 @@
+- postx:
+    id: 2032293499216011385
+    account: summer_sonic
+    label: Lineup by date
+    published-date: 2026-03-13
+    text: |-
+      ◤日程別ラインナップ発表⚡️◢
+      
+      お待たせしました！日程別ラインナップの発表です🎉
+      東京8/14(金)・大阪8/15(土)は、THE STROKESにBUMP OF CHICKEN、FKA TWIGS、KASABIAN、KESHIという、ロックから最先端ポップミュージックまでシーンを牽引するアーティストが並び 注目の新人アーティストもラインナップされました。
+      
+      東京8/15(土)・大阪8/16(日)は、残るヘッドライナーが気になるところですが、音楽界のレジェンドDAVID BYRNEとサカナクションが同日に登場。チャートを席巻するALEX WARREN、STEVE LACY、そしてUKロック界の重鎮SUEDEを中心としたラインナップとなっています。
+      
+      東京8/16(日)・大阪8/14(金)は、結成35周年を迎え、サマソニ初出演にしてヘッドライナーを務めるL'Arc-en-Cielを筆頭に、JAMIROQUAIという世界的ビッグネームに加え、ステージキュレーションを務めるBABYMETAL、LE SSERAFIM、mgkなど、各国のトップアーティストが一堂に会するカラフルかつ豪華な1日に。今後もさらなる追加アーティストの発表や、各ステージの詳細などを続々とアナウンスしていきます。
+      
+      1DAYチケット、プラチナ1DAYチケットは 3/14(土)12:00～クリエイティブマン会員、3/21(土)12:00～オフィシャル先行受付がスタートします🎫
+      サマソニ東京の3DAYチケット、プラチナ3DAYチケットはすでにソールドアウトとなりました。 各日のチケットも売り切れる前にお早めのお申し込みを！
+      
+      https://summersonic.com
+       
+      #サマソニ #summersonic
+    translation: |-
+      ◤ Lineup by Date Announced ⚡️ ◢
+      
+      Thank you for waiting! Here is the announcement of the lineup by date 🎉
+      Tokyo 8/14 (Fri) & Osaka 8/15 (Sat) will feature artists leading the scene from rock to cutting-edge pop music, including THE STROKES, BUMP OF CHICKEN, FKA TWIGS, KASABIAN, and KESHI, along with an exciting lineup of up-and-coming artists.
+      
+      Tokyo 8/15 (Sat) & Osaka 8/16 (Sun) still leave us curious about the remaining headliner, but music legend DAVID BYRNE and Sakanaction will appear on the same day. The lineup centers around chart-topping ALEX WARREN, STEVE LACY, and UK rock heavyweights SUEDE.
+      
+      Tokyo 8/16 (Sun) & Osaka 8/14 (Fri) will be a colorful and luxurious day where top artists from various countries gather all at once, led by L'Arc-en-Ciel, who are celebrating their 35th anniversary and headlining Summer Sonic for the first time, plus the world-renowned big name JAMIROQUAI, as well as BABYMETAL (who will also handle stage curation), LE SSERAFIM, mgk, and more. We will continue to announce even more additional artists and details for each stage one after another.
+      
+      1DAY tickets and Platinum 1DAY tickets will be available for Creativeman members starting 3/14 (Sat) at 12:00, and Official Advance Sales will start on 3/21 (Sat) at 12:00 🎫
+      The Tokyo 3DAY tickets and Platinum 3DAY tickets are already sold out.
+      Be sure to apply early for each day's tickets before they sell out!
+      
+      https://summersonic.com
+       
+      #サマソニ #summersonic
+    image:
+    - HDQoIAoa4AA6MPp
+    - HDQoIAsa0AAk_Ke
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- postximage:
+    post: 2032293499216011385
+    id: HDQoIAoa4AA6MPp
+    label: Lineup by date
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2032293499216011385
+
+- postximage:
+    post: 2032293499216011385
+    id: HDQoIAsa0AAk_Ke
+    label: Lineup by date
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    part-of:
+      postx: 2032293499216011385
+
 - webimage:
     domain: babymetal.com
     page: 301498

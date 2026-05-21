@@ -1,3 +1,38 @@
+- postx:
+    id: 2038996569790267447
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2026-03-31
+    text: |-
+      🔥🔥🦊🔥🔥
+      METAL FORTH (DELUXE EDITION) 
+      🔥🔥JUNE 26🔥🔥
+      　　　　        
+      METAL FORTH (DELUXE EDITION) will be available digitally and on vinyl which will feature a zoetrope design, with ten icons from the record brought to life in motion.
+      It will feature three live performances off the record from arena shows in the UK, US, and Japan and two remixes from Major Lazer and Jordan Fish of the standout track “from me to u(feat. Poppy).
+      
+      https://babymetal.lnk.to/MetalForthDeluxe
+      
+      METAL FORTH (DELUXE EDITION) 2026.6.26(金)リリース決定DEATH!!
+      英米日で開催したアリーナ公演のライブ音源と「from me to u（feat. Poppy)」Major Lazer Remix、「from me to u（feat. Poppy)」Jordan Fish Remixを収録したスペシャルな2枚組アナログとデジタルでリリース。アナログ盤は、『METAL FORTH』収録楽曲10曲をモチーフにしたアイコンが、レコードの回転にあわせて鮮やかに動き出すゾートロープ仕様🔥
+      また、日本限定のMETAL FORTH(DELUXE JAPAN EDITION)の発売も決定（詳細は後日発表）
+    video:
+    - 01
+    part-of:
+      postxvideo:
+        post: 2038996569790267447
+        video: 01
+
+- postxvideo:
+    post: 2038996569790267447
+    id: 01
+    label: Teaser
+    cover: 2038991053643280384/img/zNR8O2vZd4B5w3Xs.jpg
+    context:
+    - album: metalforthdelux
+    part-of:
+      album: metalforthdelux
+
 - webimage:
     domain: babymetal.com
     page: 302816

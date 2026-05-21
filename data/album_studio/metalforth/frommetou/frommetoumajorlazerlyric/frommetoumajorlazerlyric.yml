@@ -1,0 +1,13 @@
+multimedia-event:
+  id: frommetoumajorlazerlyric
+  cover-image:
+    localimage:
+      multimedia-event: frommetoumajorlazerlyric
+      id: cover
+  youtubevideo: c1G6ozmenR4
+  parent:
+    song: frommetou
+  categories:
+  - video
+  part-of:
+    song: frommetou

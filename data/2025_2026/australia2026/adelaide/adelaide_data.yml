@@ -1,3 +1,26 @@
+- display:
+    show:
+      year: 2026
+      id: adelaide
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postximage:
+                    post: 2032809792419541077
+                    image: HDX4f-7bIAAi4IH
+    part-of:
+      show:
+        year: 2026
+        id: adelaide
+
 - postx:
     id: 2027273507663720666
     account: BABYMETAL_JAPAN
@@ -12,6 +35,23 @@
         year: 2026
         id: adelaide
 
+- postx:
+    id: 2032809792419541077
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-03-14
+    text: |-
+      Thank you Adelaide for an amazing night🔥  
+      The Australia tour continues🇦🇺  
+      Tickets for the remaining shows are on sale now🎫 
+      http://babymetal.com/tour
+    image:
+    - HDX4f-7bIAAi4IH
+    part-of:
+      show:
+        year: 2026
+        id: adelaide
+
 - postximage:
     post: 2027273507663720666
     id: HCJLQwwaMAAIB0Q
@@ -21,4 +61,17 @@
     todo: switch tour to this poster ?
     part-of:
       postx: 2027273507663720666
+
+- postximage:
+    post: 2032809792419541077
+    id: HDX4f-7bIAAi4IH
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: adelaide
+    - song: babymetaldeath
+    todo: double check song
+    part-of:
+      postx: 2032809792419541077
 

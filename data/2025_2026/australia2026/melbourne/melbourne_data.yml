@@ -1,0 +1,113 @@
+- display:
+    show:
+      year: 2026
+      id: melbourne
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postximage:
+                    post: 2033881134833291674
+                    image: HDnLbXYaAAAROha
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2033881134833291674
+                    image: HDnLZBXbEAEOP3L
+    part-of:
+      show:
+        year: 2026
+        id: melbourne
+
+- postinstagram:
+    id: DV_EEMGkiDU
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-03-17
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Melbourne🇦🇺
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #MELBOURNE
+    image:
+    - 1
+    - 3
+    part-of:
+      show:
+        year: 2026
+        id: melbourne
+    reference:
+    - postximage:
+        post: 2033881134833291674
+        image: HDnLbXYaAAAROha
+    - postximage:
+        post: 2033881134833291674
+        image: HDnLZBXbEAEOP3L
+
+- postinstagramimage:
+    post: DV_EEMGkiDU
+    id: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: melbourne
+    - song: monochrome
+    part-of:
+      postinstagram: DV_EEMGkiDU
+
+- postinstagramimage:
+    post: DV_EEMGkiDU
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: melbourne
+    todo: which song ?
+    part-of:
+      postinstagram: DV_EEMGkiDU
+
+- postx:
+    id: 2033881134833291674
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-03-17
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Melbourne🇦🇺
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #MELBOURNE
+    image:
+    - HDnLZBXbEAEOP3L
+    - HDnLbXYaAAAROha
+    part-of:
+      show:
+        year: 2026
+        id: melbourne
+
+- postximage:
+    post: 2033881134833291674
+    id: HDnLZBXbEAEOP3L
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: melbourne
+    part-of:
+      postx: 2033881134833291674
+
+- postximage:
+    post: 2033881134833291674
+    id: HDnLbXYaAAAROha
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: melbourne
+    part-of:
+      postx: 2033881134833291674
+

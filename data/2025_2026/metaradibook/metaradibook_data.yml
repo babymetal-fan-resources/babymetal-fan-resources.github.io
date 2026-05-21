@@ -35,6 +35,78 @@
         year: 2026
         id: metaradibook
 
+- postx:
+    id: 2038855944575254793
+    account: metaradi_tfm
+    label: On sale today
+    published-date: 2026-03-31
+    text: |-
+      『BABYMETALのメタラジ！BOOK』本日発売🔥
+      
+      超豪華ゲスト16組。
+      祝刊行で激賞の声も届いてます㊗️🎉
+      
+      📕Amazon（ポストカード付き）
+      https://x.gd/G0e4k
+      
+      #メタラジ
+    translation: |-
+      "BABYMETAL's Meta-Radi! BOOK" Goes on Sale Today🔥
+      
+      16 ultra-luxurious guest groups.
+      Voices of high praise are arriving to celebrate its publication㊗️🎉
+      
+      📕Amazon (with postcard)
+      https://x.gd/G0e4k
+      
+      #メタラジ
+    image:
+    - HEt4cQWbIAARJWv
+    - HEt4fkbbgAA2mEq
+    - HEt4hXubkAADP-P
+    part-of:
+      media:
+        year: 2026
+        id: metaradibook
+
+- postx:
+    id: 2041453950852022601
+    account: metaradi_tfm
+    label: Amazon bonus edition sold out
+    published-date: 2026-04-07
+    text: |-
+      『BABYMETALのメタラジ！BOOK』
+      
+      「Amazon購入者特典ポストカード付き」が
+      完売しました‼️
+      たくさんのGET報告、感想のポスト、
+      ありがとうございます🙇
+      
+      通常版は、引き続き販売中✨
+      まだGETしてない方はお早めに‼️💨
+      https://amazon.co.jp/dp/4046079479
+      
+      #メタラジ #BABYMETAL
+    translation: |-
+      "BABYMETAL's Meta-Radi! BOOK"
+      
+      "Amazon Purchaser Bonus with Postcard" is
+      sold out‼️
+      Thank you so much for all the reports of getting it 
+      and posts of your impressions🙇
+      
+      The regular edition is still on sale✨
+      If you haven't gotten yours yet, hurry‼️💨
+      https://amazon.co.jp/dp/4046079479
+      
+      #メタラジ #BABYMETAL
+    image:
+    - HFSy-V_b0AA-KPb
+    part-of:
+      media:
+        year: 2026
+        id: metaradibook
+
 - postximage:
     post: 2015016857921835342
     id: G_a3w7EbsAAvkYX
@@ -46,4 +118,48 @@
         id: metaradibook
     part-of:
       postx: 2015016857921835342
+
+- postximage:
+    post: 2038855944575254793
+    id: HEt4cQWbIAARJWv
+    label: Guests
+    context:
+    - media:
+        year: 2026
+        id: metaradibook
+    part-of:
+      postx: 2038855944575254793
+
+- postximage:
+    post: 2038855944575254793
+    id: HEt4fkbbgAA2mEq
+    label: Reviews
+    context:
+    - media:
+        year: 2026
+        id: metaradibook
+    part-of:
+      postx: 2038855944575254793
+
+- postximage:
+    post: 2038855944575254793
+    id: HEt4hXubkAADP-P
+    label: Reviews
+    context:
+    - media:
+        year: 2026
+        id: metaradibook
+    part-of:
+      postx: 2038855944575254793
+
+- postximage:
+    post: 2041453950852022601
+    id: HFSy-V_b0AA-KPb
+    label: Bonus sold out
+    context:
+    - media:
+        year: 2026
+        id: metaradibook
+    part-of:
+      postx: 2041453950852022601
 

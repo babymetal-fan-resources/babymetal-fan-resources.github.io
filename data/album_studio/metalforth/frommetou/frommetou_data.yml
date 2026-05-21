@@ -371,3 +371,12 @@
     part-of:
       song: frommetou
 
+- youtubevideo:
+    id: c1G6ozmenR4
+    label: Major Lazer remix - Official Lyric Video
+    published-date: 2026-04-17
+    context:
+    - song: frommetou
+    part-of:
+      song: frommetou
+

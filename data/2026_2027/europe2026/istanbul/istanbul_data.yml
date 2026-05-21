@@ -1,3 +1,31 @@
+- postx:
+    id: 2048975492494315644
+    account: BABYMETAL_JAPAN
+    label: Message
+    published-date: 2026-04-28
+    text: |-
+      🇹🇷Istanbul on July 1st 🇹🇷
+      Mark your calendar ーtickets are on sale now!
+      https://biletinial.com/tr-tr/muzik/100-metal-sunar-babymetal
+    video:
+    - 01
+    part-of:
+      show:
+        year: 2026
+        id: istanbul
+
+- postxvideo:
+    post: 2048975492494315644
+    id: 01
+    label: Message
+    cover: 2048937501994471424/img/qe9F0mVPHL22nZzK.jpg
+    context:
+    - show:
+        year: 2026
+        id: istanbul
+    part-of:
+      postx: 2048975492494315644
+
 - update:
     show:
       year: 2026

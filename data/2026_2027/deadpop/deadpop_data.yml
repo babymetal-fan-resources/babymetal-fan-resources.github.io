@@ -1,3 +1,248 @@
+- postinstagram:
+    id: DWtv6TimLgJ
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-04-04
+    text: |-
+      Thank you for coming to DEAD POP FESTiVAL 2026!!! 
+      
+      DEAD POP, you were amazing🔥
+      Thank you for braving the rain! ☔️
+      We had the best time with you!
+      See you soon!!
+      
+      And...thank you @mth.nao 🍫✨
+      
+      #BABYMETAL #SiM #DPF26 #姉メタル
+      @deadpopfest_official @sim_japan
+      📸かわどう
+    image:
+    - 1
+    - 3
+    - 4
+    - 5
+    - 7
+    - 8
+    part-of:
+      show:
+        year: 2026
+        id: deadpop
+    reference:
+    - postximage:
+        post: 2040451562343219397
+        image: HFEiRoNbsAANcz7
+    - postximage:
+        post: 2040451562343219397
+        image: HFEiVsAbQAA1BNE
+
+- postinstagramimage:
+    post: DWtv6TimLgJ
+    id: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: deadpop
+    - song: babymetaldeath
+    todo: check song
+    part-of:
+      postinstagram: DWtv6TimLgJ
+
+- postinstagramimage:
+    post: DWtv6TimLgJ
+    id: 3
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: deadpop
+    - song: babymetaldeath
+    todo: check song
+    part-of:
+      postinstagram: DWtv6TimLgJ
+
+- postinstagramimage:
+    post: DWtv6TimLgJ
+    id: 4
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: deadpop
+    - song: babymetaldeath
+    todo: check song
+    part-of:
+      postinstagram: DWtv6TimLgJ
+
+- postinstagramimage:
+    post: DWtv6TimLgJ
+    id: 5
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: deadpop
+    - song: metali
+    part-of:
+      postinstagram: DWtv6TimLgJ
+
+- postinstagramimage:
+    post: DWtv6TimLgJ
+    id: 7
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: deadpop
+    todo: which song ?
+    part-of:
+      postinstagram: DWtv6TimLgJ
+
+- postinstagramimage:
+    post: DWtv6TimLgJ
+    id: 8
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: deadpop
+    todo: which song ?
+    part-of:
+      postinstagram: DWtv6TimLgJ
+
+- postx:
+    id: 2040451562343219397
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-04-04
+    text: |-
+      Thank you for coming to DEAD POP FESTiVAL 2026!!! 
+      
+      DEAD POP, you were amazing🔥
+      Thank you for braving the rain! ☔️
+      We had the best time with you!
+      See you soon!!
+      
+      And...thank you 
+      @mth_nao
+       🍫✨
+      
+      #BABYMETAL #SiM #DPF26 #姉メタル
+      @DEADPOP_FEST
+       
+      @SiM_Official
+       
+      📸かわどう
+    image:
+    - HFEh-XxasAAHKbo
+    - HFEiRoNbsAANcz7
+    - HFEiT_WaYAAzOv-
+    - HFEiVsAbQAA1BNE
+    part-of:
+      show:
+        year: 2026
+        id: deadpop
+
+- postx:
+    id: 2040987994493190208
+    account: DEADPOP_FEST
+    label: Thank you
+    published-date: 2026-04-06
+    text: |-
+      DEAD POP FESTiVAL 2026
+      無事終了！！
+      沢山のご来場ありがとうございました！！
+      
+      #DPF26
+    translation: |-
+      DEAD POP FESTiVAL 2026
+      Finished safely!!
+      Thank you so much for coming!!
+      
+      #DPF26
+    image:
+    - HFMLwHgbcAAEaAe
+    - HFMLwHhaUAEoYAv
+    part-of:
+      show:
+        year: 2026
+        id: deadpop
+
+- postximage:
+    post: 2040451562343219397
+    id: HFEh-XxasAAHKbo
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: deadpop
+    - song: babymetaldeath
+    todo: check song
+    part-of:
+      postx: 2040451562343219397
+
+- postximage:
+    post: 2040451562343219397
+    id: HFEiRoNbsAANcz7
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: deadpop
+    todo: which song ?
+    part-of:
+      postx: 2040451562343219397
+
+- postximage:
+    post: 2040451562343219397
+    id: HFEiT_WaYAAzOv-
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: deadpop
+    todo: which song ?
+    part-of:
+      postx: 2040451562343219397
+
+- postximage:
+    post: 2040451562343219397
+    id: HFEiVsAbQAA1BNE
+    label: On stage
+    info: Nao (maximum the hormone), BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: deadpop
+    - song: gimichoko
+    part-of:
+      postx: 2040451562343219397
+
+- postximage:
+    post: 2040987994493190208
+    id: HFMLwHgbcAAEaAe
+    label: Bands
+    context:
+    - show:
+        year: 2026
+        id: deadpop
+    part-of:
+      postx: 2040987994493190208
+
+- postximage:
+    post: 2040987994493190208
+    id: HFMLwHhaUAEoYAv
+    label: Bands
+    context:
+    - show:
+        year: 2026
+        id: deadpop
+    part-of:
+      postx: 2040987994493190208
+
 - update:
     show:
       year: 2026
@@ -43,6 +288,22 @@
         domain: babymetal.com
         id: 301738
 
+- webimage:
+    domain: babymetal.com
+    page: 302869
+    id: merch
+    label: Merch
+    published-date: 2026-03-30
+    url: 'https://babymetal.com/contents/1/TO/6678259232.jpg'
+    context:
+    - show:
+        year: 2026
+        id: deadpop
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 302869
+
 - webpage:
     domain: babymetal.com
     id: 301738
@@ -52,6 +313,33 @@
     image:
     - poster
     - bandposter
+    part-of:
+      show:
+        year: 2026
+        id: deadpop
+
+- webpage:
+    domain: babymetal.com
+    id: 302869
+    label: Merch
+    published-date: 2026-03-30
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=302869'
+    image:
+    - merch
+    part-of:
+      show:
+        year: 2026
+        id: deadpop
+
+- youtubevideo:
+    id: khJ3JwaBWuI
+    label: Recap movie
+    published-date: 2026-04-05
+    context:
+    - song: metali
+    - show:
+        year: 2026
+        id: deadpop
     part-of:
       show:
         year: 2026

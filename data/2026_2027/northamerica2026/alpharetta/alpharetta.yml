@@ -2,10 +2,9 @@ show:
   year: 2026
   id: alpharetta
   cover-image:
-    webimage:
-      domain: babymetal.com
-      page: 302817
-      id: poster
+    postximage:
+      post: 2041153961328062869
+      image: HFMp-NdaIAAXmjZ
   fullname: Alpharetta, GA, USA
   date: 2026-09-16
   tour: northamerica2026

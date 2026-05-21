@@ -31,6 +31,22 @@
         page: tour
         id: mexico2026
 
+- postx:
+    id: 2041153961328062869
+    account: BABYMETAL_JAPAN
+    label: Pre-sale start
+    published-date: 2026-04-06
+    text: |-
+      ＼ Artist Pre-sale start／
+      
+      WORLD TOUR 2026 IN NORTH AMERICA 
+      
+      Check http://babymetal.com/tour for more info🦊
+    image:
+    - HFMp-NdaIAAXmjZ
+    part-of:
+      tour: northamerica2026
+
 - postximage:
     post: 2038994732328919045
     id: HEv0yWpa8AAPYwm
@@ -39,6 +55,16 @@
     part-of:
       postx: 2038994732328919045
 
+- postximage:
+    post: 2041153961328062869
+    id: HFMp-NdaIAAXmjZ
+    label: Poster
+    local-copy: true
+    context:
+    - tour: northamerica2026
+    part-of:
+      postx: 2041153961328062869
+
 - webimage:
     domain: babymetal.com
     page: 302817
@@ -46,7 +72,6 @@
     label: Poster
     published-date: 2026-04-01
     url: 'https://babymetal.com/contents/1/TO/5145633011.jpg'
-    local-copy: true
     context:
     - tour: northamerica2026
     - tour: latinamerica2026
@@ -63,6 +88,15 @@
     url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=302817'
     image:
     - poster
+    part-of:
+      tour: northamerica2026
+
+- youtubevideo:
+    id: krb241Yrdic
+    label: Trailer
+    published-date: 2026-04-10
+    context:
+    - tour: northamerica2026
     part-of:
       tour: northamerica2026
 

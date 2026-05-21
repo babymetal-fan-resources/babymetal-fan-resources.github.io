@@ -217,6 +217,48 @@
         page: 299690
         id: jacket
 
+- postx:
+    id: 2045427156776608002
+    account: wowow_mj
+    label: WOWOW broadcast tomorrow
+    published-date: 2026-04-18
+    text: |-
+      ＼🤘🦊いよいよ明日放送＆配信🦊🤘／
+      
+      #BABYMETAL WORLD TOUR 2025-2026
+      　SPECIAL ARENA SHOW IN JAPAN
+      　　　LEGEND - METAL FORTH
+      
+      📅4/19（日）午後9:00～
+      https://wowow.co.jp/detail/206538?utm_source=twitter_music&utm_medium=social&utm_campaign=260418_twmj_0259
+      
+      興奮必至の灼熱のステージ‼
+      ファン投票で選出された“伝説の15曲”も必見🔥
+      
+      録画予約もお忘れなく📺
+      #WOWOW
+    translation: |-
+      ＼🤘🦊 Broadcast & Streaming Finally Tomorrow 🦊🤘／
+      
+      #BABYMETAL WORLD TOUR 2025-2026
+      　SPECIAL ARENA SHOW IN JAPAN
+      　　　LEGEND - METAL FORTH
+      
+      📅4/19 (Sun) 9:00 PM~
+      https://wowow.co.jp/detail/206538?utm_source=twitter_music&utm_medium=social&utm_campaign=260418_twmj_0259
+      
+      A scorching stage bound to excite‼
+      The "15 legendary songs" selected by fan vote are also a must-see🔥
+      
+      Don't forget to set your recording reservation📺
+      #WOWOW
+    image:
+    - HGJ_We5bQAAbEbr
+    part-of:
+      group:
+        id: legendmetalforth
+        group: 2025_2026
+
 - postximage:
     post: 2009207514987151539
     id: G-IjXp6bwAAaq5m
@@ -288,6 +330,18 @@
     label: Poster pop-up store
     part-of:
       postx: 2010908637695521128
+
+- postximage:
+    post: 2045427156776608002
+    id: HGJ_We5bQAAbEbr
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: legendmetalforth1
+    todo: which song ? Sunset Kiss ?
+    part-of:
+      postx: 2045427156776608002
 
 - postxvideo:
     post: 2004114900575309850

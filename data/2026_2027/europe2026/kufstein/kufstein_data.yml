@@ -1,3 +1,34 @@
+- postx:
+    id: 2043575770971553904
+    account: BABYMETAL_JAPAN
+    label: Message
+    published-date: 2026-04-13
+    text: |-
+      🇦🇹WORLD TOUR 2026 in Austria🇦🇹
+      June 9th at Kufstein Festung with Bloodywood
+      
+      https://oeticket.com/event/babymetal-kufstein-festung-21080141/?affiliate=eoe
+      
+      #BABYMETAL
+    video:
+    - 01
+    part-of:
+      show:
+        year: 2026
+        id: kufstein
+
+- postxvideo:
+    post: 2043575770971553904
+    id: 01
+    label: Message
+    cover: 2043575589135945728/img/VwgPcqcAI21-hYH4.jpg
+    context:
+    - show:
+        year: 2026
+        id: kufstein
+    part-of:
+      postx: 2043575770971553904
+
 - webimage:
     domain: babymetal.com
     page: 300492

@@ -1,3 +1,26 @@
+- postx:
+    id: 2045340138721669123
+    account: BABYMETAL_JAPAN
+    label: On sale
+    published-date: 2026-04-18
+    text: |-
+      LIVE AT THE O2 ARENA — HIGHLIGHTS
+      only at indie record stores starting on Record Store Day 2026  
+      http://recordstoreday.com for more info🔥
+    image:
+    - HGKCA_yaIAAE6gA
+    part-of:
+      album: o2highlights
+
+- postximage:
+    post: 2045340138721669123
+    id: HGKCA_yaIAAE6gA
+    label: Flyer
+    context:
+    - album: o2highlights
+    part-of:
+      postx: 2045340138721669123
+
 - webimage:
     domain: babymetal.com
     page: 300952

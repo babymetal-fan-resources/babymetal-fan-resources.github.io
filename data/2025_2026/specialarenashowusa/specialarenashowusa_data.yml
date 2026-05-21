@@ -357,6 +357,58 @@
         year: 2025
         id: specialarenashowusa
 
+- postx:
+    id: 2033468454800638349
+    account: BABYMETAL_JAPAN
+    label: Blu-ray announcement
+    published-date: 2026-03-16
+    text: |-
+      昨年Los Angeles・Intuit Domeにて行われた公演の映像作品『BABYMETAL - LIVE AT INTUIT DOME』発売決定DEATH!!
+      
+      発売日：2026.6.17(水)
+      https://lnk.to/BM_INTUITDOMEPR
+    translation: |-
+      The release of the video work "BABYMETAL - LIVE AT INTUIT DOME," featuring the performance held at the Intuit Dome in Los Angeles last year, has been confirmed DEATH!!
+      
+      Release Date: 2026.6.17 (Wed)
+      https://lnk.to/BM_INTUITDOMEPR
+    image:
+    - HDhUxV9aUAA50Qg
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- postx:
+    id: 2042075029060337739
+    account: BABYMETAL_JAPAN
+    label: THE ONE LIMITED EDITION sales end
+    published-date: 2026-04-09
+    text: |-
+      ＼本日23:59締切／
+      
+      2026.6.17(水)発売
+      『BABYMETAL - LIVE AT INTUIT DOME』- THE ONE LIMITED EDITION - 受付は本日23:59まで！
+      
+      https://asmart.jp/shop/babymetal/product/10049955
+      
+      Blu-ray＋ライブ2CD＋写真集64P＋スペシャルパッケージ仕様🔥
+    translation: |-
+      ＼ Deadline Today 23:59 ／
+      
+      On Sale 2026.6.17 (Wed)
+      "BABYMETAL - LIVE AT INTUIT DOME" - THE ONE LIMITED EDITION - Acceptance ends today at 23:59!
+      
+      https://asmart.jp/shop/babymetal/product/10049955
+      
+      Blu-ray + 2 Live CDs + 64P Photobook + Special Package Specifications🔥
+    image:
+    - HFZewH6a8AMv8XI
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
 - postximage:
     post: 1973342131692745107
     id: G2KkXYFaIAY_zoq
@@ -559,6 +611,29 @@
     part-of:
       postx: 1998996418216779884
 
+- postximage:
+    post: 2033468454800638349
+    id: HDhUxV9aUAA50Qg
+    label: Cover
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 2033468454800638349
+
+- postximage:
+    post: 2042075029060337739
+    id: HFZewH6a8AMv8XI
+    label: Artwork
+    info: THE ONE LIMITED EDITION
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    part-of:
+      postx: 2042075029060337739
+
 - postxvideo:
     post: 1986290916827558196
     id: 01
@@ -671,6 +746,20 @@
     - popup01
     - popupmedia01
     - popupmerch01
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- youtubeshort:
+    id: UuUztJpxz5M
+    label: Blu-ray trailer
+    published-date: 2026-04-07
+    context:
+    - song: frommetou
+    - show:
+        year: 2025
+        id: specialarenashowusa
     part-of:
       show:
         year: 2025

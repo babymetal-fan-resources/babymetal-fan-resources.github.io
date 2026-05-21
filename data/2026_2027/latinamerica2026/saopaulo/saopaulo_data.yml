@@ -1,0 +1,25 @@
+- postx:
+    id: 2053882835665093043
+    account: BABYMETAL_JAPAN
+    label: Sold out
+    published-date: 2026-05-11
+    text: |-
+      Sao Paulo is SOLD OUT! Thank you Brasil! Tickets for the rest of our 2026 World Tour are on-sale now at http://babymetal.com/tour !
+    image:
+    - HIDY2cWaQAQZ4iC
+    part-of:
+      show:
+        year: 2026
+        id: saopaulo
+
+- postximage:
+    post: 2053882835665093043
+    id: HIDY2cWaQAQZ4iC
+    label: Poster sold out
+    context:
+    - show:
+        year: 2026
+        id: saopaulo
+    part-of:
+      postx: 2053882835665093043
+

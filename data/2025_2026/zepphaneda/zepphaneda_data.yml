@@ -1,3 +1,155 @@
+- postinstagram:
+    id: DWg9M26kiYq
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-03-30
+    text: |-
+      Thank you for coming to " BABYMETAL WORLD TOUR 2026 IN JAPAN "at ZEPP HANEDA✈️
+      
+      See You at @deadpopfest_official 🤘
+      
+      #BABYMETAL
+      📸 @fujiitaku
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    part-of:
+      show:
+        year: 2026
+        id: zepphaneda
+
+- postinstagramimage:
+    post: DWg9M26kiYq
+    id: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    todo: which song ?
+    part-of:
+      postinstagram: DWg9M26kiYq
+
+- postinstagramimage:
+    post: DWg9M26kiYq
+    id: 10
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    - song: headbanger
+    part-of:
+      postinstagram: DWg9M26kiYq
+
+- postinstagramimage:
+    post: DWg9M26kiYq
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    - song: metali
+    part-of:
+      postinstagram: DWg9M26kiYq
+
+- postinstagramimage:
+    post: DWg9M26kiYq
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    todo: which song ?
+    part-of:
+      postinstagram: DWg9M26kiYq
+
+- postinstagramimage:
+    post: DWg9M26kiYq
+    id: 4
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    - song: metali
+    todo: check song
+    part-of:
+      postinstagram: DWg9M26kiYq
+
+- postinstagramimage:
+    post: DWg9M26kiYq
+    id: 5
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    todo: which song ?
+    part-of:
+      postinstagram: DWg9M26kiYq
+
+- postinstagramimage:
+    post: DWg9M26kiYq
+    id: 6
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    - song: monochrome
+    part-of:
+      postinstagram: DWg9M26kiYq
+
+- postinstagramimage:
+    post: DWg9M26kiYq
+    id: 7
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    todo: which song ?
+    part-of:
+      postinstagram: DWg9M26kiYq
+
+- postinstagramimage:
+    post: DWg9M26kiYq
+    id: 8
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    - song: babymetaldeath
+    todo: check song
+    part-of:
+      postinstagram: DWg9M26kiYq
+
+- postinstagramimage:
+    post: DWg9M26kiYq
+    id: 9
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    - song: headbanger
+    part-of:
+      postinstagram: DWg9M26kiYq
+
 - postx:
     id: 2027217122619978008
     account: BABYMETAL_JAPAN
@@ -47,6 +199,159 @@
         page: 301523
         id: poster
 
+- postx:
+    id: 2038511798744469648
+    account: BABYMETAL_JAPAN
+    label: Merch is outside the venue
+    published-date: 2026-03-30
+    text: |-
+      「BABYMETAL WORLD TOUR 2026 IN JAPAN」グッズ
+      Zepp Haneda 2階特設グッズ売場で販売中💿
+      ⚠️入場後、場内での販売はございません
+      
+      詳細はこちら👇
+      https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=5544&id=302667
+    translation: |-
+      "BABYMETAL WORLD TOUR 2026 IN JAPAN" Merch
+      Now on sale at the Zepp Haneda 2nd floor special merch booth💿
+      ⚠️There will be no sales inside the venue after admission
+      
+      Details here👇
+      https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=5544&id=302667
+    image:
+    - HEo_eD1bEAAyRDU
+    part-of:
+      show:
+        year: 2026
+        id: zepphaneda
+
+- postx:
+    id: 2038651167266472114
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-03-30
+    text: |-
+      Thank you for coming to " BABYMETAL WORLD TOUR 2026 IN JAPAN "at ZEPP HANEDA✈️
+      
+      See You at 
+      @DEADPOP_FEST
+       🤘
+      
+      #BABYMETAL
+      📸 
+      @fujii_taku
+    translation: |-
+      Thank you for coming to " BABYMETAL WORLD TOUR 2026 IN JAPAN "at ZEPP HANEDA✈️
+      
+      See You at 
+      @DEADPOP_FEST
+       🤘
+      
+      #BABYMETAL
+      📸 
+      @fujii_taku
+    image:
+    - HEq7fseaYAE2ish
+    - HEq7hDqboAAC0zj
+    - HEq7ijoaoAEqn1u
+    - HEq7jyXasAERtCh
+    part-of:
+      show:
+        year: 2026
+        id: zepphaneda
+
+- postx:
+    id: 2044611748355875207
+    account: BABYMETAL_JAPAN
+    label: ' "FOX MAN " QUICK-DRY TEE - Online Sales'
+    published-date: 2026-04-16
+    text: |-
+      「BABYMETAL WORLD TOUR 2026 IN JAPAN」グッズ・「FOX MAN」速乾TEE 通信販売決定!!👕
+      https://babymetal.com/26JP_FoxMan_MerchOnline/
+      
+      #BABYMETAL
+    translation: |-
+      "BABYMETAL WORLD TOUR 2026 IN JAPAN" Merch & "FOX MAN" Quick-Dry TEE Mail-Order Sales Confirmed!!👕
+      https://babymetal.com/26JP_FoxMan_MerchOnline/
+      
+      #BABYMETAL
+    image:
+    - HF7IKLyaAAAX0bH
+    part-of:
+      show:
+        year: 2026
+        id: zepphaneda
+
+- postximage:
+    post: 2038511798744469648
+    id: HEo_eD1bEAAyRDU
+    label: Mini CD Keychain
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    part-of:
+      postx: 2038511798744469648
+
+- postximage:
+    post: 2038651167266472114
+    id: HEq7fseaYAE2ish
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    part-of:
+      postx: 2038651167266472114
+
+- postximage:
+    post: 2038651167266472114
+    id: HEq7hDqboAAC0zj
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    part-of:
+      postx: 2038651167266472114
+
+- postximage:
+    post: 2038651167266472114
+    id: HEq7ijoaoAEqn1u
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    part-of:
+      postx: 2038651167266472114
+
+- postximage:
+    post: 2038651167266472114
+    id: HEq7jyXasAERtCh
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    part-of:
+      postx: 2038651167266472114
+
+- postximage:
+    post: 2044611748355875207
+    id: HF7IKLyaAAAX0bH
+    label: Merch
+    info: '"FOX MAN " QUICK-DRY TEE'
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    part-of:
+      postx: 2044611748355875207
+
 - webimage:
     domain: babymetal.com
     page: 301523
@@ -64,6 +369,22 @@
         domain: babymetal.com
         id: 301523
 
+- webimage:
+    domain: babymetal.com
+    page: 302667
+    id: merch
+    label: Merch
+    published-date: 2026-03-26
+    url: 'https://babymetal.com/contents/1/TO/1088014747.jpg'
+    context:
+    - show:
+        year: 2026
+        id: zepphaneda
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 302667
+
 - webpage:
     domain: babymetal.com
     id: 301523
@@ -72,6 +393,19 @@
     url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=301523'
     image:
     - poster
+    part-of:
+      show:
+        year: 2026
+        id: zepphaneda
+
+- webpage:
+    domain: babymetal.com
+    id: 302667
+    label: Merch
+    published-date: 2026-03-26
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=302667'
+    image:
+    - merch
     part-of:
       show:
         year: 2026
