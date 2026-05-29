@@ -7,6 +7,8 @@ song:
   fullname: かすかなはな
   fullname-en: Kasuka na Hana - キタニタツヤ feat. BABYMETAL
   release-date: 2026-01-11
+  lyrics:
+  - main
   part-of:
     group: externalcolab
   multimedia:

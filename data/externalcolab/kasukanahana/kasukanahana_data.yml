@@ -1,3 +1,253 @@
+- display:
+    song: kasukanahana
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - youtubevideo: t1gkIY4XvJ0
+            - multimediasubsection:
+                multimedia:
+                - youtubevideo: gHIA3Mhc618
+    - lyricsblock: '-'
+    part-of:
+      song: kasukanahana
+
+- lyrics:
+    id: main
+    song: kasukanahana
+    part-of:
+      song: kasukanahana
+    status:
+      code: warning
+      description: Data copied from the sources. Limited checks.
+    languages:
+    - id: ol
+      name: original lyrics
+      details: (from YouTube Official Music Video subtitles)
+      active: true
+      fixed: true
+      no-translation: true
+      source:
+        description: from YouTube Official Music Video subtitles
+        url: 'https://www.youtube.com/watch?v=t1gkIY4XvJ0'
+    - id: en
+      name: english translation
+      details: (from YouTube Official Music Video subtitles)
+      active: true
+      source:
+        description: from YouTube Official Music Video subtitles
+        url: 'https://www.youtube.com/watch?v=t1gkIY4XvJ0'
+    artists:
+    - id: s
+      fullname: SU-METAL
+      label: S
+    - id: t
+      fullname: キタニタツヤ (Tatsuya Kitani)
+      label: T
+      color-code: artist1
+    - id: st
+      fullname: SU-METAL, キタニタツヤ
+      label: S+T
+      color-code: s-artist1
+    sections:
+    - lines:
+      - a: s
+        ol:
+        - 誰にも気づかれずとも一輪の幽かな花、ほころんでいました
+        en:
+        - A faint flower was blooming unnoticed by anyone
+      - a: s
+        ol:
+        - 燃えるような紅とは言えないが、静かな赤ひらめかせていた
+        en:
+        - Not a burning red, but flickering serenely in red
+      - a: t
+        ol:
+        - 両足にひきずる過去がずっと僕を立ち止まらせていました
+        en:
+        - I've been pausing for a long time dragging my past at my feet
+      - a: t
+        ol:
+        - この迷いを断ち切ればいつか僕も隣で咲けるでしょうか
+        en:
+        - If I break free from this ambivalence, will I be able to bloom by its side?
+    - lines:
+      - a: st
+        ol:
+        - 指をすり抜ける未来は、何を間違えた罰か？
+        en:
+        - The future is slipping away between my fingers, what mistake did I make to pay this price?
+      - a: s
+        ol:
+        - 自分を傷つけるばかりで
+        en:
+        - Always hurting myself
+      - a: st
+        ol:
+        - つましい喜び、それさえ躊躇ってしまう
+        en:
+        - and hesitant even to a small joy
+      - a: t
+        ol:
+        - もうやめにしたいよ
+        en:
+        - I want to stop now
+    - lines:
+      - a: st
+        ol:
+        - 花はただ凛と咲いていました
+        en:
+        - The flower just bloomed in dignity
+      - a: st
+        ol:
+        - それだけで僕は幸せでした
+        en:
+        - and that was all I needed to be happy
+      - a: t
+        ol:
+        - この一輪だけを守れたらいい
+        en:
+        - I just wanted to protect this one flower
+      - a: st
+        ol:
+        - 強くありたいと願って僕は
+        en:
+        - Wishing to be strong, I
+      - a: st
+        ol:
+        - 捨てた弱さ、また拾っていました
+        en:
+        - picked up the vulnerability I had once cast away
+      - a: s
+        ol:
+        - 迷いは断ち切れない、迷いながら僕になって
+        en:
+        - Can't break free from the ambivalence, in ambivalence, I become myself
+      - a: st
+        ol:
+        - 土に逞しく根を張るように、風にはかなく揺れ動くように
+        en:
+        - Like rooting strongly into the soil, like swaying ephemerally to the wind
+      - a: st
+        ol:
+        - ゆるりほころんでいく
+        en:
+        - I'm slowly loosening myself to blooms
+    - lines:
+      - a: s
+        ol:
+        - 誰にも気づかれずとも一輪の幽かな花、ほころんでいました
+        en:
+        - A faint flower was blooming unnoticed by anyone
+      - a: s
+        ol:
+        - 生まれた場所に縛られていようが、誰より自由に揺らいでた
+        en:
+        - Though tied to its birthplace, it was swaying more freely than anyone
+      - a: t
+        ol:
+        - 両足に引きずる過去もちゃんと明日に携えていかなくちゃ
+        en:
+        - I must carry over to tomorrow even the past I drag at my feet
+      - a: t
+        ol:
+        - 無と全の間を行って帰る、僕はその中にある気がした
+        en:
+        - Back and forth between nothingness and completeness, I felt that my presence was within
+    - lines:
+      - a: s
+        ol:
+        - 弱さを認められないから
+        en:
+        - Because I can't admit my vulnerability
+      - a: t
+        ol:
+        - 強く揺るぎない、容易くへし折れる心
+        en:
+        - Strong and unwavering, hence easily broken mind
+    - lines:
+      - a: st
+        ol:
+        - 寂しさに見覚えがありました
+        en:
+        - The loneliness seemed familiar to me
+      - a: st
+        ol:
+        - それは君の形をしていました
+        en:
+        - It had the shape of you
+      - a: t
+        ol:
+        - 遠く過ぎ去るだけの徒夢の日々
+        en:
+        - Days of futile dreams only pass by far
+      - a: st
+        ol:
+        - 静心なく散るように生きて
+        en:
+        - Living like dissipating, with no tranquility
+      - a: st
+        ol:
+        - 何も満たされていないのに
+        en:
+        - Nothing is fulfilled
+      - a: s
+        ol:
+        - どうして僕はこの日々を続けるんだろう
+        en:
+        - Why do I keep on living days like this?
+      - a: st
+        ol:
+        - もうやめにしたいよ
+        en:
+        - I want to stop now
+    - lines:
+      - a: st
+        ol:
+        - 花はただ凛と咲いていました
+        en:
+        - The flower just bloomed in dignity
+      - a: st
+        ol:
+        - それだけで僕は幸せでした
+        en:
+        - and that was all I needed to be happy
+      - a: t
+        ol:
+        - この一輪だけを守れたらいい
+        en:
+        - I just wanted to protect this one flower
+      - a: st
+        ol:
+        - 強くありたいと願って僕は
+        en:
+        - Wishing to be strong, I
+      - a: st
+        ol:
+        - 捨てた弱さ、また拾っていました
+        en:
+        - picked up the vulnerability I had once cast away
+      - a: s
+        ol:
+        - 迷いは断ち切れない、迷いながら僕になって
+        en:
+        - Can't break free from the ambivalence, in ambivalence, I become myself
+      - a: st
+        ol:
+        - 土に逞しく根を張るように、風にはかなく揺れ動くように
+        en:
+        - Like rooting strongly into the soil,  like swaying ephemerally to the wind
+      - a: st
+        ol:
+        - ゆるりほころんでいく
+        en:
+        - I'm slowly loosening myself to bloom
+
 - postx:
     id: 2002252624087654673
     account: BABYMETAL_JAPAN
@@ -115,6 +365,14 @@
     todo: switch cover ?
     part-of:
       postx: 2019697580847030570
+
+- update:
+    song: kasukanahana
+    date: 2026-05-29
+    text:
+    - Added the original and english lyrics
+    part-of:
+      song: kasukanahana
 
 - webpage:
     domain: babymetal.com
