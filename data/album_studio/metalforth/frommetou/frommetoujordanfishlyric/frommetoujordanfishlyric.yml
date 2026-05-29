@@ -1,0 +1,13 @@
+multimedia-event:
+  id: frommetoujordanfishlyric
+  cover-image:
+    localimage:
+      multimedia-event: frommetoujordanfishlyric
+      id: cover
+  youtubevideo: 0VBqWDKcUYU
+  parent:
+    song: frommetou
+  categories:
+  - video
+  part-of:
+    song: frommetou

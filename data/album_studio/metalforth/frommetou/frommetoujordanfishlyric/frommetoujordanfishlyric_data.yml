@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: frommetoujordanfishlyric
+  id: cover
+  label: Cover
+  published-date: 2026-05-29
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: frommetoujordanfishlyric

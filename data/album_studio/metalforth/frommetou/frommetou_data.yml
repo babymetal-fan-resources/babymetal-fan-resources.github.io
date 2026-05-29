@@ -371,6 +371,31 @@
     part-of:
       song: frommetou
 
+- update:
+    song: frommetou
+    date: 2026-05-05
+    text:
+    - Major Lazer remix
+    part-of:
+      song: frommetou
+
+- update:
+    song: frommetou
+    date: 2026-05-29
+    text:
+    - Jordan Fish remix
+    part-of:
+      song: frommetou
+
+- youtubevideo:
+    id: 0VBqWDKcUYU
+    label: Jordan Fish Remix - Lyric Video
+    published-date: 2026-05-29
+    context:
+    - song: frommetou
+    part-of:
+      song: frommetou
+
 - youtubevideo:
     id: c1G6ozmenR4
     label: Major Lazer remix - Official Lyric Video
