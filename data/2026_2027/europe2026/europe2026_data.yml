@@ -1,0 +1,25 @@
+- webimage:
+    domain: babymetal.com
+    page: 304860
+    id: merch
+    label: Merch
+    published-date: 2026-05-30
+    url: 'https://babymetal.com/contents/1/TO/8963847107_L.gif'
+    context:
+    - tour: europe2026
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 304860
+
+- webpage:
+    domain: babymetal.com
+    id: 304860
+    label: Merch
+    published-date: 2026-05-30
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=304860'
+    image:
+    - merch
+    part-of:
+      tour: europe2026
+

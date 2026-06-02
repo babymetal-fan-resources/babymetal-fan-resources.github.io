@@ -1,0 +1,30 @@
+- webimage:
+    domain: cannonball-live.jp
+    page: index
+    id: day2poster
+    label: Day 2 poster
+    published-date: 2026-06-02
+    url: 'https://cannonball-live.jp/2026/wp-content/themes/cannonball2026/images/top/bnr/bnr_04.webp'
+    local-copy: true
+    context:
+    - show:
+        year: 2026
+        id: cannoballgaiden
+    part-of:
+      webpage:
+        domain: cannonball-live.jp
+        id: index
+
+- webpage:
+    domain: cannonball-live.jp
+    id: index
+    label: Show page
+    published-date: 2026-06-02
+    url: 'https://cannonball-live.jp/'
+    image:
+    - day2poster
+    part-of:
+      show:
+        year: 2026
+        id: cannoballgaiden
+

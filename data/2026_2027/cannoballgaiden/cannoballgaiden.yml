@@ -1,0 +1,15 @@
+show:
+  year: 2026
+  id: cannoballgaiden
+  cover-image:
+    webimage:
+      domain: cannonball-live.jp
+      page: index
+      id: day2poster
+  fullname: CANNONBALL 外伝
+  sublabel: Tokyo
+  date: 2026-08-10
+  venue: Tokyo Ariake Arena, Tokyo
+  event-page: 'https://cannonball-live.jp/'
+  part-of:
+    group: 2026_2027
