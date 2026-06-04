@@ -3,6 +3,7 @@ package org.skyluc.babymetal_site.html
 import org.skyluc.babymetal_site.Config
 import org.skyluc.babymetal_site.data.ProcessorElement
 import org.skyluc.babymetal_site.html.page.MainSitePage
+import org.skyluc.babymetal_site.html.page.SuNeedsABreakPage
 import org.skyluc.fan_resources.MainSiteConfiguration
 import org.skyluc.fan_resources.data as d
 import org.skyluc.fan_resources.html as fr
@@ -27,7 +28,9 @@ object ElementToPage {
       page.AboutPage
     ) ++ fr.page.UpdatePagePage.pagesFor(generator, page.MainSitePageBuilder)
 
-    val indexedPages = elementPages ++ singlePages
+    val schedule = SuNeedsABreakPage.pagesFor()
+
+    val indexedPages = elementPages ++ singlePages ++ schedule
 
     val sitemapPage = fr.page.SitemapPage(indexedPages)
 
@@ -73,6 +76,7 @@ object ElementToPage {
         Seq(
           Path("colors.css"),
           Path("aboutpage.css"),
+          Path("schedulepage.css"),
           Path("overwrites.css"),
           Path("lyrics.css"),
           Path("tmpnotice.css"),

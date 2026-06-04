@@ -153,6 +153,11 @@ object MainSitePage {
 
   val supportNavItems = Seq(
     NavigationItem(
+      "Schedule",
+      "/schedule.html",
+      List("schedule.html"),
+    ),
+    NavigationItem(
       "Updates",
       "/updates.html",
       List("updates.html"),
