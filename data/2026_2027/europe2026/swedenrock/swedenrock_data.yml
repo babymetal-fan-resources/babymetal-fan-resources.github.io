@@ -1,3 +1,224 @@
+- display:
+    show:
+      year: 2026
+      id: swedenrock
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramvideo:
+                    post: DZK_07LKh0A
+                    video: 1
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postximage:
+                    post: 2062582026037809344
+                    image: HJ-nxibaAAAtL9g
+                - webimage:
+                    domain: rockbladet.se
+                    page: 2026.06.babymetal
+                    id: 2
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DZJLJXBjWbz
+                    image: 3
+                - webimage:
+                    domain: rockbladet.se
+                    page: 2026.06.babymetal
+                    id: 1
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DZJLJXBjWbz
+                    image: 1
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DZJLJXBjWbz
+                    image: 2
+                - postinstagramimage:
+                    post: DZJLJXBjWbz
+                    image: 4
+                - webimage:
+                    domain: rockbladet.se
+                    page: 2026.06.babymetal
+                    id: 3
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DZJLJXBjWbz
+                    image: 5
+                - postinstagramimage:
+                    post: DZJLJXBjWbz
+                    image: 6
+    part-of:
+      show:
+        year: 2026
+        id: swedenrock
+
+- postinstagram:
+    id: DZJLJXBjWbz
+    account: babymetal_official
+    label: Photos
+    published-date: 2026-06-04
+    text: |-
+      BABYMETAL - Sweden Rock Festival 2026
+      ///
+      📸 @lalalarsson 
+      
+      #swedenrock #srf26 #swedenrock2026
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    part-of:
+      show:
+        year: 2026
+        id: swedenrock
+
+- postinstagram:
+    id: DZK_07LKh0A
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-06-04
+    text: |-
+      Thank you for coming to "Sweden Rock" 🇸🇪 
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #SWEDEN 
+      @lindaflorin @swedenrockfestival
+    video:
+    - 1
+    part-of:
+      postinstagramvideo:
+        post: DZK_07LKh0A
+        video: 1
+
+- postinstagramimage:
+    post: DZJLJXBjWbz
+    id: 1
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: swedenrock
+    todo: likely from me to u
+    part-of:
+      postinstagram: DZJLJXBjWbz
+
+- postinstagramimage:
+    post: DZJLJXBjWbz
+    id: 2
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: swedenrock
+    todo: likely from me to u
+    part-of:
+      postinstagram: DZJLJXBjWbz
+
+- postinstagramimage:
+    post: DZJLJXBjWbz
+    id: 3
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: swedenrock
+    todo: likely from me to u
+    part-of:
+      postinstagram: DZJLJXBjWbz
+
+- postinstagramimage:
+    post: DZJLJXBjWbz
+    id: 4
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: swedenrock
+    todo: likely from me to u
+    part-of:
+      postinstagram: DZJLJXBjWbz
+
+- postinstagramimage:
+    post: DZJLJXBjWbz
+    id: 5
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: swedenrock
+    todo: likely metali
+    part-of:
+      postinstagram: DZJLJXBjWbz
+
+- postinstagramimage:
+    post: DZJLJXBjWbz
+    id: 6
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: swedenrock
+    todo: likely metali
+    part-of:
+      postinstagram: DZJLJXBjWbz
+
+- postinstagramvideo:
+    post: DZK_07LKh0A
+    id: 1
+    label: Recap video
+    context:
+    - show:
+        year: 2026
+        id: swedenrock
+    - song: frommetou
+    part-of:
+      show:
+        year: 2026
+        id: swedenrock
+
+- postx:
+    id: 2062582026037809344
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-06-04
+    text: |-
+      Thank you for coming to "Sweden Rock" 🇸🇪 
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #SWEDEN
+    image:
+    - HJ-nxibaAAAtL9g
+    part-of:
+      show:
+        year: 2026
+        id: swedenrock
+
+- postximage:
+    post: 2062582026037809344
+    id: HJ-nxibaAAAtL9g
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: swedenrock
+    - song: frommetou
+    part-of:
+      postx: 2062582026037809344
+
 - update:
     show:
       year: 2026
@@ -5,6 +226,18 @@
     date: 2025-10-21
     text:
     - Added show
+    part-of:
+      show:
+        year: 2026
+        id: swedenrock
+
+- update:
+    show:
+      year: 2026
+      id: swedenrock
+    date: 2026-06-05
+    text:
+    - First pictures and videos from the show
     part-of:
       show:
         year: 2026
@@ -27,6 +260,56 @@
         domain: babymetal.com
         id: 296975
 
+- webimage:
+    domain: rockbladet.se
+    page: 2026.06.babymetal
+    id: 1
+    label: On stage
+    info: MOMOMETAL
+    published-date: 2026-06-04
+    url: 'https://www.rockbladet.se/wp-content/gallery/babymetal-sweden-rock-festival-rock-stage-20260604/babymetal-sweden-rock-festival-rock-stage-20260604-jk-bild-1.jpg'
+    context:
+    - show:
+        year: 2026
+        id: swedenrock
+    part-of:
+      webpage:
+        domain: rockbladet.se
+        id: 2026.06.babymetal
+
+- webimage:
+    domain: rockbladet.se
+    page: 2026.06.babymetal
+    id: 2
+    label: On stage
+    published-date: 2026-06-04
+    url: 'https://www.rockbladet.se/wp-content/gallery/babymetal-sweden-rock-festival-rock-stage-20260604/babymetal-sweden-rock-festival-rock-stage-20260604-jk-bild-2.jpg'
+    context:
+    - show:
+        year: 2026
+        id: swedenrock
+    part-of:
+      webpage:
+        domain: rockbladet.se
+        id: 2026.06.babymetal
+
+- webimage:
+    domain: rockbladet.se
+    page: 2026.06.babymetal
+    id: 3
+    label: On stage
+    info: MOAMETAL
+    published-date: 2026-06-04
+    url: 'https://www.rockbladet.se/wp-content/gallery/babymetal-sweden-rock-festival-rock-stage-20260604/babymetal-sweden-rock-festival-rock-stage-20260604-jk-bild-3.jpg'
+    context:
+    - show:
+        year: 2026
+        id: swedenrock
+    part-of:
+      webpage:
+        domain: rockbladet.se
+        id: 2026.06.babymetal
+
 - webpage:
     domain: babymetal.com
     id: 296975
@@ -35,6 +318,21 @@
     url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=296975'
     image:
     - bandposter
+    part-of:
+      show:
+        year: 2026
+        id: swedenrock
+
+- webpage:
+    domain: rockbladet.se
+    id: 2026.06.babymetal
+    label: Show report
+    published-date: 2026-06-04
+    url: 'https://www.rockbladet.se/2026/06/babymetal-trollbinder-sweden-rock-med-sin-galna-show/'
+    image:
+    - 1
+    - 2
+    - 3
     part-of:
       show:
         year: 2026

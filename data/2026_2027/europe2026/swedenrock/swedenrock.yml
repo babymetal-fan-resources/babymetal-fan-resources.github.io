@@ -15,10 +15,11 @@ show:
   - BABYMETAL will perform at Sweden Rock Festival 2026. The band was revealed as part of the lineup announcement on October 21.
   venue: Sölvesborg, Sweden
   event-page: 'https://swedenrock.com/en/'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2026/norje-havsbad-rock-stage-norje-sweden-5b4e1364.html'
   part-of:
     tour: europe2026
   multimedia:
     main:
-      youtubevideo: vGPDnWuxj3M
-    video:
-    - youtubevideo: vGPDnWuxj3M
+      postximage:
+        post: 2062582026037809344
+        image: HJ-nxibaAAAtL9g
