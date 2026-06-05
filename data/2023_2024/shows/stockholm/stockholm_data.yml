@@ -1,0 +1,101 @@
+- display:
+    show:
+      year: 2023
+      id: stockholm
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - webimage:
+                    domain: rockbladet.se
+                    page: 2023.05.sabaton
+                    id: 5274
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: rockbladet.se
+                    page: 2023.05.sabaton
+                    id: 4991
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: rockbladet.se
+                    page: 2023.05.sabaton
+                    id: 5241
+    part-of:
+      show:
+        year: 2023
+        id: stockholm
+
+- webimage:
+    domain: rockbladet.se
+    page: 2023.05.sabaton
+    id: 4991
+    label: On stage
+    info: MOAMETAL
+    published-date: 2023-05-01
+    url: 'https://www.rockbladet.se/wp-content/gallery/baby-metal-avicii-arena-stockholm-2023-04-28/img-4991.jpg'
+    context:
+    - show:
+        year: 2023
+        id: stockholm
+    part-of:
+      webpage:
+        domain: rockbladet.se
+        id: 2023.05.sabaton
+
+- webimage:
+    domain: rockbladet.se
+    page: 2023.05.sabaton
+    id: 5241
+    label: On stage
+    info: MOMOMETAL
+    published-date: 2023-05-01
+    url: 'https://www.rockbladet.se/wp-content/gallery/baby-metal-avicii-arena-stockholm-2023-04-28/img-5241.jpg'
+    context:
+    - show:
+        year: 2023
+        id: stockholm
+    part-of:
+      webpage:
+        domain: rockbladet.se
+        id: 2023.05.sabaton
+
+- webimage:
+    domain: rockbladet.se
+    page: 2023.05.sabaton
+    id: 5274
+    label: On stage
+    info: SU-METAL
+    published-date: 2023-05-01
+    url: 'https://www.rockbladet.se/wp-content/gallery/baby-metal-avicii-arena-stockholm-2023-04-28/img-5274.jpg'
+    context:
+    - show:
+        year: 2023
+        id: stockholm
+    part-of:
+      webpage:
+        domain: rockbladet.se
+        id: 2023.05.sabaton
+
+- webpage:
+    domain: rockbladet.se
+    id: 2023.05.sabaton
+    label: Photos
+    published-date: 2023-05-01
+    url: 'https://www.rockbladet.se/2023/05/bildgalleri-sabaton-babymetal-lordi-avicii-arena-stockholm-28-april/'
+    image:
+    - 4991
+    - 5241
+    - 5274
+    part-of:
+      show:
+        year: 2023
+        id: stockholm
+
