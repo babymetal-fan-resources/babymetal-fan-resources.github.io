@@ -1,3 +1,25 @@
+- display:
+    show:
+      year: 2026
+      id: hannover
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2067307990147858466
+                    image: HLCM582WwAAkeIN
+    part-of:
+      show:
+        year: 2026
+        id: hannover
+
 - postx:
     id: 2044249358368121109
     account: BABYMETAL_JAPAN
@@ -21,6 +43,37 @@
       show:
         year: 2026
         id: hannover
+
+- postx:
+    id: 2067307990147858466
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-06-17
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 UK & EUROPE in Hannover,Germany🇩🇪 
+      Thank you 
+      @president_band
+       🦊🦊🦊
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+    image:
+    - HLCM582WwAAkeIN
+    part-of:
+      show:
+        year: 2026
+        id: hannover
+
+- postximage:
+    post: 2067307990147858466
+    id: HLCM582WwAAkeIN
+    index: 1
+    label: Backstage
+    info: PRESIDENT, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: hannover
+    part-of:
+      postx: 2067307990147858466
 
 - postxvideo:
     post: 2044249358368121109

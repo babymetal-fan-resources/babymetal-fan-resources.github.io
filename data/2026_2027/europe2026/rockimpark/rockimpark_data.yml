@@ -1,11 +1,178 @@
-update:
-  show:
-    year: 2026
-    id: rockimpark
-  date: 2025-09-23
-  text:
-  - The lineup for Rock Im Park 2026 has been announced. BABYMETAL will perform on Sunday
-  part-of:
+- display:
     show:
       year: 2026
       id: rockimpark
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DZTdvpTCm0h
+                    image: 3
+                - postinstagramimage:
+                    post: DZTdvpTCm0h
+                    image: 2
+                - postinstagramimage:
+                    post: DZTdvpTCm0h
+                    image: 1
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2064070705767944581
+                    image: HKUMlZlWoAEknp0
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2063772333274230889
+                    image: HKP9_ScWQAAPO_n
+    part-of:
+      show:
+        year: 2026
+        id: rockimpark
+
+- postinstagram:
+    id: DZTdvpTCm0h
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-06-08
+    text: |-
+      Thank you for coming to "Rock im Park" 🇩🇪 
+      Next Stop💨 Headline show in Austria🇦🇹
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #Germany #Nürnberg
+    image:
+    - 1
+    - 2
+    - 3
+    part-of:
+      show:
+        year: 2026
+        id: rockimpark
+
+- postinstagramimage:
+    post: DZTdvpTCm0h
+    id: 1
+    label: On stage
+    info: we aaaa
+    context:
+    - show:
+        year: 2026
+        id: rockimpark
+    part-of:
+      postinstagram: DZTdvpTCm0h
+
+- postinstagramimage:
+    post: DZTdvpTCm0h
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: rockimpark
+    - song: roadofresistance
+    part-of:
+      postinstagram: DZTdvpTCm0h
+
+- postinstagramimage:
+    post: DZTdvpTCm0h
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: rockimpark
+    - song: roadofresistance
+    part-of:
+      postinstagram: DZTdvpTCm0h
+
+- postx:
+    id: 2063772333274230889
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-06-08
+    text: |-
+      Thank you for coming to "Rock im Park" 🇩🇪 
+      Next Stop💨 Headline show in Austria🇦🇹
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #Germany #Nürnberg
+      @rockimpark_com
+    image:
+    - HKP9_ScWQAAPO_n
+    part-of:
+      show:
+        year: 2026
+        id: rockimpark
+
+- postx:
+    id: 2064070705767944581
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-06-08
+    text: |-
+      Thank you 
+      @limpbizkit
+       
+      @freddurst
+       ￼￼￼
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #Germany￼ #Nürnberg
+      @rockimpark_com
+    image:
+    - HKUMlZlWoAEknp0
+    part-of:
+      show:
+        year: 2026
+        id: rockimpark
+
+- postximage:
+    post: 2063772333274230889
+    id: HKP9_ScWQAAPO_n
+    index: 1
+    label: At the festival
+    context:
+    - show:
+        year: 2026
+        id: rockimpark
+    part-of:
+      postx: 2063772333274230889
+
+- postximage:
+    post: 2064070705767944581
+    id: HKUMlZlWoAEknp0
+    index: 1
+    label: Backstage
+    info: Limp Bizkit, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: rockimpark
+    part-of:
+      postx: 2064070705767944581
+
+- update:
+    show:
+      year: 2026
+      id: rockimpark
+    date: 2025-09-23
+    text:
+    - The lineup for Rock Im Park 2026 has been announced. BABYMETAL will perform on Sunday
+    part-of:
+      show:
+        year: 2026
+        id: rockimpark
+
+- update:
+    show:
+      year: 2026
+      id: rockimpark
+    date: 2026-06-18
+    text:
+    - First pictures and videos from the show
+    part-of:
+      show:
+        year: 2026
+        id: rockimpark
+

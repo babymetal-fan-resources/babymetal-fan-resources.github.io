@@ -15,5 +15,11 @@ show:
   - mainshow
   venue: Festung Kufstein, Kufstein, Austria
   event-page: 'https://festung-kufstein.live/event/babymetal-festung-kufstein-2026-06-09/'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2026/festung-kufstein-kufstein-austria-2b4a3446.html'
   part-of:
     tour: europe2026
+  multimedia:
+    main:
+      postinstagramimage:
+        post: DZZamL8KgzX
+        image: 1

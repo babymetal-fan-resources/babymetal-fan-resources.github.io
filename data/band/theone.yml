@@ -64,6 +64,32 @@
         id: theone
         group: band
 
+- postx:
+    id: 2064296549039866336
+    account: BABYMETAL_JAPAN
+    label: Photos from the BABYMETAL WORLD TOUR 2026 on Discord
+    published-date: 2026-06-09
+    text: |-
+      ＼THE ONE Discord企画／
+      
+      THE ONE Discordで、BABYMETAL WORLD TOUR 2026のフォトを公開中！💀
+      骨STAFFから投稿しておりますので是非チェックしてください！
+      
+      詳細はTHE ONEをご確認ください🦊
+      https://babymetal.com/theone/
+    translation: |-
+      ＼THE ONE Discord Project／
+      
+      Photos from the BABYMETAL WORLD TOUR 2026 are now available on THE ONE Discord!💀
+      They are being posted by the Bone STAFF, so please check them out!
+      
+      Please check THE ONE for details🦊
+      https://babymetal.com/theone/
+    part-of:
+      group:
+        id: theone
+        group: band
+
 - postximage:
     post: 2027313006124863705
     id: HCFNyBaasAAFLYG

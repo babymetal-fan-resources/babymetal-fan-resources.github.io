@@ -1,3 +1,138 @@
+- display:
+    show:
+      year: 2026
+      id: download
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postxvideo:
+                    post: 2066158240811942267
+                    video: 1
+                - postinstagramvideo:
+                    post: DZkaw2jClly
+                    video: 2
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postinstagramimage:
+                    post: DZkaw2jClly
+                    image: 1
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2066160649936199747
+                    image: HKx6JmzW8AAiqtz
+    part-of:
+      show:
+        year: 2026
+        id: download
+
+- postinstagram:
+    id: DZkaw2jClly
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-06-14
+    text: |-
+      Thank you for coming to "Download Festival"🇬🇧
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #UK
+      @downloadfest
+    image:
+    - 1
+    video:
+    - 2
+    part-of:
+      show:
+        year: 2026
+        id: download
+
+- postinstagramimage:
+    post: DZkaw2jClly
+    id: 1
+    label: On stage
+    info: we aaaa
+    context:
+    - show:
+        year: 2026
+        id: download
+    part-of:
+      postinstagram: DZkaw2jClly
+
+- postinstagramvideo:
+    post: DZkaw2jClly
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: download
+    - song: roadofresistance
+    part-of:
+      postinstagram: DZkaw2jClly
+
+- postx:
+    id: 2066158240811942267
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-06-14
+    text: |-
+      Thank you for coming to "Download Festival"🇬🇧
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #UK
+      @DownloadFest
+    video:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: download
+
+- postx:
+    id: 2066160649936199747
+    account: BABYMETAL_JAPAN
+    label: South Arcade
+    published-date: 2026-06-14
+    text: |-
+      It was great to see you at Download Festival 2026 in UK. We cannot wait to see you at Summer Sonic in Japan!
+      @southarcadeuk
+    image:
+    - HKx6JmzW8AAiqtz
+    part-of:
+      show:
+        year: 2026
+        id: download
+
+- postximage:
+    post: 2066160649936199747
+    id: HKx6JmzW8AAiqtz
+    index: 1
+    label: Backstage
+    info: South Arcade, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: download
+    part-of:
+      postx: 2066160649936199747
+
+- postxvideo:
+    post: 2066158240811942267
+    id: 1
+    label: Recap movie
+    cover: 2066157069820952576/img/2pHk51yj7lggzB8A.jpg
+    context:
+    - show:
+        year: 2026
+        id: download
+    - song: ratatata
+    part-of:
+      postx: 2066158240811942267
+
 - update:
     show:
       year: 2026
@@ -5,6 +140,18 @@
     date: 2025-11-07
     text:
     - Added the show
+    part-of:
+      show:
+        year: 2026
+        id: download
+
+- update:
+    show:
+      year: 2026
+      id: download
+    date: 2026-06-18
+    text:
+    - First pictures and videos from the show
     part-of:
       show:
         year: 2026

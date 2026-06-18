@@ -1,3 +1,241 @@
+- display:
+    show:
+      year: 2026
+      id: rockamring
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramvideo:
+                    post: DZPfpwCsfGt
+                    video: 1
+            - multimediasubsection:
+                multimedia:
+                - postinstagramvideo:
+                    post: DZON42vjFSU
+                    video: 6
+                - postinstagramvideo:
+                    post: DZON42vjFSU
+                    video: 4
+                - postinstagramvideo:
+                    post: DZON42vjFSU
+                    video: 2
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postinstagramimage:
+                    post: DZON42vjFSU
+                    image: 5
+                - postinstagramimage:
+                    post: DZON42vjFSU
+                    image: 3
+                - postinstagramimage:
+                    post: DZON42vjFSU
+                    image: 1
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2063225425724080458
+                    image: HKILRJEWMAExfYg
+                - postinstagramimage:
+                    post: DZPkX0ZChs7
+                    image: 1
+                - postinstagramimage:
+                    post: DZPkX0ZChs7
+                    image: 2
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2064068157686300764
+                    image: HKUJ9sJWIAAQUE6
+                - postximage:
+                    post: 2064072349721215279
+                    image: HKUOVmWXAAA-7mW
+    part-of:
+      show:
+        year: 2026
+        id: rockamring
+
+- postinstagram:
+    id: DZON42vjFSU
+    account: rockamringofficial
+    label: Thank you
+    published-date: 2026-06-06
+    text: |-
+      Fox Signs in der Luft, fette Riffs auf der Bühne. 🦊🔥
+      BABYMETAL haben den Ring komplett übernommen.
+      
+      📹 @maxcramer.studio 
+      📸 @fioniversace @janheesen
+    translation: |-
+      Fox signs in the air, fat riffs on stage. 🦊🔥
+      BABYMETAL have completely taken over the ring.
+      
+      📹 @maxcramer.studio 
+      📸 @fioniversace @janheesen_
+    image:
+    - 1
+    - 3
+    - 5
+    video:
+    - 2
+    - 4
+    - 6
+    part-of:
+      show:
+        year: 2026
+        id: rockamring
+
+- postinstagram:
+    id: DZPfpwCsfGt
+    account: rockamringofficial
+    label: Recap movie
+    published-date: 2026-06-06
+    text: |-
+      Zwischen Kawaii und kompletter Eskalation. 🔥 Babymetal haben die Mandora Stage komplett abgerissen und die Energie von euch war unfassbar. ⚡️
+      
+      📹 @maxcramer.studio @farbtonvideos 
+      ✂️ @maxcramer.studio
+    translation: |-
+      Between Kawaii and complete escalation. 🔥 Babymetal completely tore down the Mandora Stage and your energy was unbelievable. ⚡️
+      
+      📹 @maxcramer.studio @farbtonvideos 
+      ✂️ @maxcramer.studio
+    video:
+    - 1
+    part-of:
+      postinstagramvideo:
+        post: DZPfpwCsfGt
+        video: 1
+
+- postinstagram:
+    id: DZPkX0ZChs7
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-06-06
+    text: |-
+      Thank you for coming to "Rock am Ring" 🇩🇪
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #Germany #Nürburgring @rockamringofficial
+    image:
+    - 1
+    - 2
+    part-of:
+      show:
+        year: 2026
+        id: rockamring
+
+- postinstagramimage:
+    post: DZON42vjFSU
+    id: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: rockamring
+    part-of:
+      postinstagram: DZON42vjFSU
+
+- postinstagramimage:
+    post: DZON42vjFSU
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: rockamring
+    - song: frommetou
+    part-of:
+      postinstagram: DZON42vjFSU
+
+- postinstagramimage:
+    post: DZON42vjFSU
+    id: 5
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: rockamring
+    - song: frommetou
+    todo: double check song
+    part-of:
+      postinstagram: DZON42vjFSU
+
+- postinstagramimage:
+    post: DZPkX0ZChs7
+    id: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: rockamring
+    part-of:
+      postinstagram: DZPkX0ZChs7
+
+- postinstagramimage:
+    post: DZPkX0ZChs7
+    id: 2
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: rockamring
+    part-of:
+      postinstagram: DZPkX0ZChs7
+
+- postinstagramvideo:
+    post: DZON42vjFSU
+    id: 2
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: rockamring
+    part-of:
+      postinstagram: DZON42vjFSU
+
+- postinstagramvideo:
+    post: DZON42vjFSU
+    id: 4
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: rockamring
+    part-of:
+      postinstagram: DZON42vjFSU
+
+- postinstagramvideo:
+    post: DZON42vjFSU
+    id: 6
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: rockamring
+    - song: monochrome
+    part-of:
+      postinstagram: DZON42vjFSU
+
+- postinstagramvideo:
+    post: DZPfpwCsfGt
+    id: 1
+    label: Recap movie
+    context:
+    - show:
+        year: 2026
+        id: rockamring
+    - song: ratatata
+    part-of:
+      show:
+        year: 2026
+        id: rockamring
+
 - postx:
     id: 1970427926710489350
     account: BABYMETAL_JAPAN
@@ -14,6 +252,98 @@
       webpage:
         domain: babymetal.com
         id: 295976
+
+- postx:
+    id: 2063225425724080458
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-06-06
+    text: |-
+      Thank you for coming to "Rock am Ring" 🇩🇪
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #Germany #Nürburgring
+      @rockamring
+    image:
+    - HKILRJEWMAExfYg
+    part-of:
+      show:
+        year: 2026
+        id: rockamring
+
+- postx:
+    id: 2064068157686300764
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-06-08
+    text: |-
+      Thank you 
+      @TriviumOfficial
+       🦊🦊🦊
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #Germany #Nürburgring
+      @rockamring
+    image:
+    - HKUJ9sJWIAAQUE6
+    part-of:
+      show:
+        year: 2026
+        id: rockamring
+
+- postx:
+    id: 2064072349721215279
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-06-08
+    text: |-
+      Thank you 
+      @linkinpark
+       
+      @mikeshinoda
+       🦊🦊🦊
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #Germany #Nürburgring
+      @rockamring
+    image:
+    - HKUOVmWXAAA-7mW
+    part-of:
+      show:
+        year: 2026
+        id: rockamring
+
+- postximage:
+    post: 2063225425724080458
+    id: HKILRJEWMAExfYg
+    index: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: rockamring
+    part-of:
+      postx: 2063225425724080458
+
+- postximage:
+    post: 2064068157686300764
+    id: HKUJ9sJWIAAQUE6
+    index: 1
+    label: Backstage
+    info: Trivium, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: rockamring
+    part-of:
+      postx: 2064068157686300764
+
+- postximage:
+    post: 2064072349721215279
+    id: HKUOVmWXAAA-7mW
+    index: 1
+    label: Backstage
+    info: Mike Shinoda (LINKIN PARK), BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: rockamring
+    part-of:
+      postx: 2064072349721215279
 
 - postxvideo:
     post: 1970427926710489350
@@ -38,6 +368,18 @@
     date: 2025-09-23
     text:
     - The lineup for Rock Am Ring 2026 has been announced. BABYMETAL will perform on Friday
+    part-of:
+      show:
+        year: 2026
+        id: rockamring
+
+- update:
+    show:
+      year: 2026
+      id: rockamring
+    date: 2026-06-18
+    text:
+    - First pictures and videos from the show
     part-of:
       show:
         year: 2026

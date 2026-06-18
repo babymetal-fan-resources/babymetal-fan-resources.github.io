@@ -1,3 +1,159 @@
+- display:
+    show:
+      year: 2026
+      id: rockforpeople
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramvideo:
+                    post: DZdpuYzsMdX
+                    video: 1
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DZdnpSHCtoL
+                    image: 1
+                - postinstagramimage:
+                    post: DZdnpSHCtoL
+                    image: 4
+                - postinstagramimage:
+                    post: DZdnpSHCtoL
+                    image: 5
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2065200908464423380
+                    image: HKkQ8QCXYAAKUMI
+                - postximage:
+                    post: 2065200908464423380
+                    image: HKkQ_n5X0AAdjmM
+                - postinstagramimage:
+                    post: DZdnpSHCtoL
+                    image: 3
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DZdnpSHCtoL
+                    image: 2
+    part-of:
+      show:
+        year: 2026
+        id: rockforpeople
+
+- postinstagram:
+    id: DZdnpSHCtoL
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-06-12
+    text: |-
+      Thank you for coming to @rockforpeople to see our performance! Czech🇨🇿, did you enjoy?
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+      📸 @vojtechmervart @cestmirjira
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    part-of:
+      show:
+        year: 2026
+        id: rockforpeople
+
+- postinstagram:
+    id: DZdpuYzsMdX
+    account: rockforpeople
+    label: Recap movie
+    published-date: 2026-06-12
+    text: |-
+      Až z Japonska za námi dorazily BABYMETAL! 💃🤘
+      
+      🇬🇧 BABYMETAL came all the way from Japan to see you! 💃🤘
+      
+      #jeduRFP #rockforpeople #rockforpeople2026 #babymetal
+    video:
+    - 1
+    part-of:
+      postinstagramvideo:
+        post: DZdpuYzsMdX
+        video: 1
+
+- postinstagramimage:
+    post: DZdnpSHCtoL
+    id: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: rockforpeople
+    part-of:
+      postinstagram: DZdnpSHCtoL
+
+- postinstagramimage:
+    post: DZdnpSHCtoL
+    id: 2
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: rockforpeople
+    part-of:
+      postinstagram: DZdnpSHCtoL
+
+- postinstagramimage:
+    post: DZdnpSHCtoL
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: rockforpeople
+    part-of:
+      postinstagram: DZdnpSHCtoL
+
+- postinstagramimage:
+    post: DZdnpSHCtoL
+    id: 4
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: rockforpeople
+    part-of:
+      postinstagram: DZdnpSHCtoL
+
+- postinstagramimage:
+    post: DZdnpSHCtoL
+    id: 5
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: rockforpeople
+    part-of:
+      postinstagram: DZdnpSHCtoL
+
+- postinstagramvideo:
+    post: DZdpuYzsMdX
+    id: 1
+    label: Recap movie
+    context:
+    - show:
+        year: 2026
+        id: rockforpeople
+    - song: frommetou
+    part-of:
+      show:
+        year: 2026
+        id: rockforpeople
+
 - postx:
     id: 1978400481312399828
     account: rockforpeople
@@ -31,6 +187,23 @@
         year: 2026
         id: rockforpeople
 
+- postx:
+    id: 2065200908464423380
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-06-12
+    text: |-
+      Thank you for coming to "Rock For People”🇨🇿 
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #CzechRepublic #HradecKrálové
+      @rockforpeople
+    image:
+    - HKkQ8QCXYAAKUMI
+    - HKkQ_n5X0AAdjmM
+    part-of:
+      show:
+        year: 2026
+        id: rockforpeople
+
 - postximage:
     post: 1978400481312399828
     id: G3Sv64bXQAAHpGY
@@ -39,6 +212,30 @@
     part-of:
       postx: 1978400481312399828
 
+- postximage:
+    post: 2065200908464423380
+    id: HKkQ8QCXYAAKUMI
+    index: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: rockforpeople
+    part-of:
+      postx: 2065200908464423380
+
+- postximage:
+    post: 2065200908464423380
+    id: HKkQ_n5X0AAdjmM
+    index: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: rockforpeople
+    part-of:
+      postx: 2065200908464423380
+
 - update:
     show:
       year: 2026
@@ -46,6 +243,18 @@
     date: 2025-10-15
     text:
     - BABYMETAL announced for Rock for People
+    part-of:
+      show:
+        year: 2026
+        id: rockforpeople
+
+- update:
+    show:
+      year: 2026
+      id: rockforpeople
+    date: 2026-06-18
+    text:
+    - First pictures and videos from the show
     part-of:
       show:
         year: 2026

@@ -1,3 +1,50 @@
+- display:
+    show:
+      year: 2026
+      id: kufstein
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DZZamL8KgzX
+                    image: 1
+    part-of:
+      show:
+        year: 2026
+        id: kufstein
+
+- postinstagram:
+    id: DZZamL8KgzX
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-06-10
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 UK & EUROPE in Kufstein,Austria 🇦🇹
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #AUSTRIA
+    image:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: kufstein
+
+- postinstagramimage:
+    post: DZZamL8KgzX
+    id: 1
+    label: In the fortress
+    context:
+    - show:
+        year: 2026
+        id: kufstein
+    part-of:
+      postinstagram: DZZamL8KgzX
+
 - postx:
     id: 2043575770971553904
     account: BABYMETAL_JAPAN
@@ -28,6 +75,18 @@
         id: kufstein
     part-of:
       postx: 2043575770971553904
+
+- update:
+    show:
+      year: 2026
+      id: kufstein
+    date: 2026-06-18
+    text:
+    - First pictures from the show
+    part-of:
+      show:
+        year: 2026
+        id: kufstein
 
 - webimage:
     domain: babymetal.com

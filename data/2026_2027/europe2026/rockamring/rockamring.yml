@@ -14,11 +14,11 @@ show:
   - BABYMETAL will be performing at Rock Am Ring, on Friday.
   venue: Nürburgring
   event-page: 'https://www.rock-am-ring.com/'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2026/nurburgring-mandora-stage-nurburg-germany-6341f2f3.html'
   part-of:
     tour: europe2026
   multimedia:
-    video:
-    - postxvideo:
-        post: 1970427926710489350
-        video: 01
-    - youtubevideo: SK8wcyyOAys
+    main:
+      postinstagramimage:
+        post: DZON42vjFSU
+        image: 5
