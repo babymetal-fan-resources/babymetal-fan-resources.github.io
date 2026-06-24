@@ -46,6 +46,7 @@
 - postximage:
     post: 1935200806648549410
     id: GtskrwhWoAMXjbI
+    index: 1
     label: 2nd lineup
     context:
     - show:
@@ -61,6 +62,7 @@
 - postximage:
     post: 1950102125553324249
     id: GxAngoDa8AAhLqm
+    index: 1
     label: 3rd LINE UP
     context:
     - show:

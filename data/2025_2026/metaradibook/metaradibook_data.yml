@@ -110,6 +110,7 @@
 - postximage:
     post: 2015016857921835342
     id: G_a3w7EbsAAvkYX
+    index: 1
     label: Cover
     local-copy: true
     context:
@@ -122,6 +123,7 @@
 - postximage:
     post: 2038855944575254793
     id: HEt4cQWbIAARJWv
+    index: 1
     label: Guests
     context:
     - media:
@@ -133,6 +135,7 @@
 - postximage:
     post: 2038855944575254793
     id: HEt4fkbbgAA2mEq
+    index: 2
     label: Reviews
     context:
     - media:
@@ -144,6 +147,7 @@
 - postximage:
     post: 2038855944575254793
     id: HEt4hXubkAADP-P
+    index: 3
     label: Reviews
     context:
     - media:
@@ -155,6 +159,7 @@
 - postximage:
     post: 2041453950852022601
     id: HFSy-V_b0AA-KPb
+    index: 1
     label: Bonus sold out
     context:
     - media:

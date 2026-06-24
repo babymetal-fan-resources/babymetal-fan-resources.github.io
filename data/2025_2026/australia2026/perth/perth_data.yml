@@ -134,6 +134,7 @@
 - postximage:
     post: 2031652389741277310
     id: HDHgijLaQAA-M-e
+    index: 1
     label: Display
     context:
     - show:
@@ -145,6 +146,7 @@
 - postximage:
     post: 2032411604885930481
     id: HDSTTHlaMAAspig
+    index: 1
     label: On stage
     context:
     - show:
@@ -157,6 +159,7 @@
 - postximage:
     post: 2032411702982263201
     id: HDSTXRebwAAPCi9
+    index: 2
     label: Backstage
     info: Magnolia Park, BABYMETAL
     context:
@@ -169,6 +172,7 @@
 - postximage:
     post: 2032411702982263201
     id: HDSTXRoaMAAqqka
+    index: 1
     label: Backstage
     info: Bloodywood, BABYMETAL
     context:

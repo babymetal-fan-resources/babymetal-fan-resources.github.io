@@ -226,6 +226,7 @@
 - postximage:
     post: 2019613645861450182
     id: HAcbBcZboAA9Q7S
+    index: 1
     label: 10m views
     context:
     - song: song3

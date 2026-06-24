@@ -20,6 +20,7 @@
 - postximage:
     post: 1925707721447203038
     id: Grl7pBtWUAAqn9G
+    index: 1
     label: On stage
     context:
     - show:
@@ -32,6 +33,7 @@
 - postximage:
     post: 1925707721447203038
     id: Grl7qz-XIAA0Ma5
+    index: 2
     label: On stage
     info: SU-METAL
     context:
@@ -45,6 +47,7 @@
 - postximage:
     post: 1925707721447203038
     id: Grl7sgaXQAADNoV
+    index: 3
     label: Crowd
     context:
     - show:
@@ -56,6 +59,7 @@
 - postximage:
     post: 1925707721447203038
     id: Grl7uB-XEAA6h9j
+    index: 4
     label: On stage
     context:
     - show:

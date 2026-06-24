@@ -345,6 +345,7 @@
 - postximage:
     post: 1963839794980811077
     id: G0D12faaYAE8K1c
+    index: 1
     label: Album cover
     context:
     - song: theendffdp

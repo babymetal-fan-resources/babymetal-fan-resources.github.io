@@ -51,6 +51,7 @@
 - postximage:
     post: 1956279699778494838
     id: GyX0EBfawAAuyja
+    index: 1
     label: Merch
     context:
     - show:
@@ -62,6 +63,7 @@
 - postximage:
     post: 1959679931413381381
     id: GzIuIyDaoAA_S0b
+    index: 1
     label: Festival sign
     context:
     - show:

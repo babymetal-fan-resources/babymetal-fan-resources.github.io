@@ -36,6 +36,7 @@
 - postximage:
     post: 1961800272470266363
     id: Gzm2xl-bwAAdfbQ
+    index: 1
     label: On stage
     context:
     - show:
@@ -48,6 +49,7 @@
 - postximage:
     post: 1961800272470266363
     id: Gzm2xl_awAAPWEY
+    index: 2
     label: Venue
     context:
     - show:

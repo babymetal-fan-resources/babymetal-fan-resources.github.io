@@ -285,6 +285,7 @@
 - postximage:
     post: 2038511798744469648
     id: HEo_eD1bEAAyRDU
+    index: 1
     label: Mini CD Keychain
     context:
     - show:
@@ -296,6 +297,7 @@
 - postximage:
     post: 2038651167266472114
     id: HEq7fseaYAE2ish
+    index: 1
     label: On stage
     context:
     - show:
@@ -307,6 +309,7 @@
 - postximage:
     post: 2038651167266472114
     id: HEq7hDqboAAC0zj
+    index: 2
     label: On stage
     info: SU-METAL
     context:
@@ -319,6 +322,7 @@
 - postximage:
     post: 2038651167266472114
     id: HEq7ijoaoAEqn1u
+    index: 3
     label: On stage
     info: MOAMETAL
     context:
@@ -331,6 +335,7 @@
 - postximage:
     post: 2038651167266472114
     id: HEq7jyXasAERtCh
+    index: 4
     label: On stage
     info: MOMOMETAL
     context:
@@ -343,6 +348,7 @@
 - postximage:
     post: 2044611748355875207
     id: HF7IKLyaAAAX0bH
+    index: 1
     label: Merch
     info: '"FOX MAN " QUICK-DRY TEE'
     context:

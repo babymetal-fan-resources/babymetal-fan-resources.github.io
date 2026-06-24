@@ -34,6 +34,7 @@
 - postximage:
     post: 1975848649172349243
     id: G2uTRembIAIoSj5
+    index: 1
     label: Blu-ray / DVD
     context:
     - show:
@@ -45,6 +46,7 @@
 - postximage:
     post: 1975848649172349243
     id: G2uXUy-bIAEh6vU
+    index: 2
     label: Blu-ray / DVD
     info: bonus
     context:

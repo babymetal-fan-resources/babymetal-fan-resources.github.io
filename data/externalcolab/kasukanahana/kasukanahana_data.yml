@@ -340,6 +340,7 @@
 - postximage:
     post: 2002252624087654673
     id: G8iaIavb0AEWW4O
+    index: 1
     label: Poster
     context:
     - song: kasukanahana
@@ -349,6 +350,7 @@
 - postximage:
     post: 2009550724188025055
     id: G-NFldpaIAAtG1r
+    index: 1
     label: Cover
     local-copy: true
     context:
@@ -359,6 +361,7 @@
 - postximage:
     post: 2019697580847030570
     id: HAdn2dGb0AAPFBD
+    index: 2
     label: Cover
     context:
     - song: kasukanahana

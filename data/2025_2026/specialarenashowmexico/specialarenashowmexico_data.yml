@@ -72,6 +72,7 @@
 - postximage:
     post: 1986647217227305318
     id: G5H8fsHbIAACASy
+    index: 1
     label: Band
     context:
     - show:
@@ -83,6 +84,7 @@
 - postximage:
     post: 1986674982659776928
     id: G5ISEfoWQAAaWFn
+    index: 1
     label: Merch
     context:
     - show:
@@ -94,6 +96,7 @@
 - postximage:
     post: 1987388374941147356
     id: G5SbIOCbIAIA1qY
+    index: 1
     label: On stage
     info: SU-METAL
     context:
@@ -107,6 +110,7 @@
 - postximage:
     post: 1987388374941147356
     id: G5SbJWpbMAAeFdt
+    index: 2
     label: On stage
     info: MOAMETAL
     context:
@@ -120,6 +124,7 @@
 - postximage:
     post: 1987388374941147356
     id: G5Sb_FmbUAAqkqV
+    index: 4
     label: On stage
     info: MOMOMETAL
     context:
@@ -133,6 +138,7 @@
 - postximage:
     post: 1987388374941147356
     id: G5SbxZ_bMAAlmgm
+    index: 3
     label: Venue
     context:
     - show:

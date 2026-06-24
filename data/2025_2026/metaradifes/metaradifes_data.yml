@@ -318,6 +318,7 @@
 - postximage:
     post: 1997258646456311954
     id: G7ewJpQaYAAN7po
+    index: 1
     label: Poster
     local-copy: true
     context:
@@ -330,6 +331,7 @@
 - postximage:
     post: 2036994361117073613
     id: HETbgMMbYAAndu6
+    index: 1
     label: Merch
     context:
     - show:
@@ -341,6 +343,7 @@
 - postximage:
     post: 2036994361117073613
     id: HETbgMVbIAAUn1C
+    index: 2
     label: Book
     context:
     - show:
@@ -352,6 +355,7 @@
 - postximage:
     post: 2038279641316884620
     id: HElorXXaYAAXaZj
+    index: 1
     label: Bands
     info: maximum the hormone, ATARASHII GAKKO, BABYMETAL
     context:
@@ -364,6 +368,7 @@
 - postximage:
     post: 2038279641316884620
     id: HElqTKOb0AAbbZQ
+    index: 2
     label: On stage
     context:
     - show:
@@ -376,6 +381,7 @@
 - postximage:
     post: 2038279641316884620
     id: HElqVeeacAA3sw_
+    index: 3
     label: On stage
     info: ATARASHII GAKKO, BABYMETAL, Mao (maximum the hormone)
     context:
@@ -389,6 +395,7 @@
 - postximage:
     post: 2044324850920272229
     id: HFwHrYEbAAAVsnu
+    index: 1
     label: Merch
     context:
     - show:

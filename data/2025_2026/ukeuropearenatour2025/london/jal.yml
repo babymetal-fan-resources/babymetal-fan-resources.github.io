@@ -26,6 +26,7 @@
 - postximage:
     post: 1928469869667750165
     id: GsNGaWdWQAAJpfD
+    index: 1
     label: JAL model
     context:
     - show:

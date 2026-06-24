@@ -36,6 +36,7 @@
 - postximage:
     post: 1960552858165911699
     id: GzSQ1BkaoAAANIp
+    index: 1
     label: Poster
     local-copy: true
     context:
@@ -48,6 +49,7 @@
 - postximage:
     post: 1973091065692344576
     id: G2GbCmSaIAArD2g
+    index: 1
     label: At the venue
     context:
     - show:

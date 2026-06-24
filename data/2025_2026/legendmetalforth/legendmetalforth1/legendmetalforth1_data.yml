@@ -78,6 +78,7 @@
 - postximage:
     post: 2009957158784557347
     id: G-TNCoNasAIsfeE
+    index: 1
     label: At the venue
     context:
     - show:
@@ -89,6 +90,7 @@
 - postximage:
     post: 2010268826290794821
     id: G-Xo11xasAMh4uA
+    index: 1
     label: Setlist cover
     context:
     - show:

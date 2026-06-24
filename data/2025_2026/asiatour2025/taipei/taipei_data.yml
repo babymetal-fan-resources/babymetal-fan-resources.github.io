@@ -49,6 +49,7 @@
 - postximage:
     post: 1971409400209326105
     id: G1s3VB9a0AEcC6U
+    index: 2
     label: Merch
     context:
     - show:
@@ -60,6 +61,7 @@
 - postximage:
     post: 1971409400209326105
     id: G1s3VBybAAAf13W
+    index: 1
     label: Merch
     context:
     - show:
@@ -71,6 +73,7 @@
 - postximage:
     post: 1973783205930283190
     id: G2RJXLZaYAAJFt_
+    index: 1
     label: At the venue
     context:
     - show:

@@ -132,6 +132,7 @@
 - postximage:
     post: 1906725673450037384
     id: GnWCAIwaQAAsAww
+    index: 2
     label: vinyl
     context:
     - album: metalforth
@@ -141,6 +142,7 @@
 - postximage:
     post: 1906725673450037384
     id: GnWCBKhbMAAJmAA
+    index: 3
     label: CD
     context:
     - album: metalforth
@@ -150,6 +152,7 @@
 - postximage:
     post: 1914967729335103936
     id: GpNU6shb0AAhOHP
+    index: 1
     label: bonuses
     context:
     - album: metalforth
@@ -159,6 +162,7 @@
 - postximage:
     post: 1914967729335103936
     id: GpNU6shbQAIXMfC
+    index: 2
     label: THE ONE Limited Edition
     context:
     - album: metalforth
@@ -168,6 +172,7 @@
 - postximage:
     post: 1918244078157992025
     id: Gp7B0L-awAIBYI2
+    index: 1
     label: THE ONE Limited Edition
     context:
     - album: metalforth

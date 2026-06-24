@@ -19,6 +19,7 @@
 - postximage:
     post: 1947199156407427201
     id: GwXVlMnX0AAQu5o
+    index: 1
     label: On stage
     context:
     - song: babymetaldeath
@@ -31,6 +32,7 @@
 - postximage:
     post: 1947199156407427201
     id: GwXVmeqXEAAB6Gb
+    index: 2
     label: On stage
     context:
     - song: babymetaldeath

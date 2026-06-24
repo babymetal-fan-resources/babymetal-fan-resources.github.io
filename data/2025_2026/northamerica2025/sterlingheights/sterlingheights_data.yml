@@ -20,6 +20,7 @@
 - postximage:
     post: 1941012401547366678
     id: Gu_adzLWAAAkyVE
+    index: 1
     label: On stage
     context:
     - show:
@@ -32,6 +33,7 @@
 - postximage:
     post: 1941012401547366678
     id: Gu_afEXX0AA4cmI
+    index: 2
     label: On stage
     context:
     - show:

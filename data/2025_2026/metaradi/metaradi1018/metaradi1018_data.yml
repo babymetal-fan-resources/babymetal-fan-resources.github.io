@@ -27,6 +27,7 @@
 - postximage:
     post: 1979500868522405945
     id: G3iZi29XEAA9eoA
+    index: 1
     label: With the cut outs
     context:
     - media:
@@ -38,6 +39,7 @@
 - postximage:
     post: 1979500868522405945
     id: G3iZi3IWUAA-X4E
+    index: 2
     label: Signature
     info: MAH from SiM
     context:

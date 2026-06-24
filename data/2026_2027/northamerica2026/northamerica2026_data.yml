@@ -50,6 +50,7 @@
 - postximage:
     post: 2038994732328919045
     id: HEv0yWpa8AAPYwm
+    index: 1
     label: Poster
     local-copy: true
     part-of:
@@ -58,6 +59,7 @@
 - postximage:
     post: 2041153961328062869
     id: HFMp-NdaIAAXmjZ
+    index: 1
     label: Poster
     local-copy: true
     context:

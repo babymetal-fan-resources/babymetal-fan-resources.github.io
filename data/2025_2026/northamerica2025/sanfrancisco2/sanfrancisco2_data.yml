@@ -20,6 +20,7 @@
 - postximage:
     post: 1946479530727923789
     id: GwNHDo-XcAEJ-3s
+    index: 1
     label: On stage
     info: SU-METAL
     context:
@@ -32,6 +33,7 @@
 - postximage:
     post: 1946479530727923789
     id: GwNHE5nWQAE29zj
+    index: 2
     label: On stage
     info: MOAMETAL
     context:
@@ -44,6 +46,7 @@
 - postximage:
     post: 1946479530727923789
     id: GwNHF-nW4AA_gUn
+    index: 3
     label: On stage
     info: MOMOMETAL
     context:

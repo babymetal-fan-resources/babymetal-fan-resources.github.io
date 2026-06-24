@@ -20,6 +20,7 @@
 - postximage:
     post: 1937905998565380147
     id: GuS6uIQXIAEnr6P
+    index: 1
     label: Cover
     info: BABYMETAL
     local-copy: true
@@ -33,6 +34,7 @@
 - postximage:
     post: 1937905998565380147
     id: GuTRu-vW0AANJZ7
+    index: 2
     label: Vinyl
     info: BABYMETAL
     context:

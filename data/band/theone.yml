@@ -93,6 +93,7 @@
 - postximage:
     post: 2027313006124863705
     id: HCFNyBaasAAFLYG
+    index: 1
     label: THE ONE TEE 2026
     part-of:
       postx: 2027313006124863705
@@ -100,6 +101,7 @@
 - postximage:
     post: 2039266532145111381
     id: HEv9yp1aUAE139M
+    index: 1
     label: THE ONE TEE 2026
     part-of:
       postx: 2039266532145111381

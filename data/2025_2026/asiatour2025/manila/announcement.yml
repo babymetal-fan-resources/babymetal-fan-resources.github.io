@@ -38,6 +38,7 @@
 - postximage:
     post: 1927545228505862530
     id: GsAEJTlXcAE47LG
+    index: 2
     label: Seat map
     context:
     - show:

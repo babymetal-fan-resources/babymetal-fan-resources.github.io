@@ -412,6 +412,7 @@
 - postximage:
     post: 1973342131692745107
     id: G2KkXYFaIAY_zoq
+    index: 1
     label: Live Viewing
     context:
     - show:
@@ -423,6 +424,7 @@
 - postximage:
     post: 1973705616440074724
     id: G2QCk-faYAAWXp8
+    index: 1
     label: Live viewing mech
     context:
     - show:
@@ -434,6 +436,7 @@
 - postximage:
     post: 1982734262618181955
     id: G4PXWmtXUAA57xl
+    index: 1
     label: Live viewing merch
     context:
     - show:
@@ -445,6 +448,7 @@
 - postximage:
     post: 1984017470047269292
     id: G4frjwwbgAAedC2
+    index: 1
     label: Pop-up poster
     context:
     - show:
@@ -456,6 +460,7 @@
 - postximage:
     post: 1984017470047269292
     id: G4frmX0a8AQ08tg
+    index: 2
     label: Pop-up merch
     context:
     - show:
@@ -467,6 +472,7 @@
 - postximage:
     post: 1984017470047269292
     id: G4frneGa8AEsP1Z
+    index: 3
     label: Pop-up merch
     context:
     - show:
@@ -478,6 +484,7 @@
 - postximage:
     post: 1984017470047269292
     id: G4fronga8AMQNAe
+    index: 4
     label: Pop-up albums
     context:
     - show:
@@ -489,6 +496,7 @@
 - postximage:
     post: 1984030818730385508
     id: G4fpnYMa8AUs5kM
+    index: 1
     label: BABYMETAL x HEAVYS
     context:
     - show:
@@ -500,6 +508,7 @@
 - postximage:
     post: 1984030818730385508
     id: G4fpusOa8AIcbx-
+    index: 2
     label: BABYMETAL x HEAVYS
     context:
     - show:
@@ -511,6 +520,7 @@
 - postximage:
     post: 1984030818730385508
     id: G4fpvs1aIAAS7by
+    index: 3
     label: BABYMETAL x HEAVYS
     context:
     - show:
@@ -522,6 +532,7 @@
 - postximage:
     post: 1984303773590892704
     id: G4moVQubQAQOhzR
+    index: 1
     label: BABYMETAL × KAAMOS.CO
     context:
     - show:
@@ -533,6 +544,7 @@
 - postximage:
     post: 1984787549483569574
     id: G4tPdQxbwAAOUZh
+    index: 1
     label: Poster sold out
     context:
     - show:
@@ -544,6 +556,7 @@
 - postximage:
     post: 1985135500089553098
     id: G4yeINSa4AAfJC-
+    index: 1
     label: On stage
     info: we aaaa
     context:
@@ -556,6 +569,7 @@
 - postximage:
     post: 1985135500089553098
     id: G4yeJh5boAEvMYx
+    index: 2
     label: On stage
     context:
     - show:
@@ -568,6 +582,7 @@
 - postximage:
     post: 1985135500089553098
     id: G4yeLV6bcAAAcGd
+    index: 3
     label: Venue
     context:
     - show:
@@ -580,6 +595,7 @@
 - postximage:
     post: 1985135500089553098
     id: G4yeMn6asAI2oVo
+    index: 4
     label: At the venue
     context:
     - show:
@@ -591,6 +607,7 @@
 - postximage:
     post: 1985164185937031551
     id: G4y4ESqasAAtj75
+    index: 1
     label: At the venue
     info: Courtney LaPlante, BABYMETAL
     context:
@@ -603,6 +620,7 @@
 - postximage:
     post: 1998996418216779884
     id: G73INQtbYAA9R9W
+    index: 1
     label: 'Live viewing merch '
     context:
     - show:
@@ -614,6 +632,7 @@
 - postximage:
     post: 2033468454800638349
     id: HDhUxV9aUAA50Qg
+    index: 1
     label: Cover
     context:
     - show:
@@ -625,6 +644,7 @@
 - postximage:
     post: 2042075029060337739
     id: HFZewH6a8AMv8XI
+    index: 1
     label: Artwork
     info: THE ONE LIMITED EDITION
     context:

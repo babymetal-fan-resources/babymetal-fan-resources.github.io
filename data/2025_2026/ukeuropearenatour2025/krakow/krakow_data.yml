@@ -23,6 +23,7 @@
 - postximage:
     post: 1924789470085140940
     id: GrY04swXYAAuDIs
+    index: 4
     label: Outside
     context:
     - show:
@@ -34,6 +35,7 @@
 - postximage:
     post: 1924789470085140940
     id: GrY0XDsXwAA3nGo
+    index: 1
     label: On stage
     context:
     - show:
@@ -45,6 +47,7 @@
 - postximage:
     post: 1924789470085140940
     id: GrY0ZqUXgAAzv4m
+    index: 2
     label: Young girl
     context:
     - show:
@@ -56,6 +59,7 @@
 - postximage:
     post: 1924789470085140940
     id: GrY0ybHXQAAcr74
+    index: 3
     label: Barrier
     context:
     - show:

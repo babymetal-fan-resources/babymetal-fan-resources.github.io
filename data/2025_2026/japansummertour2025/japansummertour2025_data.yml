@@ -54,6 +54,7 @@
 - postximage:
     post: 1955488004262465613
     id: GyNJisDaEAYpGWn
+    index: 1
     label: Merch
     context:
     - tour: japansummertour2025
@@ -63,6 +64,7 @@
 - postximage:
     post: 1955942133753634993
     id: GyTl1lYa4AIYEs7
+    index: 1
     label: Merch
     context:
     - tour: japansummertour2025

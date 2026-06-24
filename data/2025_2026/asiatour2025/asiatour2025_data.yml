@@ -29,6 +29,7 @@
 - postximage:
     post: 1967065367022628956
     id: G0xrdWnbcAc-XTR
+    index: 1
     label: Poster
     info: with METALVERSE
     local-copy: true
@@ -42,6 +43,7 @@
 - postximage:
     post: 1967065367022628956
     id: G0xrfRybcAAL8IB
+    index: 2
     label: Poster
     info: with METALVERSE
     local-copy: true

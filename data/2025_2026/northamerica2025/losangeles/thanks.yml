@@ -51,6 +51,7 @@
 - postximage:
     post: 1948781027755000246
     id: Gwt043dbgAUofoY
+    index: 1
     label: On stage
     context:
     - show:
@@ -63,6 +64,7 @@
 - postximage:
     post: 1948781027755000246
     id: Gwt06GjbgAA0_84
+    index: 2
     label: On stage
     context:
     - show:

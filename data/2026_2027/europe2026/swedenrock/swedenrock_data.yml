@@ -210,6 +210,7 @@
 - postximage:
     post: 2062582026037809344
     id: HJ-nxibaAAAtL9g
+    index: 1
     label: On stage
     context:
     - show:

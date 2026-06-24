@@ -35,6 +35,7 @@
 - postximage:
     post: 1972314471273209899
     id: G18QGpNaAAAvEyG
+    index: 1
     label: On stage
     context:
     - show:

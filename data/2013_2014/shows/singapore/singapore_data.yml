@@ -19,6 +19,7 @@
 - postximage:
     post: 400968745985642496
     id: BZCG8zbCEAIeU33
+    index: 1
     label: Flyer
     local-copy: true
     context:

@@ -192,6 +192,7 @@
 - postximage:
     post: 1977392564530737451
     id: G25COnXaUAArfec
+    index: 1
     label: Cover
     context:
     - song: getnosatisfied

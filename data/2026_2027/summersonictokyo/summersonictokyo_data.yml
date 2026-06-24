@@ -47,6 +47,7 @@
 - postximage:
     post: 2032293499216011385
     id: HDQoIAoa4AA6MPp
+    index: 1
     label: Lineup by date
     context:
     - show:
@@ -58,6 +59,7 @@
 - postximage:
     post: 2032293499216011385
     id: HDQoIAsa0AAk_Ke
+    index: 2
     label: Lineup by date
     context:
     - show:

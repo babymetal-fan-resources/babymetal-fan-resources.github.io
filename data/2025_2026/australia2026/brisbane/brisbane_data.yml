@@ -190,6 +190,7 @@
 - postximage:
     post: 2035726109665628557
     id: HEBaEacaEAAyPg_
+    index: 1
     label: On stage
     context:
     - show:
@@ -202,6 +203,7 @@
 - postximage:
     post: 2035726109665628557
     id: HEBaEadaEAEsO7D
+    index: 1
     label: Venue
     context:
     - show:
@@ -213,6 +215,7 @@
 - postximage:
     post: 2035726109665628557
     id: HEBaEakaYAAHTAo
+    index: 3
     label: On stage
     info: we aaaa
     context:

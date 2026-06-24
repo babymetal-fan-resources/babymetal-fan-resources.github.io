@@ -95,6 +95,7 @@
 - postximage:
     post: 1961463369304510718
     id: GziBdwLbcAAgrIA
+    index: 1
     label: Backstage
     info: BABYMETAL, Perfume
     context:
@@ -107,6 +108,7 @@
 - postximage:
     post: 1961463369304510718
     id: GziBfyUaYAANDvg
+    index: 2
     label: Backstage
     info: BABYMETAL, LiSA
     context:
@@ -119,6 +121,7 @@
 - postximage:
     post: 1961463369304510718
     id: GziBg8Ma4AAgQlZ
+    index: 3
     label: Backstage
     info: BABYMETAL, PiKi
     context:
@@ -131,6 +134,7 @@
 - postximage:
     post: 1961463369304510718
     id: GziBiI7bkAEPGIm
+    index: 4
     label: Backstage
     info: BABYMETAL, 鈴木新彩 (Sarasa Suzuki)
     context:

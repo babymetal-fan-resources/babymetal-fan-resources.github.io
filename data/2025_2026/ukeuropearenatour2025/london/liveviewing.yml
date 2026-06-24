@@ -113,6 +113,7 @@
 - postximage:
     post: 1907991515562959160
     id: Gnp9cloaYAAlHNs
+    index: 1
     label: Live viewing
     context:
     - show:
@@ -124,6 +125,7 @@
 - postximage:
     post: 1923302653485858818
     id: Gq4QmS8XwAApzMB
+    index: 1
     label: Live viewing merch
     context:
     - show:

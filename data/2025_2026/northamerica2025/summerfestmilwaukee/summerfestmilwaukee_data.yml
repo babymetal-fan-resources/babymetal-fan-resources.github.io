@@ -41,6 +41,7 @@
 - postximage:
     post: 1941752700879684093
     id: GvJ62OBXgAA0Uyw
+    index: 3
     label: On stage
     info: weeeeeaaaaa
     context:
@@ -53,6 +54,7 @@
 - postximage:
     post: 1941752700879684093
     id: GvJ65QWXAAAo0Of
+    index: 4
     label: On stage
     context:
     - show:
@@ -64,6 +66,7 @@
 - postximage:
     post: 1941752700879684093
     id: GvJ6xPgWEAAPk0d
+    index: 1
     label: On stage
     info: weeeeeaaaaa
     context:
@@ -76,6 +79,7 @@
 - postximage:
     post: 1941752700879684093
     id: GvJ6z0tWIAEb4kb
+    index: 2
     label: On stage
     context:
     - show:
@@ -87,6 +91,7 @@
 - postximage:
     post: 1941930972557021327
     id: GvL_0eNXMAAc62Q
+    index: 1
     label: With The Warning
     info: BABYMETAL, The Warning
     context:

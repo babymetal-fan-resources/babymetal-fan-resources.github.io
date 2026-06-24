@@ -299,6 +299,7 @@
 - postximage:
     post: 1947355895903465757
     id: GwZaGJLXQAAI8w6
+    index: 1
     label: Us stores poster
     context:
     - album: metalforth
@@ -308,6 +309,7 @@
 - postximage:
     post: 1947355895903465757
     id: GwZaGJMWsAAfq53
+    index: 2
     label: US stores
     context:
     - album: metalforth
@@ -317,6 +319,7 @@
 - postximage:
     post: 1947790676302958961
     id: GwfxOUNaQAAzYlR
+    index: 1
     label: UK Listening Event
     context:
     - album: metalforth
@@ -326,6 +329,7 @@
 - postximage:
     post: 1953607569572082150
     id: GxyWrQubsAEhpKs
+    index: 1
     label: Listening party
     context:
     - album: metalforth
@@ -335,6 +339,7 @@
 - postximage:
     post: 1954763020607139881
     id: GyC2l9IaQAASNAj
+    index: 2
     label: Music Video
     context:
     - album: metalforth
@@ -345,6 +350,7 @@
 - postximage:
     post: 1954763020607139881
     id: GyC2l9TaEAA-VeL
+    index: 1
     label: Music Video
     context:
     - album: metalforth
@@ -355,6 +361,7 @@
 - postximage:
     post: 1957719075632869468
     id: GystXd_acAIUsFA
+    index: 1
     label: Thank you
     context:
     - album: metalforth

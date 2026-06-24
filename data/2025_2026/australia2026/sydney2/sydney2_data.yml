@@ -116,6 +116,7 @@
 - postximage:
     post: 2034800245373379022
     id: HD0PtPCboAQznbb
+    index: 1
     label: On stage
     context:
     - show:
@@ -129,6 +130,7 @@
 - postximage:
     post: 2034800245373379022
     id: HD0PtPDbkAAIfwD
+    index: 2
     label: Crowd
     context:
     - show:

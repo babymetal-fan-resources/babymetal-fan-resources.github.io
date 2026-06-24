@@ -22,6 +22,7 @@
 - postximage:
     post: 1942823657383850069
     id: GvZGk22XQAAyFHH
+    index: 1
     label: On stage
     context:
     - show:
@@ -33,6 +34,7 @@
 - postximage:
     post: 1942823657383850069
     id: GvZGn3SXwAAFI2w
+    index: 2
     label: On stage
     info: weeeeeaaaaa
     context:
@@ -45,6 +47,7 @@
 - postximage:
     post: 1942823657383850069
     id: GvZGpKQX0AAD6NN
+    index: 3
     label: Crowd
     context:
     - show:
@@ -56,6 +59,7 @@
 - postximage:
     post: 1942823657383850069
     id: GvZGqf7XcAAuq0Z
+    index: 4
     label: On stage
     context:
     - show:

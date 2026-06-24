@@ -338,6 +338,7 @@
 - postximage:
     post: 1908172721055469909
     id: GnsqdGTbQAAkPmf
+    index: 1
     label: cover image
     local-copy: true
     context:
@@ -348,6 +349,7 @@
 - postximage:
     post: 1983239915099042277
     id: G4XhOOWaMAAVV3d
+    index: 1
     label: 10 millions views
     context:
     - song: frommetou
@@ -357,6 +359,7 @@
 - postximage:
     post: 1988293765069705322
     id: G5dzJv8bsAAn-Hl
+    index: 1
     label: Vinyl
     context:
     - song: frommetou

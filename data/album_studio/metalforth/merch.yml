@@ -167,6 +167,7 @@
 - postximage:
     post: 1932601871367381291
     id: GtH63AvboAAwlnQ
+    index: 1
     label: GLASS FOXES TEE + LP
     context:
     - album: metalforth
@@ -176,6 +177,7 @@
 - postximage:
     post: 1945932036797255731
     id: GwFWFuuWkAAyMG9
+    index: 1
     label: Revolver clear edition
     context:
     - album: metalforth
@@ -185,6 +187,7 @@
 - postximage:
     post: 1948781770754973790
     id: Gwt2sT2aoAALq_L
+    index: 1
     label: bonus
     info: TOWER RECORDS
     context:
@@ -195,6 +198,7 @@
 - postximage:
     post: 1952293436784353504
     id: GxfT930bMAA8Ylh
+    index: 1
     label: BABYNET DA DA DA
     context:
     - album: metalforth
@@ -204,6 +208,7 @@
 - postximage:
     post: 1955514611287155194
     id: GyNg0O_a0AAsbrW
+    index: 1
     label: Chard vinyl with signed cards
     context:
     - album: metalforth

@@ -28,6 +28,7 @@
 - postximage:
     post: 1948284475466817789
     id: Gwmq9NuaoAAf_zs
+    index: 1
     label: On stage
     context:
     - show:
@@ -40,6 +41,7 @@
 - postximage:
     post: 1948284475466817789
     id: GwmrNbzbIAAq6R7
+    index: 2
     label: On stage
     context:
     - show:
@@ -51,6 +53,7 @@
 - postximage:
     post: 1948284475466817789
     id: GwmrPq7boAAN-qi
+    index: 3
     label: On stage
     context:
     - show:
@@ -63,6 +66,7 @@
 - postximage:
     post: 1948284475466817789
     id: GwmrQ78asAAdksM
+    index: 4
     label: On Stage
     context:
     - show:

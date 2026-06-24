@@ -54,6 +54,7 @@
 - postximage:
     post: 1951115671615787333
     id: GxLLmq4bgAAtGnf
+    index: 1
     label: Poster sold out
     context:
     - show:
@@ -67,6 +68,7 @@
 - postximage:
     post: 1962359161414664488
     id: GzuyqyUbgAAIxJW
+    index: 1
     label: On stage
     context:
     - show:
@@ -79,6 +81,7 @@
 - postximage:
     post: 1962359161414664488
     id: Gzuytj9aEAEZABJ
+    index: 2
     label: On stage
     context:
     - show:
@@ -91,6 +94,7 @@
 - postximage:
     post: 1962411176324956658
     id: GzvWZWQaIAEQxe2
+    index: 1
     label: Backstage
     info: BABYMETAL, 聖飢魔Ⅱ
     context:

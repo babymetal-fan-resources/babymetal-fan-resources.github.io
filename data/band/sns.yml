@@ -37,6 +37,7 @@
 - postximage:
     post: 2006380177358795138
     id: G9gYI0AXwAAYyP5
+    index: 1
     label: Teaser
     context:
     - song: headbanger
@@ -46,6 +47,7 @@
 - postximage:
     post: 2028485490190782644
     id: HCYAcJ1acAAR5hz
+    index: 1
     label: MOMOMETAL birthday
     part-of:
       postx: 2028485490190782644

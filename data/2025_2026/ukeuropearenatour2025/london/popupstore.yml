@@ -78,6 +78,7 @@
 - postximage:
     post: 1927856319660282208
     id: GsEXovsWYAAUeLb
+    index: 1
     label: Pop Up Merch
     context:
     - show:
@@ -89,6 +90,7 @@
 - postximage:
     post: 1928785133810679817
     id: GsRr0AiWIAExcJc
+    index: 1
     label: Wall of signature
     context:
     - show:

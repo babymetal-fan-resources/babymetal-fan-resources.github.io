@@ -36,6 +36,7 @@
 - postximage:
     post: 1927273572768116988
     id: Gr6MzAwWEAAVQqO
+    index: 1
     label: Poster
     info: sold out
     local-copy: true
@@ -49,6 +50,7 @@
 - postximage:
     post: 1927881848094437402
     id: GsE0WAJXUAELhja
+    index: 1
     label: On stage
     context:
     - show:
@@ -61,6 +63,7 @@
 - postximage:
     post: 1927881848094437402
     id: GsE0ZHDWwAAhLtb
+    index: 2
     label: On stage
     info: weeee aaarre!!
     context:
@@ -73,6 +76,7 @@
 - postximage:
     post: 1927881848094437402
     id: GsE0cROXYAAIOJs
+    index: 3
     label: Crowd
     context:
     - show:
@@ -85,6 +89,7 @@
 - postximage:
     post: 1927881848094437402
     id: GsE0eAHXAAAI7k2
+    index: 4
     label: Crowd
     context:
     - show:

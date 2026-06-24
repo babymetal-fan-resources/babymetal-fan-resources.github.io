@@ -18,6 +18,7 @@
 - postximage:
     post: 350131855217020928
     id: BNvrETdCUAAxNSk
+    index: 1
     label: Banner
     local-copy: true
     context:

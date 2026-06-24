@@ -128,6 +128,7 @@
 - postximage:
     post: 2001895275561103396
     id: G8fzb3SaMAAmBed
+    index: 1
     label: Poster sold out
     local-copy: true
     context:
@@ -140,6 +141,7 @@
 - postximage:
     post: 2034800727147880927
     id: HD0QSBNb0AAckGP
+    index: 1
     label: '"HYAKKO YAKO" tee'
     context:
     - show:
@@ -151,6 +153,7 @@
 - postximage:
     post: 2034800727147880927
     id: HD0QU7BboAARcBs
+    index: 2
     label: '"HYAKKO YAKO" tee'
     context:
     - show:
@@ -162,6 +165,7 @@
 - postximage:
     post: 2034975485500039215
     id: HD2ujboaIAAoB40
+    index: 1
     label: Venue
     context:
     - show:

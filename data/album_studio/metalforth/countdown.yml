@@ -30,6 +30,7 @@
 - postximage:
     post: 1949645138097279340
     id: Gw6HPsKbgAAs7lA
+    index: 1
     label: Red transparent edition
     context:
     - album: metalforth
@@ -39,6 +40,7 @@
 - postximage:
     post: 1949645138097279340
     id: Gw6HRAqbwAADKZ3
+    index: 2
     label: clear edition
     context:
     - album: metalforth
@@ -48,6 +50,7 @@
 - postximage:
     post: 1949645138097279340
     id: Gw6HSspaMAAGnCh
+    index: 3
     label: blackout edition
     context:
     - album: metalforth
@@ -57,6 +60,7 @@
 - postximage:
     post: 1949645138097279340
     id: Gw6HUAebMAAZQX_
+    index: 4
     label: vinyls
     context:
     - album: metalforth

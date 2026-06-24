@@ -61,6 +61,7 @@
 - postximage:
     post: 1906725673450037384
     id: GnWBzbdbgAA2zuP
+    index: 1
     label: cover image
     local-copy: true
     context:
@@ -71,6 +72,7 @@
 - postximage:
     post: 1976477139747864886
     id: G23Zu2dasAA8jBQ
+    index: 1
     label: Flyer
     context:
     - album: metalforth

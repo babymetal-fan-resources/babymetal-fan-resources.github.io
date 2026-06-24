@@ -48,6 +48,7 @@
 - postximage:
     post: 1927488871740109116
     id: Gr_Q58gXMAADG3o
+    index: 1
     label: Low Tickets poster
     context:
     - show:
@@ -59,6 +60,7 @@
 - postximage:
     post: 1928044340867178916
     id: GsHI5cJaUAEzOpm
+    index: 1
     label: Cover sold out
     local-copy: true
     context:

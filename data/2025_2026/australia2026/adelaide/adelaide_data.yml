@@ -55,6 +55,7 @@
 - postximage:
     post: 2027273507663720666
     id: HCJLQwwaMAAIB0Q
+    index: 1
     label: Poster
     context:
     - tour: australia2026
@@ -65,6 +66,7 @@
 - postximage:
     post: 2032809792419541077
     id: HDX4f-7bIAAi4IH
+    index: 1
     label: On stage
     context:
     - show:

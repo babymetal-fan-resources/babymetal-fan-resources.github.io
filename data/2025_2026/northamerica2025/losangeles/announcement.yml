@@ -54,6 +54,7 @@
 - postximage:
     post: 1945891248981832107
     id: GwEvs9JW8AIIQFg
+    index: 1
     label: Poster
     local-copy: true
     context:
@@ -66,6 +67,7 @@
 - postximage:
     post: 1947367057655316932
     id: GwZvm_0WAAAfaFP
+    index: 1
     label: Poster sold out
     context:
     - show:

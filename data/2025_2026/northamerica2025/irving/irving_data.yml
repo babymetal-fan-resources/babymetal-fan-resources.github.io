@@ -22,6 +22,7 @@
 - postximage:
     post: 1934132880441233442
     id: Gtdrma3WoAA55Sq
+    index: 3
     label: Venue
     context:
     - show:
@@ -33,6 +34,7 @@
 - postximage:
     post: 1934132880441233442
     id: GtdrmaWXgAA5JrD
+    index: 1
     label: On stage
     context:
     - show:
@@ -45,6 +47,7 @@
 - postximage:
     post: 1934132880441233442
     id: GtdrmanWIAAc_Je
+    index: 4
     label: Crowd
     context:
     - show:
@@ -56,6 +59,7 @@
 - postximage:
     post: 1934132880441233442
     id: GtdrmawWgAAYaRj
+    index: 2
     label: On stage
     context:
     - show:

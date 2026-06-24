@@ -49,6 +49,7 @@
 - postximage:
     post: 1944804083430515175
     id: Gvy0eR1bgAAkfN_
+    index: 1
     label: Poster
     context:
     - show:
@@ -60,6 +61,7 @@
 - postximage:
     post: 1945604355219935396
     id: Gv_iY7wXsAUHBKv
+    index: 1
     label: Sold out
     context:
     - show:

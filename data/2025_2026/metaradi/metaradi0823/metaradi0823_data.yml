@@ -28,6 +28,7 @@
 - postximage:
     post: 1958363513799454864
     id: Gy2BPDSakAA-IXc
+    index: 1
     label: YUNGBLUD
     context:
     - media:
@@ -39,6 +40,7 @@
 - postximage:
     post: 1958363513799454864
     id: Gy2BPDWbIAES1qn
+    index: 2
     label: Hot Milk
     context:
     - media:
@@ -50,6 +52,7 @@
 - postximage:
     post: 1958363513799454864
     id: Gy2BPDcawAA-6dd
+    index: 3
     label: Hyde
     context:
     - media:

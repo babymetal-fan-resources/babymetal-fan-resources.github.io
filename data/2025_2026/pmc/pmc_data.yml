@@ -75,6 +75,7 @@
 - postximage:
     post: 1914876896082583656
     id: GpLfm5xa4AM7Owd
+    index: 1
     label: cover
     local-copy: true
     context:
@@ -87,6 +88,7 @@
 - postximage:
     post: 1925023744986058905
     id: GrYhyIWbAAQ_HF2
+    index: 1
     label: cover
     context:
     - media:
@@ -98,6 +100,7 @@
 - postximage:
     post: 1925023744986058905
     id: GrYhyIzbwAAP05r
+    index: 2
     label: inside
     context:
     - media:
@@ -109,6 +112,7 @@
 - postximage:
     post: 1931924215965356195
     id: Gs-JgZfbQAAhUWX
+    index: 1
     label: Billboard
     info: Shibuya Station
     context:
@@ -121,6 +125,7 @@
 - postximage:
     post: 1934898813619065008
     id: GtoFCX1a0AQgQ2W
+    index: 1
     label: Store front
     context:
     - media:
@@ -132,6 +137,7 @@
 - postximage:
     post: 1934898813619065008
     id: GtoFDiGboAAaC0w
+    index: 2
     label: Store window
     context:
     - media:
