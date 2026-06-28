@@ -1,3 +1,147 @@
+- display:
+    show:
+      year: 2026
+      id: graspop
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramvideo:
+                    post: DZ7grvVCHWy
+                    video: 1
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postinstagramimage:
+                    post: DZ2pevsgC34
+                    image: 1
+                - postximage:
+                    post: 2068509679567909374
+                    image: HLTRJ0oaQAA7hKd
+                - postinstagramimage:
+                    post: DZ1HPb-SQEd
+                    image: 1
+    part-of:
+      show:
+        year: 2026
+        id: graspop
+
+- postinstagram:
+    id: DZ1HPb-SQEd
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-06-21
+    text: |-
+      Thank you for coming to "Graspop Metal Meeting"🇧🇪 
+      #BABYMETAL #BABYMETALWORLDTOUR2026 #GMM26
+      @graspopmetalmeeting
+    image:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: graspop
+
+- postinstagram:
+    id: DZ2pevsgC34
+    account: evilfredos
+    label: Thank you
+    published-date: 2026-06-21
+    text: |-
+      Always a pleasure to catch up with @babymetal_official 🤗
+      We’ve known each other for many years, and we’ve even shared the stage together a couple of times ❤️🖤🦊
+    image:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: graspop
+
+- postinstagram:
+    id: DZ7grvVCHWy
+    account: graspopmetalmeeting
+    label: Digest movie
+    published-date: 2026-06-23
+    text: |-
+      I don't wanna stop, we push it to the limit! 🔥
+      The Fox God smiled upon #GMM26 as @babymetal_official conquered the festival grounds. 🦊🤘
+    video:
+    - 1
+    part-of:
+      postinstagramvideo:
+        post: DZ7grvVCHWy
+        video: 1
+
+- postinstagramimage:
+    post: DZ1HPb-SQEd
+    id: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: graspop
+    part-of:
+      postinstagram: DZ1HPb-SQEd
+
+- postinstagramimage:
+    post: DZ2pevsgC34
+    id: 1
+    label: Backstage
+    info: BABYMETAL, Frédéric Leclercq
+    context:
+    - show:
+        year: 2026
+        id: graspop
+    part-of:
+      postinstagram: DZ2pevsgC34
+
+- postinstagramvideo:
+    post: DZ7grvVCHWy
+    id: 1
+    label: Digest movie
+    context:
+    - show:
+        year: 2026
+        id: graspop
+    part-of:
+      show:
+        year: 2026
+        id: graspop
+
+- postx:
+    id: 2068509679567909374
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-06-21
+    text: |-
+      Thank you for coming to "Graspop Metal Meeting"🇧🇪
+       #BABYMETAL #BABYMETALWORLDTOUR2026 #GMM26
+      @GraspopMetal
+    image:
+    - HLTRJ0oaQAA7hKd
+    part-of:
+      show:
+        year: 2026
+        id: graspop
+
+- postximage:
+    post: 2068509679567909374
+    id: HLTRJ0oaQAA7hKd
+    index: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: graspop
+    part-of:
+      postx: 2068509679567909374
+
 - update:
     show:
       year: 2026
@@ -5,6 +149,18 @@
     date: 2025-10-29
     text:
     - Added the show
+    part-of:
+      show:
+        year: 2026
+        id: graspop
+
+- update:
+    show:
+      year: 2026
+      id: graspop
+    date: 2026-06-27
+    text:
+    - First pictures and videos from the show
     part-of:
       show:
         year: 2026

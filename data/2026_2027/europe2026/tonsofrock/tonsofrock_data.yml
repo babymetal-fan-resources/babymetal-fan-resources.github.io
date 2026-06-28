@@ -1,3 +1,34 @@
+- display:
+    show:
+      year: 2026
+      id: tonsofrock
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postinstagramimage:
+                    post: DaAodnkGI8N
+                    image: 3
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2070129935792869730
+                    image: HLqST15W0AApf-P
+                - postinstagramimage:
+                    post: DaAodnkGI8N
+                    image: 2
+    part-of:
+      show:
+        year: 2026
+        id: tonsofrock
+
 - postinstagram:
     id: DQWNpCFjeVn
     account: tonsofrock
@@ -29,6 +60,27 @@
         year: 2026
         id: tonsofrock
 
+- postinstagram:
+    id: DaAodnkGI8N
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-06-25
+    text: |-
+      Thank you for coming to "Tons of Rock"🇳🇴 
+      Thank you @bringmethehorizon 🦊🦊🦊
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+    image:
+    - 2
+    - 3
+    part-of:
+      show:
+        year: 2026
+        id: tonsofrock
+    reference:
+    - postximage:
+        post: 2070129935792869730
+        image: HLqST15W0AApf-P
+
 - postinstagramimage:
     post: DQWNpCFjeVn
     id: 01
@@ -52,6 +104,59 @@
     part-of:
       postinstagram: DQWNpCFjeVn
 
+- postinstagramimage:
+    post: DaAodnkGI8N
+    id: 2
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postinstagram: DaAodnkGI8N
+
+- postinstagramimage:
+    post: DaAodnkGI8N
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postinstagram: DaAodnkGI8N
+
+- postx:
+    id: 2070129935792869730
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-06-25
+    text: |-
+      Thank you for coming to "Tons of Rock"🇳🇴 
+      Thank you 
+      @bmthofficial
+       🦊🦊🦊
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+    image:
+    - HLqST15W0AApf-P
+    part-of:
+      show:
+        year: 2026
+        id: tonsofrock
+
+- postximage:
+    post: 2070129935792869730
+    id: HLqST15W0AApf-P
+    index: 1
+    label: Backstage
+    info: Bring Me The Horizon, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postx: 2070129935792869730
+
 - update:
     show:
       year: 2026
@@ -59,6 +164,18 @@
     date: 2025-10-28
     text:
     - Added the show
+    part-of:
+      show:
+        year: 2026
+        id: tonsofrock
+
+- update:
+    show:
+      year: 2026
+      id: tonsofrock
+    date: 2026-06-27
+    text:
+    - First pictures from the show
     part-of:
       show:
         year: 2026

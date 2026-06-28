@@ -1,3 +1,87 @@
+- display:
+    show:
+      year: 2026
+      id: impericon
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DaESg0XEm6C
+                    image: 2
+                - postximage:
+                    post: 2070645746878017918
+                    image: HLxoh4-WkAAqZIO
+    part-of:
+      show:
+        year: 2026
+        id: impericon
+
+- postinstagram:
+    id: DaESg0XEm6C
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-06-27
+    text: |-
+      Thank you for coming to "Impericon Festival" 🇩🇪 
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+      @impericonde
+    image:
+    - 2
+    part-of:
+      show:
+        year: 2026
+        id: impericon
+    reference:
+    - postximage:
+        post: 2070645746878017918
+        image: HLxoh4-WkAAqZIO
+
+- postinstagramimage:
+    post: DaESg0XEm6C
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: impericon
+    part-of:
+      postinstagram: DaESg0XEm6C
+
+- postx:
+    id: 2070645746878017918
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-06-27
+    text: |-
+      Thank you for coming to "Impericon Festival" 🇩🇪 
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+    image:
+    - HLxoh4-WkAAqZIO
+    part-of:
+      show:
+        year: 2026
+        id: impericon
+
+- postximage:
+    post: 2070645746878017918
+    id: HLxoh4-WkAAqZIO
+    index: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: impericon
+    - song: roadofresistance
+    part-of:
+      postx: 2070645746878017918
+
 - update:
     show:
       year: 2026
@@ -5,6 +89,18 @@
     date: 2025-11-25
     text:
     - Added the show
+    part-of:
+      show:
+        year: 2026
+        id: impericon
+
+- update:
+    show:
+      year: 2026
+      id: impericon
+    date: 2026-06-27
+    text:
+    - First pictures from the show
     part-of:
       show:
         year: 2026

@@ -7,7 +7,7 @@ album:
       id: vinyls
   fullname: METAL FORTH (DELUXE EDITION)
   designation: deluxe edition
-  release-date: 2026-08-05
+  release-date: 2026-06-26
   is-studio: false
   songs:
   - frommetou
@@ -25,6 +25,6 @@ album:
   - frommetou
   - myqueen
   - algorism
-  todo: support for multi version song
+  todo: support for multi version song, correctly reference deluxe japan version
   part-of:
     group: album_compilation

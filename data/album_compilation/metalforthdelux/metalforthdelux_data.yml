@@ -62,6 +62,34 @@
         domain: babymetal.com
         id: 302816
 
+- webimage:
+    domain: babymetal.com
+    page: 304787
+    id: cover
+    label: Cover
+    published-date: 2026-05-29
+    url: 'https://babymetal.com/contents/1/TO/7924529219.jpg'
+    context:
+    - album: metalforthdelux
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 304787
+
+- webimage:
+    domain: babymetal.com
+    page: 305764
+    id: bonuses
+    label: Japan bonuses
+    published-date: 2026-06-27
+    url: 'https://babymetal.com/contents/1/TO/BABYMETAL%E7%89%B9%E5%85%B8%E4%B8%80%E8%A6%A7%E7%94%BB%E5%83%8F.jpeg'
+    context:
+    - album: metalforthdelux
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 305764
+
 - webpage:
     domain: babymetal.com
     id: 302816
@@ -71,6 +99,28 @@
     image:
     - vinyls
     - album
+    part-of:
+      album: metalforthdelux
+
+- webpage:
+    domain: babymetal.com
+    id: 304787
+    label: Announcement Deluxe Japan
+    published-date: 2026-05-29
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=304787&lang=ja'
+    image:
+    - cover
+    part-of:
+      album: metalforthdelux
+
+- webpage:
+    domain: babymetal.com
+    id: 305764
+    label: Announcement Japan bonuses
+    published-date: 2026-06-27
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=305764&lang=ja'
+    image:
+    - bonuses
     part-of:
       album: metalforthdelux
 

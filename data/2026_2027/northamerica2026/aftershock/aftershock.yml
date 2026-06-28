@@ -14,3 +14,12 @@ show:
   event-page: 'https://aftershockfestival.com/'
   part-of:
     tour: northamerica2026
+  multimedia:
+    video:
+    - postinstagramvideo:
+        post: DZ0SZrBkyUY
+        video: 1
+    image:
+    - postximage:
+        post: 2026356739054919938
+        image: HB8OUhiXUAA6KL0

@@ -1,3 +1,34 @@
+- postinstagram:
+    id: DZ0SZrBkyUY
+    account: aftershockfestival
+    label: Trailer
+    published-date: 2026-06-20
+    text: |-
+      Cute. Heavy. Absolute mayhem.
+      
+      BABYMETAL takes over Sacramento this fall. 
+      
+      The Fox God awaits. 🦊
+    video:
+    - 1
+    part-of:
+      postinstagramvideo:
+        post: DZ0SZrBkyUY
+        video: 1
+
+- postinstagramvideo:
+    post: DZ0SZrBkyUY
+    id: 1
+    label: Trailer
+    context:
+    - show:
+        year: 2026
+        id: aftershock
+    part-of:
+      show:
+        year: 2026
+        id: aftershock
+
 - postx:
     id: 2026356739054919938
     account: AFTERSHOCKSAC

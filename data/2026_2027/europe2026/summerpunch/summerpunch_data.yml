@@ -1,3 +1,216 @@
+- display:
+    show:
+      year: 2026
+      id: summerpunch
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramvideo:
+                    post: DZwvLzSuYM-
+                    video: 1
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postinstagramimage:
+                    post: DZwspTIDhWX
+                    image: 1
+                - postinstagramimage:
+                    post: DZv141DGHTa
+                    image: 2
+                - postinstagramimage:
+                    post: DZwspTIDhWX
+                    image: 5
+                - postinstagramimage:
+                    post: DZwspTIDhWX
+                    image: 2
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DZwspTIDhWX
+                    image: 4
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DZwspTIDhWX
+                    image: 6
+                - postinstagramimage:
+                    post: DZwspTIDhWX
+                    image: 3
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2067769137493840277
+                    image: HLIwzG-WYAAEPmx
+                - postximage:
+                    post: 2067766914319827162
+                    image: HLIu6ueWUAAw4pp
+    part-of:
+      show:
+        year: 2026
+        id: summerpunch
+
+- postinstagram:
+    id: DZv141DGHTa
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-06-19
+    text: |-
+      Thank you for coming to "Summer Punch Festival"🇵🇱
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+      @summerpunchfestival
+    image:
+    - 2
+    part-of:
+      show:
+        year: 2026
+        id: summerpunch
+    reference:
+    - postximage:
+        post: 2067766914319827162
+        image: HLIu6ueWUAAw4pp
+
+- postinstagram:
+    id: DZwspTIDhWX
+    account: summerpunchfestival
+    label: Thank you
+    published-date: 2026-06-19
+    text: |-
+      Są koncerty. Są też koncerty @babymetal_official ❤️‍🔥
+      I każdy, kto był pod Summer Stage, doskonale wie, jaka jest między nimi różnica 🔥💥 💣
+    translation: |-
+      There are concerts. And then there are @babymetal_official concerts ❤️‍🔥
+      And everyone who was under the Summer Stage knows perfectly well what the difference is between them 🔥💥 💣
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    part-of:
+      show:
+        year: 2026
+        id: summerpunch
+
+- postinstagram:
+    id: DZwvLzSuYM-
+    account: summerpunchfestival
+    label: Digest movie
+    published-date: 2026-06-19
+    text: |-
+      @babymetal_official pokazały, że między choreografią a mocnymi riffami nie trzeba wybierać.
+      Można mieć jedno i drugie🤟🏼🔥
+    video:
+    - 1
+    part-of:
+      postinstagramvideo:
+        post: DZwvLzSuYM-
+        video: 1
+
+- postinstagramimage:
+    post: DZv141DGHTa
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: summerpunch
+    part-of:
+      postinstagram: DZv141DGHTa
+
+- postinstagramimage:
+    post: DZwspTIDhWX
+    id: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: summerpunch
+    - song: babymetaldeath
+    part-of:
+      postinstagram: DZwspTIDhWX
+
+- postinstagramimage:
+    post: DZwspTIDhWX
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: summerpunch
+    todo: sunset kiss ?
+    part-of:
+      postinstagram: DZwspTIDhWX
+
+- postinstagramimage:
+    post: DZwspTIDhWX
+    id: 3
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: summerpunch
+    - song: babymetaldeath
+    part-of:
+      postinstagram: DZwspTIDhWX
+
+- postinstagramimage:
+    post: DZwspTIDhWX
+    id: 4
+    label: On stage
+    info: MOAMETAL, MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: summerpunch
+    part-of:
+      postinstagram: DZwspTIDhWX
+
+- postinstagramimage:
+    post: DZwspTIDhWX
+    id: 5
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: summerpunch
+    part-of:
+      postinstagram: DZwspTIDhWX
+
+- postinstagramimage:
+    post: DZwspTIDhWX
+    id: 6
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: summerpunch
+    - song: babymetaldeath
+    part-of:
+      postinstagram: DZwspTIDhWX
+
+- postinstagramvideo:
+    post: DZwvLzSuYM-
+    id: 1
+    label: Digest movie
+    context:
+    - show:
+        year: 2026
+        id: summerpunch
+    part-of:
+      show:
+        year: 2026
+        id: summerpunch
+
 - postx:
     id: 1986360406487494656
     account: BABYMETAL_JAPAN
@@ -17,6 +230,38 @@
         page: 297199
         id: bandposter
 
+- postx:
+    id: 2067766914319827162
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-06-19
+    text: |-
+      Thank you for coming to "Summer Punch Festival"￼
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+    image:
+    - HLIu6ueWUAAw4pp
+    part-of:
+      show:
+        year: 2026
+        id: summerpunch
+
+- postx:
+    id: 2067769137493840277
+    account: BABYMETAL_JAPAN
+    label: Thank you Bilmuri
+    published-date: 2026-06-19
+    text: |-
+      Thank you 
+      @BilmuriTweets
+       ￼￼￼
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+    image:
+    - HLIwzG-WYAAEPmx
+    part-of:
+      show:
+        year: 2026
+        id: summerpunch
+
 - postximage:
     post: 1986360406487494656
     id: G5C3VHgW4AAUqlT
@@ -29,6 +274,31 @@
     part-of:
       postx: 1986360406487494656
 
+- postximage:
+    post: 2067766914319827162
+    id: HLIu6ueWUAAw4pp
+    index: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: summerpunch
+    part-of:
+      postx: 2067766914319827162
+
+- postximage:
+    post: 2067769137493840277
+    id: HLIwzG-WYAAEPmx
+    index: 1
+    label: Backstage
+    info: Bilmuri, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: summerpunch
+    part-of:
+      postx: 2067769137493840277
+
 - update:
     show:
       year: 2026
@@ -36,6 +306,18 @@
     date: 2025-11-07
     text:
     - Added the show
+    part-of:
+      show:
+        year: 2026
+        id: summerpunch
+
+- update:
+    show:
+      year: 2026
+      id: summerpunch
+    date: 2026-06-27
+    text:
+    - First pictures and videos from the show
     part-of:
       show:
         year: 2026
