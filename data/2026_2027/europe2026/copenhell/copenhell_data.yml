@@ -1,3 +1,32 @@
+- postx:
+    id: 2071166666109542725
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-06-28
+    text: |-
+      Thank you for coming to "Copenhell" 🇩🇰
+      Thank you to everyone who waited for us in the rain! 
+      We hope to see you again soon!🤘🖤
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+    image:
+    - HL5Can0WIAAF--6
+    part-of:
+      show:
+        year: 2026
+        id: copenhell
+
+- postximage:
+    post: 2071166666109542725
+    id: HL5Can0WIAAF--6
+    index: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: copenhell
+    part-of:
+      postx: 2071166666109542725
+
 - update:
     show:
       year: 2026

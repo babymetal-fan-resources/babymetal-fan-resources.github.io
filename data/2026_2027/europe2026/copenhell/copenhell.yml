@@ -17,3 +17,8 @@ show:
   event-page: 'https://copenhell.dk/en/'
   part-of:
     tour: europe2026
+  multimedia:
+    image:
+    - postximage:
+        post: 2071166666109542725
+        image: HL5Can0WIAAF--6
