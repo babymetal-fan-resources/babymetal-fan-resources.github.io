@@ -1,0 +1,255 @@
+- display:
+    show:
+      year: 2012
+      id: womenspower
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: Before the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - youtubevideo: 4D3TLrEuoF4
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: beeast69.com
+                    page: 9087
+                    id: 2
+                - webimage:
+                    domain: beeast69.com
+                    page: 9087
+                    id: 1
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: beeast69.com
+                    page: 9087
+                    id: 3
+                - webimage:
+                    domain: beeast69.com
+                    page: 9087
+                    id: 5
+                - webimage:
+                    domain: beeast69.com
+                    page: 9087
+                    id: 4
+    part-of:
+      show:
+        year: 2012
+        id: womenspower
+
+- postx:
+    id: 144900242117107713
+    account: BABYMETAL_JAPAN
+    label: Shooting live footage
+    published-date: 2011-12-08
+    text: |-
+      ド・キ・ド・キ☆モーニング〜♫1月9日、ライブ映像撮っちゃうかも？？応援よろしくお願いします！！チケットは本日10時から発売DEATH！！#babymetal #重音部
+    translation: |-
+      Do・Ki・Do・Ki☆Morning〜♫ On January 9th, we might be shooting live footage?? Thank you for your support!! Tickets go on sale today from 10:00 DEATH!! #babymetal #Juonbu
+    image:
+    - AgLKAKPCIAAp9_K
+    part-of:
+      show:
+        year: 2012
+        id: womenspower
+
+- postximage:
+    post: 144900242117107713
+    id: AgLKAKPCIAAp9_K
+    index: 1
+    label: Tower
+    info: YUIMETAL
+    part-of:
+      postx: 144900242117107713
+
+- update:
+    show:
+      year: 2012
+      id: womenspower
+    date: 2026-07-01
+    text:
+    - Added the show
+    part-of:
+      show:
+        year: 2012
+        id: womenspower
+
+- webimage:
+    domain: beeast69.com
+    page: 9087
+    id: 1
+    label: On stage
+    published-date: 2012-03-02
+    url: 'https://www.beeast69.com/wp-content/uploads/2012/02/BABYMETAL_H_01.jpg'
+    context:
+    - show:
+        year: 2012
+        id: womenspower
+    part-of:
+      webpage:
+        domain: beeast69.com
+        id: 9087
+
+- webimage:
+    domain: beeast69.com
+    page: 9087
+    id: 2
+    label: On stage
+    published-date: 2012-03-02
+    url: 'https://www.beeast69.com/wp-content/uploads/2012/02/BABYMETAL_H_02.jpg'
+    context:
+    - show:
+        year: 2012
+        id: womenspower
+    part-of:
+      webpage:
+        domain: beeast69.com
+        id: 9087
+
+- webimage:
+    domain: beeast69.com
+    page: 9087
+    id: 3
+    label: On stage
+    published-date: 2012-03-02
+    url: 'https://www.beeast69.com/wp-content/uploads/2012/02/BABYMETAL_H_03.jpg'
+    context:
+    - show:
+        year: 2012
+        id: womenspower
+    part-of:
+      webpage:
+        domain: beeast69.com
+        id: 9087
+
+- webimage:
+    domain: beeast69.com
+    page: 9087
+    id: 4
+    label: On stage
+    published-date: 2012-03-02
+    url: 'https://www.beeast69.com/wp-content/uploads/2012/02/BABYMETAL_H_04.jpg'
+    context:
+    - show:
+        year: 2012
+        id: womenspower
+    part-of:
+      webpage:
+        domain: beeast69.com
+        id: 9087
+
+- webimage:
+    domain: beeast69.com
+    page: 9087
+    id: 5
+    label: On stage
+    published-date: 2012-03-02
+    url: 'https://www.beeast69.com/wp-content/uploads/2012/02/BABYMETAL_L_01.jpg'
+    context:
+    - show:
+        year: 2012
+        id: womenspower
+    part-of:
+      webpage:
+        domain: beeast69.com
+        id: 9087
+
+- webimage:
+    domain: imgur.com
+    page: N4lpSGh
+    id: N4lpSGh
+    label: Poster
+    published-date: 2016-11-03
+    url: 'https://i.imgur.com/N4lpSGh.jpeg'
+    local-copy: true
+    context:
+    - show:
+        year: 2012
+        id: womenspower
+    part-of:
+      webpage:
+        domain: imgur.com
+        id: N4lpSGh
+
+- webimage:
+    domain: natalie.mu
+    page: 62084
+    id: 1
+    label: Photoshoot
+    info: BABYMETAL, Marty Friedman
+    published-date: 2026-07-01
+    url: 'https://ogre.natalie.mu/media/news/music/2011/1230/BABYMETAL_MARTY.jpg'
+    page-url: 'https://natalie.mu/music/gallery/news/62084/103710'
+    context:
+    - media:
+        year: 2012
+        id: switch3002
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: 62084
+
+- webpage:
+    domain: beeast69.com
+    id: 9087
+    label: Show report
+    published-date: 2012-03-02
+    url: 'http://www.beeast69.com/feature/9087/'
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    part-of:
+      show:
+        year: 2012
+        id: womenspower
+
+- webpage:
+    domain: imgur.com
+    id: N4lpSGh
+    label: Poster
+    published-date: 2016-11-03
+    url: 'https://imgur.com/babymetal-womens-power-20th-anniversary-2012-01-09-N4lpSGh'
+    image:
+    - N4lpSGh
+    part-of:
+      show:
+        year: 2012
+        id: womenspower
+
+- webpage:
+    domain: natalie.mu
+    id: 62084
+    label: Announcement
+    published-date: 2011-12-30
+    url: 'https://natalie.mu/music/news/62084'
+    image:
+    - 1
+    part-of:
+      show:
+        year: 2012
+        id: womenspower
+
+- youtubevideo:
+    id: 4D3TLrEuoF4
+    label: Pre-show presentation
+    published-date: 2012-03-02
+    context:
+    - show:
+        year: 2012
+        id: womenspower
+    part-of:
+      webpage:
+        domain: beeast69.com
+        id: 9087
+

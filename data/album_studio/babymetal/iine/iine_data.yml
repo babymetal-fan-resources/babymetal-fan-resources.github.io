@@ -1,8 +1,33 @@
-youtubevideo:
-  id: qVdBBOpSoN4
-  label: Official Music Video
-  published-date: 2012-11-08
-  context:
-  - song: iine
-  part-of:
-    song: iine
+- postx:
+    id: 144387212786667520
+    account: BABYMETAL_JAPAN
+    label: Pre-announcement
+    published-date: 2011-12-07
+    text: |-
+      1月9日、ドキ☆モニ、イジメに続く新曲発表なんDEATH！！
+    translation: |-
+      January 9th, a new song announcement following Doki☆Moni and Ijime DEATH!!
+    image:
+    - AgD3Z7BCEAE4D9H
+    part-of:
+      song: iine
+
+- postximage:
+    post: 144387212786667520
+    id: AgD3Z7BCEAE4D9H
+    index: 1
+    label: Towel
+    info: YUIMETAL
+    todo: add context ?
+    part-of:
+      postx: 144387212786667520
+
+- youtubevideo:
+    id: qVdBBOpSoN4
+    label: Official Music Video
+    published-date: 2012-11-08
+    context:
+    - song: iine
+    part-of:
+      song: iine
+

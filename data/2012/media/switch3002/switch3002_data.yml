@@ -1,0 +1,101 @@
+- display:
+    media:
+      year: 2012
+      id: switch3002
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: Photoshoot
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 146227420729577473
+                    image: AgeBEH2CEAA9LyH
+                - webimage:
+                    domain: natalie.mu
+                    page: 62084
+                    id: 1
+    part-of:
+      media:
+        year: 2012
+        id: switch3002
+
+- postx:
+    id: 146227420729577473
+    account: BABYMETAL_JAPAN
+    label: Photo shoot
+    published-date: 2011-12-12
+    text: |-
+      マーティー・フリードマン“Marty”さんと撮影DETH！！2012年1月20日発売の“SWITCH”に掲載されます！！
+      #babymetal 
+      #重音部
+    translation: |-
+      Shooting with "Marty" Marty Friedman DETH!! It will be featured in "SWITCH" on sale January 20, 2012!!
+      #babymetal 
+      #重音部
+    image:
+    - AgeBEH2CEAA9LyH
+    part-of:
+      media:
+        year: 2012
+        id: switch3002
+
+- postximage:
+    post: 146227420729577473
+    id: AgeBEH2CEAA9LyH
+    index: 1
+    label: Photoshoot
+    info: Marty Friedman, BABYMETAL
+    context:
+    - media:
+        year: 2012
+        id: switch3002
+    part-of:
+      postx: 146227420729577473
+
+- update:
+    media:
+      year: 2012
+      id: switch3002
+    date: 2026-07-01
+    text:
+    - Added the article
+    part-of:
+      media:
+        year: 2012
+        id: switch3002
+
+- webimage:
+    domain: switch-store.net
+    page: SW3002
+    id: cover
+    label: Cover
+    published-date: 2012-01-20
+    url: 'https://image1.shopserve.jp/switch-store.net/pic-labo/SW3002_001.jpg'
+    local-copy: true
+    context:
+    - media:
+        year: 2012
+        id: switch3002
+    part-of:
+      webpage:
+        domain: switch-store.net
+        id: SW3002
+
+- webpage:
+    domain: switch-store.net
+    id: SW3002
+    label: Back issue
+    published-date: 2012-01-20
+    url: 'https://www.switch-store.net/SHOP/SW3002.html'
+    image:
+    - cover
+    part-of:
+      media:
+        year: 2012
+        id: switch3002
+

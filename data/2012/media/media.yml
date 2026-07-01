@@ -1,0 +1,5 @@
+group:
+  id: media
+  label: Media 2012
+  part-of:
+    group: 2012

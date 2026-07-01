@@ -1,0 +1,23 @@
+show:
+  year: 2012
+  id: womenspower
+  cover-image:
+    webimage:
+      domain: imgur.com
+      page: N4lpSGh
+      id: N4lpSGh
+  fullname: 'WOMEN’S POWER 20th Anniversary '
+  shortname: WOMEN’S POWER
+  date: 2012-01-09
+  venue: Shibuya O-WEST, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2012/shibuya-o-west-tokyo-japan-63cab6ab.html'
+  part-of:
+    group:
+      id: shows
+      group: 2012
+  multimedia:
+    main:
+      webimage:
+        domain: beeast69.com
+        page: 9087
+        id: 2
