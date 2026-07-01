@@ -1,3 +1,231 @@
+- display:
+    show:
+      year: 2026
+      id: copenhell
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postinstagramimage:
+                    post: DaNlSWfDU5b
+                    image: 1
+                - postinstagramimage:
+                    post: DaNlSWfDU5b
+                    image: 2
+                - postinstagramimage:
+                    post: DaNlSWfDU5b
+                    image: 3
+                - postinstagramimage:
+                    post: DaNlSWfDU5b
+                    image: 4
+                - postinstagramimage:
+                    post: DaNlSWfDU5b
+                    image: 5
+                - postinstagramimage:
+                    post: DaNlSWfDU5b
+                    image: 6
+                - postinstagramimage:
+                    post: DaNlSWfDU5b
+                    image: 7
+                - postinstagramimage:
+                    post: DaNlSWfDU5b
+                    image: 8
+                - postinstagramimage:
+                    post: DaNlSWfDU5b
+                    image: 9
+                - postinstagramimage:
+                    post: DaNlSWfDU5b
+                    image: 10
+                - postinstagramimage:
+                    post: DaNlSWfDU5b
+                    image: 11
+                - postinstagramimage:
+                    post: DaNlSWfDU5b
+                    image: 12
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2071166666109542725
+                    image: HL5Can0WIAAF--6
+    part-of:
+      show:
+        year: 2026
+        id: copenhell
+
+- postinstagram:
+    id: DaNlSWfDU5b
+    account: copenhell
+    label: Photos
+    published-date: 2026-06-30
+    text: |-
+      BABYMETAL 🔥 COPENHELL 2026
+      
+      #Copenhell #Copenhagen #festival
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+    part-of:
+      show:
+        year: 2026
+        id: copenhell
+
+- postinstagramimage:
+    post: DaNlSWfDU5b
+    id: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: copenhell
+    part-of:
+      postinstagram: DaNlSWfDU5b
+
+- postinstagramimage:
+    post: DaNlSWfDU5b
+    id: 10
+    label: On stage
+    info: SU-METAL, MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: copenhell
+    part-of:
+      postinstagram: DaNlSWfDU5b
+
+- postinstagramimage:
+    post: DaNlSWfDU5b
+    id: 11
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: copenhell
+    part-of:
+      postinstagram: DaNlSWfDU5b
+
+- postinstagramimage:
+    post: DaNlSWfDU5b
+    id: 12
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: copenhell
+    part-of:
+      postinstagram: DaNlSWfDU5b
+
+- postinstagramimage:
+    post: DaNlSWfDU5b
+    id: 2
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: copenhell
+    part-of:
+      postinstagram: DaNlSWfDU5b
+
+- postinstagramimage:
+    post: DaNlSWfDU5b
+    id: 3
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: copenhell
+    part-of:
+      postinstagram: DaNlSWfDU5b
+
+- postinstagramimage:
+    post: DaNlSWfDU5b
+    id: 4
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: copenhell
+    part-of:
+      postinstagram: DaNlSWfDU5b
+
+- postinstagramimage:
+    post: DaNlSWfDU5b
+    id: 5
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: copenhell
+    part-of:
+      postinstagram: DaNlSWfDU5b
+
+- postinstagramimage:
+    post: DaNlSWfDU5b
+    id: 6
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: copenhell
+    part-of:
+      postinstagram: DaNlSWfDU5b
+
+- postinstagramimage:
+    post: DaNlSWfDU5b
+    id: 7
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: copenhell
+    part-of:
+      postinstagram: DaNlSWfDU5b
+
+- postinstagramimage:
+    post: DaNlSWfDU5b
+    id: 8
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: copenhell
+    part-of:
+      postinstagram: DaNlSWfDU5b
+
+- postinstagramimage:
+    post: DaNlSWfDU5b
+    id: 9
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: copenhell
+    part-of:
+      postinstagram: DaNlSWfDU5b
+
 - postx:
     id: 2071166666109542725
     account: BABYMETAL_JAPAN

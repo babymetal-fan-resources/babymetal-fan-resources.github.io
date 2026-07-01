@@ -18,12 +18,7 @@ show:
   part-of:
     tour: europe2026
   multimedia:
-    video:
-    - youtubevideo: zQzug17eOUE
-    image:
-    - postinstagramimage:
-        post: DQWNpCFjeVn
-        image: 06
-    - postinstagramimage:
-        post: DQWNpCFjeVn
-        image: 01
+    main:
+      postinstagramimage:
+        post: DaKoPBKgLkH
+        image: 5

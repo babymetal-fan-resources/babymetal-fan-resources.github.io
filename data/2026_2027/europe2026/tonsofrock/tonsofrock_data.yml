@@ -14,7 +14,45 @@
                 label: Images
                 multimedia:
                 - postinstagramimage:
+                    post: DaKoPBKgLkH
+                    image: 5
+                - postinstagramimage:
                     post: DaAodnkGI8N
+                    image: 3
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DaKoPBKgLkH
+                    image: 2
+                - postinstagramimage:
+                    post: DaKoPBKgLkH
+                    image: 7
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DaKoPBKgLkH
+                    image: 10
+                - postinstagramimage:
+                    post: DaKoPBKgLkH
+                    image: 6
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DaKoPBKgLkH
+                    image: 4
+                - postinstagramimage:
+                    post: DaKoPBKgLkH
+                    image: 9
+                - postinstagramimage:
+                    post: DaKoPBKgLkH
+                    image: 8
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DaKoPBKgLkH
+                    image: 1
+                - postinstagramimage:
+                    post: DaKoPBKgLkH
                     image: 3
             - multimediasubsection:
                 multimedia:
@@ -81,6 +119,39 @@
         post: 2070129935792869730
         image: HLqST15W0AApf-P
 
+- postinstagram:
+    id: DaKoPBKgLkH
+    account: swedenrockmagazine
+    label: Photos
+    published-date: 2026-06-29
+    text: |-
+      Babymetal på Tons Of Rock i Norge den 24 juni 2026.
+      Ni kan se fler bilder på vår Facebook.
+      
+      Foto: Kristian @reutermp Reuter
+      #babymetal #tonsofrock
+    translation: |-
+      Babymetal at Tons Of Rock in Norway on June 24, 2026.
+      You can see more photos on our Facebook.
+      
+      Photo: Kristian @reutermp Reuter
+      #babymetal #tonsofrock
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    part-of:
+      show:
+        year: 2026
+        id: tonsofrock
+
 - postinstagramimage:
     post: DQWNpCFjeVn
     id: 01
@@ -125,6 +196,125 @@
         id: tonsofrock
     part-of:
       postinstagram: DaAodnkGI8N
+
+- postinstagramimage:
+    post: DaKoPBKgLkH
+    id: 1
+    label: On stage
+    info: Kami
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postinstagram: DaKoPBKgLkH
+
+- postinstagramimage:
+    post: DaKoPBKgLkH
+    id: 10
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postinstagram: DaKoPBKgLkH
+
+- postinstagramimage:
+    post: DaKoPBKgLkH
+    id: 2
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postinstagram: DaKoPBKgLkH
+
+- postinstagramimage:
+    post: DaKoPBKgLkH
+    id: 3
+    label: On stage
+    info: Kami
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postinstagram: DaKoPBKgLkH
+
+- postinstagramimage:
+    post: DaKoPBKgLkH
+    id: 4
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postinstagram: DaKoPBKgLkH
+
+- postinstagramimage:
+    post: DaKoPBKgLkH
+    id: 5
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postinstagram: DaKoPBKgLkH
+
+- postinstagramimage:
+    post: DaKoPBKgLkH
+    id: 6
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postinstagram: DaKoPBKgLkH
+
+- postinstagramimage:
+    post: DaKoPBKgLkH
+    id: 7
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postinstagram: DaKoPBKgLkH
+
+- postinstagramimage:
+    post: DaKoPBKgLkH
+    id: 8
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postinstagram: DaKoPBKgLkH
+
+- postinstagramimage:
+    post: DaKoPBKgLkH
+    id: 9
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postinstagram: DaKoPBKgLkH
 
 - postx:
     id: 2070129935792869730
