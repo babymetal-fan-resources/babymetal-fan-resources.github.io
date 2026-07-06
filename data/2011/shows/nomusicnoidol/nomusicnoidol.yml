@@ -1,0 +1,21 @@
+show:
+  year: 2011
+  id: nomusicnoidol
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  fullname: Tower Records Shinjuku Store 13th Birthday ~NO MUSIC, NO IDOL?~
+  shortname: NO MUSIC, NO IDOL?
+  date: 2011-10-12
+  venue: Shinjuku LOFT, Tokyo
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2011/shinjuku-loft-tokyo-japan-73cab6bd.html'
+  part-of:
+    group:
+      id: shows
+      group: 2011
+  multimedia:
+    main:
+      postfacebookalbumimage:
+        album: a.254069917973615
+        image: 254069944640279

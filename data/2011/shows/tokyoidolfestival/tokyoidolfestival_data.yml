@@ -1,0 +1,77 @@
+- display:
+    show:
+      year: 2011
+      id: tokyoidolfestival
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - youtubevideo: HJrgC8-BT6A
+    part-of:
+      show:
+        year: 2011
+        id: tokyoidolfestival
+
+- update:
+    show:
+      year: 2011
+      id: tokyoidolfestival
+    date: 2026-07-06
+    text:
+    - Added video from the show
+    - Added the show
+    part-of:
+      show:
+        year: 2011
+        id: tokyoidolfestival
+
+- webimage:
+    domain: idolfes.com
+    page: 2011
+    id: logo
+    label: Logo
+    published-date: 2011-08-27
+    url: 'https://www.idolfes.com/2011/img/logo.png'
+    local-copy: true
+    context:
+    - show:
+        year: 2011
+        id: tokyoidolfestival
+    part-of:
+      webpage:
+        domain: idolfes.com
+        id: 2011
+
+- webpage:
+    domain: idolfes.com
+    id: 2011
+    label: Index page
+    published-date: 2011-08-27
+    url: 'https://www.idolfes.com/2011/index.html'
+    image:
+    - logo
+    part-of:
+      show:
+        year: 2011
+        id: tokyoidolfestival
+
+- youtubevideo:
+    id: HJrgC8-BT6A
+    label: On stage
+    published-date: 2011-10-23
+    context:
+    - show:
+        year: 2011
+        id: tokyoidolfestival
+    - song: dokidokimorning
+    part-of:
+      show:
+        year: 2011
+        id: tokyoidolfestival
+

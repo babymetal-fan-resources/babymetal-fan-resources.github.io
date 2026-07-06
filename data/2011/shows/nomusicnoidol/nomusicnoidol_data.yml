@@ -1,0 +1,95 @@
+- display:
+    show:
+      year: 2011
+      id: nomusicnoidol
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postfacebookalbumimage:
+                    album: a.254069917973615
+                    image: 254069944640279
+            - multimediasubsection:
+                multimedia:
+                - postfacebookalbumimage:
+                    album: a.254069917973615
+                    image: 254069961306944
+            - multimediasubsection:
+                multimedia:
+                - postfacebookalbumimage:
+                    album: a.254069917973615
+                    image: 254069927973614
+    part-of:
+      show:
+        year: 2011
+        id: nomusicnoidol
+
+- postfacebookalbum:
+    id: a.254069917973615
+    account: BABYMETAL.jp
+    label: Photos
+    published-date: 2011-10-30
+    image:
+    - 254069927973614
+    - 254069944640279
+    - 254069961306944
+    part-of:
+      show:
+        year: 2011
+        id: nomusicnoidol
+
+- postfacebookalbumimage:
+    album: a.254069917973615
+    id: 254069927973614
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2011
+        id: nomusicnoidol
+    part-of:
+      postfacebookalbum: a.254069917973615
+
+- postfacebookalbumimage:
+    album: a.254069917973615
+    id: 254069944640279
+    label: On stage
+    context:
+    - show:
+        year: 2011
+        id: nomusicnoidol
+    part-of:
+      postfacebookalbum: a.254069917973615
+
+- postfacebookalbumimage:
+    album: a.254069917973615
+    id: 254069961306944
+    label: On stage
+    info: YUIMETAL, MOAMETAL
+    context:
+    - show:
+        year: 2011
+        id: nomusicnoidol
+    part-of:
+      postfacebookalbum: a.254069917973615
+
+- update:
+    show:
+      year: 2011
+      id: nomusicnoidol
+    date: 2026-07-06
+    text:
+    - Added pictures from the show
+    - Added the show
+    part-of:
+      show:
+        year: 2011
+        id: nomusicnoidol
+

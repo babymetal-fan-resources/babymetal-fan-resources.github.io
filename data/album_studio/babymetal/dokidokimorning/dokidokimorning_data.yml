@@ -10,6 +10,15 @@
       song: dokidokimorning
 
 - youtubevideo:
+    id: 4QbAXXXOJF8
+    label: Music Video (Edit ver.)
+    published-date: 2011-10-12
+    context:
+    - song: dokidokimorning
+    part-of:
+      song: dokidokimorning
+
+- youtubevideo:
     id: cirhQ8iLdbw
     label: Official Music Video
     published-date: 2012-11-08

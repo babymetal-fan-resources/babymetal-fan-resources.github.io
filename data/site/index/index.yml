@@ -2020,6 +2020,13 @@ contentpage:
   - show:
       year: 2012
       id: womenspower
+  - multimedia-event: dokidokimorningmved
+  - show:
+      year: 2011
+      id: nomusicnoidol
+  - show:
+      year: 2011
+      id: tokyoidolfestival
   - song: dokidokimorning
   - show:
       year: 2010

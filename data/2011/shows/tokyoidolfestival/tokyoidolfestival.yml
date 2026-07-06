@@ -1,0 +1,21 @@
+show:
+  year: 2011
+  id: tokyoidolfestival
+  cover-image:
+    webimage:
+      domain: idolfes.com
+      page: 2011
+      id: logo
+  fullname: Tokyo Idol Festival 2011 〜Eco & Smile〜
+  shortname: Tokyo Idol Festival
+  date: 2011-08-28
+  venue: Odaiba, Tokyo
+  event-page: 'https://www.idolfes.com/2011/index.html'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2011/fuji-television-tokyo-japan-63cab6bf.html'
+  part-of:
+    group:
+      id: shows
+      group: 2011
+  multimedia:
+    main:
+      youtubevideo: HJrgC8-BT6A
