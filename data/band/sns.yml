@@ -4,6 +4,53 @@
     part-of:
       group: band
 
+- postfacebook:
+    id: 280332758680664
+    account: BABYMETAL.jp
+    label: Happy birthday SU-METAL
+    published-date: 2011-12-20
+    text: |-
+      Today is the 14th birthday of SU-METAL!!
+      ハピバ！！
+    translation: |-
+      Today is the 14th birthday of SU-METAL!!
+      Happy birthday!!
+    image:
+    - 280332758680664
+    part-of:
+      group:
+        id: sns
+        group: band
+
+- postfacebook:
+    id: 282513841795889
+    account: BABYMETAL.jp
+    label: Merry Chirstmas
+    published-date: 2011-12-24
+    text: |-
+      Happy Merry Christmas！！See U soooooonnnnnn\m/ 　　#babymetal #重音部
+    image:
+    - 282513841795889
+    part-of:
+      group:
+        id: sns
+        group: band
+
+- postfacebookimage:
+    post: 280332758680664
+    id: 280332758680664
+    label: SU-METAL
+    part-of:
+      postfacebook: 280332758680664
+
+- postfacebookimage:
+    post: 282513841795889
+    id: 282513841795889
+    label: Merry Chirstmas
+    info: YUIMETAL, MOAMETAL
+    part-of:
+      postfacebook: 282513841795889
+
 - postx:
     id: 2006380177358795138
     account: BABYMETAL_JAPAN
