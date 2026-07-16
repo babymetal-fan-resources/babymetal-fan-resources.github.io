@@ -19,6 +19,9 @@
                 - postinstagramimage:
                     post: DaAodnkGI8N
                     image: 3
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820854217674
             - multimediasubsection:
                 multimedia:
                 - postinstagramimage:
@@ -27,6 +30,18 @@
                 - postinstagramimage:
                     post: DaKoPBKgLkH
                     image: 7
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820197551073
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820080884418
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820057551087
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820697551023
             - multimediasubsection:
                 multimedia:
                 - postinstagramimage:
@@ -35,6 +50,15 @@
                 - postinstagramimage:
                     post: DaKoPBKgLkH
                     image: 6
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820934217666
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820717551021
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820337551059
             - multimediasubsection:
                 multimedia:
                 - postinstagramimage:
@@ -46,14 +70,44 @@
                 - postinstagramimage:
                     post: DaKoPBKgLkH
                     image: 8
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820827551010
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820090884417
             - multimediasubsection:
                 multimedia:
                 - postinstagramimage:
                     post: DaKoPBKgLkH
                     image: 1
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820517551041
+            - multimediasubsection:
+                multimedia:
                 - postinstagramimage:
                     post: DaKoPBKgLkH
                     image: 3
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820104217749
+            - multimediasubsection:
+                multimedia:
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820067551086
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820620884364
+            - multimediasubsection:
+                multimedia:
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820680884358
+                - postfacebookalbumimage:
+                    album: a.2066821884217571
+                    image: 2066820044217755
             - multimediasubsection:
                 multimedia:
                 - postximage:
@@ -66,6 +120,255 @@
       show:
         year: 2026
         id: tonsofrock
+
+- postfacebookalbum:
+    id: a.2066821884217571
+    account: swedenrockmagazine
+    label: Photos
+    published-date: 2026-06-29
+    image:
+    - 2066820044217755
+    - 2066820057551087
+    - 2066820067551086
+    - 2066820080884418
+    - 2066820090884417
+    - 2066820104217749
+    - 2066820197551073
+    - 2066820337551059
+    - 2066820517551041
+    - 2066820620884364
+    - 2066820680884358
+    - 2066820697551023
+    - 2066820717551021
+    - 2066820827551010
+    - 2066820854217674
+    - 2066820934217666
+    part-of:
+      show:
+        year: 2026
+        id: tonsofrock
+    reference:
+    - postinstagramimage:
+        post: DaKoPBKgLkH
+        image: 1
+    - postinstagramimage:
+        post: DaKoPBKgLkH
+        image: 2
+    - postinstagramimage:
+        post: DaKoPBKgLkH
+        image: 3
+    - postinstagramimage:
+        post: DaKoPBKgLkH
+        image: 4
+    - postinstagramimage:
+        post: DaKoPBKgLkH
+        image: 5
+    - postinstagramimage:
+        post: DaKoPBKgLkH
+        image: 6
+    - postinstagramimage:
+        post: DaKoPBKgLkH
+        image: 7
+    - postinstagramimage:
+        post: DaKoPBKgLkH
+        image: 8
+    - postinstagramimage:
+        post: DaKoPBKgLkH
+        image: 9
+    - postinstagramimage:
+        post: DaKoPBKgLkH
+        image: 10
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820044217755
+    label: On stage
+    info: Kami
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820057551087
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820067551086
+    label: On stage
+    info: Kami
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820080884418
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820090884417
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820104217749
+    label: On stage
+    info: Kami
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820197551073
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820337551059
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820517551041
+    label: On stage
+    info: Kami
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820620884364
+    label: On stage
+    info: Kami
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820680884358
+    label: On stage
+    info: Kami
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820697551023
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820717551021
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820827551010
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820854217674
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
+
+- postfacebookalbumimage:
+    album: a.2066821884217571
+    id: 2066820934217666
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: tonsofrock
+    part-of:
+      postfacebookalbum: a.2066821884217571
 
 - postinstagram:
     id: DQWNpCFjeVn
