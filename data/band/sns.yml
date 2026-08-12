@@ -81,6 +81,21 @@
         id: sns
         group: band
 
+- postx:
+    id: 2073059191921742014
+    account: BABYMETAL_JAPAN
+    label: MOAMETAL birthday
+    published-date: 2026-07-04
+    text: |-
+      Happy Birthday MOAMETAL   
+      #BABYMETAL
+    image:
+    - HMPUcYaaoAAe7um
+    part-of:
+      group:
+        id: sns
+        group: band
+
 - postximage:
     post: 2006380177358795138
     id: G9gYI0AXwAAYyP5
@@ -96,6 +111,16 @@
     id: HCYAcJ1acAAR5hz
     index: 1
     label: MOMOMETAL birthday
+    info: MOMOMETAL
     part-of:
       postx: 2028485490190782644
+
+- postximage:
+    post: 2073059191921742014
+    id: HMPUcYaaoAAe7um
+    index: 1
+    label: MOAMETAL birthday
+    info: MOAMETAL
+    part-of:
+      postx: 2073059191921742014
 

@@ -101,6 +101,22 @@
         domain: babymetal.com
         id: 301498
 
+- webimage:
+    domain: babymetal.com
+    page: 307413
+    id: merch
+    label: Merch
+    published-date: 2026-08-10
+    url: 'https://babymetal.com/contents/1/TO/3294681922.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 307413
+
 - webpage:
     domain: babymetal.com
     id: 301498
@@ -118,4 +134,17 @@
     - show:
         year: 2026
         id: summersonicosaka
+
+- webpage:
+    domain: babymetal.com
+    id: 307413
+    label: Merch announcement
+    published-date: 2026-08-10
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=307413'
+    image:
+    - merch
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
 

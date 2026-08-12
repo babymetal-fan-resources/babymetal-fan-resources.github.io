@@ -23,6 +23,60 @@
         post: 2038996569790267447
         video: 01
 
+- postx:
+    id: 2077694740326396158
+    account: BABYMETAL_JAPAN
+    label: Announcement details
+    published-date: 2026-07-16
+    text: |-
+      💥🦊日本独自企画・限定生産盤詳細発表💥🦊
+      
+      2026.8.5(水)発売『METAL FORTH (DELUXE JAPAN EDITION)』
+      メンバー別ダイカットステッカー、ポスター、ZINE(フルカラー・ミニマガジン)などを封入した超豪華ロングボックス仕様！封入物の絵柄が公開DEATH!!
+    translation: |-
+      💥🦊 Japan Exclusive & Limited Edition Details Announced 💥🦊
+      
+      2026.8.5 (Wed) Release "METAL FORTH (DELUXE JAPAN EDITION)"
+      An ultra-luxurious long box edition containing member-specific die-cut stickers, a poster, a ZINE (full-color mini-magazine), and more! The designs of the included items have been revealed DEATH!!
+    video:
+    - 1
+    part-of:
+      album: metalforthdelux
+
+- postx:
+    id: 2080578744725700689
+    account: BABYMETAL_JAPAN
+    label: Panel exhibition at Tower Records Shinjuku
+    published-date: 2026-07-24
+    text: |-
+      『METAL FORTH (DELUXE JAPAN EDITION)』発売記念パネル展タワーレコード新宿店にて開催決定DEATH!!
+      開催期間：入荷日2026.8.4(火)～2026.8.17(月)
+      https://babymetal.com/MFDJE_TRPannel/
+      
+      #BABYMETAL
+    translation: |-
+      "METAL FORTH (DELUXE JAPAN EDITION)" Release Commemorative Panel Exhibition Confirmed at Tower Records Shinjuku Store DEATH!!
+      Exhibition Period: From arrival date 2026.8.4 (Tue) – 2026.8.17 (Mon)
+      https://babymetal.com/MFDJE_TRPannel/
+      
+      #BABYMETAL
+    image:
+    - HN92sFtbkAAGNqw
+    todo: find images shared
+    part-of:
+      album: metalforthdelux
+
+- postximage:
+    post: 2080578744725700689
+    id: HN92sFtbkAAGNqw
+    index: 1
+    label: DELUXE JAPAN EDITION
+    info: content
+    context:
+    - album: metalforthdelux
+    part-of:
+      postx: 2080578744725700689
+
 - postxvideo:
     post: 2038996569790267447
     id: 01
@@ -32,6 +86,17 @@
     - album: metalforthdelux
     part-of:
       album: metalforthdelux
+
+- postxvideo:
+    post: 2077694740326396158
+    id: 1
+    label: DELUXE JAPAN EDITION
+    info: details
+    cover: 2077616181515874304/img/C6gcsFhKtGO19RK6.jpg
+    context:
+    - album: metalforthdelux
+    part-of:
+      postx: 2077694740326396158
 
 - webimage:
     domain: babymetal.com

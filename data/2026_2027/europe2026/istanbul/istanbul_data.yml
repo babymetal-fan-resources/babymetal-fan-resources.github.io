@@ -1,3 +1,62 @@
+- postinstagram:
+    id: DaShyVuisr8
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-07-02
+    text: |-
+      Thank you for coming to Istanbul🇹🇷
+      A huge THANK YOU to everyone who came and made it unforgettable!
+      We are looking forward to the day we can see you all again 🔥🔥
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+    image:
+    - 2
+    - 3
+    - 4
+    part-of:
+      show:
+        year: 2026
+        id: istanbul
+    reference:
+    - postximage:
+        post: 2072649669294141940
+        image: HMOGeZVbwAA8-uC
+
+- postinstagramimage:
+    post: DaShyVuisr8
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: istanbul
+    - song: ratatata
+    part-of:
+      postinstagram: DaShyVuisr8
+
+- postinstagramimage:
+    post: DaShyVuisr8
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: istanbul
+    - song: roadofresistance
+    part-of:
+      postinstagram: DaShyVuisr8
+
+- postinstagramimage:
+    post: DaShyVuisr8
+    id: 4
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: istanbul
+    - song: sunsetkiss
+    part-of:
+      postinstagram: DaShyVuisr8
+
 - postx:
     id: 2048975492494315644
     account: BABYMETAL_JAPAN
@@ -13,6 +72,35 @@
       show:
         year: 2026
         id: istanbul
+
+- postx:
+    id: 2072649669294141940
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-07-02
+    text: |-
+      Thank you for coming to Istanbul🇹🇷
+      A huge THANK YOU to everyone who came and made it unforgettable!
+      We are looking forward to the day we can see you all again 🔥🔥
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+    image:
+    - HMOGeZVbwAA8-uC
+    part-of:
+      show:
+        year: 2026
+        id: istanbul
+
+- postximage:
+    post: 2072649669294141940
+    id: HMOGeZVbwAA8-uC
+    index: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: istanbul
+    part-of:
+      postx: 2072649669294141940
 
 - postxvideo:
     post: 2048975492494315644

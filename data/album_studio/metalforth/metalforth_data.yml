@@ -89,3 +89,12 @@
     part-of:
       postx: 1977011694624030820
 
+- youtubevideo:
+    id: VqLs0vozGv4
+    label: 1 year old
+    published-date: 2026-08-08
+    context:
+    - album: metalforth
+    part-of:
+      album: metalforth
+

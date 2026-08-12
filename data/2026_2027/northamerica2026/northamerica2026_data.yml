@@ -47,6 +47,22 @@
     part-of:
       tour: northamerica2026
 
+- postx:
+    id: 2073520278236287441
+    account: BABYMETAL_JAPAN
+    label: July 4th promo
+    published-date: 2026-07-04
+    text: |-
+      ￼METAL 4th Offer is here!￼
+      Limited-time deal: 2 tickets for $80 all-in.
+      Use code METAL4TH and secure your tickets before this offer ends Monday, July 6 at 11:59 PM local time.
+      
+      more info:  https://livenation.com/artist/K8vZ9173qDV/babymetal-events…
+    image:
+    - HMafgH3WUAAS9eJ
+    part-of:
+      tour: northamerica2026
+
 - postximage:
     post: 2038994732328919045
     id: HEv0yWpa8AAPYwm
@@ -66,6 +82,16 @@
     - tour: northamerica2026
     part-of:
       postx: 2041153961328062869
+
+- postximage:
+    post: 2073520278236287441
+    id: HMafgH3WUAAS9eJ
+    index: 1
+    label: July 4th promo
+    context:
+    - tour: northamerica2026
+    part-of:
+      postx: 2073520278236287441
 
 - webimage:
     domain: babymetal.com

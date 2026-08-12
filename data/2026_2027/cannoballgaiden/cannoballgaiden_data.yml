@@ -1,4 +1,20 @@
 - webimage:
+    domain: babymetal.com
+    page: 307292
+    id: merch
+    label: Merch
+    published-date: 2026-08-04
+    url: 'https://babymetal.com/contents/1/TO/0810CB_%206120540271.jpg'
+    context:
+    - show:
+        year: 2026
+        id: cannoballgaiden
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 307292
+
+- webimage:
     domain: cannonball-live.jp
     page: index
     id: day2poster
@@ -14,6 +30,19 @@
       webpage:
         domain: cannonball-live.jp
         id: index
+
+- webpage:
+    domain: babymetal.com
+    id: 307292
+    label: Merch announcement
+    published-date: 2026-08-04
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=307292'
+    image:
+    - merch
+    part-of:
+      show:
+        year: 2026
+        id: cannoballgaiden
 
 - webpage:
     domain: cannonball-live.jp

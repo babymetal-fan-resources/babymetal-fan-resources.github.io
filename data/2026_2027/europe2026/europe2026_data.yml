@@ -23,3 +23,12 @@
     part-of:
       tour: europe2026
 
+- youtubevideo:
+    id: 7ZcVZ43iviI
+    label: Recap movie
+    published-date: 2026-07-30
+    context:
+    - tour: europe2026
+    part-of:
+      tour: europe2026
+

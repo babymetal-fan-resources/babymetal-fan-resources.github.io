@@ -1,3 +1,32 @@
+- postinstagram:
+    id: DbvvW-xmEjb
+    account: babymetal_official
+    label: Teaser
+    published-date: 2026-08-07
+    text: |-
+      Only the Fox God knows what's about to happen. 🦊
+      
+      Loudmouths, prepare for the revelation.
+      BABYMETAL. Saturday, September 19.
+    image:
+    - 1
+    todo: 3 member pictures
+    part-of:
+      show:
+        year: 2026
+        id: louderthanlife
+
+- postinstagramimage:
+    post: DbvvW-xmEjb
+    id: 1
+    label: Band Poster
+    context:
+    - show:
+        year: 2026
+        id: louderthanlife
+    part-of:
+      postinstagram: DbvvW-xmEjb
+
 - update:
     show:
       year: 2026

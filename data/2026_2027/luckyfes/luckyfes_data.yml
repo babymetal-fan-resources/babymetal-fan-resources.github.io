@@ -1,3 +1,32 @@
+- postx:
+    id: 2086708462097166524
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-08-10
+    text: |-
+      Thank you for coming to "Lucky Fes'26"🌻
+      So happy to see everyone !!! See you👋
+      #BABYMETAL #LuckyFes
+      @luckyfm_fes
+    image:
+    - HPV6Jn-bIAAhv3-
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
+
+- postximage:
+    post: 2086708462097166524
+    id: HPV6Jn-bIAAhv3-
+    index: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      postx: 2086708462097166524
+
 - webimage:
     domain: babymetal.com
     page: 302088
@@ -15,6 +44,22 @@
         domain: babymetal.com
         id: 302088
 
+- webimage:
+    domain: babymetal.com
+    page: 307291
+    id: merch
+    label: Merch
+    published-date: 2026-08-03
+    url: 'https://babymetal.com/contents/1/TO/0809LF_%202242199991.jpg'
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 307291
+
 - webpage:
     domain: babymetal.com
     id: 302088
@@ -23,6 +68,19 @@
     url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=302088'
     image:
     - lineup
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
+
+- webpage:
+    domain: babymetal.com
+    id: 307291
+    label: Merch announcement
+    published-date: 2026-08-03
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=307291'
+    image:
+    - merch
     part-of:
       show:
         year: 2026
