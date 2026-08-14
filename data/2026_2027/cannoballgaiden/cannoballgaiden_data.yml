@@ -1,3 +1,310 @@
+- display:
+    show:
+      year: 2026
+      id: cannoballgaiden
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postximage:
+                    post: 2087162430166389134
+                    image: HPcWngabUAAEj-2
+                - postximage:
+                    post: 2087162430166389134
+                    image: HPcWjxzbwAElJYR
+                - postximage:
+                    post: 2087126676610367962
+                    image: HPb2XQ9bsAAaKHT
+                - postximage:
+                    post: 2087162430166389134
+                    image: HPcWiWBakAAaR-k
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2087126676610367962
+                    image: HPb2YaPaUAAyPCU
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2087126676610367962
+                    image: HPb2YakaAAA43HD
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2087126676610367962
+                    image: HPb2YaDbQAAD8DT
+        - basicsection:
+            label: At the event
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2087155015542768044
+                    image: HPcPi8fb0AAFpZI
+    part-of:
+      show:
+        year: 2026
+        id: cannoballgaiden
+
+- postx:
+    id: 2087126676610367962
+    account: cannonball_live
+    label: Photos
+    published-date: 2026-08-11
+    text: |-
+      💥PHOTO💥
+      CANNONBALL外伝 8/10（月）
+      
+      BABYMETAL
+      
+      撮影＝ハタサトシ
+      
+      #BABYMETAL
+      #CANNONBALL外伝 #CANNONBALL #キャノンボール
+      #有明アリーナ
+    translation: |-
+      💥PHOTO💥
+      CANNONBALL Gaiden 8/10 (Mon)
+      
+      BABYMETAL
+      
+      Photo by Satoshi Hata
+      
+      #BABYMETAL
+      #CANNONBALLGaiden #CANNONBALL #Cannonball
+      #AriakeArena
+    image:
+    - HPb2XQ9bsAAaKHT
+    - HPb2YaDbQAAD8DT
+    - HPb2YaPaUAAyPCU
+    - HPb2YakaAAA43HD
+    part-of:
+      show:
+        year: 2026
+        id: cannoballgaiden
+
+- postx:
+    id: 2087155015542768044
+    account: cannonball_live
+    label: Thank you
+    info: 1 additional image
+    published-date: 2026-08-11
+    text: |-
+      💥CANNONBALL外伝💥
+      
+      ／
+      全日程、終演いたしました！
+      ご来場いただきありがとうございました！
+      ＼
+      
+      CANNONBALL“外伝”――
+      最高に熱く、最高に濃い、規格外の3日間を皆さんと駆け抜けました！
+      
+      熱いステージで魅せてくれた出演アーティストの皆様、
+      そして最後まで全力の歓声で応えてくださった皆様。
+      会場が一つになり、最高の熱狂と景色を創り上げることができました！
+      
+      皆さんとだからこそ生まれた、忘れられない3日間。
+      本当にありがとうございました！
+      
+      そして、この熱狂はまだ終わらない――。
+      また来年、さらに最高の景色を一緒に創りましょう！
+      CANNONBALLで、必ずお会いしましょう！！
+      
+      💣CANNONBALL外伝 公式サイト
+      https://cannonball-live.jp
+      
+      #Chevon #東京スカパラダイスオーケストラ #MAZZEL #マカロニえんぴつ #マルシィ
+      #ENTH #SiM #ハルカミライ #04LimitedSazabys #BABYMETAL
+      #浅井健一 #クロマニヨンズ #ZAZENBOYS #聖飢魔II #マキシマムザホルモン
+      
+      #CANNONBALL外伝 #CANNONBALL #キャノンボール
+      #有明アリーナ
+    translation: |-
+      💥CANNONBALL Gaiden💥
+      
+      ／
+      All schedules have now concluded!
+      Thank you very much for coming!
+      ＼
+      
+      CANNONBALL "Gaiden"—
+      We dashed through an intensely passionate, intensely packed, extraordinary 3 days with all of you!
+      
+      To all the performing artists who captivated us with their fiery stages,
+      and to everyone who responded with full-throttle cheers right until the end.
+      The entire venue became one, creating the ultimate craze and spectacle!
+      
+      An unforgettable 3 days that could only be made possible because of all of you.
+      Thank you so very much!
+      
+      And this excitement doesn't end here—.
+      Let's create an even more incredible scene together again next year!
+      We will definitely see you at CANNONBALL!!
+      
+      💣CANNONBALL Gaiden Official Website
+      https://cannonball-live.jp
+      
+      #Chevon #TokyoSkaParadiseOrchestra #MAZZEL #MacaroniEmpitsu #Marcy
+      #ENTH #SiM #Harukamirai #04LimitedSazabys #BABYMETAL
+      #KenichiAsai #TheCroMagnons #ZAZENBOYS #SEIKIMA_II #MAXIMUMTHEHORMONE
+      
+      #CANNONBALLGaiden #CANNONBALL #Cannonball
+      #AriakeArena
+    image:
+    - HPcPi8fb0AAFpZI
+    part-of:
+      show:
+        year: 2026
+        id: cannoballgaiden
+
+- postx:
+    id: 2087162430166389134
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-08-11
+    text: |-
+      Thank you for coming to "CANNONBALL外伝"🔥🔥🔥
+      
+      See you at 
+      @summer_sonic
+       🦊🤘
+      
+      #BABYMETAL #CANNONBALL外伝 
+      @cannonball_live
+       
+      📸ハタサトシ
+    image:
+    - HPcWiWBakAAaR-k
+    - HPcWjxzbwAElJYR
+    - HPcWngabUAAEj-2
+    part-of:
+      show:
+        year: 2026
+        id: cannoballgaiden
+
+- postximage:
+    post: 2087126676610367962
+    id: HPb2XQ9bsAAaKHT
+    index: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: cannoballgaiden
+    - song: babymetaldeath
+    part-of:
+      postx: 2087126676610367962
+
+- postximage:
+    post: 2087126676610367962
+    id: HPb2YaDbQAAD8DT
+    index: 4
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: cannoballgaiden
+    part-of:
+      postx: 2087126676610367962
+
+- postximage:
+    post: 2087126676610367962
+    id: HPb2YaPaUAAyPCU
+    index: 2
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: cannoballgaiden
+    part-of:
+      postx: 2087126676610367962
+
+- postximage:
+    post: 2087126676610367962
+    id: HPb2YakaAAA43HD
+    index: 3
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: cannoballgaiden
+    part-of:
+      postx: 2087126676610367962
+
+- postximage:
+    post: 2087155015542768044
+    id: HPcPi8fb0AAFpZI
+    index: 1
+    label: Bands
+    context:
+    - show:
+        year: 2026
+        id: cannoballgaiden
+    part-of:
+      postx: 2087155015542768044
+
+- postximage:
+    post: 2087162430166389134
+    id: HPcWiWBakAAaR-k
+    index: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: cannoballgaiden
+    - song: babymetaldeath
+    part-of:
+      postx: 2087162430166389134
+
+- postximage:
+    post: 2087162430166389134
+    id: HPcWjxzbwAElJYR
+    index: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: cannoballgaiden
+    - song: megitsune
+    part-of:
+      postx: 2087162430166389134
+
+- postximage:
+    post: 2087162430166389134
+    id: HPcWngabUAAEj-2
+    index: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: cannoballgaiden
+    - song: megitsune
+    part-of:
+      postx: 2087162430166389134
+
+- update:
+    show:
+      year: 2026
+      id: cannoballgaiden
+    date: 2026-08-14
+    text:
+    - First pictures from the show
+    part-of:
+      show:
+        year: 2026
+        id: cannoballgaiden
+
 - webimage:
     domain: babymetal.com
     page: 307292

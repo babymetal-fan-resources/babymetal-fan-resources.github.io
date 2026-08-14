@@ -1,3 +1,213 @@
+- display:
+    show:
+      year: 2026
+      id: luckyfes
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postxvideo:
+                    post: 2087765163239960782
+                    video: 1
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postximage:
+                    post: 2086470914968043707
+                    image: HPSiIVCagAEHwbK
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2086470914968043707
+                    image: HPSiNEnbkAAXNoX
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2086470914968043707
+                    image: HPSiMS6aMAAPdyB
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2086470914968043707
+                    image: HPSiLRjbAAAaT2I
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2086708462097166524
+                    image: HPV6Jn-bIAAhv3-
+            - multimediasubsection:
+                multimedia:
+                - postxvideo:
+                    post: 2086430966764150931
+                    video: 1
+                - postximage:
+                    post: 2086430966764150931
+                    image: HPR9wdZaEAAttSs
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2086434704442753165
+                    image: HPSBIICbMAANTpg
+                - postximage:
+                    post: 2086996402270503190
+                    image: HPaAKgQaAAAP-5a
+                - postximage:
+                    post: 2086746878914535487
+                    image: HPWJs3xboAAPesH
+        - basicsection:
+            label: At the event
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postxvideo:
+                    post: 2086391748897734859
+                    video: 1
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
+
+- postx:
+    id: 2086391748897734859
+    account: luckyfm_fes
+    label: Pre-performance comment
+    published-date: 2026-08-09
+    text: |-
+      ◤　#LuckyFes　　
+      　　出演前コメント到着🎥✨ ◢
+      8/9 (日)19:30　RAINBOW STAGE
+      BABYMETAL
+      
+      @BABYMETAL_JAPAN
+      
+      #BABYMETAL
+    translation: |-
+      ◤ #LuckyFes  
+        Pre-performance comment has arrived🎥✨ ◢
+      8/9 (Sun) 19:30 RAINBOW STAGE
+      BABYMETAL
+      
+      @BABYMETAL_JAPAN
+      
+      #BABYMETAL
+    video:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
+
+- postx:
+    id: 2086430966764150931
+    account: CUTIE_STREET_
+    label: Thank you BABYMETAL
+    published-date: 2026-08-09
+    text: |-
+      かわいいだけじゃだめDEATHか？🤘🏻
+      
+      #BABYMETAL
+      🦊SU-METALさん
+      🦊MOAMETALさん
+      🦊MOMOMETALさん
+      
+      #CUTIESTREET
+      💛古澤里紗
+      ❤️佐野愛花 
+      💚板倉可奈
+      💙増田彩乃 
+      🧡川本笑瑠
+      🩵梅田みゆ 
+      💜真鍋凪咲
+      🩷桜庭遥花
+      
+      @BABYMETAL_JAPAN
+       
+      #きゅーすと #LuckyFes
+    translation: |-
+      Is it not enough to just be cute DEATH?🤘🏻
+      
+      #BABYMETAL
+      🦊SU-METAL-san
+      🦊MOAMETAL-san
+      🦊MOMOMETAL-san
+      
+      #CUTIESTREET
+      💛Risa Furusawa
+      ❤️Aika Sano 
+      💚Kana Itakura
+      💙Ayano Masuda 
+      🧡Emi Kawamoto
+      🩵Miyu Umeda 
+      💜Nagisa Manabe
+      🩷Haruka Sakuraba
+      
+      @BABYMETAL_JAPAN
+       
+      #Kyusuto #LuckyFes
+    image:
+    - HPR9wdZaEAAttSs
+    video:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
+
+- postx:
+    id: 2086434704442753165
+    account: Paledusk_jpn
+    label: Thank you BABYMETAL
+    published-date: 2026-08-09
+    text: |-
+      🦊PD×BABYMETAL🦊
+      
+      Thank you LuckyFes'26
+    image:
+    - HPSBIICbMAANTpg
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
+
+- postx:
+    id: 2086470914968043707
+    account: luckyfm_fes
+    label: Setlist and photos
+    published-date: 2026-08-09
+    text: |-
+      【SetList + Live Photos】BABYMETAL
+      LuckyFes'26
+      RAINBOW STAGE 8/9(日)  19:30～
+      ▶︎https://luckyfes.com/quick-report/94
+      
+      【SetList】
+      1. BABYMETAL DEATH
+      2. メギツネ
+      3. RATATATA (BABYMETAL x Electric Callboy)
+      4. メタり!! (feat. Tom Morello)
+      5. PA PA YA!! (feat.F.HERO)
+      6. ギミチョコ!!
+      7. Road of Resistance
+      
+      @BABYMETAL_JAPAN
+      
+      #BABYMETAL
+    image:
+    - HPSiIVCagAEHwbK
+    - HPSiLRjbAAAaT2I
+    - HPSiMS6aMAAPdyB
+    - HPSiNEnbkAAXNoX
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
+
 - postx:
     id: 2086708462097166524
     account: BABYMETAL_JAPAN
@@ -15,6 +225,183 @@
         year: 2026
         id: luckyfes
 
+- postx:
+    id: 2086746878914535487
+    account: MORE_STAR_
+    label: Thank you BABYMETAL
+    published-date: 2026-08-10
+    text: |-
+      🦊【コラボお写真】#BABYMETALさん🌟
+      
+      BABYMETAL(
+      @BABYMETAL_JAPAN
+       )さんと
+      お写真を撮影させていただきました📸✨
+      
+      ありがとうございました🦊🤘🏻🔥
+      
+      #もあすた #MORESTAR #Luckyfes
+    translation: |-
+      [Collab Photo] #BABYMETAL-san
+      
+      We took a photo with 
+      BABYMETAL (@BABYMETAL_JAPAN)
+      
+      Thank you very much! #Moastar #MORESTAR #Luckyfes
+    image:
+    - HPWJs3xboAAPesH
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
+
+- postx:
+    id: 2086996402270503190
+    account: CANDY_TUNE_
+    label: Thank you BABYMETAL
+    published-date: 2026-08-11
+    text: |-
+      #LuckyFes にて
+      #BABYMETAL ( 
+      @BABYMETAL_JAPAN
+       )さん
+      
+      🦊SU-METALさん
+      🦊MOAMETALさん
+      🦊MOMOMETALさん
+      
+      お写真を撮っていただきました📸💫
+      
+      ありがとうございました🌻
+      
+      🩵福山梨乃 💚小川奈々子 
+      🩷村川緋杏 🧡南なつ ♥️立花琴未
+      💜宮野静 💙桐原美月
+      
+      #CANDYTUNE #きゃんちゅー
+    translation: |-
+      At #LuckyFes
+      #BABYMETAL (
+      @BABYMETAL_JAPAN
+      )-san
+      
+      🦊SU-METAL-san
+      🦊MOAMETAL-san
+      🦊MOMOMETAL-san
+      
+      took a photo with us📸💫
+      
+      Thank you very much🌻
+      
+      🩵Rino Fukuyama 💚Nanako Ogawa 
+      🩷Bibian Murakawa 🧡Natsu Minami ♥️Kotomi Tachibana
+      💜Shizuka Miyano 💙Mizuki Kirihara
+      
+      #CANDYTUNE #CandyTune
+    image:
+    - HPaAKgQaAAAP-5a
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
+
+- postx:
+    id: 2087765163239960782
+    account: BABYMETAL_JAPAN
+    label: Recap movie
+    published-date: 2026-08-13
+    text: |-
+      "Lucky Fes'26"
+      🎇🎥RECAP MOVIE🎥🎇
+      #BABYMETAL #LuckyFes 
+      @luckyfm_fes
+       
+      📸
+      @seidai_takekosh
+    video:
+    - 1
+    part-of:
+      postxvideo:
+        post: 2087765163239960782
+        video: 1
+
+- postximage:
+    post: 2086430966764150931
+    id: HPR9wdZaEAAttSs
+    index: 2
+    label: Backstage
+    info: CUTIE STREET, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      postx: 2086430966764150931
+
+- postximage:
+    post: 2086434704442753165
+    id: HPSBIICbMAANTpg
+    index: 1
+    label: Backstage
+    info: Paledusk, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      postx: 2086434704442753165
+
+- postximage:
+    post: 2086470914968043707
+    id: HPSiIVCagAEHwbK
+    index: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      postx: 2086470914968043707
+
+- postximage:
+    post: 2086470914968043707
+    id: HPSiLRjbAAAaT2I
+    index: 2
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      postx: 2086470914968043707
+
+- postximage:
+    post: 2086470914968043707
+    id: HPSiMS6aMAAPdyB
+    index: 3
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      postx: 2086470914968043707
+
+- postximage:
+    post: 2086470914968043707
+    id: HPSiNEnbkAAXNoX
+    index: 4
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      postx: 2086470914968043707
+
 - postximage:
     post: 2086708462097166524
     id: HPV6Jn-bIAAhv3-
@@ -26,6 +413,83 @@
         id: luckyfes
     part-of:
       postx: 2086708462097166524
+
+- postximage:
+    post: 2086746878914535487
+    id: HPWJs3xboAAPesH
+    index: 1
+    label: Backstage
+    info: MORE STAR, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      postx: 2086746878914535487
+
+- postximage:
+    post: 2086996402270503190
+    id: HPaAKgQaAAAP-5a
+    index: 1
+    label: Backstage
+    info: CANDY TUNE, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      postx: 2086996402270503190
+
+- postxvideo:
+    post: 2086391748897734859
+    id: 1
+    label: Pre-show comment
+    cover: 2086391697030905856/img/mcGHo48MSFyDIzwY.jpg
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      postx: 2086391748897734859
+
+- postxvideo:
+    post: 2086430966764150931
+    id: 1
+    label: Backstage
+    info: CUTIE STREET, BABYMETAL
+    cover: 2086430798924922880/img/tci0kdm7Yp6fNNCb.jpg
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      postx: 2086430966764150931
+
+- postxvideo:
+    post: 2087765163239960782
+    id: 1
+    label: Recap movie
+    cover: 2087763669862244352/img/xFthL-Oc2w5R0aSY.jpg
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
+
+- update:
+    show:
+      year: 2026
+      id: luckyfes
+    date: 2026-08-14
+    text:
+    - First pictures and videos from the show
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
 
 - webimage:
     domain: babymetal.com
