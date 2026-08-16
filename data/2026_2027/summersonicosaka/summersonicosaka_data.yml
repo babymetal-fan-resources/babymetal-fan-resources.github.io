@@ -1,0 +1,417 @@
+- display:
+    show:
+      year: 2026
+      id: summersonicosaka
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal
+                    id: 01
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal
+                    id: 02
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal
+                    id: 04
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal
+                    id: 10
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal
+                    id: 11
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal
+                    id: 12
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal
+                    id: 07
+                - postximage:
+                    post: 2088515189369139576
+                    image: HPvlL2xbQAA0BmP
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal
+                    id: 14
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal
+                    id: 03
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal
+                    id: 13
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal
+                    id: 05
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal
+                    id: 06
+                - postximage:
+                    post: 2088515189369139576
+                    image: HPvlHG4bQAA3rXx
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2088517571243118633
+                    image: HPvnhcGacAAqrzN
+    part-of:
+      show:
+        year: 2026
+        id: summersonicosaka
+
+- postx:
+    id: 2088515189369139576
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-08-15
+    text: |-
+      Thank you for coming to "SUMMER SONIC OSAKA"🌞
+      See U tomorrow !!
+      #BABYMETAL 
+      @SummerSonic_Osk
+       
+      📸 ©SUMMER SONIC All Rights Reserved.
+    image:
+    - HPvlHG4bQAA3rXx
+    - HPvlL2xbQAA0BmP
+    part-of:
+      show:
+        year: 2026
+        id: summersonicosaka
+    reference:
+    - webimage:
+        domain: summersonic.com
+        page: 2026live.detail.babymetal
+        id: 05
+    - webimage:
+        domain: summersonic.com
+        page: 2026live.detail.babymetal
+        id: 14
+
+- postx:
+    id: 2088517571243118633
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-08-15
+    text: |-
+      Thank you @yukihiro_works
+       
+      #BABYMETAL #summersonic @LArc_official
+    image:
+    - HPvnhcGacAAqrzN
+    part-of:
+      show:
+        year: 2026
+        id: summersonicosaka
+
+- postximage:
+    post: 2088515189369139576
+    id: HPvlHG4bQAA3rXx
+    index: 3
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    part-of:
+      postx: 2088515189369139576
+
+- postximage:
+    post: 2088515189369139576
+    id: HPvlL2xbQAA0BmP
+    index: 4
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    part-of:
+      postx: 2088515189369139576
+
+- postximage:
+    post: 2088517571243118633
+    id: HPvnhcGacAAqrzN
+    index: 1
+    label: Backstage
+    info: BABYMETAL, yukihiro (L'Arc-en-Ciel)
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    part-of:
+      postx: 2088517571243118633
+
+- update:
+    show:
+      year: 2026
+      id: summersonicosaka
+    date: 2026-08-16
+    text:
+    - First pictures from the show
+    part-of:
+      show:
+        year: 2026
+        id: summersonicosaka
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal
+    id: 01
+    label: On stage
+    published-date: 2026-08-14
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/babymetal01.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    - song: babymetaldeath
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal
+    id: 02
+    label: On stage
+    published-date: 2026-08-14
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/babymetal02.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    - album: megitsune
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal
+    id: 03
+    label: On stage
+    info: MOAMETAL
+    published-date: 2026-08-14
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/babymetal03.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal
+    id: 04
+    label: On stage
+    published-date: 2026-08-14
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/babymetal04.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    - song: megitsune
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal
+    id: 05
+    label: On stage
+    info: SU-METAL
+    published-date: 2026-08-14
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/babymetal05.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal
+    id: 06
+    label: On stage
+    info: MOMOMETAL
+    published-date: 2026-08-14
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/babymetal06.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    - song: song3
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal
+    id: 07
+    label: On stage
+    published-date: 2026-08-14
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/babymetal07.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    - song: roadofresistance
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal
+    id: 10
+    label: On stage
+    published-date: 2026-08-14
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/babymetal10.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    - song: metali
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal
+    id: 11
+    label: On stage
+    published-date: 2026-08-14
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/babymetal11.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    - song: papaya
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal
+    id: 12
+    label: On stage
+    published-date: 2026-08-14
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/babymetal12.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    - song: roadofresistance
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal
+    id: 13
+    label: On stage
+    info: SU-METAL
+    published-date: 2026-08-14
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/babymetal13.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    - song: roadofresistance
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal
+    id: 14
+    label: On stage
+    info: MOAMETAL
+    published-date: 2026-08-14
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/babymetal14.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonicosaka
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal
+
+- webpage:
+    domain: summersonic.com
+    id: 2026live.detail.babymetal
+    label: Gallery
+    published-date: 2026-08-14
+    url: 'https://www.summersonic.com/2026live/detail/babymetal/'
+    image:
+    - 01
+    - 02
+    - 03
+    - 04
+    - 05
+    - 06
+    - 07
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+    part-of:
+      show:
+        year: 2026
+        id: summersonicosaka
+    reference:
+    - postximage:
+        post: 2088515189369139576
+        image: HPvlHG4bQAA3rXx
+    - postximage:
+        post: 2088515189369139576
+        image: HPvlL2xbQAA0BmP
+
