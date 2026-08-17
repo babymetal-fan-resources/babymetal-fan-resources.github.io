@@ -13,3 +13,9 @@ show:
   event-page: 'https://www.summersonic.com/'
   part-of:
     group: 2026_2027
+  multimedia:
+    main:
+      webimage:
+        domain: summersonic.com
+        page: 2026live.detail.babymetal-2
+        id: 5

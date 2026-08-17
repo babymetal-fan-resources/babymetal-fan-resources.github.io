@@ -1,3 +1,27 @@
+- postinstagram:
+    id: DcGOQaLyxG9
+    account: babymetal_official
+    label: DELUXE JAPAN EDITION content
+    published-date: 2026-08-16
+    text: |-
+      『METAL FORTH (DELUXE JAPAN EDITION)』の中身を公開DEATH🔥
+    translation: |-
+      Revealing the contents of "METAL FORTH (DELUXE JAPAN EDITION)" DEATH🔥
+    video:
+    - 1
+    part-of:
+      album: metalforthdelux
+
+- postinstagramvideo:
+    post: DcGOQaLyxG9
+    id: 1
+    label: DELUXE JAPAN EDITION
+    info: content
+    context:
+    - album: metalforthdelux
+    part-of:
+      postinstagram: DcGOQaLyxG9
+
 - postx:
     id: 2038996569790267447
     account: BABYMETAL_JAPAN

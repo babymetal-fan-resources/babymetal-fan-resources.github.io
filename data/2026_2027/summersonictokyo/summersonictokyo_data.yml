@@ -1,3 +1,89 @@
+- display:
+    show:
+      year: 2026
+      id: summersonictokyo
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postxvideo:
+                    post: 2089011018370625975
+                    video: 1
+            - multimediasubsection:
+                label: Image
+                multimedia:
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal-2
+                    id: 8
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal-2
+                    id: 7
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal-2
+                    id: 4
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal-2
+                    id: 3
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal-2
+                    id: 6
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal-2
+                    id: 5
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal-2
+                    id: 9
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal-2
+                    id: 10
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal-2
+                    id: 2
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: summersonic.com
+                    page: 2026live.detail.babymetal-2
+                    id: 1
+        - basicsection:
+            label: At the event
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2089014511210754316
+                    image: HP2rn3lbkAACfCK
+                - postximage:
+                    post: 2089227040054722775
+                    image: HP5s6bkbAAAR14W
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
 - postx:
     id: 2032293499216011385
     account: summer_sonic
@@ -44,6 +130,76 @@
         year: 2026
         id: summersonictokyo
 
+- postx:
+    id: 2089011018370625975
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-08-16
+    text: |-
+      Thank you for coming to "SUMMER SONIC TOKYO"!!!🌞
+      #BABYMETAL 
+      @summer_sonic
+       
+      📸 
+      @seidai_takekosh
+    video:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- postx:
+    id: 2089014511210754316
+    account: sascha348
+    label: Thank you BABYMETAL
+    published-date: 2026-08-16
+    text: |-
+      with 
+      @BABYMETAL_JAPAN
+       
+      @summer_sonic
+       #summersonic #サマソニ #サマーソニック
+    image:
+    - HP2rn3lbkAACfCK
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- postx:
+    id: 2089227040054722775
+    account: TravisJapan_cr
+    label: With Travis
+    info: 1 picture with METALVERSE
+    published-date: 2026-08-17
+    text: |-
+      SUMMER SONICでBABYMETAL&METALVERSEのみなさんと📸🐯🦊
+      #BABYMETAL #METALVERSE #TravisJapan #SUMMERSONIC
+      @metalverseworld
+      
+      @BABYMETAL_JAPAN
+      
+      
+       📸 by 
+      @fujii_taku
+    translation: |-
+      📸🐯🦊 with everyone from BABYMETAL & METALVERSE at SUMMER SONIC
+      #BABYMETAL #METALVERSE #TravisJapan #SUMMERSONIC
+      @metalverseworld
+      
+      @BABYMETAL_JAPAN
+      
+      
+       📸 by 
+      @fujii_taku
+    image:
+    - HP5s6bkbAAAR14W
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
 - postximage:
     post: 2032293499216011385
     id: HDQoIAoa4AA6MPp
@@ -67,6 +223,57 @@
         id: summersonicosaka
     part-of:
       postx: 2032293499216011385
+
+- postximage:
+    post: 2089014511210754316
+    id: HP2rn3lbkAACfCK
+    index: 1
+    label: Backstage
+    info: BABYMETAL, Sascha
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089014511210754316
+
+- postximage:
+    post: 2089227040054722775
+    id: HP5s6bkbAAAR14W
+    index: 1
+    label: Backstage
+    info: Travis, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089227040054722775
+
+- postxvideo:
+    post: 2089011018370625975
+    id: 1
+    label: On stage
+    cover: 2089010747095592960/img/11J1c7NXAA2GnmXr.jpg
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    - song: metali
+    part-of:
+      postx: 2089011018370625975
+
+- update:
+    show:
+      year: 2026
+      id: summersonictokyo
+    date: 2026-08-17
+    text:
+    - First pictures and videos from the show
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
 
 - webimage:
     domain: babymetal.com
@@ -117,6 +324,175 @@
         domain: babymetal.com
         id: 307413
 
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal-2
+    id: 1
+    label: On stage
+    info: SU-METAL
+    published-date: 2026-08-17
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/001-214.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    - song: megitsune
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal-2
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal-2
+    id: 10
+    label: On stage
+    published-date: 2026-08-17
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/010-162.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal-2
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal-2
+    id: 2
+    label: On stage
+    info: MOAMETAL
+    published-date: 2026-08-17
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/002-216.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal-2
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal-2
+    id: 3
+    label: On stage
+    published-date: 2026-08-17
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/003-216.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    - song: megitsune
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal-2
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal-2
+    id: 4
+    label: On stage
+    published-date: 2026-08-17
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/004-210.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    - song: megitsune
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal-2
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal-2
+    id: 5
+    label: On stage
+    published-date: 2026-08-17
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/005-207.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    - song: sunsetkiss
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal-2
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal-2
+    id: 6
+    label: On stage
+    published-date: 2026-08-17
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/006-197.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    - song: sunsetkiss
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal-2
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal-2
+    id: 7
+    label: On stage
+    published-date: 2026-08-17
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/007-192.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    - song: babymetaldeath
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal-2
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal-2
+    id: 8
+    label: On stage
+    published-date: 2026-08-17
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/008-184.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    - song: babymetaldeath
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal-2
+
+- webimage:
+    domain: summersonic.com
+    page: 2026live.detail.babymetal-2
+    id: 9
+    label: On stage
+    published-date: 2026-08-17
+    url: 'https://www.summersonic.com/wp/wp-content/uploads/2026/08/009-176.jpg'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      webpage:
+        domain: summersonic.com
+        id: 2026live.detail.babymetal-2
+
 - webpage:
     domain: babymetal.com
     id: 301498
@@ -143,6 +519,28 @@
     url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=307413'
     image:
     - merch
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- webpage:
+    domain: summersonic.com
+    id: 2026live.detail.babymetal-2
+    label: Gallery
+    published-date: 2026-08-17
+    url: 'https://www.summersonic.com/2026live/detail/babymetal-2'
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
     part-of:
       show:
         year: 2026
