@@ -123,6 +123,9 @@
                 - postximage:
                     post: 2089227040054722775
                     image: HP5s6bkbAAAR14W
+                - postinstagramimage:
+                    post: DcJTJfnEhgK
+                    image: 2
                 - postximage:
                     post: 2089014511210754316
                     image: HP2rn3lbkAACfCK
@@ -133,6 +136,99 @@
       show:
         year: 2026
         id: summersonictokyo
+
+- postinstagram:
+    id: DcJTJfnEhgK
+    account: ahnmikaofficial
+    label: Personal report
+    info: with additional pictures
+    published-date: 2026-08-17
+    text: |-
+      夫婦で、SUMMER SONIC 2026🌈🎶✨へ
+      
+      もう…最高にカッコ良かったーーー😍🔥
+      
+      先ずは世界で戦ってきたメタル・アクトの貫禄がすざましかったBABYMETAL🎸
+      神バンドの重厚な音が凄まじくカッコ良くて、それが可愛いと同時に成立する感じがBABYMETALならではすぎました❣️
+      
+      そして待ちに待ったジャミロクワイ❣️
+      一音鳴った瞬間から、会場の空気が一気にJamiroquaiの世界へ😍
+      
+      あの唯一無二のグルーヴ、ファンクの気持ち良さ、そして何年経っても色褪せない名曲たち✨
+      身体が勝手にリズムを刻んでしまう、まさに“音を浴びる”時間でした。
+      
+      そしてJay Kayの存在感！！
+      自由で、チャーミングで、力が抜けているのに圧倒的にカッコいい。
+      長く世界の第一線にいる人だけが持つ、余裕と色気に痺れました❤️‍🔥
+      
+      世代も国境も越えて、会場中が同じビートでひとつになっていく景色にも感動。やっぱり本物の音楽は、時代を越える。
+      
+      大好きな音楽を生で全身に浴びられるって、なんて幸せなんやろう✨
+      
+      ライブ後にbrand new heavies のNdea さん、エディションホテルPRのマミさん、サッシャ、こがけんと合流✨
+      
+      BABYMETALの皆さんも、ジャミロクワイさんも、気さくに撮影して下さいました📸感謝😍　　　　　忘れられない夏の夜になりました🌙🎶
+      
+      本日8/18 (火)は
+      
+      ・9:00~11:10 日本テレビ（全国）　【DayDay.】
+      
+      ・19:40~19:50 NHK Eテレ (全国)
+      【理科チューバーズ】MC〜最強の空気でっぽう とじこめた空気〜に出演です！
+      
+      #SUMMERSONIC #サマソニ #Jamiroquai #ジャミロクワイ #JayKay サマソニ2026
+    translation: |-
+      Went to SUMMER SONIC 2026 with my husband🌈🎶✨
+      
+      Just... insanely coolーーー😍🔥
+      
+      First off, the sheer presence of BABYMETAL as a metal act that has fought across the globe was incredible🎸
+      The Kami Band's heavy sound was so insanely cool, and pulling that off at the same time as being cute is just so uniquely BABYMETAL❣️
+      
+      And the long-awaited Jamiroquai❣️
+      From the moment the very first note hit, the atmosphere of the venue was instantly pulled into Jamiroquai's world😍
+      
+      That one-and-only groove, the feel-good funk, and those timeless classics that never fade even after all these years✨
+      My body just started keeping time to the rhythm on its own, it was truly a time of "bathing in sound."
+      
+      And Jay Kay's presence!!
+      Free-spirited, charming, relaxed, yet overwhelmingly cool.
+      I was thrilled by that effortless confidence and charm that only someone who has been at the world's forefront for so long can possess❤️‍🔥
+      
+      I was also moved by the sight of the whole venue becoming one to the same beat, transcending generations and borders. Real music truly stands the test of time.
+      
+      How blissful it is to bathe your entire body in your favorite music live✨
+      
+      After the show, met up with N'Dea from the Brand New Heavies, Mami-san from Edition Hotel PR, Sascha, and Kogaken✨
+      
+      Everyone from BABYMETAL and Jamiroquai kindly posed for photos with us📸 So grateful😍          It became an unforgettable summer night🌙🎶
+      
+      Today, Tuesday 8/18:
+      
+      ・9:00~11:10 Nippon TV (Nationwide) 【DayDay.】
+      
+      ・19:40~19:50 NHK E-Tele (Nationwide)
+      Appearing on 【Rika Tubers】MC ~Strongest Air Gun: Trapped Air~!
+      
+      #SUMMERSONIC #SummerSonic #Jamiroquai #Jamiroquai #JayKay SummerSonic2026
+    image:
+    - 2
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- postinstagramimage:
+    post: DcJTJfnEhgK
+    id: 2
+    label: Backstage
+    info: Theodore Miller ,BABYMETAL, Ahnmika
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postinstagram: DcJTJfnEhgK
 
 - postx:
     id: 2032293499216011385
