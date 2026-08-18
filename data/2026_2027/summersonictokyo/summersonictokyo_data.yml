@@ -72,13 +72,63 @@
             label: At the event
             subsections:
             - multimediasubsection:
+                label: Sonic "METAL" stage
                 multimedia:
+                - postximage:
+                    post: 2089290481931022766
+                    image: HP6mnspaQAAClbC
+                - postximage:
+                    post: 2089290445172125822
+                    image: HP6mlfvaQAAMEdb
+                - postximage:
+                    post: 2089290481931022766
+                    image: HP6mnssboAAZZKP
+                - postximage:
+                    post: 2089290445172125822
+                    image: HP6mlfwawAAxHv_
+                - postximage:
+                    post: 2089290445172125822
+                    image: HP6mlflbYAA02_7
+            - multimediasubsection:
+                label: Other artists
+                multimedia:
+                - postximage:
+                    post: 2089322449292984725
+                    image: HP7A5HybAAAizGy
+                - postximage:
+                    post: 2089306974634836008
+                    image: HP61DXoaIAASNZQ
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2089326962145976501
+                    image: HP7Hk2GaUAAZpl8
+                - postximage:
+                    post: 2089325327738896877
+                    image: HP7Db7mboAAorNI
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2089322449292984725
+                    image: HP7AeNDboAA0Ql5
+                - postximage:
+                    post: 2089339262152171780
+                    image: HP7S-6ja0AAB2KH
+                - postximage:
+                    post: 2089322449292984725
+                    image: HP7AaBaa0AATmWx
+                - postximage:
+                    post: 2089322449292984725
+                    image: HP7AcLAaIAE9RjJ
+                - postximage:
+                    post: 2089227040054722775
+                    image: HP5s6bkbAAAR14W
                 - postximage:
                     post: 2089014511210754316
                     image: HP2rn3lbkAACfCK
                 - postximage:
-                    post: 2089227040054722775
-                    image: HP5s6bkbAAAR14W
+                    post: 2089325539924525309
+                    image: HP7GeSKacAAZ8gt
     part-of:
       show:
         year: 2026
@@ -200,6 +250,199 @@
         year: 2026
         id: summersonictokyo
 
+- postx:
+    id: 2089290445172125822
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-08-17
+    text: |-
+      These are all the incredible artists who joined the Sonic “METAL”Stage - Curated by BABYMETAL! Thank you for such a special time.
+      #BABYMETAL 
+      @summer_sonic
+       
+      @southarcadeuk
+       
+      @BDP_AveMujica
+       
+      @metalverseworld
+    image:
+    - HP6mlflbYAA02_7
+    - HP6mlfvaQAAMEdb
+    - HP6mlfwawAAxHv_
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- postx:
+    id: 2089290481931022766
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-08-17
+    text: |-
+      These are all the incredible artists who joined the Sonic “METAL”Stage - Curated by BABYMETAL! Thank you for such a special time.
+      #BABYMETAL 
+      @summer_sonic
+       
+      @machinegunkelly
+       
+      @TheWarningBand2
+    image:
+    - HP6mnspaQAAClbC
+    - HP6mnssboAAZZKP
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- postx:
+    id: 2089306974634836008
+    account: bandmaid
+    label: Thank you
+    published-date: 2026-08-17
+    text: |-
+      Thank you!  
+      BABYMETAL さん　
+      @BABYMETAL_JAPAN
+        
+      METALVERSE さん 
+      @metalverseworld
+         
+      
+      photo by 
+      @pickles_0808
+      
+      
+      "SUMMER SONIC 2026"
+      BAND-MAID Photo
+      
+      #サマソニ #summersonic #bandmaid
+    image:
+    - HP61DXoaIAASNZQ
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- postx:
+    id: 2089322449292984725
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-08-17
+    text: |-
+      Thank you 
+      @December10JP
+       
+      @TravisJapan_cr
+       
+      @starglow_bmsg
+       
+      @bandmaid
+       
+      @metalverseworld
+       🙏
+      #BABYMETAL 
+      @summer_sonic
+       
+      📸 
+      @fujii_taku
+    image:
+    - HP7A5HybAAAizGy
+    - HP7AaBaa0AATmWx
+    - HP7AcLAaIAE9RjJ
+    - HP7AeNDboAA0Ql5
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- postx:
+    id: 2089325327738896877
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-08-17
+    text: |-
+      Thank you 
+      @TatsuyaKitani
+       🦊
+      #BABYMETAL 
+      @summer_sonic
+      
+      📸 
+      @fujii_taku
+    image:
+    - HP7Db7mboAAorNI
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- postx:
+    id: 2089325539924525309
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-08-17
+    text: |-
+      Thank you 
+      @hotcake_staff
+       🦊
+      #BABYMETAL 
+      @summer_sonic
+    image:
+    - HP7GeSKacAAZ8gt
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- postx:
+    id: 2089326962145976501
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-08-17
+    text: |-
+      Thank you 
+      @JamiroquaiHQ
+       🦊🎩 
+      #BABYMETAL 
+      @summer_sonic
+      
+      📸 
+      @fujii_taku
+    image:
+    - HP7Hk2GaUAAZpl8
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- postx:
+    id: 2089339262152171780
+    account: starglow_bmsg
+    label: Thank you
+    info: 1 more picture with METALVERSE
+    published-date: 2026-08-17
+    text: |-
+      📸
+      @BABYMETAL_JAPAN
+       
+      @metalverseworld
+       
+      
+      ありがとうございました✨
+      
+      #summersonic 
+      @summer_sonic
+       
+      #RUI #TAIKI 
+      #STARGLOW
+    image:
+    - HP7S-6ja0AAB2KH
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
 - postximage:
     post: 2032293499216011385
     id: HDQoIAoa4AA6MPp
@@ -249,6 +492,188 @@
         id: summersonictokyo
     part-of:
       postx: 2089227040054722775
+
+- postximage:
+    post: 2089290445172125822
+    id: HP6mlflbYAA02_7
+    index: 3
+    label: Backstage
+    info: METALVERSE, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089290445172125822
+
+- postximage:
+    post: 2089290445172125822
+    id: HP6mlfvaQAAMEdb
+    index: 2
+    label: Backstage
+    info: Ave Mujica, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089290445172125822
+
+- postximage:
+    post: 2089290445172125822
+    id: HP6mlfwawAAxHv_
+    index: 1
+    label: Backstage
+    info: BABYMETAL, South Arcade
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089290445172125822
+
+- postximage:
+    post: 2089290481931022766
+    id: HP6mnspaQAAClbC
+    index: 1
+    label: Backstage
+    info: BABYMETAL, MGK
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089290481931022766
+
+- postximage:
+    post: 2089290481931022766
+    id: HP6mnssboAAZZKP
+    index: 2
+    label: Backstage
+    info: The Warning, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089290481931022766
+
+- postximage:
+    post: 2089306974634836008
+    id: HP61DXoaIAASNZQ
+    index: 1
+    label: Backstage
+    info: METALVERSE, BAND-MAID, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089306974634836008
+
+- postximage:
+    post: 2089322449292984725
+    id: HP7A5HybAAAizGy
+    index: 4
+    label: Backstage
+    info: METALVERSE, BAND-MAID, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089322449292984725
+
+- postximage:
+    post: 2089322449292984725
+    id: HP7AaBaa0AATmWx
+    index: 1
+    label: Backstage
+    info: December 10, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089322449292984725
+
+- postximage:
+    post: 2089322449292984725
+    id: HP7AcLAaIAE9RjJ
+    index: 2
+    label: Backstage
+    info: Travis, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089322449292984725
+
+- postximage:
+    post: 2089322449292984725
+    id: HP7AeNDboAA0Ql5
+    index: 3
+    label: Backstage
+    info: BABYMETAL, STARGLOW
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089322449292984725
+
+- postximage:
+    post: 2089325327738896877
+    id: HP7Db7mboAAorNI
+    index: 1
+    label: Backstage
+    info: BABYMETAL, Tatsuya Kitani
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089325327738896877
+
+- postximage:
+    post: 2089325539924525309
+    id: HP7GeSKacAAZ8gt
+    index: 1
+    label: Backstage
+    info: BABYMETAL, ENDRECHERI
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089325539924525309
+
+- postximage:
+    post: 2089326962145976501
+    id: HP7Hk2GaUAAZpl8
+    index: 1
+    label: Backstage
+    info: BABYMETAL, Jamiroquai
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089326962145976501
+
+- postximage:
+    post: 2089339262152171780
+    id: HP7S-6ja0AAB2KH
+    index: 1
+    label: Backstage
+    info: BABYMETAL, STARGLOW
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089339262152171780
 
 - postxvideo:
     post: 2089011018370625975
