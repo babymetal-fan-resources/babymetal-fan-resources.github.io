@@ -249,3 +249,14 @@
     part-of:
       song: getnosatisfied
 
+- youtubevideo:
+    id: qoz_MSSSkyE
+    label: About the song
+    info: MOMOMETAL, SU-METAL, MOAMETAL
+    published-date: 2025-09-25
+    context:
+    - song: getnosatisfied
+    todo: to sort
+    part-of:
+      song: getnosatisfied
+
