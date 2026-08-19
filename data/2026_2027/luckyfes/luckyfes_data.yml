@@ -12,9 +12,7 @@
             subsections:
             - multimediasubsection:
                 multimedia:
-                - postxvideo:
-                    post: 2087765163239960782
-                    video: 1
+                - youtubevideo: XK1-W53cGj0
             - multimediasubsection:
                 label: Images
                 multimedia:
@@ -305,26 +303,6 @@
         year: 2026
         id: luckyfes
 
-- postx:
-    id: 2087765163239960782
-    account: BABYMETAL_JAPAN
-    label: Recap movie
-    published-date: 2026-08-13
-    text: |-
-      "Lucky Fes'26"
-      🎇🎥RECAP MOVIE🎥🎇
-      #BABYMETAL #LuckyFes 
-      @luckyfm_fes
-       
-      📸
-      @seidai_takekosh
-    video:
-    - 1
-    part-of:
-      postxvideo:
-        post: 2087765163239960782
-        video: 1
-
 - postximage:
     post: 2086430966764150931
     id: HPR9wdZaEAAttSs
@@ -465,20 +443,6 @@
     part-of:
       postx: 2086430966764150931
 
-- postxvideo:
-    post: 2087765163239960782
-    id: 1
-    label: Recap movie
-    cover: 2087763669862244352/img/xFthL-Oc2w5R0aSY.jpg
-    context:
-    - show:
-        year: 2026
-        id: luckyfes
-    part-of:
-      show:
-        year: 2026
-        id: luckyfes
-
 - update:
     show:
       year: 2026
@@ -545,6 +509,19 @@
     url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=307291'
     image:
     - merch
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
+
+- youtubevideo:
+    id: XK1-W53cGj0
+    label: Recap movie
+    published-date: 2026-08-19
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
     part-of:
       show:
         year: 2026

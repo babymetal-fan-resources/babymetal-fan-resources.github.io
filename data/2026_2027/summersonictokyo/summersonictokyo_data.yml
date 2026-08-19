@@ -12,6 +12,7 @@
             subsections:
             - multimediasubsection:
                 multimedia:
+                - youtubevideo: Rfm0bqO66I8
                 - postxvideo:
                     post: 2089011018370625975
                     video: 1
@@ -123,6 +124,9 @@
                 - postximage:
                     post: 2089227040054722775
                     image: HP5s6bkbAAAR14W
+                - postximage:
+                    post: 2089306255659565480
+                    image: HP5qxvHbIAAHo2t
                 - postinstagramimage:
                     post: DcJTJfnEhgK
                     image: 2
@@ -392,6 +396,32 @@
         id: summersonictokyo
 
 - postx:
+    id: 2089306255659565480
+    account: zilqy_official
+    label: Thank you
+    published-date: 2026-08-17
+    text: |-
+      🔥SUMMER SONIC 2026🔥
+      
+      With BABYMETAL 📸👑
+      @BABYMETAL_JAPAN
+       
+      
+      We also had the chance to watch their performance and came away truly inspired 🔥
+      
+      We hope our paths cross again someday.
+      Until then, Zilqy will keep pushing forward ⚡️
+      Thank you so much!
+      
+      #BABYMETAL #Zilqy #SUMMERSONIC
+    image:
+    - HP5qxvHbIAAHo2t
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- postx:
     id: 2089306974634836008
     account: bandmaid
     label: Thank you
@@ -653,6 +683,19 @@
         id: summersonictokyo
     part-of:
       postx: 2089290481931022766
+
+- postximage:
+    post: 2089306255659565480
+    id: HP5qxvHbIAAHo2t
+    index: 1
+    label: Backstage
+    info: Zilqy, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2089306255659565480
 
 - postximage:
     post: 2089306974634836008
@@ -1062,6 +1105,20 @@
     - 8
     - 9
     - 10
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- youtubevideo:
+    id: Rfm0bqO66I8
+    label: Recap movie
+    published-date: 2026-08-19
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    - song: roadofresistance
     part-of:
       show:
         year: 2026
