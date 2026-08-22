@@ -22,18 +22,60 @@
                 - postximage:
                     post: 2086470914968043707
                     image: HPSiIVCagAEHwbK
+                - webimage:
+                    domain: luckyfes.com
+                    page: quick-report.94
+                    id: 7
             - multimediasubsection:
                 multimedia:
+                - webimage:
+                    domain: luckyfes.com
+                    page: quick-report.94
+                    id: 6
+                - webimage:
+                    domain: barks.jp
+                    page: 1082247
+                    id: all3-3
+                - webimage:
+                    domain: luckyfes.com
+                    page: quick-report.94
+                    id: 5
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: barks.jp
+                    page: 1082247
+                    id: main-3
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: luckyfes.com
+                    page: quick-report.94
+                    id: 8
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: barks.jp
+                    page: 1082247
+                    id: MOMOMETAL
                 - postximage:
                     post: 2086470914968043707
                     image: HPSiNEnbkAAXNoX
             - multimediasubsection:
                 multimedia:
+                - webimage:
+                    domain: barks.jp
+                    page: 1082247
+                    id: MOAMETAL
                 - postximage:
                     post: 2086470914968043707
                     image: HPSiMS6aMAAPdyB
             - multimediasubsection:
                 multimedia:
+                - webimage:
+                    domain: barks.jp
+                    page: 1082247
+                    id: SU-METAL-1
                 - postximage:
                     post: 2086470914968043707
                     image: HPSiLRjbAAAaT2I
@@ -61,6 +103,11 @@
                 - postximage:
                     post: 2086746878914535487
                     image: HPWJs3xboAAPesH
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2090710497553183063
+                    image: HQNf_jYbgAEewWZ
         - basicsection:
             label: At the event
             subsections:
@@ -78,7 +125,7 @@
     id: Db1zsKXSh7u
     account: luckyfm_fes
     label: Recap movie
-    published-date: 2026-08-22
+    published-date: 2026-08-10
     text: |-
       ▷▷▷
       ◤￣￣￣￣￣￣￣￣￣￣￣￣￣ 
@@ -340,6 +387,40 @@
         year: 2026
         id: luckyfes
 
+- postx:
+    id: 2090710497553183063
+    account: luckyfm_fes
+    label: Article post
+    published-date: 2026-08-21
+    text: |-
+      📸 FLASHBACK LuckyFes'26
+      
+      【BABYMETAL】のみなさん🌈
+      LuckyFes'26にご出演いただき、ありがとうございました！
+      
+      当日のライブの模様はBARKSレポートでも👇
+      🔗https://barks.jp/news/1082247/
+      
+      #Luckyfes #BABYMETAL 
+      @BABYMETAL_JAPAN
+    translation: |-
+      📸 FLASHBACK LuckyFes'26
+      
+      To everyone in 【BABYMETAL】🌈
+      Thank you so much for performing at LuckyFes'26!
+      
+      Check out the live report of the day on BARKS as well👇
+      🔗https://barks.jp/news/1082247/
+      
+      #Luckyfes #BABYMETAL 
+      @BABYMETAL_JAPAN
+    image:
+    - HQNf_jYbgAEewWZ
+    part-of:
+      webpage:
+        domain: barks.jp
+        id: 1082247
+
 - postximage:
     post: 2086430966764150931
     id: HPR9wdZaEAAttSs
@@ -455,6 +536,18 @@
     part-of:
       postx: 2086996402270503190
 
+- postximage:
+    post: 2090710497553183063
+    id: HQNf_jYbgAEewWZ
+    index: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      postx: 2090710497553183063
+
 - postxvideo:
     post: 2086391748897734859
     id: 1
@@ -525,6 +618,160 @@
         domain: babymetal.com
         id: 307291
 
+- webimage:
+    domain: barks.jp
+    page: 1082247
+    id: MOAMETAL
+    label: On stage
+    info: MOAMETAL
+    published-date: 2026-08-10
+    url: 'https://new-img.barks.jp/wp-content/uploads/2026/08/10002539/MOAMETAL-768x512.jpg'
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    - song: megitsune
+    part-of:
+      webpage:
+        domain: barks.jp
+        id: 1082247
+
+- webimage:
+    domain: barks.jp
+    page: 1082247
+    id: MOMOMETAL
+    label: On stage
+    info: MOMOMETAL
+    published-date: 2026-08-10
+    url: 'https://new-img.barks.jp/wp-content/uploads/2026/08/10002545/MOMOMETAL-768x512.jpg'
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    - song: megitsune
+    part-of:
+      webpage:
+        domain: barks.jp
+        id: 1082247
+
+- webimage:
+    domain: barks.jp
+    page: 1082247
+    id: SU-METAL-1
+    label: On stage
+    info: SU-METAL
+    published-date: 2026-08-10
+    url: 'https://new-img.barks.jp/wp-content/uploads/2026/08/10002532/SU-METAL-1-768x512.jpg'
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      webpage:
+        domain: barks.jp
+        id: 1082247
+
+- webimage:
+    domain: barks.jp
+    page: 1082247
+    id: all3-3
+    label: On stage
+    published-date: 2026-08-10
+    url: 'https://new-img.barks.jp/wp-content/uploads/2026/08/10002522/all3-3-768x512.jpg'
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    - song: babymetaldeath
+    part-of:
+      webpage:
+        domain: barks.jp
+        id: 1082247
+
+- webimage:
+    domain: barks.jp
+    page: 1082247
+    id: main-3
+    label: On stage
+    published-date: 2026-08-10
+    url: 'https://new-img.barks.jp/wp-content/uploads/2026/08/10002419/main-3-768x512.jpg'
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    - song: megitsune
+    part-of:
+      webpage:
+        domain: barks.jp
+        id: 1082247
+
+- webimage:
+    domain: luckyfes.com
+    page: quick-report.94
+    id: 5
+    label: On stage
+    published-date: 2026-08-09
+    url: 'https://storage.fespli.dev/luckyfes2026/k9k24js70txailpnmx1z86qgk88f'
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    - song: babymetaldeath
+    part-of:
+      webpage:
+        domain: luckyfes.com
+        id: quick-report.94
+
+- webimage:
+    domain: luckyfes.com
+    page: quick-report.94
+    id: 6
+    label: On stage
+    published-date: 2026-08-09
+    url: 'https://storage.fespli.dev/luckyfes2026/0fo2zaclhuu72gghn2os013cig6v'
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    - song: babymetaldeath
+    part-of:
+      webpage:
+        domain: luckyfes.com
+        id: quick-report.94
+
+- webimage:
+    domain: luckyfes.com
+    page: quick-report.94
+    id: 7
+    label: On stage
+    published-date: 2026-08-09
+    url: 'https://storage.fespli.dev/luckyfes2026/tmmdk53s8pr0sz6myj8g6ebi4yys'
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    part-of:
+      webpage:
+        domain: luckyfes.com
+        id: quick-report.94
+
+- webimage:
+    domain: luckyfes.com
+    page: quick-report.94
+    id: 8
+    label: On stage
+    published-date: 2026-08-09
+    url: 'https://storage.fespli.dev/luckyfes2026/cqq1t3753fxgvjiu81oetq57xwc5'
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    - song: roadofresistance
+    part-of:
+      webpage:
+        domain: luckyfes.com
+        id: quick-report.94
+
 - webpage:
     domain: babymetal.com
     id: 302088
@@ -550,6 +797,54 @@
       show:
         year: 2026
         id: luckyfes
+
+- webpage:
+    domain: barks.jp
+    id: 1082247
+    label: Show report
+    published-date: 2026-08-10
+    url: 'https://barks.jp/news/1082247/'
+    image:
+    - main-3
+    - all3-3
+    - SU-METAL-1
+    - MOAMETAL
+    - MOMOMETAL
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
+    reference:
+    - webimage:
+        domain: luckyfes.com
+        page: quick-report.94
+        id: 5
+
+- webpage:
+    domain: luckyfes.com
+    id: quick-report.94
+    label: Photos + Setlist
+    published-date: 2026-08-09
+    url: 'https://luckyfes.com/en/quick-report/94'
+    image:
+    - 5
+    - 6
+    - 7
+    - 8
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
+    reference:
+    - postximage:
+        post: 2086470914968043707
+        image: HPSiLRjbAAAaT2I
+    - postximage:
+        post: 2086470914968043707
+        image: HPSiMS6aMAAPdyB
+    - postximage:
+        post: 2086470914968043707
+        image: HPSiNEnbkAAXNoX
 
 - youtubevideo:
     id: XK1-W53cGj0
