@@ -63,6 +63,28 @@
     part-of:
       tour: northamerica2026
 
+- postx:
+    id: 2090644862148497632
+    account: BABYMETAL_JAPAN
+    label: VIP packages
+    published-date: 2026-08-21
+    text: |-
+      BABYMETAL WORLD TOUR 2026 In North America VIP packages are selling quick! Packages with new exclusive items including duffle bag, passport stamp book, luggage tag, and passport holder.
+      
+      The Fox God's Chosen VIP packages for BABYMETAL WORLD TOUR 2026 in North America are SOLD OUT in the following cities: 
+      
+      Chicago, IL
+      Holmdel, NJ
+      Dallas, TX
+      Austin, TX
+      Phoenix, AZ
+      
+      Limited VIP packages remain.
+    image:
+    - HQN2X65bYAAB_Qc
+    part-of:
+      tour: northamerica2026
+
 - postximage:
     post: 2038994732328919045
     id: HEv0yWpa8AAPYwm
@@ -92,6 +114,16 @@
     - tour: northamerica2026
     part-of:
       postx: 2073520278236287441
+
+- postximage:
+    post: 2090644862148497632
+    id: HQN2X65bYAAB_Qc
+    index: 1
+    label: VIP merch
+    context:
+    - tour: northamerica2026
+    part-of:
+      postx: 2090644862148497632
 
 - webimage:
     domain: babymetal.com

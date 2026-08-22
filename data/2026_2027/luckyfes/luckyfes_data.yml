@@ -13,6 +13,9 @@
             - multimediasubsection:
                 multimedia:
                 - youtubevideo: XK1-W53cGj0
+                - postinstagramvideo:
+                    post: Db1zsKXSh7u
+                    video: 1
             - multimediasubsection:
                 label: Images
                 multimedia:
@@ -70,6 +73,40 @@
       show:
         year: 2026
         id: luckyfes
+
+- postinstagram:
+    id: Db1zsKXSh7u
+    account: luckyfm_fes
+    label: Recap movie
+    published-date: 2026-08-22
+    text: |-
+      ▷▷▷
+      ◤￣￣￣￣￣￣￣￣￣￣￣￣￣ 
+        #LuckyFes LIVE STAGE ❤️‍🔥
+      ＿＿＿＿＿＿＿＿＿＿＿＿＿◢
+      8/9 (日)19:30　RAINBOW STAGE
+      BABYMETAL
+      
+      @babymetal_official 
+      #babymetal
+    video:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: luckyfes
+
+- postinstagramvideo:
+    post: Db1zsKXSh7u
+    id: 1
+    label: Recap movie
+    context:
+    - show:
+        year: 2026
+        id: luckyfes
+    - song: gimichoko
+    part-of:
+      postinstagram: Db1zsKXSh7u
 
 - postx:
     id: 2086391748897734859

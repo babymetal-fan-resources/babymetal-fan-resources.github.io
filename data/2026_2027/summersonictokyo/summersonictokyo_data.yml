@@ -91,6 +91,19 @@
                     post: 2089290445172125822
                     image: HP6mlflbYAA02_7
             - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: rollingstonejapan.com
+                    page: 45258
+                    id: 55416
+                - webimage:
+                    domain: rollingstonejapan.com
+                    page: 45258
+                    id: 55415
+                - postxvideo:
+                    post: 2090997398172840092
+                    video: 1
+            - multimediasubsection:
                 label: Other artists
                 multimedia:
                 - postximage:
@@ -569,6 +582,52 @@
         year: 2026
         id: summersonictokyo
 
+- postx:
+    id: 2090997398172840092
+    account: rollingstonejp
+    label: Presentation video
+    published-date: 2026-08-22
+    text: |-
+      【𝐄𝐗𝐂𝐋𝐔𝐒𝐈𝐕𝐄 𝐕𝐈𝐃𝐄𝐎】
+      BABYMETAL×South Arcade、サマソニ東京で実現した独占対談🎥
+      
+      ━━━━━━━━━━━━━━━━
+      
+      ジャンルを越えて音楽を鳴らす両者が初対面。
+      対談を終えたBABYMETALとSouth Arcadeからスペシャル動画が到着🔥
+      
+      インタビューはこちら
+      🔗https://rollingstonejapan.com/articles/detail/45258
+      
+      @BABYMETAL_JAPAN
+       
+      @southarcadeuk
+      
+      #BABYMETAL #SouthArcade #summersonic 
+      @summer_sonic
+    translation: |-
+      【𝐄𝐗𝐂𝐋𝐔𝐒𝐈𝐕𝐄 𝐕𝐈𝐃𝐄𝐎】
+      BABYMETAL × South Arcade, Exclusive cross-talk realized at Summer Sonic Tokyo🎥
+      
+      ━━━━━━━━━━━━━━━━
+      
+      The two acts creating music across genres meet for the first time.
+      A special video has arrived from BABYMETAL and South Arcade after finishing the interview🔥
+      
+      Read the interview here
+      🔗https://rollingstonejapan.com/articles/detail/45258
+      
+      @BABYMETAL_JAPAN
+       
+      @southarcadeuk
+      
+      #BABYMETAL #SouthArcade #summersonic 
+      @summer_sonic
+    part-of:
+      webpage:
+        domain: rollingstonejapan.com
+        id: 45258
+
 - postximage:
     post: 2032293499216011385
     id: HDQoIAoa4AA6MPp
@@ -827,6 +886,19 @@
     part-of:
       postx: 2089011018370625975
 
+- postxvideo:
+    post: 2090997398172840092
+    id: 1
+    label: Presentation
+    info: BABYMETAL×South Arcade
+    cover: 2090775900002603008/img/0rsufKCKcbr4CJ2n.jpg
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2090997398172840092
+
 - update:
     show:
       year: 2026
@@ -887,6 +959,42 @@
       webpage:
         domain: babymetal.com
         id: 307413
+
+- webimage:
+    domain: rollingstonejapan.com
+    page: 45258
+    id: 55415
+    label: Bands
+    info: South Arcade, BABYMETAL
+    published-date: 2026-08-22
+    url: 'https://images.rollingstonejapan.com/articles_photos/45258/410x618/d18507bf74c89633e61e7f9b4e5de881.jpg'
+    page-url: 'https://rollingstonejapan.com/articles/gallery/45258/55415'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      webpage:
+        domain: rollingstonejapan.com
+        id: 45258
+
+- webimage:
+    domain: rollingstonejapan.com
+    page: 45258
+    id: 55416
+    label: Bands
+    info: South Arcade, BABYMETAL
+    published-date: 2026-08-22
+    url: 'https://images.rollingstonejapan.com/articles_photos/45258/410x618/1a36b1cd5df24a527480e38a48fdc6fe.jpg'
+    page-url: 'https://rollingstonejapan.com/articles/gallery/45258/55416'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      webpage:
+        domain: rollingstonejapan.com
+        id: 45258
 
 - webimage:
     domain: summersonic.com
@@ -1083,6 +1191,20 @@
     url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=307413'
     image:
     - merch
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- webpage:
+    domain: rollingstonejapan.com
+    id: 45258
+    label: Interview BABYMETAL×South Arcade
+    published-date: 2026-08-22
+    url: 'https://rollingstonejapan.com/articles/detail/45258'
+    image:
+    - 55415
+    - 55416
     part-of:
       show:
         year: 2026
