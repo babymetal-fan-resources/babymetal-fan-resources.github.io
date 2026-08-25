@@ -104,6 +104,29 @@
                     post: 2090997398172840092
                     video: 1
             - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: rollingstonejapan.com
+                    page: 45260
+                    id: 45425
+                - webimage:
+                    domain: rollingstonejapan.com
+                    page: 45260
+                    id: 45424
+                - postxvideo:
+                    post: 2091359785065030124
+                    video: 1
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: rollingstonejapan.com
+                    page: 45261
+                    id: 55428
+                - webimage:
+                    domain: rollingstonejapan.com
+                    page: 45261
+                    id: 55426
+            - multimediasubsection:
                 label: Other artists
                 multimedia:
                 - postximage:
@@ -630,6 +653,54 @@
         domain: rollingstonejapan.com
         id: 45258
 
+- postx:
+    id: 2091359785065030124
+    account: rollingstonejp
+    label: Presentation video
+    published-date: 2026-08-23
+    text: |-
+      【𝐄𝐗𝐂𝐋𝐔𝐒𝐈𝐕𝐄 𝐕𝐈𝐃𝐄𝐎】
+      BABYMETAL×The Warning、サマソニ東京で独占対談🎥
+      
+      ━━━━━━━━━━━━━━━━
+      
+      「もっとヘヴィに、一緒に踊れたら」
+      日本とメキシコを拠点に世界を巡る6人が語り合った、その舞台裏からスペシャル動画が到着🔥
+      
+      インタビューはこちら
+      🔗https://rollingstonejapan.com/articles/detail/45260 
+      
+      @BABYMETAL_JAPAN
+       
+      @TheWarningBand2
+      
+      #BABYMETAL #TheWarning #summersonic 
+      @summer_sonic
+    translation: |-
+      【EXCLUSIVE VIDEO】
+      BABYMETAL × The Warning: Exclusive interview at Summer Sonic Tokyo 🎥
+      
+      ━━━━━━━━━━━━━━━━
+      
+      "If we could go heavier and dance together"
+      A special behind-the-scenes video has arrived featuring the six members, who tour the world from their bases in Japan and Mexico, in conversation 🔥
+      
+      Read the interview here
+      🔗https://rollingstonejapan.com/articles/detail/45260 
+      
+      @BABYMETAL_JAPAN
+       
+      @TheWarningBand2
+      
+      #BABYMETAL #TheWarning #summersonic 
+      @summer_sonic
+    video:
+    - 1
+    part-of:
+      webpage:
+        domain: rollingstonejapan.com
+        id: 45260
+
 - postximage:
     post: 2032293499216011385
     id: HDQoIAoa4AA6MPp
@@ -901,6 +972,19 @@
     part-of:
       postx: 2090997398172840092
 
+- postxvideo:
+    post: 2091359785065030124
+    id: 1
+    label: Presentation
+    info: The Warning, BABYMETAL
+    cover: 2090774423662120960/img/VS-dl18IgmEOmHp1.jpg
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2091359785065030124
+
 - update:
     show:
       year: 2026
@@ -997,6 +1081,78 @@
       webpage:
         domain: rollingstonejapan.com
         id: 45258
+
+- webimage:
+    domain: rollingstonejapan.com
+    page: 45260
+    id: 45424
+    label: Bands
+    info: The Warning, BABYMETAL
+    published-date: 2026-08-23
+    url: 'https://images.rollingstonejapan.com/articles_photos/45260/410x618/c9bd363cd6a1ba41548c4ee37626ff75.jpg'
+    page-url: 'https://rollingstonejapan.com/articles/gallery/45260/55424'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      webpage:
+        domain: rollingstonejapan.com
+        id: 45260
+
+- webimage:
+    domain: rollingstonejapan.com
+    page: 45260
+    id: 45425
+    label: Bands
+    info: The Warning, BABYMETAL
+    published-date: 2026-08-23
+    url: 'https://images.rollingstonejapan.com/articles_photos/45260/410x618/98821cf374ad245033dedee90f45cc4e.jpg'
+    page-url: 'https://rollingstonejapan.com/articles/gallery/45260/55425'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      webpage:
+        domain: rollingstonejapan.com
+        id: 45260
+
+- webimage:
+    domain: rollingstonejapan.com
+    page: 45261
+    id: 55426
+    label: Bands
+    info: BABYMETAL, METALVERSE
+    published-date: 2026-08-24
+    url: 'https://images.rollingstonejapan.com/articles_photos/45261/410x618/fe77aaf6e0aef7f253c91945a3277f91.jpg'
+    page-url: 'https://rollingstonejapan.com/articles/gallery/45261/55426'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      webpage:
+        domain: rollingstonejapan.com
+        id: 45261
+
+- webimage:
+    domain: rollingstonejapan.com
+    page: 45261
+    id: 55428
+    label: Bands
+    info: BABYMETAL, METALVERSE
+    published-date: 2026-08-24
+    url: 'https://images.rollingstonejapan.com/articles_photos/45261/410x618/e0785e3ee17aca8fc2924e8917c3b6e8.jpg'
+    page-url: 'https://rollingstonejapan.com/articles/gallery/45261/55428'
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      webpage:
+        domain: rollingstonejapan.com
+        id: 45261
 
 - webimage:
     domain: summersonic.com
@@ -1207,6 +1363,34 @@
     image:
     - 55415
     - 55416
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- webpage:
+    domain: rollingstonejapan.com
+    id: 45260
+    label: Interview BABYMETAL×The Warning
+    published-date: 2026-08-23
+    url: 'https://rollingstonejapan.com/articles/detail/45260'
+    image:
+    - 45424
+    - 45425
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
+- webpage:
+    domain: rollingstonejapan.com
+    id: 45261
+    label: Interview BABYMETAL×METALVERSE
+    published-date: 2026-08-24
+    url: 'https://rollingstonejapan.com/articles/detail/45261'
+    image:
+    - 55426
+    - 55428
     part-of:
       show:
         year: 2026
