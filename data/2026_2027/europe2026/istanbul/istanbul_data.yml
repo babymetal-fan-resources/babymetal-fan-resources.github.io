@@ -1,3 +1,68 @@
+- display:
+    show:
+      year: 2026
+      id: istanbul
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: odatv.com
+                    page: babymetal-lifeparki-salladi-120153140
+                    id: 1
+                - postinstagramimage:
+                    post: DaShyVuisr8
+                    image: 2
+                - postinstagramimage:
+                    post: DaShyVuisr8
+                    image: 4
+                - postinstagramimage:
+                    post: DaShyVuisr8
+                    image: 3
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: odatv.com
+                    page: babymetal-lifeparki-salladi-120153140
+                    id: 4
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: odatv.com
+                    page: babymetal-lifeparki-salladi-120153140
+                    id: 6
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: odatv.com
+                    page: babymetal-lifeparki-salladi-120153140
+                    id: 5
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: odatv.com
+                    page: babymetal-lifeparki-salladi-120153140
+                    id: 3
+                - webimage:
+                    domain: odatv.com
+                    page: babymetal-lifeparki-salladi-120153140
+                    id: 2
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2072649669294141940
+                    image: HMOGeZVbwAA8-uC
+    part-of:
+      show:
+        year: 2026
+        id: istanbul
+
 - postinstagram:
     id: DaShyVuisr8
     account: babymetal_official
@@ -143,6 +208,107 @@
         domain: babymetal.com
         id: 297196
 
+- webimage:
+    domain: odatv.com
+    page: babymetal-lifeparki-salladi-120153140
+    id: 1
+    label: On stage
+    published-date: 2026-07-02
+    url: 'https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/02/babymetal-lifeparki-salladi-t4vk.png'
+    context:
+    - show:
+        year: 2026
+        id: istanbul
+    - song: frommetou
+    part-of:
+      webpage:
+        domain: odatv.com
+        id: babymetal-lifeparki-salladi-120153140
+
+- webimage:
+    domain: odatv.com
+    page: babymetal-lifeparki-salladi-120153140
+    id: 2
+    label: Crowd
+    published-date: 2026-07-02
+    url: 'https://img.odatv.com/rcman/Cw820h547q95gm/storage/files/images/2026/07/02/whatsapp-image-2026-07-02-at-10-xe9s.jpg'
+    context:
+    - show:
+        year: 2026
+        id: istanbul
+    part-of:
+      webpage:
+        domain: odatv.com
+        id: babymetal-lifeparki-salladi-120153140
+
+- webimage:
+    domain: odatv.com
+    page: babymetal-lifeparki-salladi-120153140
+    id: 3
+    label: Crowd
+    published-date: 2026-07-02
+    url: 'https://img.odatv.com/rcman/Cw820h547q95gm/storage/files/images/2026/07/02/whatsapp-image-2026-07-02-at-10-c0fb.jpg'
+    context:
+    - show:
+        year: 2026
+        id: istanbul
+    part-of:
+      webpage:
+        domain: odatv.com
+        id: babymetal-lifeparki-salladi-120153140
+
+- webimage:
+    domain: odatv.com
+    page: babymetal-lifeparki-salladi-120153140
+    id: 4
+    label: On stage
+    info: MOMOMETAL
+    published-date: 2026-07-02
+    url: 'https://img.odatv.com/rcman/Cw820h547q95gm/storage/files/images/2026/07/02/whatsapp-image-2026-07-02-at-10-xpoi.jpg'
+    context:
+    - show:
+        year: 2026
+        id: istanbul
+    part-of:
+      webpage:
+        domain: odatv.com
+        id: babymetal-lifeparki-salladi-120153140
+
+- webimage:
+    domain: odatv.com
+    page: babymetal-lifeparki-salladi-120153140
+    id: 5
+    label: On stage
+    info: MOAMETAL
+    published-date: 2026-07-02
+    url: 'https://img.odatv.com/rcman/Cw820h547q95gm/storage/files/images/2026/07/02/whatsapp-image-2026-07-02-at-10-k0jz.jpg'
+    context:
+    - show:
+        year: 2026
+        id: istanbul
+    part-of:
+      webpage:
+        domain: odatv.com
+        id: babymetal-lifeparki-salladi-120153140
+
+- webimage:
+    domain: odatv.com
+    page: babymetal-lifeparki-salladi-120153140
+    id: 6
+    label: On stage
+    info: SU-METAL
+    published-date: 2026-07-02
+    url: 'https://img.odatv.com/rcman/Cw820h547q95gm/storage/files/images/2026/07/02/whatsapp-image-2026-07-02-at-10-pz4f.jpg'
+    context:
+    - show:
+        year: 2026
+        id: istanbul
+    - song: babymetaldeath
+    part-of:
+      webpage:
+        domain: odatv.com
+        id: babymetal-lifeparki-salladi-120153140
+
 - webpage:
     domain: babymetal.com
     id: 297196
@@ -151,6 +317,24 @@
     url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=297196'
     image:
     - poster01
+    part-of:
+      show:
+        year: 2026
+        id: istanbul
+
+- webpage:
+    domain: odatv.com
+    id: babymetal-lifeparki-salladi-120153140
+    label: Show report
+    published-date: 2026-07-02
+    url: 'https://www.odatv.com/guncel/babymetal-lifeparki-salladi-120153140'
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
     part-of:
       show:
         year: 2026
