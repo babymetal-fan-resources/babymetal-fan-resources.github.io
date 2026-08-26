@@ -10,6 +10,7 @@ import fr.checks.DataCheck
 import fr.checks.ReferencesChecker
 import fr.checks.ReferencesCheckProcessorBuilder
 import checks.LocalAssetExistsChecker
+import checks.LocalAssetExistsChecker2
 
 object Data {
 
@@ -27,6 +28,11 @@ object Data {
   def defaultCheckers(staticFolderPath: Path) = DataCheck.defaultCheckers(
     ReferencesChecker(ReferencesCheckProcessorBuilder()),
     LocalAssetExistsChecker(staticFolderPath),
+  )
+
+  def defaultCheckers(staticFolderPath: Path, staticFolderPath2: Path) = DataCheck.defaultCheckers(
+    ReferencesChecker(ReferencesCheckProcessorBuilder()),
+    LocalAssetExistsChecker2(staticFolderPath, staticFolderPath2),
   )
 
   val editSupportContext = new EditSupportContext with BabymetalDataContext {}
