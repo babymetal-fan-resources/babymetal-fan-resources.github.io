@@ -1,0 +1,13 @@
+event:
+  id: nomusicnoidol11
+  cover-image:
+    webimage:
+      domain: tower.jp
+      page: 2012.02.28.n03
+      id: poster
+  label: NO MUSIC, NO IDOLS?
+  date: 2012-02-28
+  description:
+  - BABYMETAL was chosen for the 11th installment of the Tower Records Shinjuku's "NO MUSIC, NO IDOL?" campaign
+  part-of:
+    group: 2012

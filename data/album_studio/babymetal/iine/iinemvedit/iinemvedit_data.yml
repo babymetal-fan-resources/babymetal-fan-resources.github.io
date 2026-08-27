@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: iinemvedit
+  id: cover
+  label: Music video cover
+  published-date: 2012-02-24
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: iinemvedit

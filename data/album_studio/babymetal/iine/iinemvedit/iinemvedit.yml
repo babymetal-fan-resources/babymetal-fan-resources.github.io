@@ -1,0 +1,13 @@
+multimedia-event:
+  id: iinemvedit
+  cover-image:
+    localimage:
+      multimedia-event: iinemvedit
+      id: cover
+  youtubevideo: 3CMCsGuCcHw
+  parent:
+    song: iine
+  categories:
+  - video
+  part-of:
+    song: iine

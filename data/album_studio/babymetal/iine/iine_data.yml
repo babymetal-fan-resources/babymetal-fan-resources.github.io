@@ -1,3 +1,25 @@
+- postfacebook:
+    id: 308598819187391
+    account: BABYMETAL.jp
+    label: Shot MV
+    published-date: 2012-02-06
+    text: |-
+      We shot a new music video.Coming Soon!! #babymetal #重音部
+    image:
+    - 308598819187391
+    part-of:
+      song: iine
+
+- postfacebookimage:
+    post: 308598819187391
+    id: 308598819187391
+    label: Behind the scenes
+    info: SU-METAL
+    context:
+    - song: iine
+    part-of:
+      postfacebook: 308598819187391
+
 - postx:
     id: 144387212786667520
     account: BABYMETAL_JAPAN
@@ -21,6 +43,15 @@
     todo: add context ?
     part-of:
       postx: 144387212786667520
+
+- youtubevideo:
+    id: 3CMCsGuCcHw
+    label: Music Video (Edit ver.)
+    published-date: 2012-02-24
+    context:
+    - song: iine
+    part-of:
+      song: iine
 
 - youtubevideo:
     id: qVdBBOpSoN4
