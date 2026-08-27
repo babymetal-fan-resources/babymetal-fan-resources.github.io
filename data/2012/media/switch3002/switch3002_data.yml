@@ -19,10 +19,45 @@
                     domain: natalie.mu
                     page: 62084
                     id: 1
+        - basicsection:
+            label: Magazine
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postfacebookimage:
+                    post: 297213593659247
+                    image: 297213593659247
     part-of:
       media:
         year: 2012
         id: switch3002
+
+- postfacebook:
+    id: 297213593659247
+    account: BABYMETAL.jp
+    label: Tomorrow
+    published-date: 2012-01-19
+    text: |-
+      １月２０日発売「SWITCH」、もふくちゃんディレクションページにBABYMETAL登場DEATH!! Don't miss it!! #babymetal #重音部
+    translation: |-
+      BABYMETAL appears on the page directed by Mofuku-chan in "SWITCH" on sale January 20 DEATH!! Don't miss it!! #babymetal #HeavyMusicClub
+    image:
+    - 297213593659247
+    part-of:
+      media:
+        year: 2012
+        id: switch3002
+
+- postfacebookimage:
+    post: 297213593659247
+    id: 297213593659247
+    label: Inside
+    context:
+    - media:
+        year: 2012
+        id: switch3002
+    part-of:
+      postfacebook: 297213593659247
 
 - postx:
     id: 146227420729577473

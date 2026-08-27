@@ -1,10 +1,61 @@
-localimage:
-  album: babymetalxkibaofakiba
-  id: cover
-  label: Cover
-  published-date: 2012-03-07
-  source:
-    description: TOY'S FACTORY item page
-    url: 'https://www.toysfactory.co.jp/artist/babymetal/disco/2'
-  part-of:
+- localimage:
     album: babymetalxkibaofakiba
+    id: cover
+    label: Cover
+    published-date: 2012-03-07
+    source:
+      description: TOY'S FACTORY item page
+      url: 'https://www.toysfactory.co.jp/artist/babymetal/disco/2'
+    part-of:
+      album: babymetalxkibaofakiba
+
+- postfacebook:
+    id: 291914084189198
+    account: BABYMETAL.jp
+    label: Announcement
+    published-date: 2012-01-10
+    text: |-
+      2012年3月7日、CDリリース決定!! 7 March 2012, New CD release!! http://www.toysfactory.co.jp/babymetal/index.html #babymetal #重音部
+    translation: |-
+      March 7, 2012, CD release confirmed!! 7 March 2012, New CD release!! http://www.toysfactory.co.jp/babymetal/index.html #babymetal #HeavyMusicClub
+    image:
+    - 291914084189198
+    part-of:
+      album: babymetalxkibaofakiba
+
+- postfacebook:
+    id: 292673297446610
+    account: BABYMETAL.jp
+    label: Announcement
+    published-date: 2012-01-11
+    text: |-
+      For overseas fans, split CD of BABYMETAL and キバオブアキバ（KIBA OF AKIBA） is released on March 7.
+      KIBA OF AKIBA is new type of Screamo/Emo/Metal band from KYOTO,JPN. http://www.kibaofakiba.com/ #babymetal
+    image:
+    - 292673297446610
+    part-of:
+      album: babymetalxkibaofakiba
+
+- postfacebookimage:
+    post: 291914084189198
+    id: 291914084189198
+    label: On stage
+    context:
+    - show:
+        year: 2012
+        id: womenspower
+    todo: double check show
+    part-of:
+      postfacebook: 291914084189198
+
+- postfacebookimage:
+    post: 292673297446610
+    id: 292673297446610
+    label: On stage
+    context:
+    - show:
+        year: 2012
+        id: womenspower
+    part-of:
+      postfacebook: 292673297446610
+

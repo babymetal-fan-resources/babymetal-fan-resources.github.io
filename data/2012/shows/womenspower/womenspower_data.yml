@@ -12,7 +12,11 @@
             subsections:
             - multimediasubsection:
                 multimedia:
+                - youtubevideo: EXnMrqMqTyA
                 - youtubevideo: 4D3TLrEuoF4
+                - postfacebookimage:
+                    post: 291366267577313
+                    image: 291366267577313
         - basicsection:
             label: At the show
             subsections:
@@ -40,10 +44,72 @@
                     domain: beeast69.com
                     page: 9087
                     id: 4
+            - multimediasubsection:
+                multimedia:
+                - postfacebookimage:
+                    post: 291914084189198
+                    image: 291914084189198
+                - postfacebookimage:
+                    post: 292673297446610
+                    image: 292673297446610
     part-of:
       show:
         year: 2012
         id: womenspower
+
+- postfacebook:
+    id: 289734074407199
+    account: BABYMETAL.jp
+    label: Theme color "Crimson"
+    published-date: 2012-01-06
+    text: |-
+      1月9日、O-WESTをBABYMETALのテーマカラー「紅」に染めて欲しいDEATH！！ライブビデオも撮影するので応援よろしくお願いします！！ #babymetal #重音部
+    translation: |-
+      On January 9, we want you to dye O-WEST in BABYMETAL's theme color "Crimson" DEATH!! We'll also be filming a live video, so please lend us your support!! #babymetal #HeavyMusicClub
+    image:
+    - 289734074407199
+    part-of:
+      show:
+        year: 2012
+        id: womenspower
+
+- postfacebook:
+    id: 291366267577313
+    account: BABYMETAL.jp
+    label: Today
+    published-date: 2012-01-09
+    text: |-
+      Are you ready to BABYMETAL SHOW?? チョー楽しみDEATH!! #babymetal #重音部
+    translation: |-
+      Are you ready to BABYMETAL SHOW?? Super excited DEATH!! #babymetal #HeavyMusicClub
+    image:
+    - 291366267577313
+    part-of:
+      show:
+        year: 2012
+        id: womenspower
+
+- postfacebookimage:
+    post: 289734074407199
+    id: 289734074407199
+    label: Crimson
+    context:
+    - show:
+        year: 2012
+        id: womenspower
+    part-of:
+      postfacebook: 289734074407199
+
+- postfacebookimage:
+    post: 291366267577313
+    id: 291366267577313
+    label: Backstage
+    context:
+    - show:
+        year: 2012
+        id: womenspower
+    part-of:
+      postfacebook: 291366267577313
 
 - postx:
     id: 144900242117107713
@@ -252,4 +318,19 @@
       webpage:
         domain: beeast69.com
         id: 9087
+
+- youtubevideo:
+    id: EXnMrqMqTyA
+    label: 'Pre-show interview '
+    info: Kawaii girl Japan
+    published-date: 2012-01-20
+    context:
+    - show:
+        year: 2012
+        id: womenspower
+    todo: find out about Kawaii Girl Japan, BARKS Kawaii. More videos on this account
+    part-of:
+      show:
+        year: 2012
+        id: womenspower
 
