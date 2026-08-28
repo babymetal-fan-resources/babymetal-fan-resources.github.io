@@ -2003,10 +2003,13 @@ contentpage:
       id: headbangpilgrimageosaka1
   - tour: headbangpilgrimage
   - album: headbanger
-  - multimedia-event: iinelivev
   - show:
       year: 2012
       id: popnidol02
+  - multimedia-event: iinelivev
+  - media:
+      year: 2012
+      id: ovzs3e12
   - show:
       year: 2012
       id: 2ndidolyokochofestival

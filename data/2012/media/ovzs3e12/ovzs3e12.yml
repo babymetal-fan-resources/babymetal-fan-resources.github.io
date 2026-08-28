@@ -1,0 +1,21 @@
+mediavideo:
+  year: 2012
+  id: ovzs3e12
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  channel: OtakuVerseZero
+  show: S3 Ep 12
+  designation: Video interview
+  member:
+  - SU-METAL
+  - YUIMETAL
+  - MOAMETAL
+  - KOBAMETAL
+  published-date: 2012-05-25
+  todo: find host name
+  part-of:
+    group:
+      id: media
+      group: 2012

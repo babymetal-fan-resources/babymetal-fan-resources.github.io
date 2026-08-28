@@ -1,0 +1,12 @@
+youtubevideo:
+  id: _t-tsN1FxcQ
+  label: OtakuVerseZero - S3 Ep 12
+  published-date: 2012-05-25
+  context:
+  - media:
+      year: 2012
+      id: ovzs3e12
+  part-of:
+    media:
+      year: 2012
+      id: ovzs3e12
