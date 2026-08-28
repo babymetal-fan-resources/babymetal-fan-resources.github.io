@@ -1,0 +1,25 @@
+mediawritten:
+  year: 2012
+  id: burrn04
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  publication: BURRN!
+  issue: April
+  designation: magazine
+  member:
+  - SU-METAL
+  - YUIMETAL
+  - MOAMETAL
+  published-date: 2012-04-01
+  todo: check release date
+  part-of:
+    group:
+      id: media
+      group: 2012
+  multimedia:
+    main:
+      postximage:
+        post: 177317219099877377
+        image: AnX1EkGCIAAWi8L

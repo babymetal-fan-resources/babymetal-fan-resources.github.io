@@ -1,0 +1,25 @@
+mediaaudio:
+  year: 2012
+  id: allnightnipponmcplus
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  radio: All Night Nippon
+  show: ミュ～コミ＋
+  designation: radio show
+  member:
+  - SU-METAL
+  - YUIMETAL
+  - MOAMETAL
+  published-date: 2012-03-21
+  host: 吉田尚記 (Naoki Yoshida)
+  part-of:
+    group:
+      id: media
+      group: 2012
+  multimedia:
+    main:
+      postximage:
+        post: 181672677357002752
+        image: AoVuVmhCIAAlI3B

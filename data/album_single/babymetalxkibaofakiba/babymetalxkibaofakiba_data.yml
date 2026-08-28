@@ -1,3 +1,42 @@
+- display:
+    album: babymetalxkibaofakiba
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - youtubevideo: JGCp0GHxoAc
+        - albumsongssection: '-'
+    - basicblock:
+        id: display
+        label: In-store display
+        sections:
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 178108227932786689
+                    image: AnjEfVnCEAA7HKu
+                - postximage:
+                    post: 176999502417379328
+                    image: AnTUHBNCQAAoZSy
+                - postximage:
+                    post: 178399800310509568
+                    image: AnnNrFYCMAASWAf
+                - postximage:
+                    post: 180944918037016576
+                    image: AoLYcbvCMAAl4dG
+                - postximage:
+                    post: 177007208528224256
+                    image: AnTbHktCIAE8YMQ
+    part-of:
+      album: babymetalxkibaofakiba
+
 - localimage:
     album: babymetalxkibaofakiba
     id: cover
@@ -36,6 +75,36 @@
     part-of:
       album: babymetalxkibaofakiba
 
+- postfacebook:
+    id: 325729430807663
+    account: BABYMETAL.jp
+    label: On sale very soon
+    published-date: 2012-03-05
+    text: |-
+      もうすぐ発売！！スプリットCDでキバオブアキバさんのアニメの歌をカバーDEATH！！キツネだお！！（YUIMETAL画伯）　#babymetal
+    translation: |-
+      On sale very soon!! We're covering Kiba of Akiba's anime song on the split CD DEATH!! It's a fox!! (Master artist YUIMETAL) #babymetal
+    image:
+    - 325729430807663
+    part-of:
+      album: babymetalxkibaofakiba
+
+- postfacebook:
+    id: 326178354096104
+    account: BABYMETAL.jp
+    label: Bonuses
+    published-date: 2012-03-06
+    text: |-
+      「BABYMETAL × キバオブアキバ」の初回生産分封入特典「バトルカード」（全店共通）と「缶バッジ」（各チェーン店別オリジナル特典）の詳細発表DEATH！！ちょちょちょフラゲしないでYO！！ #babymetal
+    translation: |-
+      Details have been announced for the first-press bonus "Battle Card" (common to all stores) and "Can Badge" (original bonus per retail chain) for "BABYMETAL × Kiba of Akiba" DEATH!! Hey hey hey, don't go getting it early YO!! #babymetal
+    image:
+    - 326178354096104
+    part-of:
+      webpage:
+        domain: babymetal.jp
+        id: news.1968
+
 - postfacebookimage:
     post: 291914084189198
     id: 291914084189198
@@ -58,4 +127,200 @@
         id: womenspower
     part-of:
       postfacebook: 292673297446610
+
+- postfacebookimage:
+    post: 325729430807663
+    id: 325729430807663
+    label: Cover design
+    info: YUIMETAL
+    context:
+    - album: babymetalxkibaofakiba
+    part-of:
+      postfacebook: 325729430807663
+
+- postfacebookimage:
+    post: 326178354096104
+    id: 326178354096104
+    label: Bonuses
+    context:
+    - album: babymetalxkibaofakiba
+    part-of:
+      postfacebook: 326178354096104
+
+- postx:
+    id: 176999502417379328
+    account: BABYMETAL_JAPAN
+    label: In-store display
+    published-date: 2012-03-06
+    text: |-
+      フラゲ速報！！タワーレコード渋谷店に行きました、ありがとうございます！！あれ、CDが？？
+    translation: |-
+      Early purchase bulletin!! We visited Tower Records Shibuya, thank you very much!! Wait, where's the CD??
+    image:
+    - AnTUHBNCQAAoZSy
+    part-of:
+      album: babymetalxkibaofakiba
+
+- postx:
+    id: 177007208528224256
+    account: BABYMETAL_JAPAN
+    label: Kiba of Akiba sang DDB
+    published-date: 2012-03-06
+    text: |-
+      キバオブアキバさんにド・キ・ド・キ☆モーニングを歌って頂きました！！スプリットCDに収録DEATH！！
+    translation: |-
+      Kiba of Akiba sang "Doki Doki ☆ Morning" for us!! It's included on the split CD DEATH!!
+    image:
+    - AnTbHktCIAE8YMQ
+    part-of:
+      album: babymetalxkibaofakiba
+
+- postx:
+    id: 178108227932786689
+    account: BABYMETAL_JAPAN
+    label: Tower Records Shinjuku visit
+    published-date: 2012-03-09
+    text: |-
+      タワーレコード新宿店さんにお邪魔しました！！品切れ中の特典ポスターは明日からもらえるそうDEATH！！
+      #babymetal
+    translation: |-
+      We visited Tower Records Shinjuku!! It seems the out-of-stock bonus posters will be available again starting tomorrow DEATH!!
+      #babymetal
+    image:
+    - AnjEfVnCEAA7HKu
+    part-of:
+      album: babymetalxkibaofakiba
+
+- postx:
+    id: 178399800310509568
+    account: BABYMETAL_JAPAN
+    label: Village Vanguard Marui City Shibuya visit
+    published-date: 2012-03-10
+    text: |-
+      ヴィレッジヴァンガードマルイシティ渋谷店さんでは直筆のコメントカードやオリジナルのライブ映像が見れたりします！！目印はおっきいキバキツネだお！！
+    translation: |-
+      At Village Vanguard Marui City Shibuya, you can see handwritten comment cards and original live performance footage!! Look for the big Kiba Kitsune as the landmark!!
+    image:
+    - AnnNrFYCMAASWAf
+    part-of:
+      album: babymetalxkibaofakiba
+
+- postx:
+    id: 180944918037016576
+    account: BABYMETAL_JAPAN
+    label: In-store display
+    published-date: 2012-03-17
+    text: |-
+      「BABYMETAL×キバオブアキバ」聴いて頂いてありがとうございます！！
+      ディスクユニオン渋谷店ヘヴィメタル館さんでもオリジナルLIVE映像が観れますよ！！
+    translation: |-
+      Thank you very much for listening to "BABYMETAL × Kiba of Akiba"!!
+      You can also watch original LIVE footage at disk union Shibuya Heavy Metal Branch!!
+    image:
+    - AoLYcbvCMAAl4dG
+    part-of:
+      album: babymetalxkibaofakiba
+
+- postximage:
+    post: 176999502417379328
+    id: AnTUHBNCQAAoZSy
+    index: 1
+    label: In-store display
+    info: Tower Records Shibuya
+    context:
+    - album: babymetalxkibaofakiba
+    part-of:
+      postx: 176999502417379328
+
+- postximage:
+    post: 177007208528224256
+    id: AnTbHktCIAE8YMQ
+    index: 1
+    label: In-store display
+    context:
+    - album: babymetalxkibaofakiba
+    part-of:
+      postx: 177007208528224256
+
+- postximage:
+    post: 178108227932786689
+    id: AnjEfVnCEAA7HKu
+    index: 1
+    label: In-store display
+    info: Tower Records Shinjuku
+    context:
+    - album: babymetalxkibaofakiba
+    part-of:
+      postx: 178108227932786689
+
+- postximage:
+    post: 178399800310509568
+    id: AnnNrFYCMAASWAf
+    index: 1
+    label: In-store display
+    info: Village Vanguard Marui City Shibuya
+    context:
+    - album: babymetalxkibaofakiba
+    part-of:
+      postx: 178399800310509568
+
+- postximage:
+    post: 180944918037016576
+    id: AoLYcbvCMAAl4dG
+    index: 1
+    label: In-store display
+    info: Disk Union Shibuya Heavy Metal Branch
+    context:
+    - album: babymetalxkibaofakiba
+    part-of:
+      postx: 180944918037016576
+
+- webimage:
+    domain: babymetal.jp
+    page: news.1969
+    id: tshirt
+    label: T-shirt giveaway
+    published-date: 2012-03-07
+    url: 'https://web.archive.org/web/20141117063316im_/http://babymetal.jp/images/news/22720120307011257.jpg'
+    local-copy: true
+    context:
+    - album: babymetalxkibaofakiba
+    part-of:
+      webpage:
+        domain: babymetal.jp
+        id: news.1969
+
+- webpage:
+    domain: babymetal.jp
+    id: news.1968
+    label: Bonuses
+    published-date: 2012-03-06
+    url: 'https://web.archive.org/web/20141117063319/http://www.babymetal.jp/news/0/1968/'
+    part-of:
+      album: babymetalxkibaofakiba
+    reference:
+    - postfacebookimage:
+        post: 326178354096104
+        image: 326178354096104
+
+- webpage:
+    domain: babymetal.jp
+    id: news.1969
+    label: T-shirt giveaway
+    published-date: 2012-03-07
+    url: 'https://web.archive.org/web/20141117063318/http://www.babymetal.jp/news/0/1969/'
+    image:
+    - tshirt
+    part-of:
+      album: babymetalxkibaofakiba
+
+- youtubevideo:
+    id: JGCp0GHxoAc
+    label: Message about the album
+    info: SU-METAL, MOAMETAL
+    published-date: 2012-03-05
+    context:
+    - album: babymetalxkibaofakiba
+    part-of:
+      album: babymetalxkibaofakiba
 

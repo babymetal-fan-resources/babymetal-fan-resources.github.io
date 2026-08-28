@@ -1,3 +1,29 @@
+- postfacebook:
+    id: 327416133972326
+    account: BABYMETAL.jp
+    label: Face-in-hole panel
+    published-date: 2012-03-08
+    text: |-
+      等身大（ホントはちょっと大きい）顔出しパネルが登場DEATH！！SU-METALもお気に入りのキツネポーズでBABYMETALと一緒に記念撮影を！！タワーレコード新宿店にて展示中DEATH！！　#babymetal
+    translation: |-
+      A life-sized (actually a little bigger) face-in-hole cutout board has appeared DEATH!! Take a commemorative photo together with BABYMETAL doing the kitsune pose that SU-METAL also loves!! Currently on display at Tower Records Shinjuku DEATH!! #babymetal
+    image:
+    - 327416133972326
+    part-of:
+      webpage:
+        domain: babymetal.jp
+        id: news.1986
+
+- postfacebookimage:
+    post: 327416133972326
+    id: 327416133972326
+    label: Face-in-hole
+    info: SU-METAL
+    context:
+    - event: nomusicnoidol11
+    part-of:
+      postfacebook: 327416133972326
+
 - webimage:
     domain: tower.jp
     page: 2012.02.28.n03
@@ -12,6 +38,19 @@
       webpage:
         domain: tower.jp
         id: 2012.02.28.n03
+
+- webpage:
+    domain: babymetal.jp
+    id: news.1986
+    label: Face-in-hole panel
+    published-date: 2012-03-08
+    url: 'https://web.archive.org/web/20130713063947/http://www.babymetal.jp/news/0/1986/'
+    part-of:
+      event: nomusicnoidol11
+    reference:
+    - postfacebookimage:
+        post: 327416133972326
+        image: 327416133972326
 
 - webpage:
     domain: tower.jp

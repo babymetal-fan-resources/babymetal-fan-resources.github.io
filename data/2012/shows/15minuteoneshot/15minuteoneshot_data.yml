@@ -1,4 +1,20 @@
 - postx:
+    id: 185310472667541504
+    account: BABYMETAL_JAPAN
+    label: New t-shirt ready
+    published-date: 2012-03-29
+    text: |-
+      New T-shirtsが完成DEATH！！詳細は後日！！　New T-shirts is ready !! TBA!!　#babymetal
+    translation: |-
+      New T-shirts are complete DEATH!! Details at a later date!! New T-shirts is ready !! TBA!! #babymetal
+    image:
+    - ApJa5KDCMAEIpkB
+    part-of:
+      show:
+        year: 2012
+        id: 15minuteoneshot
+
+- postx:
     id: 188195318448390144
     account: BABYMETAL_JAPAN
     label: Are you ready to mosh
@@ -14,6 +30,18 @@
       show:
         year: 2012
         id: 15minuteoneshot
+
+- postximage:
+    post: 185310472667541504
+    id: ApJa5KDCMAEIpkB
+    index: 1
+    label: T-shirt
+    context:
+    - show:
+        year: 2012
+        id: 15minuteoneshot
+    part-of:
+      postx: 185310472667541504
 
 - postximage:
     post: 188195318448390144

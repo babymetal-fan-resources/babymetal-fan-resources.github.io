@@ -1,0 +1,155 @@
+- postfacebook:
+    id: 319165628130710
+    account: BABYMETAL.jp
+    label: Recording for MUSIC ON
+    published-date: 2012-02-23
+    text: |-
+      「オリエンタルラジオのツギクルッ!」収録してきたお！！ #babymetal #重音部
+    translation: |-
+      We just finished recording for "Oriental Radio no Tsugikuru!"!! #babymetal #HeavyMusicClub
+    image:
+    - 319165628130710
+    part-of:
+      media:
+        year: 2012
+        id: musicon
+
+- postfacebook:
+    id: 329592957087977
+    account: BABYMETAL.jp
+    label: Tonight
+    published-date: 2012-03-12
+    text: |-
+      ド・キ・ド・キ☆モーニング〜！！本日２４時２０分〜MUSIC ON! TV「オリエンタルラジオのツギクルッ!」にゲスト出演DEATH！！新メンバー？？☆☆METALと一緒にキツネポーズだお！！　http://bit.ly/yhJlRi　#babymetal
+    translation: |-
+      Doki Doki ☆ Morning~!! Guest appearance on MUSIC ON! TV's "Oriental Radio no Tsugikuru!" tonight from 24:20 DEATH!! Striking the kitsune pose together with the new member?? ☆☆METAL!! http://bit.ly/yhJlRi #babymetal
+    image:
+    - 329592957087977
+    part-of:
+      media:
+        year: 2012
+        id: musicon
+
+- postfacebook:
+    id: 330238020356804
+    account: BABYMETAL.jp
+    label: Tonight again
+    published-date: 2012-03-13
+    text: |-
+      本日もMUSIC ON! TV「オリエンタルラジオのツギクルッ!」に出演DEATH！！新曲「いいね！」をMAJIMETAL&CHARAMETALさんと一緒に紹介DEATH！！　　#babymetal
+    translation: |-
+      Appearing today as well on MUSIC ON! TV's "Oriental Radio no Tsugikuru!" DEATH!! Introducing the new song "Ii ne!" together with MAJIMETAL & CHARAMETAL-san DEATH!!  #babymetal
+    image:
+    - 330238020356804
+    part-of:
+      media:
+        year: 2012
+        id: musicon
+
+- postfacebookimage:
+    post: 319165628130710
+    id: 319165628130710
+    label: Backstage
+    info: MOAMETAL
+    context:
+    - media:
+        year: 2012
+        id: musicon
+    part-of:
+      postfacebook: 319165628130710
+
+- postfacebookimage:
+    post: 329592957087977
+    id: 329592957087977
+    label: Backstage
+    info: MOAMETAL
+    context:
+    - media:
+        year: 2012
+        id: musicon
+    part-of:
+      postfacebook: 329592957087977
+
+- postfacebookimage:
+    post: 330238020356804
+    id: 330238020356804
+    label: Backstage
+    info: SU-METAL
+    context:
+    - media:
+        year: 2012
+        id: musicon
+    part-of:
+      postfacebook: 330238020356804
+
+- postx:
+    id: 180249330307960832
+    account: BABYMETAL_JAPAN
+    label: Tonight also
+    published-date: 2012-03-15
+    text: |-
+      MUSIC ON! TV「オリエンタルラジオのツギクルッ!」本日も24時20分から「はっじまっるよ～！！」　#babymetal
+    translation: |-
+      MUSIC ON! TV "Oriental Radio no Tsugikuru!" starts today as well from 24:20, "Heeere we go~!!" #babymetal
+    image:
+    - AoBfz5hCEAAEgmG
+    part-of:
+      media:
+        year: 2012
+        id: musicon
+
+- postximage:
+    post: 180249330307960832
+    id: AoBfz5hCEAAEgmG
+    index: 1
+    label: Backstage
+    info: SU-METAL, MOAMETAL
+    context:
+    - media:
+        year: 2012
+        id: musicon
+    todo: name of the host
+    part-of:
+      postx: 180249330307960832
+
+- webimage:
+    domain: m-on.jp
+    page: index
+    id: logo
+    label: Logo
+    published-date: 2026-08-27
+    url: 'https://www.m-on.jp/admin/wp-content/uploads/2013/04/pr-rg-1305-000.jpg'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: m-on.jp
+        id: index
+
+- webpage:
+    domain: babymetal.jp
+    id: news.1981
+    label: Announcement
+    published-date: 2012-03-08
+    url: 'https://web.archive.org/web/20130713063924/http://www.babymetal.jp/news/0/1981/'
+    part-of:
+      media:
+        year: 2012
+        id: musicon
+    reference:
+    - postximage:
+        post: 180249330307960832
+        image: AoBfz5hCEAAEgmG
+
+- webpage:
+    domain: m-on.jp
+    id: index
+    label: Main page
+    published-date: 2026-08-27
+    url: 'https://www.m-on.jp/'
+    image:
+    - logo
+    part-of:
+      media:
+        year: 2012
+        id: musicon
+

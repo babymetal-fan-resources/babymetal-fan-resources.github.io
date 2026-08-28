@@ -1,0 +1,30 @@
+- postx:
+    id: 181672677357002752
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2012-03-19
+    text: |-
+      3月21日（水）24:00～24:53のニッポン放送「ミュ～コミ＋(プラス)」に初のラジオゲスト出演DEATH！！パーソナリティの吉田尚記アナウンサーと一緒にMETALトークが炸裂DEATH！！　#babymetal
+    translation: |-
+      First-ever radio guest appearance on Nippon Broadcasting System's "Mu~Comi+ (Plus)" on Wednesday, March 21 from 24:00 to 24:53 DEATH!! METAL talk explodes together with personality Hisanori Yoshida announcer DEATH!! #babymetal
+    image:
+    - AoVuVmhCIAAlI3B
+    todo: double check host name (both in jp and en)
+    part-of:
+      media:
+        year: 2012
+        id: allnightnipponmcplus
+
+- postximage:
+    post: 181672677357002752
+    id: AoVuVmhCIAAlI3B
+    index: 1
+    label: In studio
+    info: MOAMETAL, 吉田尚記 (Naoki Yoshida), SU-METAL, YUIMETAL
+    context:
+    - media:
+        year: 2012
+        id: allnightnipponmcplus
+    part-of:
+      postx: 181672677357002752
+

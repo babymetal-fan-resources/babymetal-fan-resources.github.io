@@ -1,0 +1,43 @@
+- postx:
+    id: 177317219099877377
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2012-03-07
+    text: |-
+      最もHEAVYなMETAL専門誌「BURRN!」4月号にBABYMETALが初登場DEATH！！ライブリポートを掲載して頂きました！！Thx for BURRN! staff. We Will Rise!!  #babymetal
+    translation: |-
+      BABYMETAL makes their first appearance in the HEAVIEST METAL magazine "BURRN!" April issue DEATH!! They featured a live report for us!! Thx for BURRN! staff. We Will Rise!!  #babymetal
+    image:
+    - AnX1EkGCIAAWi8L
+    part-of:
+      webpage:
+        domain: babymetal.jp
+        id: news.1988
+
+- postximage:
+    post: 177317219099877377
+    id: AnX1EkGCIAAWi8L
+    index: 1
+    label: Magazine
+    context:
+    - media:
+        year: 2012
+        id: burrn04
+    part-of:
+      postx: 177317219099877377
+
+- webpage:
+    domain: babymetal.jp
+    id: news.1988
+    label: Announcement
+    published-date: 2012-03-07
+    url: 'https://web.archive.org/web/20141117063319/http://www.babymetal.jp/news/0/1988/'
+    part-of:
+      media:
+        year: 2012
+        id: burrn04
+    reference:
+    - postximage:
+        post: 177317219099877377
+        image: AnX1EkGCIAAWi8L
+
