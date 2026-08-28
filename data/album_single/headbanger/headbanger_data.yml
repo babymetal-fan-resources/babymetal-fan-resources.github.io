@@ -21,3 +21,28 @@
     part-of:
       album: headbanger
 
+- postfacebook:
+    id: 359920017388604
+    account: BABYMETAL.jp
+    label: Announcement
+    published-date: 2012-04-28
+    text: |-
+      The new single CD "ヘドバンギャー！！”
+      [ Headbangeeeeerrrrr!!!!! ] is released on July 4!!
+      You can purchase at iTunes Store worldwide on July 4.
+    image:
+    - 359920017388604
+    part-of:
+      album: headbanger
+
+- postfacebookimage:
+    post: 359920017388604
+    id: 359920017388604
+    label: Backstage
+    context:
+    - show:
+        year: 2012
+        id: 2ndidolyokochofestival
+    part-of:
+      postfacebook: 359920017388604
+

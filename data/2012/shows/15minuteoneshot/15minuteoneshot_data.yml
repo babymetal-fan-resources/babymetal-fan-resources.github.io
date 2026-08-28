@@ -1,3 +1,79 @@
+- postfacebook:
+    id: 343662742347665
+    account: BABYMETAL.jp
+    label: Live broadcast announcement
+    published-date: 2012-04-05
+    text: |-
+      いよいよ明日4/6（金）19時～「15分一本勝負」DEATH！！
+      ニコ生やるかも？？詳細は明日！！
+      April 6th (fri) 19:00-BABYMETAL live at TOWER RECORDS Shibuya,TOKYO.
+      Live broadcast will be available at Nico Nico Official Channel "BABYMETAL".
+      Nico Nico Official Channel will open April 6th.
+      TBA！！
+      #babymetal
+    translation: |-
+      Finally tomorrow, Friday 4/6 from 19:00, "One-Match 15-Minute Contest" DEATH!!
+      Maybe doing a Nico Nama stream?? Details tomorrow!!
+      April 6th (fri) 19:00-BABYMETAL live at TOWER RECORDS Shibuya,TOKYO.
+      Live broadcast will be available at Nico Nico Official Channel "BABYMETAL".
+      Nico Nico Official Channel will open April 6th.
+      TBA！！
+      #babymetal
+    image:
+    - 343662742347665
+    part-of:
+      show:
+        year: 2012
+        id: 15minuteoneshot
+
+- postfacebook:
+    id: 344085332305406
+    account: BABYMETAL.jp
+    label: Live broadcast information
+    published-date: 2012-04-06
+    text: |-
+      the BABYMETAL's first live broadcasting information!
+      
+      Is going to start at around 19:05 on Friday, April 6; DEATH!!
+      You can't use the time-shift seeing service, so, please watching that in real time with モッシュッシュ !
+      
+      "15 minutes one of them game" live broadcasting
+      http://live.nicovideo.jp/watch/lv88258592
+      
+      BABYMETAL channel
+      http://ch.nicovideo.jp/channel/babymetal
+      
+      check it out!
+      #babymetal
+    image:
+    - 344085332305406
+    part-of:
+      show:
+        year: 2012
+        id: 15minuteoneshot
+
+- postfacebookimage:
+    post: 343662742347665
+    id: 343662742347665
+    label: Banner
+    context:
+    - show:
+        year: 2012
+        id: 15minuteoneshot
+    part-of:
+      postfacebook: 343662742347665
+
+- postfacebookimage:
+    post: 344085332305406
+    id: 344085332305406
+    label: Live broadcast
+    context:
+    - show:
+        year: 2012
+        id: 15minuteoneshot
+    part-of:
+      postfacebook: 344085332305406
+
 - postx:
     id: 185310472667541504
     account: BABYMETAL_JAPAN

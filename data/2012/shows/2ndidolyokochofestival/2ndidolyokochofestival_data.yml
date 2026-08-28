@@ -1,3 +1,76 @@
+- display:
+    show:
+      year: 2012
+      id: 2ndidolyokochofestival
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: Before the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - youtubevideo: N13Df3JxcEU
+                - postximage:
+                    post: 188873019127631872
+                    image: Ap8DAp0CEAEsvvb
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - youtubevideo: stmFt7GaM-Q
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postfacebookimage:
+                    post: 345715002142439
+                    image: 345715002142439
+            - multimediasubsection:
+                multimedia:
+                - postfacebookimage:
+                    post: 359920017388604
+                    image: 359920017388604
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 188992603973369856
+                    image: Ap9vxaFCQAApl-_
+    part-of:
+      show:
+        year: 2012
+        id: 2ndidolyokochofestival
+
+- postfacebook:
+    id: 345715002142439
+    account: BABYMETAL.jp
+    label: Thank you
+    published-date: 2012-04-09
+    text: |-
+      Thank you for coming to see and watch BABYMETAL'show yesterday!!
+      It was impressed by the hall where a red light shines.
+      Some day,We would like to perform on a big stage again.
+      Let's scream together,KITSUNE DA O!! \m/
+    image:
+    - 345715002142439
+    part-of:
+      show:
+        year: 2012
+        id: 2ndidolyokochofestival
+
+- postfacebookimage:
+    post: 345715002142439
+    id: 345715002142439
+    label: On stage
+    context:
+    - show:
+        year: 2012
+        id: 2ndidolyokochofestival
+    part-of:
+      postfacebook: 345715002142439
+
 - postx:
     id: 188873019127631872
     account: BABYMETAL_JAPAN
@@ -17,6 +90,22 @@
         year: 2012
         id: 2ndidolyokochofestival
 
+- postx:
+    id: 188992603973369856
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2012-04-08
+    text: |-
+      大きな会場でのライブ、ガイコツバンドとの共演と初挑戦でド・キ・ド・キ☆モーニングでしたが、皆さんから頂いた沢山のアツい声援がキツネさんに届き、ステージに神が降臨してきました！！ありがとうございました！！We are BABYMETAL！！
+    translation: |-
+      With a show in a large venue and performing together with a skeleton band, it was our first time trying these things so it was a Doki Doki ☆ Morning, but all the passionate cheers we received from everyone reached the Fox God, and the Gods descended upon the stage!! Thank you very much!! We are BABYMETAL!!
+    image:
+    - Ap9vxaFCQAApl-_
+    part-of:
+      show:
+        year: 2012
+        id: 2ndidolyokochofestival
+
 - postximage:
     post: 188873019127631872
     id: Ap8DAp0CEAEsvvb
@@ -29,6 +118,32 @@
         id: 2ndidolyokochofestival
     part-of:
       postx: 188873019127631872
+
+- postximage:
+    post: 188992603973369856
+    id: Ap9vxaFCQAApl-_
+    index: 1
+    label: Setlist
+    context:
+    - show:
+        year: 2012
+        id: 2ndidolyokochofestival
+    part-of:
+      postx: 188992603973369856
+
+- youtubevideo:
+    id: N13Df3JxcEU
+    label: Pre-show interview
+    info: Kawaii girl Japan
+    published-date: 2012-04-19
+    context:
+    - show:
+        year: 2012
+        id: 2ndidolyokochofestival
+    part-of:
+      show:
+        year: 2012
+        id: 2ndidolyokochofestival
 
 - youtubevideo:
     id: stmFt7GaM-Q
