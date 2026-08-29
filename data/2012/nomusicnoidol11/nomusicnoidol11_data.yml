@@ -14,6 +14,28 @@
         domain: babymetal.jp
         id: news.1986
 
+- postfacebook:
+    id: 386779694702636
+    account: BABYMETAL.jp
+    label: Announcement posters
+    published-date: 2012-06-14
+    text: |-
+      タワーレコード新宿店 presents「NO MUSIC,NO IDOL?」に決定DEATH！！
+      
+      対象商品、対象店舗などの詳細はオフィシャルサイトへ！！
+      www.babymetal.jp
+    translation: |-
+      Tower Records Shinjuku Store presents "NO MUSIC, NO IDOL?" is confirmed DEATH!!
+      
+      For details on eligible products, participating stores, etc., visit the official website!!
+      www.babymetal.jp
+    image:
+    - 386779694702636
+    part-of:
+      webpage:
+        domain: babymetal.jp
+        id: news.3048
+
 - postfacebookimage:
     post: 327416133972326
     id: 327416133972326
@@ -23,6 +45,15 @@
     - event: nomusicnoidol11
     part-of:
       postfacebook: 327416133972326
+
+- postfacebookimage:
+    post: 386779694702636
+    id: 386779694702636
+    label: Posters
+    context:
+    - event: nomusicnoidol11
+    part-of:
+      postfacebook: 386779694702636
 
 - webimage:
     domain: tower.jp
@@ -51,6 +82,20 @@
     - postfacebookimage:
         post: 327416133972326
         image: 327416133972326
+
+- webpage:
+    domain: babymetal.jp
+    id: news.3048
+    label: Announcement posters
+    published-date: 2012-06-14
+    url: 'https://web.archive.org/web/20141117063601/http://www.babymetal.jp/news/0/3048/'
+    todo: need image
+    part-of:
+      event: nomusicnoidol11
+    reference:
+    - postfacebookimage:
+        post: 386779694702636
+        image: 386779694702636
 
 - webpage:
     domain: tower.jp

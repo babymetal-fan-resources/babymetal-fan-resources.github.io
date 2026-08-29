@@ -1,3 +1,145 @@
+- display:
+    show:
+      year: 2012
+      id: popnidol02
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: tower.jp
+                    page: 2012.06.25.n07
+                    id: A1
+                - webimage:
+                    domain: tower.jp
+                    page: 2012.06.25.n07
+                    id: A2
+                - postximage:
+                    post: 216526398658052096
+                    image: AwFBnMUCAAEPDv0
+        - basicsection:
+            label: At the event
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 216379154277482496
+                    image: AwC7scPCQAEzyRl
+                - postximage:
+                    post: 216434419509104640
+                    image: AwDt9TRCEAARizW
+    part-of:
+      show:
+        year: 2012
+        id: popnidol02
+
+- postx:
+    id: 216379154277482496
+    account: BABYMETAL_JAPAN
+    label: Rehearsal finished
+    published-date: 2012-06-23
+    text: |-
+      リハーサル終了！！Are you ready to Mosh'sh？今日はモッシュッシュピットONLYだぉ！！  #babymetal
+    translation: |-
+      Rehearsal finished!! Are you ready to Mosh'sh? Today is MOSH'SH PIT ONLY!!  #babymetal
+    image:
+    - AwC7scPCQAEzyRl
+    part-of:
+      show:
+        year: 2012
+        id: popnidol02
+
+- postx:
+    id: 216434419509104640
+    account: BABYMETAL_JAPAN
+    label: Now
+    published-date: 2012-06-23
+    text: |-
+      開場DEATH！！アタマからとりまモッシュッシュ〜アタマ！！アタマ！！アタマ〜ッ！！ #babymetal
+    translation: |-
+      Doors are open DEATH!! From the get-go, for now let's MOSH'SH~ Head!! Head!! Heaaad!! #babymetal
+    image:
+    - AwDt9TRCEAARizW
+    part-of:
+      show:
+        year: 2012
+        id: popnidol02
+
+- postx:
+    id: 216526398658052096
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2012-06-23
+    text: |-
+      Pop'n アイドル 02楽しかったDEATH！！モッシュッシュTシャツの人もたくさんいてうれしかったDEATH！！見に来てくれた皆さんは楽しんでもらえましたか？？今度は7月にSEE YOU SOON！！ #babymetal
+    translation: |-
+      Pop'n Idol 02 was so much fun DEATH!! We were so happy to see so many people wearing MOSH'SH T-shirts DEATH!! Did everyone who came to see us have a great time?? SEE YOU SOON next time in July!! #babymetal
+    image:
+    - AwFBnMUCAAEPDv0
+    part-of:
+      show:
+        year: 2012
+        id: popnidol02
+
+- postximage:
+    post: 216379154277482496
+    id: AwC7scPCQAEzyRl
+    index: 1
+    label: Rehearsal
+    context:
+    - show:
+        year: 2012
+        id: popnidol02
+    part-of:
+      postx: 216379154277482496
+
+- postximage:
+    post: 216434419509104640
+    id: AwDt9TRCEAARizW
+    index: 1
+    label: Drum set
+    context:
+    - show:
+        year: 2012
+        id: popnidol02
+    part-of:
+      postx: 216434419509104640
+
+- postximage:
+    post: 216526398658052096
+    id: AwFBnMUCAAEPDv0
+    index: 1
+    label: On stage
+    context:
+    - show:
+        year: 2012
+        id: popnidol02
+    part-of:
+      postx: 216526398658052096
+
+- webimage:
+    domain: babymetal.jp
+    page: news.3146
+    id: merch
+    label: Merch
+    published-date: 2012-06-22
+    url: 'https://web.archive.org/web/20130120042012im_/http://www.mag-img.com/img/news/22720120622125101.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2012
+        id: popnidol02
+    part-of:
+      webpage:
+        domain: babymetal.jp
+        id: news.3146
+
 - webimage:
     domain: tower.jp
     page: 2012.06.25.n07
@@ -32,10 +174,24 @@
         id: 2012.06.25.n07
 
 - webpage:
+    domain: babymetal.jp
+    id: news.3146
+    label: Merch
+    published-date: 2012-06-22
+    url: 'https://web.archive.org/web/20141117063901/http://www.babymetal.jp/news/0/3146/'
+    image:
+    - merch
+    todo: need image
+    part-of:
+      show:
+        year: 2012
+        id: popnidol02
+
+- webpage:
     domain: tower.jp
     id: 2012.06.25.n07
     label: Report
-    published-date: 2012-05-25
+    published-date: 2012-06-25
     url: 'https://tower.jp/article/news/2012/06/25/n07'
     image:
     - A1

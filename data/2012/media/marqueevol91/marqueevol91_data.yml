@@ -1,0 +1,30 @@
+- webimage:
+    domain: amazon.co.jp
+    page: marqueevol91
+    id: cover
+    label: Cover
+    published-date: 2012-06-08
+    url: 'https://m.media-amazon.com/images/I/81WSJmR9iIL._AC_UF1000,1000_QL80_.jpg'
+    local-copy: true
+    context:
+    - media:
+        year: 2012
+        id: marqueevol91
+    part-of:
+      webpage:
+        domain: amazon.co.jp
+        id: marqueevol91
+
+- webpage:
+    domain: amazon.co.jp
+    id: marqueevol91
+    label: Magazine product page
+    published-date: 2012-06-08
+    url: 'https://www.amazon.co.jp/-/en/MARQUEE-Vol-91-%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%BC91%E5%8F%B7/dp/4434167596'
+    image:
+    - cover
+    part-of:
+      media:
+        year: 2012
+        id: marqueevol91
+

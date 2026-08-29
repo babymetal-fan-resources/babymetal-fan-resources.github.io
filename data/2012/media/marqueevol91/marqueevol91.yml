@@ -1,0 +1,21 @@
+mediawritten:
+  year: 2012
+  id: marqueevol91
+  cover-image:
+    webimage:
+      domain: amazon.co.jp
+      page: marqueevol91
+      id: cover
+  publication: MARQUEE
+  issue: Vol.91
+  designation: Interview
+  member:
+  - SU-METAL
+  - YUIMETAL
+  - MOAMETAL
+  published-date: 2012-06-15
+  webpage: 'http://www.marquee-mag.com/backnumber.html'
+  part-of:
+    group:
+      id: media
+      group: 2012

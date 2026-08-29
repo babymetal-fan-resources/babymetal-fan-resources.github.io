@@ -35,6 +35,32 @@
     part-of:
       album: headbanger
 
+- postfacebook:
+    id: 386779261369346
+    account: BABYMETAL.jp
+    label: Announcement store bonuses
+    published-date: 2012-06-14
+    text: |-
+      HMV／TSUTAYA／TOWER RECORDS全国各店での「オリジナル特典」情報DEATH！！
+      各チェーンの「オリジナル特典」対象店舗で予約・購入されたお客様に、先着でオリジナル・ポストカード・セットをプレゼント！
+      ※先着順での配布となります。各店とも予約・販売数が予定枚数に達し次第、配布終了となります。
+      
+      対象商品、対象店舗などの詳細はオフィシャルサイトへ！！
+      www.babymetal.jp
+    translation: |-
+      "Original Bonus" information at HMV / TSUTAYA / TOWER RECORDS stores nationwide DEATH!!
+      Customers who pre-order or purchase at eligible "Original Bonus" stores of each chain will receive an original postcard set on a first-come, first-served basis!
+      *Distribution is on a first-come, first-served basis. At each store, distribution will end as soon as pre-orders/sales reach the planned quantity.
+      
+      For details on eligible products, participating stores, etc., visit the official website!!
+      www.babymetal.jp
+    image:
+    - 386779261369346
+    part-of:
+      webpage:
+        domain: babymetal.jp
+        id: news.3046
+
 - postfacebookimage:
     post: 359920017388604
     id: 359920017388604
@@ -45,4 +71,61 @@
         id: 2ndidolyokochofestival
     part-of:
       postfacebook: 359920017388604
+
+- postfacebookimage:
+    post: 386779261369346
+    id: 386779261369346
+    label: Store bonuses
+    context:
+    - album: headbanger
+    part-of:
+      postfacebook: 386779261369346
+
+- postx:
+    id: 208379218097225728
+    account: BABYMETAL_JAPAN
+    label: CD jacket artwork
+    published-date: 2012-06-01
+    text: |-
+      ヘドバンギャー！！CDジャケットが完成DEATH！！初の大阪・名古屋ライブツアー「ヘドバ行脚ー！！」の詳細は本日12時にオフィシャルサイトにて発表DEATH！！  http://babymetal.jp  #babymetal
+    translation: |-
+      The "Headbangeeeeerrrrr!!" CD jacket artwork is complete DEATH!! Details for our first Osaka and Nagoya live tour "Headba Pilgrimage!!" will be announced today at 12:00 on the official website DEATH!!  http://
+      babymetal.jp  #babymetal
+    image:
+    - AuRPy3nCQAAee63
+    part-of:
+      album: headbanger
+
+- postximage:
+    post: 208379218097225728
+    id: AuRPy3nCQAAee63
+    index: 1
+    label: Editions
+    context:
+    - album: headbanger
+    part-of:
+      postx: 208379218097225728
+
+- webpage:
+    domain: babymetal.jp
+    id: news.3046
+    label: Announcement store bonuses
+    published-date: 2012-06-14
+    url: 'https://web.archive.org/web/20141117063600/http://www.babymetal.jp/news/0/3046/'
+    todo: need image
+    part-of:
+      album: headbanger
+    reference:
+    - postfacebookimage:
+        post: 386779261369346
+        image: 386779261369346
+
+- youtubevideo:
+    id: T1VcALNJsxk
+    label: Comment about the album
+    published-date: 2012-06-27
+    context:
+    - album: headbanger
+    part-of:
+      album: headbanger
 

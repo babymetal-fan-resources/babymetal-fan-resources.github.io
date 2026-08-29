@@ -19,3 +19,6 @@ mediavideo:
     group:
       id: media
       group: 2012
+  multimedia:
+    main:
+      youtubevideo: _t-tsN1FxcQ
