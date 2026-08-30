@@ -1,0 +1,26 @@
+- postx:
+    id: 2092265753932374206
+    account: BABYMETAL_JAPAN
+    label: Jardín Derecho tickets
+    published-date: 2026-08-25
+    text: |-
+      Check now the new zone Jardín Derecho, to get new reserved tickets for the most comfortable experience at BABYMETAL.  Get tickets now on https://funticket.mx and don´t miss this end of tour
+    image:
+    - HQiWpnhbMAAcjqa
+    part-of:
+      show:
+        year: 2026
+        id: mexico
+
+- postximage:
+    post: 2092265753932374206
+    id: HQiWpnhbMAAcjqa
+    index: 1
+    label: Poster
+    context:
+    - show:
+        year: 2026
+        id: mexico
+    part-of:
+      postx: 2092265753932374206
+

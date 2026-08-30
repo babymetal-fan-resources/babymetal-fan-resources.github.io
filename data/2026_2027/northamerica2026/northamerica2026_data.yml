@@ -1,3 +1,58 @@
+- postinstagram:
+    id: Dcge-pcGO_a
+    account: babymetal_official
+    label: Merch
+    published-date: 2026-08-27
+    text: |-
+      "BABYMETAL WORLD TOUR 2026 NORTH AMERICA" Merchandise Announcement📢
+      https://babymetal.com/2026USMerch/
+    image:
+    - 1
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 308078
+    reference:
+    - webimage:
+        domain: babymetal.com
+        page: 308078
+        id: merch1
+    - webimage:
+        domain: babymetal.com
+        page: 308078
+        id: merch2
+    - webimage:
+        domain: babymetal.com
+        page: 308078
+        id: merch3
+
+- postinstagram:
+    id: DcoffHox9ds
+    account: babymetal_official
+    label: See you soon
+    published-date: 2026-08-29
+    text: |-
+      North America.
+      We’re coming. 🔥
+      
+      BABYMETAL WORLD TOUR 2026
+      See you soon. 🤘
+    part-of:
+      tour: northamerica2026
+    reference:
+    - postxvideo:
+        post: 2093754982831202740
+        video: 1
+
+- postinstagramimage:
+    post: Dcge-pcGO_a
+    id: 1
+    label: Merch
+    context:
+    - tour: northamerica2026
+    part-of:
+      postinstagram: Dcge-pcGO_a
+
 - postx:
     id: 2038994732328919045
     account: BABYMETAL_JAPAN
@@ -85,6 +140,22 @@
     part-of:
       tour: northamerica2026
 
+- postx:
+    id: 2093754982831202740
+    account: BABYMETAL_JAPAN
+    label: See you soon
+    published-date: 2026-08-29
+    text: |-
+      North America.
+      We’re coming. 🔥
+      
+      BABYMETAL WORLD TOUR 2026
+      See you soon. 🤘
+    video:
+    - 1
+    part-of:
+      tour: northamerica2026
+
 - postximage:
     post: 2038994732328919045
     id: HEv0yWpa8AAPYwm
@@ -125,6 +196,17 @@
     part-of:
       postx: 2090644862148497632
 
+- postxvideo:
+    post: 2093754982831202740
+    id: 1
+    label: Teaser
+    cover: 2093754453006622721/img/KKYddkP4kljubj2S.jpg
+    context:
+    - tour: northamerica2026
+    - song: myqueen
+    part-of:
+      postx: 2093754982831202740
+
 - webimage:
     domain: babymetal.com
     page: 302817
@@ -140,6 +222,48 @@
         domain: babymetal.com
         id: 302817
 
+- webimage:
+    domain: babymetal.com
+    page: 308078
+    id: merch1
+    label: Merch
+    published-date: 2026-08-27
+    url: 'https://babymetal.com/contents/1/TO/1995371066.jpg'
+    context:
+    - tour: northamerica2026
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 308078
+
+- webimage:
+    domain: babymetal.com
+    page: 308078
+    id: merch2
+    label: Merch
+    published-date: 2026-08-27
+    url: 'https://babymetal.com/contents/1/TO/2099994369.jpg'
+    context:
+    - tour: northamerica2026
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 308078
+
+- webimage:
+    domain: babymetal.com
+    page: 308078
+    id: merch3
+    label: Merch
+    published-date: 2026-08-27
+    url: 'https://babymetal.com/contents/1/TO/3184651197.jpg'
+    context:
+    - tour: northamerica2026
+    part-of:
+      webpage:
+        domain: babymetal.com
+        id: 308078
+
 - webpage:
     domain: babymetal.com
     id: 302817
@@ -148,6 +272,19 @@
     url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=302817'
     image:
     - poster
+    part-of:
+      tour: northamerica2026
+
+- webpage:
+    domain: babymetal.com
+    id: 308078
+    label: Merch
+    published-date: 2026-08-27
+    url: 'https://babymetal.com/mob/news/diarKijiShw.php?id=308078'
+    image:
+    - merch1
+    - merch2
+    - merch3
     part-of:
       tour: northamerica2026
 
