@@ -1,0 +1,26 @@
+mediawritten:
+  year: 2012
+  id: nataliemuanimetalusa
+  cover-image:
+    webimage:
+      domain: natalie.mu
+      page: music
+      id: logo
+  publication: Natalie Music
+  issue: Interview
+  designation: Interview
+  member:
+  - BABYMETAL
+  - アニメタルUSA (Animetal USA)
+  published-date: 2012-07-04
+  article-page: 'https://natalie.mu/music/pp/babymetal'
+  part-of:
+    group:
+      id: media
+      group: 2012
+  multimedia:
+    main:
+      webimage:
+        domain: natalie.mu
+        page: pp.babymetal
+        id: bands

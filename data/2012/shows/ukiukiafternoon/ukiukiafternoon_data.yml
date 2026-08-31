@@ -1,3 +1,28 @@
+- display:
+    show:
+      year: 2012
+      id: ukiukiafternoon
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 224052855328342016
+                    image: Axv-4oVCAAIunBN
+                - postximage:
+                    post: 224114851805528064
+                    image: Axw3RTPCQAASXyR
+    part-of:
+      show:
+        year: 2012
+        id: ukiukiafternoon
+
 - postx:
     id: 213119461006393347
     account: BABYMETAL_JAPAN
@@ -12,7 +37,7 @@
     part-of:
       show:
         year: 2012
-        id: yukiyukiafternoon
+        id: ukiukiafternoon
     reference:
     - event: nomusicnoidol11
     - album: headbanger
@@ -33,7 +58,23 @@
     part-of:
       show:
         year: 2012
-        id: yukiyukiafternoon
+        id: ukiukiafternoon
+
+- postx:
+    id: 224114851805528064
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-08-31
+    text: |-
+      今日は観に来てくれた皆さん、臨時コーチのDJダイノジさん、ありがとうございました！普段のBABYMETALのライブでは出来ないこと満載で楽しかったDEATH！来週はいよいよ聖地・目黒鹿鳴館に神、降臨！！コルセットを忘れずに！！
+    translation: |-
+      To everyone who came to watch today, and to our temporary coach DJ Dainoji-san, thank you very much! It was packed with things we usually can't do at regular BABYMETAL live shows, so it was lots of fun DEATH! Next week, the Gods will finally descend upon the sacred ground of Meguro Rokumeikan!! Don't forget your corsets!!
+    image:
+    - Axw3RTPCQAASXyR
+    part-of:
+      show:
+        year: 2012
+        id: ukiukiafternoon
 
 - postximage:
     post: 213119461006393347
@@ -55,7 +96,19 @@
     context:
     - show:
         year: 2012
-        id: yukiyukiafternoon
+        id: ukiukiafternoon
     part-of:
       postx: 224052855328342016
+
+- postximage:
+    post: 224114851805528064
+    id: Axw3RTPCQAASXyR
+    index: 1
+    label: On stage
+    context:
+    - show:
+        year: 2012
+        id: ukiukiafternoon
+    part-of:
+      postx: 224114851805528064
 

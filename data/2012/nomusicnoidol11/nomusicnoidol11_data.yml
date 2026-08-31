@@ -55,6 +55,32 @@
     part-of:
       postfacebook: 386779694702636
 
+- postx:
+    id: 220413969477812225
+    account: BABYMETAL_JAPAN
+    label: Display
+    published-date: 2012-07-04
+    text: |-
+      【発売日だぉ！！】タワーレコード新宿店さんDEATH！！下りエスカレーター横に「伝説のコルセット」が入っていた宝箱が展示中DEATH！！ #babymetal
+    translation: |-
+      [Release day!!] It's Tower Records Shinjuku DEATH!! The treasure box that held the "Legendary Corset" is currently on display next to the down escalator DEATH!! #babymetal
+    image:
+    - Aw8RVmLCQAAPpzH
+    part-of:
+      event: nomusicnoidol11
+
+- postximage:
+    post: 220413969477812225
+    id: Aw8RVmLCQAAPpzH
+    index: 1
+    label: Display
+    info: Tower Records Shinjuku
+    context:
+    - event: nomusicnoidol11
+    todo: add to headbanger album display
+    part-of:
+      postx: 220413969477812225
+
 - webimage:
     domain: tower.jp
     page: 2012.02.28.n03

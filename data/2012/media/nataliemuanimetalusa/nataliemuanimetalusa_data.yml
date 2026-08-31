@@ -1,0 +1,337 @@
+- display:
+    media:
+      year: 2012
+      id: nataliemuanimetalusa
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: Interview pictures
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: natalie.mu
+                    page: pp.babymetal
+                    id: bands
+                - webimage:
+                    domain: natalie.mu
+                    page: pp.babymetal
+                    id: 10
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: natalie.mu
+                    page: pp.babymetal
+                    id: 11
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: natalie.mu
+                    page: pp.babymetal
+                    id: 02
+                - webimage:
+                    domain: natalie.mu
+                    page: pp.babymetal
+                    id: 01
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: natalie.mu
+                    page: pp.babymetal
+                    id: 08
+                - webimage:
+                    domain: natalie.mu
+                    page: pp.babymetal
+                    id: 06
+                - webimage:
+                    domain: natalie.mu
+                    page: pp.babymetal
+                    id: 09
+                - webimage:
+                    domain: natalie.mu
+                    page: pp.babymetal
+                    id: 07
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: natalie.mu
+                    page: pp.babymetal
+                    id: 04
+                - webimage:
+                    domain: natalie.mu
+                    page: pp.babymetal
+                    id: 03
+                - webimage:
+                    domain: natalie.mu
+                    page: pp.babymetal
+                    id: 05
+    part-of:
+      media:
+        year: 2012
+        id: nataliemuanimetalusa
+
+- webimage:
+    domain: natalie.mu
+    page: music
+    id: logo
+    label: Logo
+    published-date: 2026-08-31
+    url: 'https://x.com/natalie_mu/photo'
+    local-copy: true
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: music
+
+- webimage:
+    domain: natalie.mu
+    page: pp.babymetal
+    id: 01
+    label: Interview
+    info: BABYMETAL
+    published-date: 2012-07-04
+    url: 'https://ogre.natalie.mu/media/pp/static/music/babymetal/photo01.jpg'
+    context:
+    - media:
+        year: 2012
+        id: nataliemuanimetalusa
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: pp.babymetal
+
+- webimage:
+    domain: natalie.mu
+    page: pp.babymetal
+    id: 02
+    label: Interview
+    info: アニメタルUSA
+    published-date: 2012-07-04
+    url: 'https://ogre.natalie.mu/media/pp/static/music/babymetal/photo02.jpg'
+    page-url: 'https://natalie.mu/music/pp/babymetal/page/3'
+    context:
+    - media:
+        year: 2012
+        id: nataliemuanimetalusa
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: pp.babymetal
+
+- webimage:
+    domain: natalie.mu
+    page: pp.babymetal
+    id: 03
+    label: Interview
+    info: YUIMETAL
+    published-date: 2012-07-04
+    url: 'https://ogre.natalie.mu/media/pp/static/music/babymetal/photo03.jpg'
+    page-url: 'https://natalie.mu/music/pp/babymetal/page/2'
+    context:
+    - media:
+        year: 2012
+        id: nataliemuanimetalusa
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: pp.babymetal
+
+- webimage:
+    domain: natalie.mu
+    page: pp.babymetal
+    id: 04
+    label: Interview
+    info: SU-METAL
+    published-date: 2012-07-04
+    url: 'https://ogre.natalie.mu/media/pp/static/music/babymetal/photo04.jpg'
+    context:
+    - media:
+        year: 2012
+        id: nataliemuanimetalusa
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: pp.babymetal
+
+- webimage:
+    domain: natalie.mu
+    page: pp.babymetal
+    id: 05
+    label: Interview
+    info: MOAMETAL
+    published-date: 2012-07-04
+    url: 'https://ogre.natalie.mu/media/pp/static/music/babymetal/photo05.jpg'
+    page-url: 'https://natalie.mu/music/pp/babymetal/page/2'
+    context:
+    - media:
+        year: 2012
+        id: nataliemuanimetalusa
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: pp.babymetal
+
+- webimage:
+    domain: natalie.mu
+    page: pp.babymetal
+    id: 06
+    label: Interview
+    info: マイク・ヴェッセーラ as METAL-RIDER
+    published-date: 2012-07-04
+    url: 'https://ogre.natalie.mu/media/pp/static/music/babymetal/photo06.jpg'
+    context:
+    - media:
+        year: 2012
+        id: nataliemuanimetalusa
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: pp.babymetal
+
+- webimage:
+    domain: natalie.mu
+    page: pp.babymetal
+    id: 07
+    label: Interview
+    info: ルディ・サーゾ as STORM-BRINGER
+    published-date: 2012-07-04
+    url: 'https://ogre.natalie.mu/media/pp/static/music/babymetal/photo07.jpg'
+    page-url: 'https://natalie.mu/music/pp/babymetal/page/2'
+    context:
+    - media:
+        year: 2012
+        id: nataliemuanimetalusa
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: pp.babymetal
+
+- webimage:
+    domain: natalie.mu
+    page: pp.babymetal
+    id: 08
+    label: Interview
+    info: ジョン・デッテ as TANK
+    published-date: 2012-07-04
+    url: 'https://ogre.natalie.mu/media/pp/static/music/babymetal/photo08.jpg'
+    page-url: 'https://natalie.mu/music/pp/babymetal/page/3'
+    context:
+    - media:
+        year: 2012
+        id: nataliemuanimetalusa
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: pp.babymetal
+
+- webimage:
+    domain: natalie.mu
+    page: pp.babymetal
+    id: 09
+    label: Interview
+    info: クリス・インペリテリ as SPEED-KING
+    published-date: 2012-07-04
+    url: 'https://ogre.natalie.mu/media/pp/static/music/babymetal/photo09.jpg'
+    page-url: 'https://natalie.mu/music/pp/babymetal/page/2'
+    context:
+    - media:
+        year: 2012
+        id: nataliemuanimetalusa
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: pp.babymetal
+
+- webimage:
+    domain: natalie.mu
+    page: pp.babymetal
+    id: 10
+    label: Bands
+    info: アニメタルUSA, BABYMETAL
+    published-date: 2012-07-04
+    url: 'https://ogre.natalie.mu/media/pp/static/music/babymetal/photo10.jpg'
+    page-url: 'https://natalie.mu/music/pp/babymetal/page/3'
+    context:
+    - media:
+        year: 2012
+        id: nataliemuanimetalusa
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: pp.babymetal
+
+- webimage:
+    domain: natalie.mu
+    page: pp.babymetal
+    id: 11
+    label: Interview
+    info: アニメタルUSA, BABYMETAL
+    published-date: 2012-07-04
+    url: 'https://ogre.natalie.mu/media/pp/static/music/babymetal/photo11.jpg'
+    page-url: 'https://natalie.mu/music/pp/babymetal/page/3'
+    context:
+    - media:
+        year: 2012
+        id: nataliemuanimetalusa
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: pp.babymetal
+
+- webimage:
+    domain: natalie.mu
+    page: pp.babymetal
+    id: bands
+    label: Bands
+    info: アニメタルUSA, BABYMETAL
+    published-date: 2012-07-04
+    url: 'https://ogre.natalie.mu/media/pp/static/music/babymetal/header-bg.jpg'
+    context:
+    - media:
+        year: 2012
+        id: nataliemuanimetalusa
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: pp.babymetal
+
+- webpage:
+    domain: natalie.mu
+    id: music
+    label: natalie.mu music page
+    published-date: 2012-07-04
+    url: 'https://natalie.mu/music'
+    image:
+    - logo
+    part-of:
+      media:
+        year: 2012
+        id: nataliemuanimetalusa
+
+- webpage:
+    domain: natalie.mu
+    id: pp.babymetal
+    label: Interview
+    published-date: 2012-07-04
+    url: 'https://natalie.mu/music/pp/babymetal'
+    image:
+    - 01
+    - 02
+    - 03
+    - 04
+    - 05
+    - 06
+    - 07
+    - 08
+    - 09
+    - 10
+    - 11
+    - bands
+    part-of:
+      media:
+        year: 2012
+        id: nataliemuanimetalusa
+

@@ -1,5 +1,50 @@
-group:
-  id: merch
-  label: Merch
-  part-of:
-    group: band
+- group:
+    id: merch
+    label: Merch
+    part-of:
+      group: band
+
+- postfacebook:
+    id: 399486240098648
+    account: BABYMETAL.jp
+    label: Merch oversea shipping
+    published-date: 2012-07-05
+    text: |-
+      For overseas fans,BABYMETAL merchandise available oversea shipping.
+      Sorry for waiting!!
+      Let's go to merchandise store!!
+      http://toys-hop.com/
+    translation: |-
+      For overseas fans, BABYMETAL merchandise is now available for overseas shipping.
+      Sorry to keep you waiting!!
+      Let's head to the merchandise store!!
+      http://toys-hop.com/
+    image:
+    - 399486240098648
+    part-of:
+      webpage:
+        domain: babymetal.jp
+        id: news.3316
+
+- postfacebookimage:
+    post: 399486240098648
+    id: 399486240098648
+    label: Mosh'sh t-shirt
+    part-of:
+      postfacebook: 399486240098648
+
+- webpage:
+    domain: babymetal.jp
+    id: news.3316
+    label: Merch oversea shipping
+    published-date: 2012-07-05
+    url: 'https://web.archive.org/web/20141117063901/http://www.babymetal.jp/news/0/3316/'
+    part-of:
+      group:
+        id: merch
+        group: band
+    reference:
+    - postfacebookimage:
+        post: 399486240098648
+        image: 399486240098648
+

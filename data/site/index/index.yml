@@ -1988,7 +1988,7 @@ contentpage:
       id: headbanger
   - show:
       year: 2012
-      id: yukiyukiafternoon
+      id: ukiukiafternoon
   - show:
       year: 2012
       id: headbangpilgrimagenagoya2
@@ -2002,6 +2002,9 @@ contentpage:
       year: 2012
       id: headbangpilgrimageosaka1
   - tour: headbangpilgrimage
+  - media:
+      year: 2012
+      id: nataliemuanimetalusa
   - album: headbanger
   - show:
       year: 2012

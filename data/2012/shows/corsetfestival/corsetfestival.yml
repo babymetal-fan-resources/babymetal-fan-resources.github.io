@@ -16,3 +16,9 @@ show:
     group:
       id: shows
       group: 2012
+  multimedia:
+    main:
+      webimage:
+        domain: natalie.mu
+        page: 73330
+        id: 130707

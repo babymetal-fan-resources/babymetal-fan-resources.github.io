@@ -1,3 +1,121 @@
+- display:
+    show:
+      year: 2012
+      id: corsetfestival
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: natalie.mu
+                    page: 73330
+                    id: 130707
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: natalie.mu
+                    page: 73330
+                    id: 130710
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: natalie.mu
+                    page: 73330
+                    id: 130711
+                - webimage:
+                    domain: natalie.mu
+                    page: 73330
+                    id: 130708
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: natalie.mu
+                    page: 73330
+                    id: 130712
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: natalie.mu
+                    page: 73330
+                    id: 130709
+        - basicsection:
+            label: At the event
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 226604937411444737
+                    image: AyUP_W8CQAEi-LF
+                - webimage:
+                    domain: natalie.mu
+                    page: 73330
+                    id: 130713
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 226690669496905729
+                    image: AyVd9oACMAAGj4X
+    part-of:
+      show:
+        year: 2012
+        id: corsetfestival
+
+- postx:
+    id: 221592161274175488
+    account: BABYMETAL_JAPAN
+    label: Lottery ends tomorrow
+    published-date: 2012-07-07
+    text: |-
+      明日は目黒鹿鳴館ライブのエントリー締め切り日DEATH！！沢山のご応募を頂いていますが、あと1日チャンスがありますのでぜひ応募して下さい！！BABYMETAL初めてのワンマン、ゼロからの伝説を一緒に作ろうよ！！ #babymetal
+    translation: |-
+      Tomorrow is the deadline to enter for the Meguro Rokumeikan live show DEATH!! We've received many applications, but there is still 1 day left, so please be sure to apply!! BABYMETAL's very first solo show, let's create a legend together from scratch!! #babymetal
+    image:
+    - AxNA5YpCIAAM1l7
+    part-of:
+      show:
+        year: 2012
+        id: corsetfestival
+
+- postx:
+    id: 226277580251213826
+    account: BABYMETAL_JAPAN
+    label: Tomorrow
+    published-date: 2012-07-20
+    text: |-
+      いよいよ明日、目黒鹿鳴館！！コルセット忘れたら、ダメ、ゼッタイ「We are BABYMETAL！！」 #babymetal
+    translation: |-
+      Finally, tomorrow is Meguro Rockmaykan!!
+      If you forget your corset, it's No, Absolutely Not (Dame, Zettai)
+      "We are BABYMETAL!!" #babymetal
+    image:
+    - AyPmQqfCMAA_OPe
+    part-of:
+      show:
+        year: 2012
+        id: corsetfestival
+
+- postx:
+    id: 226604937411444737
+    account: BABYMETAL_JAPAN
+    label: Starting soon
+    published-date: 2012-07-21
+    text: |-
+      目黒〜！！コルセットの準備はできてるか〜！！もうすぐ「LEGEND〜コルセット祭り」はっじまっるよ〜！！ #babymetal
+    translation: |-
+      Meguro~!! Are your corsets ready~!! "LEGEND ~ Corset Festival" is sta~rt~ing soon~!! #babymetal
+    image:
+    - AyUP_W8CQAEi-LF
+    part-of:
+      show:
+        year: 2012
+        id: corsetfestival
+
 - postx:
     id: 226690669496905729
     account: BABYMETAL_JAPAN
@@ -19,6 +137,40 @@
         id: corsetfestival
 
 - postximage:
+    post: 221592161274175488
+    id: AxNA5YpCIAAM1l7
+    index: 1
+    label: On stage
+    info: marking
+    context:
+    - tour: headbangpilgrimage
+    part-of:
+      postx: 221592161274175488
+
+- postximage:
+    post: 226277580251213826
+    id: AyPmQqfCMAA_OPe
+    index: 1
+    label: Backstage
+    local-copy: true
+    context:
+    - tour: headbangpilgrimage
+    part-of:
+      postx: 226277580251213826
+
+- postximage:
+    post: 226604937411444737
+    id: AyUP_W8CQAEi-LF
+    index: 1
+    label: On stage
+    context:
+    - show:
+        year: 2012
+        id: corsetfestival
+    part-of:
+      postx: 226604937411444737
+
+- postximage:
     post: 226690669496905729
     id: AyVd9oACMAAGj4X
     index: 1
@@ -30,4 +182,177 @@
         id: corsetfestival
     part-of:
       postx: 226690669496905729
+
+- webimage:
+    domain: babymetal.jp
+    page: news.3478
+    id: tshirt
+    label: Merch
+    info: t-shirt
+    published-date: 2012-07-19
+    url: 'https://web.archive.org/web/20141117063529im_/http://babymetal.jp/images/news/22720120718230830.jpg'
+    local-copy: true
+    context:
+    - show:
+        year: 2012
+        id: corsetfestival
+    part-of:
+      webpage:
+        domain: babymetal.jp
+        id: news.3478
+
+- webimage:
+    domain: natalie.mu
+    page: 73330
+    id: 130707
+    label: On stage
+    published-date: 2012-07-22
+    url: 'https://ogre.natalie.mu/media/news/music/2012/0722/_DSC1637.jpg'
+    page-url: 'https://natalie.mu/music/gallery/news/73330/130707'
+    context:
+    - show:
+        year: 2012
+        id: corsetfestival
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: 73330
+
+- webimage:
+    domain: natalie.mu
+    page: 73330
+    id: 130708
+    label: On stage
+    published-date: 2012-07-22
+    url: 'https://ogre.natalie.mu/media/news/music/2012/0722/_DSC2209.jpg'
+    page-url: 'https://natalie.mu/music/gallery/news/73330/130708'
+    context:
+    - show:
+        year: 2012
+        id: corsetfestival
+    - song: headbanger
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: 73330
+
+- webimage:
+    domain: natalie.mu
+    page: 73330
+    id: 130709
+    label: Backstage
+    published-date: 2012-07-22
+    url: 'https://ogre.natalie.mu/media/news/music/2012/0722/_DSC2393.jpg'
+    page-url: 'https://natalie.mu/music/gallery/news/73330/130709'
+    context:
+    - show:
+        year: 2012
+        id: corsetfestival
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: 73330
+
+- webimage:
+    domain: natalie.mu
+    page: 73330
+    id: 130710
+    label: On stage
+    published-date: 2012-07-22
+    url: 'https://ogre.natalie.mu/media/news/music/2012/0722/_DSC2910.jpg'
+    page-url: 'https://natalie.mu/music/gallery/news/73330/130710'
+    context:
+    - show:
+        year: 2012
+        id: corsetfestival
+    - song: ukiukimidnight
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: 73330
+
+- webimage:
+    domain: natalie.mu
+    page: 73330
+    id: 130711
+    label: On stage
+    published-date: 2012-07-22
+    url: 'https://ogre.natalie.mu/media/news/music/2012/0722/_DSC3647.jpg'
+    page-url: 'https://natalie.mu/music/gallery/news/73330/130711'
+    context:
+    - show:
+        year: 2012
+        id: corsetfestival
+    - song: headbanger
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: 73330
+
+- webimage:
+    domain: natalie.mu
+    page: 73330
+    id: 130712
+    label: On stage
+    info: see u!!
+    published-date: 2012-07-22
+    url: 'https://ogre.natalie.mu/media/news/music/2012/0722/_DSC3727.jpg'
+    page-url: 'https://natalie.mu/music/gallery/news/73330/130712'
+    context:
+    - show:
+        year: 2012
+        id: corsetfestival
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: 73330
+
+- webimage:
+    domain: natalie.mu
+    page: 73330
+    id: 130713
+    label: On stage
+    published-date: 2012-07-22
+    url: 'https://ogre.natalie.mu/media/news/music/2012/0722/_DSC2369.jpg'
+    page-url: 'https://natalie.mu/music/gallery/news/73330/130713'
+    context:
+    - show:
+        year: 2012
+        id: corsetfestival
+    part-of:
+      webpage:
+        domain: natalie.mu
+        id: 73330
+
+- webpage:
+    domain: babymetal.jp
+    id: news.3478
+    label: Merch information
+    published-date: 2012-07-19
+    url: 'https://web.archive.org/web/20141117063532/http://www.babymetal.jp/news/0/3478/'
+    image:
+    - tshirt
+    part-of:
+      show:
+        year: 2012
+        id: corsetfestival
+
+- webpage:
+    domain: natalie.mu
+    id: 73330
+    label: Show report
+    published-date: 2012-07-22
+    url: 'https://natalie.mu/music/news/73330'
+    image:
+    - 130707
+    - 130708
+    - 130709
+    - 130710
+    - 130711
+    - 130712
+    - 130713
+    part-of:
+      show:
+        year: 2012
+        id: corsetfestival
 

@@ -61,6 +61,21 @@
         domain: babymetal.jp
         id: news.3046
 
+- postfacebook:
+    id: 399248880122384
+    account: BABYMETAL.jp
+    label: Release
+    published-date: 2012-07-04
+    text: |-
+      The new song "ヘドバンギャー！！”[Headbangeeeeerrrrr!!!!! ] was　released today(4.JULY)！！
+      [PHYSICAL]
+      http://www.cdjapan.co.jp/detailview.html?KEY=JOBR-1003
+      [DOWNLOAD] http://itunes.apple.com/us/artist/babymetal/id477101776
+    image:
+    - 399248880122384
+    part-of:
+      album: headbanger
+
 - postfacebookimage:
     post: 359920017388604
     id: 359920017388604
@@ -81,6 +96,15 @@
     part-of:
       postfacebook: 386779261369346
 
+- postfacebookimage:
+    post: 399248880122384
+    id: 399248880122384
+    label: Behind the scenes
+    context:
+    - song: headbanger
+    part-of:
+      postfacebook: 399248880122384
+
 - postx:
     id: 208379218097225728
     account: BABYMETAL_JAPAN
@@ -96,6 +120,62 @@
     part-of:
       album: headbanger
 
+- postx:
+    id: 220084264321032193
+    account: BABYMETAL_JAPAN
+    label: Early release
+    published-date: 2012-07-03
+    text: |-
+      【フラゲだぉ！！】タワーレコード渋谷店さんDEATH！！1階と2階に置いて頂いております！！ #babymetal
+    translation: |-
+      [Early get!!] It's Tower Records Shibuya DEATH!! They have it on display on the 1st and 2nd floors!! #babymetal
+    image:
+    - Aw3leOwCIAA4KI9
+    part-of:
+      album: headbanger
+
+- postx:
+    id: 220084660041027584
+    account: BABYMETAL_JAPAN
+    label: Early release
+    published-date: 2012-07-03
+    text: |-
+      【フラゲだぉ！！】タワーレコード渋谷店さん、2階はバニラビーンズさんのおとなりDEATH！！#babymetal
+    translation: |-
+      [Early get!!] At Tower Records Shibuya, the 2nd floor display is right next to Vanilla Beans DEATH!! #babymetal
+    image:
+    - Aw3l1Q6CEAAhP86
+    part-of:
+      album: headbanger
+
+- postx:
+    id: 220701996355817473
+    account: BABYMETAL_JAPAN
+    label: Rankings
+    published-date: 2012-07-05
+    text: |-
+      「ヘドバンギャー！！」がオリコンシングルデイリーランキング初登場14位、インディーズ1位になりました！！皆さんの応援ありがとうございます！！まだまだ始まったばかり、引き続き応援宜しくお願い致します！！#babymetal
+    translation: |-
+      "Headbangeeeeerrrrr!!!!!" debuted at #14 on the Oricon Single Daily Ranking and #1 on the Indies ranking!! Thank you all for your support!! This has only just begun, so please continue to support us!! #babymetal
+    image:
+    - AxAXS95CEAAACzm
+    part-of:
+      album: headbanger
+
+- postx:
+    id: 222674630706610176
+    account: BABYMETAL_JAPAN
+    label: Rankings
+    published-date: 2012-07-10
+    text: |-
+      BABYMETAL、初のインディーズデビュー CD「ヘドバンギャー！！」が、オリコン週間シングルランキング・メジャーチャートTOP20入りに！！皆さんの応援、届いてます！！渋谷、目黒鹿鳴館もメッタメタにMETALしちゃうぞっ！！
+    translation: |-
+      BABYMETAL's first indie debut CD "Headbangeeeeerrrrr!!!!!" has entered the TOP 20 on the Oricon Weekly Single Ranking major chart!! Everyone's support has reached us!! We're gonna thoroughly METAL up Shibuya and Meguro Rokumeikan too!!
+    image:
+    - AxcZZZhCQAAvM6G
+    part-of:
+      album: headbanger
+
 - postximage:
     post: 208379218097225728
     id: AuRPy3nCQAAee63
@@ -105,6 +185,50 @@
     - album: headbanger
     part-of:
       postx: 208379218097225728
+
+- postximage:
+    post: 220084264321032193
+    id: Aw3leOwCIAA4KI9
+    index: 1
+    label: In-store display
+    info: Tower Records Shibuya
+    context:
+    - album: headbanger
+    part-of:
+      postx: 220084264321032193
+
+- postximage:
+    post: 220084660041027584
+    id: Aw3l1Q6CEAAhP86
+    index: 1
+    label: In-store display
+    info: Tower Records Shibuya
+    context:
+    - album: headbanger
+    part-of:
+      postx: 220084660041027584
+
+- postximage:
+    post: 220701996355817473
+    id: AxAXS95CEAAACzm
+    index: 1
+    label: Behind the scenes
+    info: SU-METAL
+    context:
+    - song: headbanger
+    part-of:
+      postx: 220701996355817473
+
+- postximage:
+    post: 222674630706610176
+    id: AxcZZZhCQAAvM6G
+    index: 1
+    label: At the store
+    info: Tower Records
+    context:
+    - album: headbanger
+    part-of:
+      postx: 222674630706610176
 
 - webpage:
     domain: babymetal.jp

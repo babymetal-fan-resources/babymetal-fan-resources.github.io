@@ -1,0 +1,78 @@
+- display:
+    show:
+      year: 2012
+      id: headbangpilgrimagenagoya1
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - textsubsection:
+                lines:
+                - line:
+                  - text: 'The pictures from the shows are available on the '
+                  - tour: headbangpilgrimage
+                  - text: ' tour page.'
+    part-of:
+      show:
+        year: 2012
+        id: headbangpilgrimagenagoya1
+
+- postx:
+    id: 221799820183089152
+    account: BABYMETAL_JAPAN
+    label: Starting
+    published-date: 2012-07-08
+    text: |-
+      名古屋〜！！第一回目はっじまっるよ〜！！ #babymetal
+    translation: |-
+      Nagoya~!! Round 1 is sta~rt~ing!! #babymetal
+    image:
+    - AxP9wuWCMAAT2mD
+    part-of:
+      show:
+        year: 2012
+        id: headbangpilgrimagenagoya1
+
+- postx:
+    id: 221823320184733696
+    account: BABYMETAL_JAPAN
+    label: Ended
+    published-date: 2012-07-08
+    text: |-
+      初の名古屋ライブ、第一回初目終了DEATH！！めっちゃアツいぞーっ！！ #babymetal
+    translation: |-
+      The first Nagoya live show, Round 1 has ended DEATH!! It's super hot!! #babymetal
+    image:
+    - AxQTImtCQAAIyi7
+    part-of:
+      show:
+        year: 2012
+        id: headbangpilgrimagenagoya1
+
+- postximage:
+    post: 221799820183089152
+    id: AxP9wuWCMAAT2mD
+    index: 1
+    label: Crowd
+    context:
+    - show:
+        year: 2012
+        id: headbangpilgrimagenagoya1
+    part-of:
+      postx: 221799820183089152
+
+- postximage:
+    post: 221823320184733696
+    id: AxQTImtCQAAIyi7
+    index: 1
+    label: Crowd
+    context:
+    - show:
+        year: 2012
+        id: headbangpilgrimagenagoya1
+    part-of:
+      postx: 221823320184733696
+

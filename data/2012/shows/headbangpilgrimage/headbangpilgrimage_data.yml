@@ -1,3 +1,100 @@
+- display:
+    tour: headbangpilgrimage
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - subschronologysection:
+            label: Shows
+            isMediumMarker:
+            - show
+        - basicsection:
+            label: Pictures
+            subsections:
+            - multimediasubsection:
+                label: At the shows
+                multimedia:
+                - postximage:
+                    post: 221577240931090432
+                    image: AxMzU6BCQAEnnq-
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 221799820183089152
+                    image: AxP9wuWCMAAT2mD
+                - postximage:
+                    post: 221823320184733696
+                    image: AxQTImtCQAAIyi7
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 221505277395083264
+                    image: AxLx4JCCIAAQp_z
+                - postximage:
+                    post: 226277580251213826
+                    image: AyPmQqfCMAA_OPe
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 221913230300286976
+                    image: AxRk6D9CEAIj3ZU
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 221471982028472323
+                    image: AxLTmCECQAAeiju
+            - multimediasubsection:
+                label: On tour
+                multimedia:
+                - postfacebookimage:
+                    post: 400037140043558
+                    image: 400037140043558
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 221592161274175488
+                    image: AxNA5YpCIAAM1l7
+    part-of:
+      tour: headbangpilgrimage
+
+- postfacebook:
+    id: 400037140043558
+    account: BABYMETAL.jp
+    label: In Osaka
+    published-date: 2012-07-06
+    text: |-
+      Today, BABYMETAL arrived in Osaka. Tomorrow is the first performances in Osaka!!
+    image:
+    - 400037140043558
+    part-of:
+      tour: headbangpilgrimage
+
+- postfacebookimage:
+    post: 400037140043558
+    id: 400037140043558
+    label: In Osaka
+    context:
+    - tour: headbangpilgrimage
+    part-of:
+      postfacebook: 400037140043558
+
+- postx:
+    id: 221193979058864128
+    account: BABYMETAL_JAPAN
+    label: In Osaka
+    published-date: 2012-07-06
+    text: |-
+      大阪〜！！BABYMETALついたどぉ〜！！蟹、降臨！！ #babymetal
+    translation: |-
+      Osaka~!! BABYMETAL has arrived~!! Crab, descending!! #babymetal
+    part-of:
+      postfacebook: 400037140043558
+    reference:
+    - postfacebookimage:
+        post: 400037140043558
+        image: 400037140043558
+
 - postx:
     id: 221505277395083264
     account: BABYMETAL_JAPAN
@@ -13,14 +110,91 @@
     part-of:
       tour: headbangpilgrimage
 
+- postx:
+    id: 221577240931090432
+    account: BABYMETAL_JAPAN
+    label: Shows in Osaka done
+    published-date: 2012-07-07
+    text: |-
+      初の大阪公演終了DEATH！！観にきてくれた皆さんありがとうございました！！明日は名古屋行くぞーっ！！ #babymetal
+    translation: |-
+      The first Osaka show has ended DEATH!! Thank you very much to everyone who came to see us!! Tomorrow, let's head to Nagoya!! #babymetal
+    image:
+    - AxMzU6BCQAEnnq-
+    part-of:
+      tour: headbangpilgrimage
+
+- postx:
+    id: 221913230300286976
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2012-07-08
+    text: |-
+      BABYMETAL「ヘドバ行脚ー！！」無事終了しました！！大阪、名古屋の方、遠くから応援に来てくれた方、本当にありがとうございました！！今度はもっと沢山の場所に行って来れなかった方にも会うことが出来たら、いいね！ #babymetal
+    translation: |-
+      BABYMETAL "Hedoba Pilgrimage!!" has successfully concluded!! To everyone in Osaka and Nagoya, and those who came to support us from far away, thank you so very much!! Next time, if we could visit even more places and meet those who couldn't make it, wouldn't that be "Iine!" #babymetal
+    image:
+    - AxRk6D9CEAIj3ZU
+    part-of:
+      tour: headbangpilgrimage
+
 - postximage:
     post: 221505277395083264
     id: AxLx4JCCIAAQp_z
     index: 1
     label: At the venue
+    info: Osaka
     local-copy: true
     context:
     - tour: headbangpilgrimage
     part-of:
       postx: 221505277395083264
+
+- postximage:
+    post: 221577240931090432
+    id: AxMzU6BCQAEnnq-
+    index: On stage
+    label: On stage
+    info: Osaka
+    context:
+    - tour: headbangpilgrimage
+    part-of:
+      postx: 221577240931090432
+
+- postximage:
+    post: 221913230300286976
+    id: AxRk6D9CEAIj3ZU
+    index: 1
+    label: Backstage
+    context:
+    - tour: headbangpilgrimage
+    part-of:
+      postx: 221913230300286976
+
+- webimage:
+    domain: babymetal.jp
+    page: news.3347
+    id: wristband
+    label: Merch
+    info: wristband
+    published-date: 2012-07-07
+    url: 'https://web.archive.org/web/20141117063855im_/http://babymetal.jp/images/news/22720120707115936.jpg'
+    local-copy: true
+    context:
+    - tour: headbangpilgrimage
+    part-of:
+      webpage:
+        domain: babymetal.jp
+        id: news.3347
+
+- webpage:
+    domain: babymetal.jp
+    id: news.3347
+    label: Merch information
+    published-date: 2012-07-07
+    url: 'https://web.archive.org/web/20141117063900/http://www.babymetal.jp/news/0/3347/'
+    image:
+    - wristband
+    part-of:
+      tour: headbangpilgrimage
 

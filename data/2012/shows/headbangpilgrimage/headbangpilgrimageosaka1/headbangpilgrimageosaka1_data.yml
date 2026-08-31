@@ -1,0 +1,50 @@
+- display:
+    show:
+      year: 2012
+      id: headbangpilgrimageosaka1
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - textsubsection:
+                lines:
+                - line:
+                  - text: 'The pictures from the shows are available on the '
+                  - tour: headbangpilgrimage
+                  - text: ' tour page.'
+    part-of:
+      show:
+        year: 2012
+        id: headbangpilgrimageosaka1
+
+- postx:
+    id: 221471982028472323
+    account: BABYMETAL_JAPAN
+    label: Show about to start
+    published-date: 2012-07-07
+    text: |-
+      大阪〜！！初日！！第一回目はっじまっるよ〜！！ #babymetal
+    translation: |-
+      Osaka~!! Day 1!! Round 1 is sta~rt~ing!! #babymetal
+    image:
+    - AxLTmCECQAAeiju
+    part-of:
+      show:
+        year: 2012
+        id: headbangpilgrimageosaka1
+
+- postximage:
+    post: 221471982028472323
+    id: AxLTmCECQAAeiju
+    index: 1
+    label: Queuing
+    context:
+    - show:
+        year: 2012
+        id: headbangpilgrimageosaka1
+    part-of:
+      postx: 221471982028472323
+

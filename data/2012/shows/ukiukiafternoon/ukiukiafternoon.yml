@@ -1,6 +1,6 @@
 show:
   year: 2012
-  id: yukiyukiafternoon
+  id: ukiukiafternoon
   cover-image:
     postximage:
       post: 224052855328342016
@@ -17,9 +17,5 @@ show:
   multimedia:
     main:
       postximage:
-        post: 224052855328342016
-        image: Axv-4oVCAAIunBN
-    image:
-    - postximage:
         post: 224052855328342016
         image: Axv-4oVCAAIunBN

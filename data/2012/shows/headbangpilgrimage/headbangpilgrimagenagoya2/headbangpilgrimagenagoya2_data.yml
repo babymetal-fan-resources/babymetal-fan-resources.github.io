@@ -1,0 +1,21 @@
+display:
+  show:
+    year: 2012
+    id: headbangpilgrimagenagoya2
+  blocks:
+  - basicblock:
+      id: main
+      label: main
+      sections:
+      - basicsection:
+          subsections:
+          - textsubsection:
+              lines:
+              - line:
+                - text: 'The pictures from the shows are available on the '
+                - tour: headbangpilgrimage
+                - text: ' tour page.'
+  part-of:
+    show:
+      year: 2012
+      id: headbangpilgrimagenagoya2
