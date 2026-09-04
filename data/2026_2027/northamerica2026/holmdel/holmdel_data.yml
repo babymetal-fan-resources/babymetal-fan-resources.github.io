@@ -1,0 +1,48 @@
+- postinstagram:
+    id: DcyoY-cji-a
+    account: babymetal_official
+    label: Pop-up store in NY
+    published-date: 2026-09-02
+    text: |-
+      CALLING ALL BABYMETAL FANS! Complex presents the BABYMETAL pop-up at Complex NY.
+      
+      Stay tuned for the full @afflictionclothing merch reveal and other exclusive BABYMETAL pop-up announcements 👀
+      
+      RSVP via the link in @complexmusic & @complexshop bio.
+      
+      Note that RSVP does not guarantee entry — please plan to arrive early.
+      
+      COMPLEX NY
+      620 Broadway
+      New York, NY
+      11am-7pm ET
+    image:
+    - 1
+    - 2
+    part-of:
+      show:
+        year: 2026
+        id: holmdel
+
+- postinstagramimage:
+    post: DcyoY-cji-a
+    id: 1
+    label: Poster
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: DcyoY-cji-a
+
+- postinstagramimage:
+    post: DcyoY-cji-a
+    id: 2
+    label: Poster
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: DcyoY-cji-a
+

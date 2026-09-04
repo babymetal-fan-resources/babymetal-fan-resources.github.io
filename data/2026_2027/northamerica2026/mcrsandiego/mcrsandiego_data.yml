@@ -1,3 +1,255 @@
+- display:
+    show:
+      year: 2026
+      id: mcrsandiego
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DcuUa7JmM5t
+                    image: 3
+                - postinstagramimage:
+                    post: DcuUa7JmM5t
+                    image: 4
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DcuUa7JmM5t
+                    image: 2
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2094574838916780091
+                    image: HRFqQ7KbAAAg1O9
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DcuUa7JmM5t
+                    image: 7
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DcuUa7JmM5t
+                    image: 5
+                - postximage:
+                    post: 2094574838916780091
+                    image: HRFqPjvbMAAqclF
+        - basicsection:
+            label: At the event
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2094629517818273815
+                    image: HRGXHTQbYAAy0X0
+                - postximage:
+                    post: 2094574838916780091
+                    image: HRFqNQKaYAAuome
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DcuUa7JmM5t
+                    image: 6
+    part-of:
+      show:
+        year: 2026
+        id: mcrsandiego
+
+- postinstagram:
+    id: DcuUa7JmM5t
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-09-01
+    text: |-
+      Thank you, San Diego. Great to perform at Petco Park!
+      🧟🧟‍♀️⚡️
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+      @mychemicalromance
+      📸 @photosbysaraii
+    image:
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    part-of:
+      show:
+        year: 2026
+        id: mcrsandiego
+    reference:
+    - postximage:
+        post: 2094574838916780091
+        image: HRFqNQKaYAAuome
+    - postximage:
+        post: 2094574838916780091
+        image: HRFqPjvbMAAqclF
+
+- postinstagramimage:
+    post: DcuUa7JmM5t
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: mcrsandiego
+    - song: metali
+    part-of:
+      postinstagram: DcuUa7JmM5t
+
+- postinstagramimage:
+    post: DcuUa7JmM5t
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: mcrsandiego
+    - song: megitsune
+    part-of:
+      postinstagram: DcuUa7JmM5t
+
+- postinstagramimage:
+    post: DcuUa7JmM5t
+    id: 4
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: mcrsandiego
+    - song: megitsune
+    part-of:
+      postinstagram: DcuUa7JmM5t
+
+- postinstagramimage:
+    post: DcuUa7JmM5t
+    id: 5
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: mcrsandiego
+    part-of:
+      postinstagram: DcuUa7JmM5t
+
+- postinstagramimage:
+    post: DcuUa7JmM5t
+    id: 6
+    label: Fan
+    context:
+    - show:
+        year: 2026
+        id: mcrsandiego
+    part-of:
+      postinstagram: DcuUa7JmM5t
+
+- postinstagramimage:
+    post: DcuUa7JmM5t
+    id: 7
+    label: On stage
+    info: we aaaa
+    context:
+    - show:
+        year: 2026
+        id: mcrsandiego
+    part-of:
+      postinstagram: DcuUa7JmM5t
+
+- postx:
+    id: 2094574838916780091
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-01
+    text: |-
+      Thank you for coming to "My Chemical Romance The Black Parade 2026" at Petco Park in San Diego, CA🧟🧟‍♀️⚡️
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+      @MCRofficial 
+      📸 @photosbysarai
+    image:
+    - HRFqNQKaYAAuome
+    - HRFqPjvbMAAqclF
+    - HRFqQ7KbAAAg1O9
+    part-of:
+      show:
+        year: 2026
+        id: mcrsandiego
+
+- postx:
+    id: 2094629517818273815
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-01
+    text: |-
+      Thank you for having us, My Chemical Romance!🧟🦊
+      #BABYMETAL #BABYMETALWORLDTOUR2026
+      @MCRofficial
+       
+      📸 
+      @photosbysarai
+    image:
+    - HRGXHTQbYAAy0X0
+    part-of:
+      show:
+        year: 2026
+        id: mcrsandiego
+
+- postximage:
+    post: 2094574838916780091
+    id: HRFqNQKaYAAuome
+    index: 1
+    label: At the venue
+    context:
+    - show:
+        year: 2026
+        id: mcrsandiego
+    part-of:
+      postx: 2094574838916780091
+
+- postximage:
+    post: 2094574838916780091
+    id: HRFqPjvbMAAqclF
+    index: 2
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: mcrsandiego
+    part-of:
+      postx: 2094574838916780091
+
+- postximage:
+    post: 2094574838916780091
+    id: HRFqQ7KbAAAg1O9
+    index: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: mcrsandiego
+    - song: roadofresistance
+    part-of:
+      postx: 2094574838916780091
+
+- postximage:
+    post: 2094629517818273815
+    id: HRGXHTQbYAAy0X0
+    index: 1
+    label: At the venue
+    info: My Chemical Romance, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: mcrsandiego
+    part-of:
+      postx: 2094629517818273815
+
 - update:
     show:
       year: 2026
@@ -9,6 +261,18 @@
       webpage:
         domain: babymetal.com
         id: 295961
+
+- update:
+    show:
+      year: 2026
+      id: mcrsandiego
+    date: 2026-09-04
+    text:
+    - First pictures from the show
+    part-of:
+      show:
+        year: 2026
+        id: mcrsandiego
 
 - webimage:
     domain: babymetal.com

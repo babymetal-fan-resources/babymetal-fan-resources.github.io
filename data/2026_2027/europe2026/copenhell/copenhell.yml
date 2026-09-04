@@ -15,10 +15,11 @@ show:
   - BABYMETAL joins the lineup for COPENHELL 2026 in Denmark. The band's participation was announced on October 30.
   venue: Refshaleøen, Copenhagen, Denmark
   event-page: 'https://copenhell.dk/en/'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2026/refshaleoen-hades-copenhagen-denmark-534e4731.html'
   part-of:
     tour: europe2026
   multimedia:
-    image:
-    - postximage:
-        post: 2071166666109542725
-        image: HL5Can0WIAAF--6
+    main:
+      postinstagramimage:
+        post: DaNlSWfDU5b
+        image: 5

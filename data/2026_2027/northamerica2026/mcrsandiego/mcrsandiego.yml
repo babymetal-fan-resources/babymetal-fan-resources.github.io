@@ -15,9 +15,12 @@ show:
   - BABYMETAL will support My Chemical Romance as a special guest, for the San Diego stop of their THE BLACK PARADE 2026 STADIUM TOUR.
   venue: Petco Park
   event-page: 'https://www.mychemicalromance.com/?frontpage=true#tour'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2026/petco-park-san-diego-ca-b41f99e.html'
   todo: tour announcement video
   part-of:
     tour: northamerica2026
   multimedia:
-    video:
-    - youtubevideo: lUeH68K4KJs
+    main:
+      postinstagramimage:
+        post: DcuUa7JmM5t
+        image: 3

@@ -1,0 +1,290 @@
+- display:
+    show:
+      year: 2026
+      id: denver
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc1e06eGAew
+                    image: 3
+                - postinstagramimage:
+                    post: Dc1e06eGAew
+                    image: 8
+                - postximage:
+                    post: 2095583111031541914
+                    image: HRT-WGHWkAQJPlD
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc1e06eGAew
+                    image: 1
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2095583111031541914
+                    image: HRT-XYEWEAIzrDF
+                - postinstagramimage:
+                    post: Dc1e06eGAew
+                    image: 4
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc1e06eGAew
+                    image: 9
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc1e06eGAew
+                    image: 6
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc1e06eGAew
+                    image: 7
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc1e06eGAew
+                    image: 5
+        - basicsection:
+            label: At the event
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc1e06eGAew
+                    image: 2
+                - postximage:
+                    post: 2095583111031541914
+                    image: HRT-P60bgAAGbKz
+                - postximage:
+                    post: 2095583111031541914
+                    image: HRT-RbPXkAMn0Bw
+    part-of:
+      show:
+        year: 2026
+        id: denver
+
+- postinstagram:
+    id: Dc1e06eGAew
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-09-03
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Denver🇺🇸
+      Thank you @halestormrocks @violentvira 
+      #BABYMETAL #BallArena
+      📸 @photosbysaraii
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    part-of:
+      show:
+        year: 2026
+        id: denver
+
+- postinstagramimage:
+    post: Dc1e06eGAew
+    id: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: denver
+    - song: frommetou
+    part-of:
+      postinstagram: Dc1e06eGAew
+
+- postinstagramimage:
+    post: Dc1e06eGAew
+    id: 2
+    label: At the venue
+    info: Violent Vira, Halestorm, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: denver
+    part-of:
+      postinstagram: Dc1e06eGAew
+
+- postinstagramimage:
+    post: Dc1e06eGAew
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: denver
+    todo: maybe Megitsune ?
+    part-of:
+      postinstagram: Dc1e06eGAew
+
+- postinstagramimage:
+    post: Dc1e06eGAew
+    id: 4
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: denver
+    - song: kxaxwxaxixi
+    part-of:
+      postinstagram: Dc1e06eGAew
+
+- postinstagramimage:
+    post: Dc1e06eGAew
+    id: 5
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: denver
+    part-of:
+      postinstagram: Dc1e06eGAew
+
+- postinstagramimage:
+    post: Dc1e06eGAew
+    id: 6
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: denver
+    - song: frommetou
+    part-of:
+      postinstagram: Dc1e06eGAew
+
+- postinstagramimage:
+    post: Dc1e06eGAew
+    id: 7
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: denver
+    part-of:
+      postinstagram: Dc1e06eGAew
+
+- postinstagramimage:
+    post: Dc1e06eGAew
+    id: 8
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: denver
+    part-of:
+      postinstagram: Dc1e06eGAew
+
+- postinstagramimage:
+    post: Dc1e06eGAew
+    id: 9
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: denver
+    - song: roadofresistance
+    part-of:
+      postinstagram: Dc1e06eGAew
+
+- postx:
+    id: 2095583111031541914
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-03
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Denver🇺🇸
+      Thank you @Halestorm @violentvira
+      #BABYMETAL #BallArena
+      📸 @photosbysarai
+    image:
+    - HRT-P60bgAAGbKz
+    - HRT-RbPXkAMn0Bw
+    - HRT-WGHWkAQJPlD
+    - HRT-XYEWEAIzrDF
+    part-of:
+      show:
+        year: 2026
+        id: denver
+
+- postximage:
+    post: 2095583111031541914
+    id: HRT-P60bgAAGbKz
+    index: 1
+    label: At the venue
+    info: Halestorm, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: denver
+    part-of:
+      postx: 2095583111031541914
+
+- postximage:
+    post: 2095583111031541914
+    id: HRT-RbPXkAMn0Bw
+    index: 2
+    label: At the venue
+    info: Violent Vira, BABYMETAL
+    context:
+    - show:
+        year: 2026
+        id: denver
+    part-of:
+      postx: 2095583111031541914
+
+- postximage:
+    post: 2095583111031541914
+    id: HRT-WGHWkAQJPlD
+    index: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: denver
+    part-of:
+      postx: 2095583111031541914
+
+- postximage:
+    post: 2095583111031541914
+    id: HRT-XYEWEAIzrDF
+    index: 4
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: denver
+    - song: kxaxwxaxixi
+    part-of:
+      postx: 2095583111031541914
+
+- update:
+    show:
+      year: 2026
+      id: denver
+    date: 2026-09-04
+    text:
+    - First pictures from the show
+    part-of:
+      show:
+        year: 2026
+        id: denver
+

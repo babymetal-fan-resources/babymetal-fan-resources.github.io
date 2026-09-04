@@ -9,5 +9,11 @@ show:
   date: 2026-09-02
   tour: northamerica2026
   venue: Ball Arena, Denver, CO, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2026/ball-arena-denver-co-5b769b70.html'
   part-of:
     tour: northamerica2026
+  multimedia:
+    main:
+      postinstagramimage:
+        post: Dc1e06eGAew
+        image: 3

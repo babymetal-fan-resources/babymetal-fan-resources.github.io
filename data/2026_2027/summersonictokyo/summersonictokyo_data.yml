@@ -172,6 +172,12 @@
                 - postximage:
                     post: 2089325539924525309
                     image: HP7GeSKacAAZ8gt
+            - multimediasubsection:
+                label: Interview
+                multimedia:
+                - postxvideo:
+                    post: 2093971989010809050
+                    video: 1
     part-of:
       show:
         year: 2026
@@ -701,6 +707,46 @@
         domain: rollingstonejapan.com
         id: 45260
 
+- postx:
+    id: 2093971989010809050
+    account: SpotifyJP
+    label: Spotify × SUMMER SONIC interview
+    published-date: 2026-08-30
+    text: |-
+      ⋰
+      𝗦𝗽𝗼𝘁𝗶𝗳𝘆 × 𝗦𝗨𝗠𝗠𝗘𝗥 𝗦𝗢𝗡𝗜𝗖 𝟮𝟬𝟮𝟲
+      ＜#BABYMETAL＞インタビュー⚡️
+      ⋱
+      ⠀
+      今年も #サマソニ で
+      アツいライブを披露した3人✨
+      インタビュー動画は冒頭から夏らしさ全開🌞
+      🎶https://spotify.link/ThisIsBABYMETAL
+      ⠀
+      @BABYMETAL_JAPAN
+      @summer_sonic
+      #summersonic
+    translation: |-
+      ⋰
+      𝗦𝗽𝗼𝘁𝗶𝗳𝘆 × 𝗦𝗨𝗠𝗠𝗘𝗥 𝗦𝗢𝗡𝗜𝗖 𝟮𝟬𝟮𝟲
+      <#BABYMETAL> Interview⚡️
+      ⋱
+      ⠀
+      At #SummerSonic again this year,
+      the three delivered a blazing live performance✨
+      From the very start, the interview video is in full summer mode🌞
+      🎶https://spotify.link/ThisIsBABYMETAL
+      ⠀
+      @BABYMETAL_JAPAN
+      @summer_sonic
+      #summersonic
+    video:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: summersonictokyo
+
 - postximage:
     post: 2032293499216011385
     id: HDQoIAoa4AA6MPp
@@ -984,6 +1030,18 @@
         id: summersonictokyo
     part-of:
       postx: 2091359785065030124
+
+- postxvideo:
+    post: 2093971989010809050
+    id: 1
+    label: Spotify interview
+    cover: 2093262835900174336/img/OcTZwWVk4X8tWOES.jpg
+    context:
+    - show:
+        year: 2026
+        id: summersonictokyo
+    part-of:
+      postx: 2093971989010809050
 
 - update:
     show:

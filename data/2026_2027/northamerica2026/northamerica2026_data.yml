@@ -44,6 +44,19 @@
         post: 2093754982831202740
         video: 1
 
+- postinstagram:
+    id: Dcrc-dJSMSL
+    account: babymetal_official
+    label: Tour starts today
+    published-date: 2026-08-30
+    text: |-
+      Dance now or never!
+      North America tour starts TODAY🔥🔥
+    video:
+    - 1
+    part-of:
+      tour: northamerica2026
+
 - postinstagramimage:
     post: Dcge-pcGO_a
     id: 1
@@ -52,6 +65,17 @@
     - tour: northamerica2026
     part-of:
       postinstagram: Dcge-pcGO_a
+
+- postinstagramvideo:
+    post: Dcrc-dJSMSL
+    id: 1
+    label: Break
+    info: MOMOMETAL
+    context:
+    - tour: northamerica2026
+    - song: metali
+    part-of:
+      postinstagram: Dcrc-dJSMSL
 
 - postx:
     id: 2038994732328919045
