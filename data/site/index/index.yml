@@ -1962,6 +1962,9 @@ contentpage:
   - show:
       year: 2012
       id: afa2012
+  - media:
+      year: 2012
+      id: marqueevol94
   - multimedia-event: headbangermv
   - multimedia-event: iinemv
   - multimedia-event: dokidokimorningmv
@@ -1980,6 +1983,9 @@ contentpage:
   - show:
       year: 2012
       id: tif
+  - media:
+      year: 2012
+      id: marqueevol92
   - show:
       year: 2012
       id: corsetfestival

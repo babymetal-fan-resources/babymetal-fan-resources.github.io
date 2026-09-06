@@ -1,4 +1,20 @@
 - postx:
+    id: 238570034501386240
+    account: BABYMETAL_JAPAN
+    label: Lottery until Sunday
+    published-date: 2012-08-23
+    text: |-
+      BABYMETAL・ワンマンライブのチケット先行予約受付中DEATH！！すでに多数の応募を頂いており抽選になってしまいそうですが、8月26日日曜日まで受付中ですので気になった方はぜひ！！　http://bit.ly/PEdFG8
+    translation: |-
+      Advance ticket reservations for BABYMETAL's one-man live are currently open DEATH!! We've already received a huge number of applications and it looks like it will come down to a lottery, but reservations are open until Sunday, August 26, so if you're interested definitely check it out!! http://bit.ly/PEdFG8
+    image:
+    - A0-SLrECAAAV_Rg
+    part-of:
+      show:
+        year: 2012
+        id: idzlegendi1
+
+- postx:
     id: 253830781636579329
     account: BABYMETAL_JAPAN
     label: Merch
@@ -16,6 +32,15 @@
       show:
         year: 2012
         id: idzlegendi1
+
+- postximage:
+    post: 238570034501386240
+    id: A0-SLrECAAAV_Rg
+    index: 1
+    label: ???
+    todo: from the SuG show ?
+    part-of:
+      postx: 238570034501386240
 
 - postximage:
     post: 253830781636579329

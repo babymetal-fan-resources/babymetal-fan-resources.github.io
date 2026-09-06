@@ -1,3 +1,60 @@
+- display:
+    show:
+      year: 2012
+      id: suglivebattle
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - webimage:
+                    domain: tower.jp
+                    page: 2012.08.28.n04
+                    id: A
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 237542080614907904
+                    image: A0vrQ4bCQAE8FBM
+    part-of:
+      show:
+        year: 2012
+        id: suglivebattle
+
+- postx:
+    id: 237542080614907904
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2012-08-20
+    text: |-
+      SuGさん、たむらぱんさんとのライブありがとうございました！！今日初めてBABYMETALを観てくれた方もたくさんいたと思いますが、またライブに来てくれたらいいね！DEATH！！10月6日のワンマンライブ先行予約もはじまったよ～！！
+    translation: |-
+      Thank you very much for the live show with SuG-san and Tamurapan-san!! I think there were many people who saw BABYMETAL for the first time today, but it would be great (Iine!) if you came to our live shows again DEATH!! Advance ticket reservations for the October 6 one-man live show have started too~!!
+    image:
+    - A0vrQ4bCQAE8FBM
+    part-of:
+      show:
+        year: 2012
+        id: suglivebattle
+
+- postximage:
+    post: 237542080614907904
+    id: A0vrQ4bCQAE8FBM
+    index: 1
+    label: Backstage
+    info: BABYBONES, BABYMETAL
+    context:
+    - show:
+        year: 2012
+        id: suglivebattle
+    part-of:
+      postx: 237542080614907904
+
 - webimage:
     domain: tower.jp
     page: 2012.08.28.n04

@@ -69,6 +69,20 @@
     part-of:
       event: nomusicnoidol11
 
+- postx:
+    id: 241341065108520961
+    account: BABYMETAL_JAPAN
+    label: LIVE! TO \wa/ posters
+    published-date: 2012-08-31
+    text: |-
+      LIVE！TO＼ワー／RECORDSのポスター、フライヤーにBABYMETALが出演中DEATH！！フライヤーは一部のTOWER RECORDSらライブ会場で配布中らしいDEATHよ！！
+    translation: |-
+      BABYMETAL is appearing on LIVE! TO\wa/RECORDS posters and flyers DEATH!! The flyers seem to be currently distributed at select TOWER RECORDS and live venues DEATH!!
+    image:
+    - A1lqa4gCAAEpPCN
+    part-of:
+      event: nomusicnoidol11
+
 - postximage:
     post: 220413969477812225
     id: Aw8RVmLCQAAPpzH
@@ -80,6 +94,16 @@
     todo: add to headbanger album display
     part-of:
       postx: 220413969477812225
+
+- postximage:
+    post: 241341065108520961
+    id: A1lqa4gCAAEpPCN
+    index: 1
+    label: Posters
+    context:
+    - event: nomusicnoidol11
+    part-of:
+      postx: 241341065108520961
 
 - webimage:
     domain: tower.jp

@@ -9,6 +9,35 @@
     part-of:
       song: dokidokimorning
 
+- postx:
+    id: 238238974982901760
+    account: BABYMETAL_JAPAN
+    label: 1M views
+    published-date: 2012-08-22
+    text: |-
+      100万回！！「ド･キ･ド･キ☆モーニング」ご視聴ありがとうございます！！
+      Thank you for watching 1 million viewers Doki Doki☆Morning！！
+      http://bit.ly/q4ofUc
+    translation: |-
+      1 million views!! Thank you very much for watching "Doki Doki☆Morning"!!
+      Thank you for watching 1 million viewers Doki Doki☆Morning!!
+      http://bit.ly/q4ofUc
+    image:
+    - A05lFeQCUAAHbYn
+    part-of:
+      song: dokidokimorning
+
+- postximage:
+    post: 238238974982901760
+    id: A05lFeQCUAAHbYn
+    index: 1
+    label: Band
+    context:
+    - song: dokidokimorning
+    todo: better label
+    part-of:
+      postx: 238238974982901760
+
 - youtubevideo:
     id: 4QbAXXXOJF8
     label: Music Video (Edit ver.)

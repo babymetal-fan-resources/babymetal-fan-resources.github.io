@@ -16,3 +16,9 @@ show:
     group:
       id: shows
       group: 2012
+  multimedia:
+    main:
+      webimage:
+        domain: tower.jp
+        page: 2012.08.28.n04
+        id: A

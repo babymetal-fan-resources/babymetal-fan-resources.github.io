@@ -1,0 +1,19 @@
+mediawritten:
+  year: 2012
+  id: marqueevol94
+  cover-image:
+    webimage:
+      domain: amazon.co.jp
+      page: marqueevol94
+      id: cover
+  publication: MARQUEE
+  issue: Vol.94
+  designation: column
+  member:
+  - BABYMETAL
+  published-date: 2012-12-11
+  webpage: 'http://www.marquee-mag.com/backnumber.html'
+  part-of:
+    group:
+      id: media
+      group: 2012

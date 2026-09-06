@@ -1,3 +1,120 @@
+- display:
+    show:
+      year: 2012
+      id: tif
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 231566778357129216
+                    image: Azawwg5CIAAkyZx
+                - postximage:
+                    post: 231731315014250497
+                    image: AzdGZztCMAAOkmQ
+        - basicsection:
+            label: At the event
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 231638647097655296
+                    image: AzbyH0zCAAErr-p
+    part-of:
+      show:
+        year: 2012
+        id: tif
+
+- postx:
+    id: 231566778357129216
+    account: BABYMETAL_JAPAN
+    label: Today
+    published-date: 2012-08-04
+    text: |-
+      【知らない人には教えてね！！】本日「TIF2012」のBABYMETALの出演時間は、16時10分から「DOLL FACTORY：Rock’ｎ on IDOL SHOW」の1番目DEATH！！遅刻、ダメ、ゼッタイ #babymetal
+    translation: |-
+      [Tell anyone who doesn't know!!] Today at "TIF2012," BABYMETAL's appearance time is 1st up at "DOLL FACTORY: Rock'n on IDOL SHOW" from 16:10 DEATH!! Being late, No, Absolutely Not #babymetal
+    image:
+    - Azawwg5CIAAkyZx
+    part-of:
+      show:
+        year: 2012
+        id: tif
+
+- postx:
+    id: 231638647097655296
+    account: BABYMETAL_JAPAN
+    label: Minami Momochi-san
+    published-date: 2012-08-04
+    text: |-
+      なんと！！桃知みなみさん！！
+    translation: |-
+      No way!! Minami Momochi-san!!
+    image:
+    - AzbyH0zCAAErr-p
+    part-of:
+      show:
+        year: 2012
+        id: tif
+
+- postx:
+    id: 231731315014250497
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2012-08-04
+    text: |-
+      THANX！！TIFバージョンのBABYMETALポーズDETAH！！入場規制がかかってしまい残念ながら見れなかったという話も。。次はもっと大きなステージに立てるように！！そして8月19日（日）サマソニにベビメタ急遽出現！！ギャーッ！！
+    translation: |-
+      THANX!! The TIF version of the BABYMETAL pose DEATH!! We heard some people unfortunately couldn't watch due to entry restrictions... So that we can stand on an even bigger stage next time!! And on Sunday, August 19, BabyMetal will suddenly appear at Summer Sonic!! Gyaaah!!
+    image:
+    - AzdGZztCMAAOkmQ
+    part-of:
+      show:
+        year: 2012
+        id: tif
+
+- postximage:
+    post: 231566778357129216
+    id: Azawwg5CIAAkyZx
+    index: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2012
+        id: tif
+    part-of:
+      postx: 231566778357129216
+
+- postximage:
+    post: 231638647097655296
+    id: AzbyH0zCAAErr-p
+    index: 1
+    label: BABYBONES, Minami Momochi-san
+    context:
+    - show:
+        year: 2012
+        id: tif
+    part-of:
+      postx: 231638647097655296
+
+- postximage:
+    post: 231731315014250497
+    id: AzdGZztCMAAOkmQ
+    index: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2012
+        id: tif
+    part-of:
+      postx: 231731315014250497
+
 - webimage:
     domain: idolfes.com
     page: 2012

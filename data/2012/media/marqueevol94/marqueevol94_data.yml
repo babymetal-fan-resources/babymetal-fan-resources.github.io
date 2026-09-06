@@ -1,0 +1,31 @@
+- webimage:
+    domain: amazon.co.jp
+    page: marqueevol94
+    id: cover
+    label: Cover
+    published-date: 2012-12-01
+    url: 'https://m.media-amazon.com/images/I/710132ePqLL._SL1014_.jpg'
+    page-url: Cover
+    local-copy: true
+    context:
+    - media:
+        year: 2012
+        id: marqueevol94
+    part-of:
+      webpage:
+        domain: amazon.co.jp
+        id: marqueevol94
+
+- webpage:
+    domain: amazon.co.jp
+    id: marqueevol94
+    label: Magazine product page
+    published-date: 2012-12-01
+    url: 'https://www.amazon.co.jp/MARQUEE-Vol-94-%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%BC94%E5%8F%B7/dp/4434174479'
+    image:
+    - cover
+    part-of:
+      media:
+        year: 2012
+        id: marqueevol94
+

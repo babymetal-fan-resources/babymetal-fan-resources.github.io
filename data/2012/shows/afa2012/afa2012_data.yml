@@ -1,3 +1,35 @@
+- postfacebook:
+    id: 415576861822919
+    account: BABYMETAL.jp
+    label: Announcement
+    published-date: 2012-08-25
+    text: |-
+      News flash!!
+      BABYMETAL goes to play the first overseas performance!!
+      Anime Festival Asia 2012 (AFA2012) is the greatest Anime & J-pop culture festival in Southeast Asia.
+      Let's go to Singapore with BABYMETAL!!
+      
+      ■Anime Festival Asia Singapore 2012
+      [Date] Fri 9 November/Sat 10 November/Sun 11 November 2012
+      BABYMETAL's performance schedule is T.B.A.
+      [Venue] Singapore Expo Halls 7&8
+      [Act] FLOW,fripSide,May'n,Sea☆A,Sphere,T.M.Revolution etc
+      Official Website:http://www.animefestival.asia/
+    image:
+    - 415576861822919
+    part-of:
+      show:
+        year: 2012
+        id: afa2012
+
+- postfacebookimage:
+    post: 415576861822919
+    id: 415576861822919
+    label: Backstage
+    todo: which show ?
+    part-of:
+      postfacebook: 415576861822919
+
 - webimage:
     domain: animefestival.asia
     page: afa12

@@ -1,3 +1,201 @@
+- display:
+    show:
+      year: 2012
+      id: summersonic
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 237183118077988864
+                    image: A0qkygwCEAMuv4B
+        - basicsection:
+            label: At the event
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 237017523638378497
+                    image: A0oOLpZCIAASRN9
+    part-of:
+      show:
+        year: 2012
+        id: summersonic
+
+- postfacebook:
+    id: 411918945522044
+    account: BABYMETAL.jp
+    label: Announcement
+    published-date: 2012-08-13
+    text: |-
+      News flash!!
+      BABYMETAL will appear on the greatest music festival in Japan"SUMMER SONIC 2012".
+      See U soon!!
+      LINEUP:Green Day,Rihanna,Franz Ferdinand,Jamiroquai,KE$HA,Pitbull,Lostprophets,Perfume,ONE OK ROCK,Momoiro clover Z,Fear,and Loathing in Las Vegas,etc
+      http://www.summersonic.com/2012/
+    image:
+    - 411918945522044
+    part-of:
+      show:
+        year: 2012
+        id: summersonic
+
+- postfacebookimage:
+    post: 411918945522044
+    id: 411918945522044
+    label: On stage
+    context:
+    - show:
+        year: 2012
+        id: corsetfestival
+    part-of:
+      postfacebook: 411918945522044
+
+- postx:
+    id: 233855081567633408
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2012-08-10
+    text: |-
+      BABYMETALサマソニ情報DEATH！！19日18時10分〜20分、SIDE-SHOW MESSEの予定DEATH！！。短い時間ですが幕張メッセの屋根をぶち破っちまうくらいの勢いで望みます！！
+      http://bit.ly/QkFd1U
+    translation: |-
+      BABYMETAL Summer Sonic info DEATH!! Scheduled for SIDE-SHOW MESSE on the 19th from 18:10 to 18:20 DEATH!! Although it's a short time, we're going into it with enough momentum to tear the roof off Makuhari Messe!!
+      http://bit.ly/QkFd1U
+    image:
+    - Az7R9SpCQAEQT5_
+    part-of:
+      show:
+        year: 2012
+        id: summersonic
+
+- postx:
+    id: 236405535082176512
+    account: BABYMETAL_JAPAN
+    label: Timetable
+    published-date: 2012-08-17
+    text: |-
+      いよいよ19日はBABYMETAL初のサマソニ出場DEATH！！目黒鹿鳴館ライブを観に来て頂いたサマソニスタッフにも感謝！！18時10分〜幕張メッセSIDE-SHOW MESSE、入場規制ナシ、みんなで楽しくMOSH'SH PIT ！！
+    translation: |-
+      On the 19th, it's finally BABYMETAL's very first Summer Sonic appearance DEATH!! Thanks also to the Summer Sonic staff who came to watch our Meguro Rokumeikan live show!! From 18:10 at Makuhari Messe SIDE-SHOW MESSE, no admission restrictions, let's all have fun in the MOSH'SH PIT!!
+    image:
+    - A0fhlOYCYAAIe4p
+    part-of:
+      show:
+        year: 2012
+        id: summersonic
+
+- postx:
+    id: 236833364638851072
+    account: BABYMETAL_JAPAN
+    label: Tomorrow
+    published-date: 2012-08-18
+    text: |-
+      BABYMETAL、明日は幕張メッセの方のSIDE-SHOWステージ、この地図のRAINBOWとSONICの間DEATH！！マリンじゃないよ〜！！横浜のイベントが終わってから駆けつけます！！ #サマソニ #babymetal
+    translation: |-
+      BABYMETAL, tomorrow is at the SIDE-SHOW stage on the Makuhari Messe side, between RAINBOW and SONIC on this map DEATH!! Not Marine~!! We'll rush over after our event in Yokohama finishes!! #SummerSonic #babymetal
+    image:
+    - A0lmsLxCYAEy2U7
+    part-of:
+      show:
+        year: 2012
+        id: summersonic
+
+- postx:
+    id: 237017523638378497
+    account: BABYMETAL_JAPAN
+    label: Soon
+    published-date: 2012-08-19
+    text: |-
+      サマソニ〜！！はっじまっるよ〜！！18時10分から「メタル枠」最年少アーティスト、BABYMETAL DEATH！！ #サマソニ
+    translation: |-
+      Summer Sonic~!! Sta~rt~ing soon~!! From 18:10, the youngest artist in the "Metal slot," BABYMETAL DEATH!! #SummerSonic
+    image:
+    - A0oOLpZCIAASRN9
+    part-of:
+      show:
+        year: 2012
+        id: summersonic
+
+- postx:
+    id: 237183118077988864
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2012-08-19
+    text: |-
+      サマソニありがとうございました！！チケット完売後の出演発表だったのでホントはドキドキイブニングだったのですが、ライブが始まったら遠くの方までイッパイ集まって頂いて本当に感激DEATH！！一体感がハンパなかった！！皆さんに感謝！！感謝！！
+    translation: |-
+      Thank you very much for Summer Sonic!! Since our appearance was announced after tickets were sold out, we were honestly having nervous twitches (Doki Doki Evening), but once the show started, seeing so many people gathered all the way to the back really moved us deeply DEATH!! The sense of unity was insane!! Thanks to everyone!! Thank you!!
+    image:
+    - A0qkygwCEAMuv4B
+    part-of:
+      show:
+        year: 2012
+        id: summersonic
+
+- postximage:
+    post: 233855081567633408
+    id: Az7R9SpCQAEQT5_
+    index: 1
+    label: On stage
+    todo: which show headbang pilgrimage ?
+    part-of:
+      postx: 233855081567633408
+
+- postximage:
+    post: 236405535082176512
+    id: A0fhlOYCYAAIe4p
+    index: 1
+    label: Timetable
+    context:
+    - show:
+        year: 2012
+        id: summersonic
+    part-of:
+      postx: 236405535082176512
+
+- postximage:
+    post: 236833364638851072
+    id: A0lmsLxCYAEy2U7
+    index: 1
+    label: Map
+    context:
+    - show:
+        year: 2012
+        id: summersonic
+    part-of:
+      postx: 236833364638851072
+
+- postximage:
+    post: 237017523638378497
+    id: A0oOLpZCIAASRN9
+    index: 1
+    label: Venue
+    context:
+    - show:
+        year: 2012
+        id: summersonic
+    part-of:
+      postx: 237017523638378497
+
+- postximage:
+    post: 237183118077988864
+    id: A0qkygwCEAMuv4B
+    index: 1
+    label: On stage
+    context:
+    - show:
+        year: 2012
+        id: summersonic
+    part-of:
+      postx: 237183118077988864
+
 - webimage:
     domain: summersonic.com
     page: history_2012
