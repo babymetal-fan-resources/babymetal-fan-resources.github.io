@@ -9,5 +9,11 @@ show:
   date: 2026-09-05
   tour: northamerica2026
   venue: Ruoff Music Center, Noblesville, IN, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2026/ruoff-music-center-noblesville-in-4b769b6a.html'
   part-of:
     tour: northamerica2026
+  multimedia:
+    main:
+      postximage:
+        post: 2096670600253280349
+        image: HRjetN0boAA4JFm
