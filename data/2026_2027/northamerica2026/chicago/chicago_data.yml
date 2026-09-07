@@ -1,0 +1,339 @@
+- display:
+    show:
+      year: 2026
+      id: chicago
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc6qgLQGBhn
+                    image: 4
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc6qgLQGBhn
+                    image: 7
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc6qgLQGBhn
+                    image: 1
+                - postinstagramimage:
+                    post: Dc6qgLQGBhn
+                    image: 2
+                - postinstagramimage:
+                    post: Dc6qgLQGBhn
+                    image: 3
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2096313356227375359
+                    image: HReZ4gZbAAAux2b
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc6qgLQGBhn
+                    image: 11
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc6qgLQGBhn
+                    image: 10
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc6qgLQGBhn
+                    image: 12
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc6qgLQGBhn
+                    image: 8
+                - postinstagramimage:
+                    post: Dc6qgLQGBhn
+                    image: 6
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2096313356227375359
+                    image: HReZ4geawAA9-xV
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2096313356227375359
+                    image: HReZ4gsboAA_KCo
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2096313356227375359
+                    image: HReZ4f3XgAERUbV
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc6qgLQGBhn
+                    image: 9
+                - postinstagramimage:
+                    post: Dc6qgLQGBhn
+                    image: 5
+    part-of:
+      show:
+        year: 2026
+        id: chicago
+
+- postinstagram:
+    id: Dc6qgLQGBhn
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-09-05
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Chicago🍕
+      #BABYMETAL #NortherlyIsland
+      📸 @photosbysaraii
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+    part-of:
+      show:
+        year: 2026
+        id: chicago
+
+- postinstagramimage:
+    post: Dc6qgLQGBhn
+    id: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    - song: sunsetkiss
+    part-of:
+      postinstagram: Dc6qgLQGBhn
+
+- postinstagramimage:
+    post: Dc6qgLQGBhn
+    id: 10
+    label: Stage
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    - song: gimichoko
+    part-of:
+      postinstagram: Dc6qgLQGBhn
+
+- postinstagramimage:
+    post: Dc6qgLQGBhn
+    id: 11
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    - song: metali
+    part-of:
+      postinstagram: Dc6qgLQGBhn
+
+- postinstagramimage:
+    post: Dc6qgLQGBhn
+    id: 12
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    - song: roadofresistance
+    part-of:
+      postinstagram: Dc6qgLQGBhn
+
+- postinstagramimage:
+    post: Dc6qgLQGBhn
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    - song: sunsetkiss
+    part-of:
+      postinstagram: Dc6qgLQGBhn
+
+- postinstagramimage:
+    post: Dc6qgLQGBhn
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    - song: sunsetkiss
+    part-of:
+      postinstagram: Dc6qgLQGBhn
+
+- postinstagramimage:
+    post: Dc6qgLQGBhn
+    id: 4
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    - song: babymetaldeath
+    part-of:
+      postinstagram: Dc6qgLQGBhn
+
+- postinstagramimage:
+    post: Dc6qgLQGBhn
+    id: 5
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    part-of:
+      postinstagram: Dc6qgLQGBhn
+
+- postinstagramimage:
+    post: Dc6qgLQGBhn
+    id: 6
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    part-of:
+      postinstagram: Dc6qgLQGBhn
+
+- postinstagramimage:
+    post: Dc6qgLQGBhn
+    id: 7
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    - song: kxaxwxaxixi
+    part-of:
+      postinstagram: Dc6qgLQGBhn
+
+- postinstagramimage:
+    post: Dc6qgLQGBhn
+    id: 8
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    part-of:
+      postinstagram: Dc6qgLQGBhn
+
+- postinstagramimage:
+    post: Dc6qgLQGBhn
+    id: 9
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    part-of:
+      postinstagram: Dc6qgLQGBhn
+
+- postx:
+    id: 2096313356227375359
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-05
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Chicago🍕
+      #BABYMETAL #NortherlyIsland
+      📸 @photosbysarai
+    image:
+    - HReZ4f3XgAERUbV
+    - HReZ4gZbAAAux2b
+    - HReZ4geawAA9-xV
+    - HReZ4gsboAA_KCo
+    part-of:
+      show:
+        year: 2026
+        id: chicago
+
+- postximage:
+    post: 2096313356227375359
+    id: HReZ4f3XgAERUbV
+    index: 1
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    part-of:
+      postx: 2096313356227375359
+
+- postximage:
+    post: 2096313356227375359
+    id: HReZ4gZbAAAux2b
+    index: 4
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    - song: monochrome
+    part-of:
+      postx: 2096313356227375359
+
+- postximage:
+    post: 2096313356227375359
+    id: HReZ4geawAA9-xV
+    index: 3
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    part-of:
+      postx: 2096313356227375359
+
+- postximage:
+    post: 2096313356227375359
+    id: HReZ4gsboAA_KCo
+    index: 2
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: chicago
+    part-of:
+      postx: 2096313356227375359
+
+- update:
+    show:
+      year: 2026
+      id: chicago
+    date: 2026-09-07
+    text:
+    - First pictures from the show
+    part-of:
+      show:
+        year: 2026
+        id: chicago
+

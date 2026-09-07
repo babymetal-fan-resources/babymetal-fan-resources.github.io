@@ -248,6 +248,28 @@
         ol:
         - 渡る世間に鬼はなし!
 
+- postinstagram:
+    id: Dc9DmGUxUml
+    account: babymetal_official
+    label: MOAMETAL dance
+    published-date: 2026-09-06
+    text: |-
+      🦊
+    video:
+    - 1
+    todo: maybe from Summer Sonic backstage. Or during the tour
+    part-of:
+      song: konkon
+
+- postinstagramvideo:
+    post: Dc9DmGUxUml
+    id: 1
+    label: MOAMETAL dance
+    context:
+    - song: konkon
+    part-of:
+      postinstagram: Dc9DmGUxUml
+
 - youtubevideo:
     id: UxRldWoKlnQ
     label: Official Music Video

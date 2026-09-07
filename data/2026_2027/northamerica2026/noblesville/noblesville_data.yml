@@ -1,0 +1,328 @@
+- display:
+    show:
+      year: 2026
+      id: noblesville
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc9N07vkmZ3
+                    image: 9
+                - postinstagramimage:
+                    post: Dc9N07vkmZ3
+                    image: 2
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc9N07vkmZ3
+                    image: 3
+                - postinstagramimage:
+                    post: Dc9N07vkmZ3
+                    image: 11
+                - postinstagramimage:
+                    post: Dc9N07vkmZ3
+                    image: 10
+                - postinstagramimage:
+                    post: Dc9N07vkmZ3
+                    image: 1
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2096670600253280349
+                    image: HRjetN0boAA4JFm
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2096670600253280349
+                    image: HRjesE4bIAAVv6K
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc9N07vkmZ3
+                    image: 12
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc9N07vkmZ3
+                    image: 7
+                - postinstagramimage:
+                    post: Dc9N07vkmZ3
+                    image: 5
+                - postximage:
+                    post: 2096670600253280349
+                    image: HRjeuQlaMAAk10-
+                - postinstagramimage:
+                    post: Dc9N07vkmZ3
+                    image: 4
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dc9N07vkmZ3
+                    image: 8
+                - postinstagramimage:
+                    post: Dc9N07vkmZ3
+                    image: 6
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2096670600253280349
+                    image: HRjeqWrbQAA-nf3
+    part-of:
+      show:
+        year: 2026
+        id: noblesville
+
+- postinstagram:
+    id: Dc9N07vkmZ3
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-09-06
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Noblesville🎵
+      #BABYMETAL #RuoffMusicCenter
+      📸 @photosbysaraii
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+    part-of:
+      show:
+        year: 2026
+        id: noblesville
+
+- postinstagramimage:
+    post: Dc9N07vkmZ3
+    id: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    part-of:
+      postinstagram: Dc9N07vkmZ3
+
+- postinstagramimage:
+    post: Dc9N07vkmZ3
+    id: 10
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    part-of:
+      postinstagram: Dc9N07vkmZ3
+
+- postinstagramimage:
+    post: Dc9N07vkmZ3
+    id: 11
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    part-of:
+      postinstagram: Dc9N07vkmZ3
+
+- postinstagramimage:
+    post: Dc9N07vkmZ3
+    id: 12
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    - song: babymetaldeath
+    part-of:
+      postinstagram: Dc9N07vkmZ3
+
+- postinstagramimage:
+    post: Dc9N07vkmZ3
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    - song: megitsune
+    part-of:
+      postinstagram: Dc9N07vkmZ3
+
+- postinstagramimage:
+    post: Dc9N07vkmZ3
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    part-of:
+      postinstagram: Dc9N07vkmZ3
+
+- postinstagramimage:
+    post: Dc9N07vkmZ3
+    id: 4
+    label: Fans
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    part-of:
+      postinstagram: Dc9N07vkmZ3
+
+- postinstagramimage:
+    post: Dc9N07vkmZ3
+    id: 5
+    label: Fan
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    part-of:
+      postinstagram: Dc9N07vkmZ3
+
+- postinstagramimage:
+    post: Dc9N07vkmZ3
+    id: 6
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    part-of:
+      postinstagram: Dc9N07vkmZ3
+
+- postinstagramimage:
+    post: Dc9N07vkmZ3
+    id: 7
+    label: Fan
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    part-of:
+      postinstagram: Dc9N07vkmZ3
+
+- postinstagramimage:
+    post: Dc9N07vkmZ3
+    id: 8
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    part-of:
+      postinstagram: Dc9N07vkmZ3
+
+- postinstagramimage:
+    post: Dc9N07vkmZ3
+    id: 9
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    - song: megitsune
+    part-of:
+      postinstagram: Dc9N07vkmZ3
+
+- postx:
+    id: 2096670600253280349
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-06
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Noblesville🎵 
+      #BABYMETAL #RuoffMusicCenter
+      📸 @photosbysarai
+    image:
+    - HRjeqWrbQAA-nf3
+    - HRjesE4bIAAVv6K
+    - HRjetN0boAA4JFm
+    - HRjeuQlaMAAk10-
+    part-of:
+      show:
+        year: 2026
+        id: noblesville
+
+- postximage:
+    post: 2096670600253280349
+    id: HRjeqWrbQAA-nf3
+    index: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    part-of:
+      postx: 2096670600253280349
+
+- postximage:
+    post: 2096670600253280349
+    id: HRjesE4bIAAVv6K
+    index: 2
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    - song: metali
+    part-of:
+      postx: 2096670600253280349
+
+- postximage:
+    post: 2096670600253280349
+    id: HRjetN0boAA4JFm
+    index: 3
+    label: On stage
+    info: MOAMETAL, MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    - song: metali
+    part-of:
+      postx: 2096670600253280349
+
+- postximage:
+    post: 2096670600253280349
+    id: HRjeuQlaMAAk10-
+    index: 4
+    label: Fans
+    context:
+    - show:
+        year: 2026
+        id: noblesville
+    - song: metali
+    part-of:
+      postx: 2096670600253280349
+
+- update:
+    show:
+      year: 2026
+      id: noblesville
+    date: 2026-09-07
+    text:
+    - First pictures from the show
+    part-of:
+      show:
+        year: 2026
+        id: noblesville
+

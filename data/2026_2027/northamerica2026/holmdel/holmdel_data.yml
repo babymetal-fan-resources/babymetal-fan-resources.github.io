@@ -1,4 +1,61 @@
 - postinstagram:
+    id: Dc3-DFuFEpB
+    account: babymetal_official
+    label: Pop-up store merch
+    published-date: 2026-09-04
+    text: |-
+      BABYMETAL fans, this one’s for you. 🦊🤘
+      
+      Head to Complex NY September 8–9 to shop the BABYMETAL x Affliction collection, the limited-edition BABYMETAL x Marvel Zombies comic, official tour merch, music + more.
+      
+      Two days only. See you there.
+      
+      COMPLEX NY
+      Sept 8 - 9
+      620 Broadway
+      New York, NY
+      11AM–7PM
+    image:
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    video:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: holmdel
+
+- postinstagram:
+    id: Dc3qj8TuiaC
+    account: babymetal_official
+    label: Pop-up message
+    published-date: 2026-09-04
+    text: |-
+      A message from BABYMETAL before they take over NYC.🦊♡
+      
+      September 8–9, the BABYMETAL Pop-Up lands at Complex NY. Come shop the exclusive BABYMETAL x AFFLICTION collection, Marvel comic book, official tour merch, music + more.
+      
+      See you there. 🤘
+      
+      RSVP via the link in @complexmusic & @complexshop bio. Note that RSVP does not guarantee entry — please plan to arrive early.
+      
+      COMPLEX NY
+      Sept 8 - 9
+      620 Broadway
+      New York, NY
+      11AM–7PM
+    video:
+    - 1
+    todo: move to an event ?
+    part-of:
+      show:
+        year: 2026
+        id: holmdel
+
+- postinstagram:
     id: DcyoY-cji-a
     account: babymetal_official
     label: Pop-up store in NY
@@ -25,6 +82,65 @@
         id: holmdel
 
 - postinstagramimage:
+    post: Dc3-DFuFEpB
+    id: 2
+    label: Merch
+    info: t-shirts, hoodie
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: Dc3-DFuFEpB
+
+- postinstagramimage:
+    post: Dc3-DFuFEpB
+    id: 3
+    label: Merch
+    info: t-shirts
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: Dc3-DFuFEpB
+
+- postinstagramimage:
+    post: Dc3-DFuFEpB
+    id: 4
+    label: Merch
+    info: t-shirts
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: Dc3-DFuFEpB
+
+- postinstagramimage:
+    post: Dc3-DFuFEpB
+    id: 5
+    label: Merch
+    info: t-shirts, hoodie
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: Dc3-DFuFEpB
+
+- postinstagramimage:
+    post: Dc3-DFuFEpB
+    id: 6
+    label: Marvel comic
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: Dc3-DFuFEpB
+
+- postinstagramimage:
     post: DcyoY-cji-a
     id: 1
     label: Poster
@@ -45,4 +161,27 @@
         id: holmdel
     part-of:
       postinstagram: DcyoY-cji-a
+
+- postinstagramvideo:
+    post: Dc3-DFuFEpB
+    id: 1
+    label: Merch
+    info: t-shirts, hoodie
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: Dc3-DFuFEpB
+
+- postinstagramvideo:
+    post: Dc3qj8TuiaC
+    id: 1
+    label: Pop-up message
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: Dc3qj8TuiaC
 
