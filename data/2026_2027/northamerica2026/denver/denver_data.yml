@@ -12,9 +12,7 @@
             subsections:
             - multimediasubsection:
                 multimedia:
-                - postxvideo:
-                    post: 2096708166088049130
-                    video: 1
+                - youtubevideo: YpBDaWfbqs8
             - multimediasubsection:
                 label: Images
                 multimedia:
@@ -231,23 +229,6 @@
         year: 2026
         id: denver
 
-- postx:
-    id: 2096708166088049130
-    account: BABYMETAL_JAPAN
-    label: Recap movie
-    published-date: 2026-09-06
-    text: |-
-      BABYMETAL WORLD TOUR 2026 NORTH AMERICA in Denver🏔️
-      ⚡️RECAP MOVIE⚡️
-      #BABYMETAL #BallArena
-      📸 @photosbysarai
-    video:
-    - 1
-    part-of:
-      postxvideo:
-        post: 2096708166088049130
-        video: 1
-
 - postximage:
     post: 2095583111031541914
     id: HRT-P60bgAAGbKz
@@ -299,20 +280,6 @@
     part-of:
       postx: 2095583111031541914
 
-- postxvideo:
-    post: 2096708166088049130
-    id: 1
-    label: Recap movie
-    cover: 2096708071724609536/img/ID6T-TNI40bXsaAW.jpg
-    context:
-    - show:
-        year: 2026
-        id: denver
-    part-of:
-      show:
-        year: 2026
-        id: denver
-
 - update:
     show:
       year: 2026
@@ -320,6 +287,19 @@
     date: 2026-09-04
     text:
     - First pictures from the show
+    part-of:
+      show:
+        year: 2026
+        id: denver
+
+- youtubevideo:
+    id: YpBDaWfbqs8
+    label: Recap movie
+    published-date: 2026-09-08
+    context:
+    - show:
+        year: 2026
+        id: denver
     part-of:
       show:
         year: 2026

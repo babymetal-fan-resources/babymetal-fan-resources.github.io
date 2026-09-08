@@ -293,6 +293,29 @@
         ol:
         - From me to you
 
+- postinstagram:
+    id: DdAgQosRrPU
+    account: babymetal_official
+    label: SU-METAL dance
+    published-date: 2026-09-08
+    text: |-
+      from me to u
+      
+      #BABYMETAL #SUMETAL
+    video:
+    - 1
+    part-of:
+      song: frommetou
+
+- postinstagramvideo:
+    post: DdAgQosRrPU
+    id: 1
+    label: SU-METAL dance
+    context:
+    - song: frommetou
+    part-of:
+      postinstagram: DdAgQosRrPU
+
 - postx:
     id: 1983239915099042277
     account: BABYMETAL_JAPAN

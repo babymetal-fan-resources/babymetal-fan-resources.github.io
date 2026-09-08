@@ -1,0 +1,340 @@
+- display:
+    show:
+      year: 2026
+      id: toronto
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdB8falGDeX
+                    image: 12
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdB8falGDeX
+                    image: 11
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdB8falGDeX
+                    image: 3
+                - postinstagramimage:
+                    post: DdB8falGDeX
+                    image: 2
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdB8falGDeX
+                    image: 4
+                - postximage:
+                    post: 2097337280239178024
+                    image: HRs8_nYaEAAvNGT
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdB8falGDeX
+                    image: 10
+                - postximage:
+                    post: 2097337280239178024
+                    image: HRs9BwfWQAA1Qji
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdB8falGDeX
+                    image: 6
+                - postinstagramimage:
+                    post: DdB8falGDeX
+                    image: 5
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdB8falGDeX
+                    image: 9
+                - postinstagramimage:
+                    post: DdB8falGDeX
+                    image: 8
+                - postinstagramimage:
+                    post: DdB8falGDeX
+                    image: 1
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2097337280239178024
+                    image: HRs9DGXWwAAV3m3
+        - basicsection:
+            label: At the event
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2097337280239178024
+                    image: HRs89ejW4AAb3K4
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdB8falGDeX
+                    image: 7
+    part-of:
+      show:
+        year: 2026
+        id: toronto
+
+- postinstagram:
+    id: DdB8falGDeX
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-09-08
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Toronto🏒 
+      #BABYMETAL #RBCAmphitheatre
+      📸 @photosbysaraii
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+    part-of:
+      show:
+        year: 2026
+        id: toronto
+
+- postinstagramimage:
+    post: DdB8falGDeX
+    id: 1
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    part-of:
+      postinstagram: DdB8falGDeX
+
+- postinstagramimage:
+    post: DdB8falGDeX
+    id: 10
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    todo: which song ?
+    part-of:
+      postinstagram: DdB8falGDeX
+
+- postinstagramimage:
+    post: DdB8falGDeX
+    id: 11
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    - song: monochrome
+    todo: double check song
+    part-of:
+      postinstagram: DdB8falGDeX
+
+- postinstagramimage:
+    post: DdB8falGDeX
+    id: 12
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    - song: megitsune
+    todo: double check song
+    part-of:
+      postinstagram: DdB8falGDeX
+
+- postinstagramimage:
+    post: DdB8falGDeX
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    part-of:
+      postinstagram: DdB8falGDeX
+
+- postinstagramimage:
+    post: DdB8falGDeX
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    todo: which song ?
+    part-of:
+      postinstagram: DdB8falGDeX
+
+- postinstagramimage:
+    post: DdB8falGDeX
+    id: 4
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    part-of:
+      postinstagram: DdB8falGDeX
+
+- postinstagramimage:
+    post: DdB8falGDeX
+    id: 5
+    label: Fans
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    part-of:
+      postinstagram: DdB8falGDeX
+
+- postinstagramimage:
+    post: DdB8falGDeX
+    id: 6
+    label: Fans
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    part-of:
+      postinstagram: DdB8falGDeX
+
+- postinstagramimage:
+    post: DdB8falGDeX
+    id: 7
+    label: Fans
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    part-of:
+      postinstagram: DdB8falGDeX
+
+- postinstagramimage:
+    post: DdB8falGDeX
+    id: 8
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    - song: monochrome
+    part-of:
+      postinstagram: DdB8falGDeX
+
+- postinstagramimage:
+    post: DdB8falGDeX
+    id: 9
+    label: Crowd
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    part-of:
+      postinstagram: DdB8falGDeX
+
+- postx:
+    id: 2097337280239178024
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-08
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Toronto🏒
+      #BABYMETAL #RBCAmphitheatre
+      📸 @photosbysarai
+    image:
+    - HRs89ejW4AAb3K4
+    - HRs8_nYaEAAvNGT
+    - HRs9BwfWQAA1Qji
+    - HRs9DGXWwAAV3m3
+    part-of:
+      show:
+        year: 2026
+        id: toronto
+
+- postximage:
+    post: 2097337280239178024
+    id: HRs89ejW4AAb3K4
+    index: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    part-of:
+      postx: 2097337280239178024
+
+- postximage:
+    post: 2097337280239178024
+    id: HRs8_nYaEAAvNGT
+    index: 2
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    - song: metali
+    part-of:
+      postx: 2097337280239178024
+
+- postximage:
+    post: 2097337280239178024
+    id: HRs9BwfWQAA1Qji
+    index: 3
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    - song: metali
+    part-of:
+      postx: 2097337280239178024
+
+- postximage:
+    post: 2097337280239178024
+    id: HRs9DGXWwAAV3m3
+    index: 4
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: toronto
+    - song: monochrome
+    part-of:
+      postx: 2097337280239178024
+
+- update:
+    show:
+      year: 2026
+      id: toronto
+    date: 2026-09-08
+    text:
+    - First pictures from the show
+    part-of:
+      show:
+        year: 2026
+        id: toronto
+
