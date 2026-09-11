@@ -1,3 +1,79 @@
+- display:
+    show:
+      year: 2026
+      id: holmdel
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdHa_qpGPv_
+                    image: 7
+                - postinstagramimage:
+                    post: DdHa_qpGPv_
+                    image: 6
+                - postinstagramimage:
+                    post: DdHa_qpGPv_
+                    image: 5
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdHa_qpGPv_
+                    image: 4
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdHa_qpGPv_
+                    image: 3
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdHa_qpGPv_
+                    image: 9
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdHa_qpGPv_
+                    image: 2
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdHa_qpGPv_
+                    image: 8
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2098107428722127033
+                    image: HR34i4PWkAAPgC9
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2098107428722127033
+                    image: HR34kUmXsAIclqg
+                - postinstagramimage:
+                    post: DdHa_qpGPv_
+                    image: 1
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2098107428722127033
+                    image: HR34lambEAAlI2d
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2098107428722127033
+                    image: HR34mzfbQAAPidb
+    part-of:
+      show:
+        year: 2026
+        id: holmdel
+
 - postinstagram:
     id: Dc3-DFuFEpB
     account: babymetal_official
@@ -76,6 +152,73 @@
     image:
     - 1
     - 2
+    part-of:
+      show:
+        year: 2026
+        id: holmdel
+
+- postinstagram:
+    id: DdHUrrljo1y
+    account: babymetal_official
+    label: Pop-up merch online
+    published-date: 2026-09-10
+    text: |-
+      Missed the BABYMETAL Pop-Up at Complex NY? 🦊🤘
+      
+      The BABYMETAL x AFFLICTION collection is now available on Complex Shop.
+    image:
+    - 1
+    - 2
+    - 3
+    - 5
+    - 6
+    - 7
+    video:
+    - 4
+    part-of:
+      show:
+        year: 2026
+        id: holmdel
+    reference:
+    - postinstagramimage:
+        post: Dc3-DFuFEpB
+        image: 5
+
+- postinstagram:
+    id: DdHa_qpGPv_
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-09-10
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in New Jersey! 🌃
+      #BABYMETAL #PNCBankArtsCenter
+      📸 @photosbysaraii
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    part-of:
+      show:
+        year: 2026
+        id: holmdel
+
+- postinstagram:
+    id: DdHmJQQpk7D
+    account: babymetal_official
+    label: Pop-up merch online
+    published-date: 2026-09-10
+    text: |-
+      Missed the BABYMETAL Pop-Up at Complex NY? 🦊🤘
+      
+      The BABYMETAL x AFFLICTION collection is now available on Complex Shop.
+    video:
+    - 1
     part-of:
       show:
         year: 2026
@@ -162,6 +305,187 @@
     part-of:
       postinstagram: DcyoY-cji-a
 
+- postinstagramimage:
+    post: DdHUrrljo1y
+    id: 1
+    label: Merch
+    info: t-shirts
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: DdHUrrljo1y
+
+- postinstagramimage:
+    post: DdHUrrljo1y
+    id: 2
+    label: Merch
+    info: t-shirt
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: DdHUrrljo1y
+
+- postinstagramimage:
+    post: DdHUrrljo1y
+    id: 3
+    label: Merch
+    info: t-shirt
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: DdHUrrljo1y
+
+- postinstagramimage:
+    post: DdHUrrljo1y
+    id: 5
+    label: Merch
+    info: t-shirt
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: DdHUrrljo1y
+
+- postinstagramimage:
+    post: DdHUrrljo1y
+    id: 6
+    label: Merch
+    info: t-shirt
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: DdHUrrljo1y
+
+- postinstagramimage:
+    post: DdHUrrljo1y
+    id: 7
+    label: Merch
+    info: hoodie
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: DdHUrrljo1y
+
+- postinstagramimage:
+    post: DdHa_qpGPv_
+    id: 1
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    - song: monochrome
+    part-of:
+      postinstagram: DdHa_qpGPv_
+
+- postinstagramimage:
+    post: DdHa_qpGPv_
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    - song: headbanger
+    part-of:
+      postinstagram: DdHa_qpGPv_
+
+- postinstagramimage:
+    post: DdHa_qpGPv_
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    - song: frommetou
+    part-of:
+      postinstagram: DdHa_qpGPv_
+
+- postinstagramimage:
+    post: DdHa_qpGPv_
+    id: 4
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    - song: babymetaldeath
+    part-of:
+      postinstagram: DdHa_qpGPv_
+
+- postinstagramimage:
+    post: DdHa_qpGPv_
+    id: 5
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    todo: megitsune ?
+    part-of:
+      postinstagram: DdHa_qpGPv_
+
+- postinstagramimage:
+    post: DdHa_qpGPv_
+    id: 6
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    todo: song 3 ?
+    part-of:
+      postinstagram: DdHa_qpGPv_
+
+- postinstagramimage:
+    post: DdHa_qpGPv_
+    id: 7
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    todo: headbanger ? or other scream ?
+    part-of:
+      postinstagram: DdHa_qpGPv_
+
+- postinstagramimage:
+    post: DdHa_qpGPv_
+    id: 8
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    - song: roadofresistance
+    part-of:
+      postinstagram: DdHa_qpGPv_
+
+- postinstagramimage:
+    post: DdHa_qpGPv_
+    id: 9
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    - song: monochrome
+    part-of:
+      postinstagram: DdHa_qpGPv_
+
 - postinstagramvideo:
     post: Dc3-DFuFEpB
     id: 1
@@ -184,4 +508,111 @@
         id: holmdel
     part-of:
       postinstagram: Dc3qj8TuiaC
+
+- postinstagramvideo:
+    post: DdHUrrljo1y
+    id: 4
+    label: Message
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: DdHUrrljo1y
+
+- postinstagramvideo:
+    post: DdHmJQQpk7D
+    id: 1
+    label: Merch
+    info: photoshoot
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postinstagram: DdHmJQQpk7D
+
+- postx:
+    id: 2098107428722127033
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-10
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in New Jersey!🏙️
+      #BABYMETAL #PNCBankArtsCenter
+      📸 @photosbysarai
+    image:
+    - HR34i4PWkAAPgC9
+    - HR34kUmXsAIclqg
+    - HR34lambEAAlI2d
+    - HR34mzfbQAAPidb
+    part-of:
+      show:
+        year: 2026
+        id: holmdel
+
+- postximage:
+    post: 2098107428722127033
+    id: HR34i4PWkAAPgC9
+    index: 1
+    label: On stage
+    info: MOMOMETAL, MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    - song: roadofresistance
+    part-of:
+      postx: 2098107428722127033
+
+- postximage:
+    post: 2098107428722127033
+    id: HR34kUmXsAIclqg
+    index: 2
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    todo: maybe RoR
+    part-of:
+      postx: 2098107428722127033
+
+- postximage:
+    post: 2098107428722127033
+    id: HR34lambEAAlI2d
+    index: 3
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postx: 2098107428722127033
+
+- postximage:
+    post: 2098107428722127033
+    id: HR34mzfbQAAPidb
+    index: 4
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: holmdel
+    part-of:
+      postx: 2098107428722127033
+
+- update:
+    show:
+      year: 2026
+      id: holmdel
+    date: 2026-09-11
+    text:
+    - First pictures from the show
+    part-of:
+      show:
+        year: 2026
+        id: holmdel
 

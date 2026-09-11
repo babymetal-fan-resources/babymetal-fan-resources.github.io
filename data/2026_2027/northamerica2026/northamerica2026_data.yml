@@ -180,6 +180,20 @@
     part-of:
       tour: northamerica2026
 
+- postx:
+    id: 2097447117115810294
+    account: BABYMETAL_JAPAN
+    label: VIP Merch
+    published-date: 2026-09-09
+    text: |-
+      VIP1-3 Merch! Luggage Tag & Passport Holder.
+      Limited VIP packages remain.
+      https://babymetal.com/mob/news/diarKijiShw.php?site=TO&ima=1537&id=302817&lang=ja
+    image:
+    - HRug91tbkAAliLm
+    part-of:
+      tour: northamerica2026
+
 - postximage:
     post: 2038994732328919045
     id: HEv0yWpa8AAPYwm
@@ -219,6 +233,17 @@
     - tour: northamerica2026
     part-of:
       postx: 2090644862148497632
+
+- postximage:
+    post: 2097447117115810294
+    id: HRug91tbkAAliLm
+    index: 1
+    label: VIP Merch
+    info: passport holder, luggage Ttag
+    context:
+    - tour: northamerica2026
+    part-of:
+      postx: 2097447117115810294
 
 - postxvideo:
     post: 2093754982831202740
