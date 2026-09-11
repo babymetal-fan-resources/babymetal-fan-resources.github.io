@@ -1,0 +1,161 @@
+- display:
+    show:
+      year: 2026
+      id: mansfield
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramvideo:
+                    post: DdJ1xDymGOr
+                    video: 1
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postinstagramimage:
+                    post: DdJ1xDymGOr
+                    image: 5
+                - postinstagramimage:
+                    post: DdJ1xDymGOr
+                    image: 3
+                - postinstagramimage:
+                    post: DdJ1xDymGOr
+                    image: 2
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2098447797657968719
+                    image: HR8m7ajaoAAzvSm
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdJ1xDymGOr
+                    image: 4
+    part-of:
+      show:
+        year: 2026
+        id: mansfield
+
+- postinstagram:
+    id: DdJ1xDymGOr
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-09-11
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Mansfield🏉!!
+      #BABYMETAL #xfinitycenter
+    image:
+    - 2
+    - 3
+    - 4
+    - 5
+    video:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: mansfield
+
+- postinstagramimage:
+    post: DdJ1xDymGOr
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: mansfield
+    part-of:
+      postinstagram: DdJ1xDymGOr
+
+- postinstagramimage:
+    post: DdJ1xDymGOr
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: mansfield
+    part-of:
+      postinstagram: DdJ1xDymGOr
+
+- postinstagramimage:
+    post: DdJ1xDymGOr
+    id: 4
+    label: Backstage
+    info: BABYMETAL, fans
+    context:
+    - show:
+        year: 2026
+        id: mansfield
+    part-of:
+      postinstagram: DdJ1xDymGOr
+
+- postinstagramimage:
+    post: DdJ1xDymGOr
+    id: 5
+    label: On stage
+    info: we aaaa
+    context:
+    - show:
+        year: 2026
+        id: mansfield
+    part-of:
+      postinstagram: DdJ1xDymGOr
+
+- postinstagramvideo:
+    post: DdJ1xDymGOr
+    id: 1
+    label: Venue
+    info: balloons
+    context:
+    - show:
+        year: 2026
+        id: mansfield
+    part-of:
+      postinstagram: DdJ1xDymGOr
+
+- postx:
+    id: 2098447797657968719
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-11
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Mansfield🏉!!
+      #BABYMETAL #XfinityCenter
+    image:
+    - HR8m7ajaoAAzvSm
+    part-of:
+      show:
+        year: 2026
+        id: mansfield
+
+- postximage:
+    post: 2098447797657968719
+    id: HR8m7ajaoAAzvSm
+    index: 1
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: mansfield
+    part-of:
+      postx: 2098447797657968719
+
+- update:
+    show:
+      year: 2026
+      id: mansfield
+    date: 2026-09-11
+    text:
+    - First pictures from the show
+    part-of:
+      show:
+        year: 2026
+        id: mansfield
+

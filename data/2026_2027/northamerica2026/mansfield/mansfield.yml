@@ -9,5 +9,11 @@ show:
   date: 2026-09-10
   tour: northamerica2026
   venue: Xfinity Center, Mansfield, MA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2026/xfinity-center-mansfield-ma-43769b67.html'
   part-of:
     tour: northamerica2026
+  multimedia:
+    main:
+      postinstagramimage:
+        post: DdJ1xDymGOr
+        image: 2
