@@ -57,6 +57,22 @@
     part-of:
       tour: northamerica2026
 
+- postinstagram:
+    id: DdImD-2jneq
+    account: babymetal_official
+    label: Artwork
+    published-date: 2026-09-11
+    text: |-
+      Crunchyroll worked with @nashirasauce to commission this killer artwork to bring Lzzy Hale & Violent Vira into BABYMETAL's metal galaxy! 🤘
+      
+      BABYMETAL's WORLD TOUR 2026 North American leg is underway now with support from Halestorm and Violent Vira.
+      
+      Check out BABYMETAL's Top 10 Anime picks at the link in bio @crunchyroll!
+    image:
+    - 1
+    part-of:
+      tour: northamerica2026
+
 - postinstagramimage:
     post: Dcge-pcGO_a
     id: 1
@@ -65,6 +81,16 @@
     - tour: northamerica2026
     part-of:
       postinstagram: Dcge-pcGO_a
+
+- postinstagramimage:
+    post: DdImD-2jneq
+    id: 1
+    label: Artwork
+    info: BABYMETAL, Lzzy Hale, Violent Vira
+    context:
+    - tour: northamerica2026
+    part-of:
+      postinstagram: DdImD-2jneq
 
 - postinstagramvideo:
     post: Dcrc-dJSMSL

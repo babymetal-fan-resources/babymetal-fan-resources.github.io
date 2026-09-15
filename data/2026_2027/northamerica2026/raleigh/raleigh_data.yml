@@ -1,0 +1,128 @@
+- display:
+    show:
+      year: 2026
+      id: raleigh
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdRjePeEVoj
+                    image: 3
+                - postinstagramimage:
+                    post: DdRjePeEVoj
+                    image: 2
+                - postximage:
+                    post: 2099533669744660483
+                    image: HSMKuvlaUAIul4n
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2099533669744660483
+                    image: HSMKuroaUAM2z33
+    part-of:
+      show:
+        year: 2026
+        id: raleigh
+
+- postinstagram:
+    id: DdRjePeEVoj
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-09-14
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Raleigh, NC🌳🌳🌳🇺🇸
+      #BABYMETAL #RALEIGH
+    image:
+    - 2
+    - 3
+    part-of:
+      show:
+        year: 2026
+        id: raleigh
+    reference:
+    - postximage:
+        post: 2099533669744660483
+        image: HSMKuroaUAM2z33
+
+- postinstagramimage:
+    post: DdRjePeEVoj
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: raleigh
+    - song: bxmxc
+    part-of:
+      postinstagram: DdRjePeEVoj
+
+- postinstagramimage:
+    post: DdRjePeEVoj
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: raleigh
+    part-of:
+      postinstagram: DdRjePeEVoj
+
+- postx:
+    id: 2099533669744660483
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-14
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Raleigh, NC🌳🌳🌳🇺🇸
+      #BABYMETAL #RALEIGH
+    image:
+    - HSMKuroaUAM2z33
+    - HSMKuvlaUAIul4n
+    part-of:
+      show:
+        year: 2026
+        id: raleigh
+
+- postximage:
+    post: 2099533669744660483
+    id: HSMKuroaUAM2z33
+    index: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: raleigh
+    part-of:
+      postx: 2099533669744660483
+
+- postximage:
+    post: 2099533669744660483
+    id: HSMKuvlaUAIul4n
+    index: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: raleigh
+    - song: roadofresistance
+    part-of:
+      postx: 2099533669744660483
+
+- update:
+    show:
+      year: 2026
+      id: raleigh
+    date: 2026-09-15
+    text:
+    - First pictures from the show
+    part-of:
+      show:
+        year: 2026
+        id: raleigh
+

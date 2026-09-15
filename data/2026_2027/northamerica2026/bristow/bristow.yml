@@ -9,5 +9,11 @@ show:
   date: 2026-09-12
   tour: northamerica2026
   venue: Jiffy Lube Live, Bristow, VA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2026/jiffy-lube-live-bristow-va-43769b5b.html'
   part-of:
     tour: northamerica2026
+  multimedia:
+    main:
+      postinstagramimage:
+        post: DdPt0BAmEtg
+        image: 1

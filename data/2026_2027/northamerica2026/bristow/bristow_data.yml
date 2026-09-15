@@ -1,0 +1,112 @@
+- display:
+    show:
+      year: 2026
+      id: bristow
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdPt0BAmEtg
+                    image: 1
+                - postximage:
+                    post: 2099273110046318793
+                    image: HSHl6o8bYAARPTd
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2099273110046318793
+                    image: HSIW1cJXIAUFhWY
+    part-of:
+      show:
+        year: 2026
+        id: bristow
+
+- postinstagram:
+    id: DdPt0BAmEtg
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-09-14
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Bristow!!🎶 
+      #BABYMETAL #jiffylubelive
+    image:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: bristow
+    reference:
+    - postximage:
+        post: 2099273110046318793
+        image: HSIW1cJXIAUFhWY
+
+- postinstagramimage:
+    post: DdPt0BAmEtg
+    id: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: bristow
+    part-of:
+      postinstagram: DdPt0BAmEtg
+
+- postx:
+    id: 2099273110046318793
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-14
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Bristow!!🎶 
+      #BABYMETAL #JiffyLubeLive
+    image:
+    - HSHl6o8bYAARPTd
+    - HSIW1cJXIAUFhWY
+    part-of:
+      show:
+        year: 2026
+        id: bristow
+
+- postximage:
+    post: 2099273110046318793
+    id: HSHl6o8bYAARPTd
+    index: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: bristow
+    part-of:
+      postx: 2099273110046318793
+
+- postximage:
+    post: 2099273110046318793
+    id: HSIW1cJXIAUFhWY
+    index: 2
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: bristow
+    part-of:
+      postx: 2099273110046318793
+
+- update:
+    show:
+      year: 2026
+      id: bristow
+    date: 2026-09-15
+    text:
+    - First pictures from the show
+    part-of:
+      show:
+        year: 2026
+        id: bristow
+

@@ -33,6 +33,32 @@
     part-of:
       postfacebook: 399486240098648
 
+- postinstagram:
+    id: DdQL5eduN-K
+    account: babymetal_official
+    label: BABYMETAL x Marvel merch
+    published-date: 2026-09-14
+    text: |-
+      BABYMETAL x Marvel.
+      
+      Sept 17.
+      
+      Coming online, exclusively to Complex Shop.
+    image:
+    - 1
+    todo: to sort
+    part-of:
+      group:
+        id: merch
+        group: band
+
+- postinstagramimage:
+    post: DdQL5eduN-K
+    id: 1
+    label: Poster
+    part-of:
+      postinstagram: DdQL5eduN-K
+
 - webpage:
     domain: babymetal.jp
     id: news.3316
