@@ -362,3 +362,12 @@
     part-of:
       song: theendffdp
 
+- youtubevideo:
+    id: rIc383iYLJ4
+    label: Lyric Video / Visualizer
+    published-date: 2025-09-05
+    context:
+    - song: theendffdp
+    part-of:
+      song: theendffdp
+

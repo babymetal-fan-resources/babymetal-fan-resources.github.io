@@ -1,0 +1,13 @@
+multimedia-event:
+  id: theendffdplyricv
+  cover-image:
+    localimage:
+      multimedia-event: theendffdplyricv
+      id: cover
+  youtubevideo: rIc383iYLJ4
+  parent:
+    song: theendffdp
+  categories:
+  - video
+  part-of:
+    song: theendffdp

@@ -33,3 +33,12 @@
     part-of:
       song: bekhauf
 
+- youtubevideo:
+    id: tbMRKE7JcxU
+    label: The Making Of
+    published-date: 2025-06-16
+    context:
+    - song: bekhauf
+    part-of:
+      song: bekhauf
+
