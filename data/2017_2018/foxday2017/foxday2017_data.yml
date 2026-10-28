@@ -1,0 +1,21 @@
+- postx:
+    id: 848080995873996802
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2017-04-01
+    text: |-
+      The FOX DAY!! It's about to begin!! #BABYMETAL #FoxDay
+    image:
+    - C8T9KedVYAAEKUq
+    part-of:
+      event: foxday2017
+
+- postximage:
+    post: 848080995873996802
+    id: C8T9KedVYAAEKUq
+    index: 1
+    label: Image
+    local-copy: true
+    part-of:
+      postx: 848080995873996802
+

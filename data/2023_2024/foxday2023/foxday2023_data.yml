@@ -1,0 +1,26 @@
+- postx:
+    id: 1642181921412378624
+    account: BABYMETAL_JAPAN
+    label: Renewed website
+    published-date: 2023-04-01
+    text: |-
+      BABYMETAL OFFICIAL WEBSITE
+      RENEWED!!
+      
+      https://babymetal.com
+      
+      #BABYMETAL
+    image:
+    - FsozwDoacAEJRNa
+    part-of:
+      event: foxday2023
+
+- postximage:
+    post: 1642181921412378624
+    id: FsozwDoacAEJRNa
+    index: 1
+    label: Logo
+    local-copy: true
+    part-of:
+      postx: 1642181921412378624
+

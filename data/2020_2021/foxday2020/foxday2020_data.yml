@@ -1,0 +1,24 @@
+- postx:
+    id: 1245002921743233025
+    account: BABYMETAL_JAPAN
+    label: Fox Day 2020
+    published-date: 2020-04-01
+    text: |-
+      #BABYMETAL
+      #FOXDAY
+      #METALRESISTANCEX
+      #StayHome
+    image:
+    - EUcjJ8kU8AMMwHk
+    part-of:
+      event: foxday2020
+
+- postximage:
+    post: 1245002921743233025
+    id: EUcjJ8kU8AMMwHk
+    index: 1
+    label: Image
+    local-copy: true
+    part-of:
+      postx: 1245002921743233025
+

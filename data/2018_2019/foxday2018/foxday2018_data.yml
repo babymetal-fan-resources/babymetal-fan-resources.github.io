@@ -1,0 +1,21 @@
+- postx:
+    id: 980384302356508675
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2018-04-01
+    text: |-
+      #FOXDAY #BABYMETAL
+    image:
+    - DZsGUlPUMAEvp0O
+    part-of:
+      event: foxday2018
+
+- postximage:
+    post: 980384302356508675
+    id: DZsGUlPUMAEvp0O
+    index: 1
+    label: Announcement
+    local-copy: true
+    part-of:
+      postx: 980384302356508675
+

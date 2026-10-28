@@ -1,0 +1,67 @@
+- postx:
+    id: 1112716327989317632
+    account: BABYMETAL_JAPAN
+    label: Fox day 2019
+    published-date: 2026-10-28
+    text: |-
+      キツネ様からの新たなお告げDEATH！！
+      New Revelation from the FOX GOD!!
+      
+      #FOXDAY
+      #NEWALBUM2019XXXX
+      #METALRESISTANCEVIII
+      #BABYMETAL
+      #NEWERA
+      #JAPAN
+    translation: |-
+      A new revelation from the FOX GOD!!
+      New Revelation from the FOX GOD!!
+      
+      #FOXDAY
+      #NEWALBUM2019XXXX
+      #METALRESISTANCEVIII
+      #BABYMETAL
+      #NEWERA
+      #JAPAN
+    image:
+    - D3EpGCBVAAAFg0A
+    - D3EpHLzU0AArpWF
+    - D3EpIBhU8AAGkw5
+    part-of:
+      event: foxday2019
+
+- postximage:
+    post: 1112716327989317632
+    id: D3EpGCBVAAAFg0A
+    index: 1
+    label: Teaser
+    local-copy: true
+    context:
+    - album: metalgalaxy
+    part-of:
+      postx: 1112716327989317632
+
+- postximage:
+    post: 1112716327989317632
+    id: D3EpHLzU0AArpWF
+    index: 2
+    label: Teaser
+    context:
+    - show:
+        year: 2019
+        id: thesunalsorise1
+    part-of:
+      postx: 1112716327989317632
+
+- postximage:
+    post: 1112716327989317632
+    id: D3EpIBhU8AAGkw5
+    index: 3
+    label: Teaser
+    context:
+    - show:
+        year: 2019
+        id: legendm1
+    part-of:
+      postx: 1112716327989317632
+

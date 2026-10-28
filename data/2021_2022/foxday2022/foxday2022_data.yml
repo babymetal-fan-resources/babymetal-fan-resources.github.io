@@ -1,0 +1,35 @@
+- postx:
+    id: 1509728004624158722
+    account: BABYMETAL_JAPAN
+    label: The Other One announcement
+    published-date: 2022-04-01
+    text: |-
+      もうひとつのBABYMETALの物語、 “THE OTHER ONE” 始動
+      
+      🗝 https://too.babymetal.com
+      
+      #BABYMETAL 
+      #THEOTHERONE
+      #FOXDAY
+    translation: |-
+      Another BABYMETAL story, “THE OTHER ONE” begins
+      
+      🗝 https://too.babymetal.com
+      
+      #BABYMETAL 
+      #THEOTHERONE
+      #FOXDAY
+    image:
+    - FPOP3lAUYAI7Ln8
+    part-of:
+      event: foxday2022
+
+- postximage:
+    post: 1509728004624158722
+    id: FPOP3lAUYAI7Ln8
+    index: 1
+    label: Logo
+    local-copy: true
+    part-of:
+      postx: 1509728004624158722
+

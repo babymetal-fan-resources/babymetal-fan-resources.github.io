@@ -1,0 +1,11 @@
+event:
+  id: foxday2026
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: 302817
+      id: poster
+  label: Fox Day 2026
+  date: 2026-04-01
+  part-of:
+    group: 2026_2027

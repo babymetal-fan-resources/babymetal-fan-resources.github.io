@@ -1,0 +1,11 @@
+event:
+  id: foxday2024
+  cover-image:
+    webimage:
+      domain: babymetal.com
+      page: shows.2024
+      id: foxfest
+  label: Fox Day 2024
+  date: 2024-04-01
+  part-of:
+    group: 2024_2025

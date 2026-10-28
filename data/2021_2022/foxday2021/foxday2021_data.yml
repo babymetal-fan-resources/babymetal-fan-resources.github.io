@@ -1,0 +1,23 @@
+- postx:
+    id: 1377274487381581825
+    account: BABYMETAL_JAPAN
+    label: Living legend
+    published-date: 2021-04-01
+    text: |-
+      #BABYMETAL 
+      #FOXDAY 
+      #LIVINGLEGEND
+    image:
+    - ExyfeIgUUAIYBVz
+    part-of:
+      event: foxday2021
+
+- postximage:
+    post: 1377274487381581825
+    id: ExyfeIgUUAIYBVz
+    index: 1
+    label: Image
+    local-copy: true
+    part-of:
+      postx: 1377274487381581825
+

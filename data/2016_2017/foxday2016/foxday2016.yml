@@ -1,0 +1,10 @@
+event:
+  id: foxday2016
+  cover-image:
+    localimage:
+      album: metalresistance
+      id: cover
+  label: Fox Day 2016
+  date: 2016-04-01
+  part-of:
+    group: 2016_2017
