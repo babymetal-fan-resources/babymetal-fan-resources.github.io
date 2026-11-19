@@ -8,8 +8,8 @@ import org.skyluc.fan_resources.data.checks.DataCheck
 import org.skyluc.fan_resources.html.SiteOutput
 
 import frData.op.DataLoader
-import org.skyluc.fan_resources.descriptor.DescriptorProcessor.Context
 import org.skyluc.babymetal_site.data.ExtendedDatum
+import org.skyluc.fan_resources.descriptor.ChoiceCategoryRepository
 
 object Main {
 
@@ -35,7 +35,7 @@ object Main {
       System.exit(2)
     }
 
-    given Context("element to page", ExtendedDatum.categoryRepository)
+    given ChoiceCategoryRepository = ExtendedDatum.categoryRepository
 
     val pages = html.ElementToPage.generate(data, configuration)
 

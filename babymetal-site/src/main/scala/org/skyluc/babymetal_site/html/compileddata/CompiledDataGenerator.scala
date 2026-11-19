@@ -1,13 +1,14 @@
 package org.skyluc.babymetal_site.html.compileddata
 
 import org.skyluc.fan_resources.html as fr
-import org.skyluc.fan_resources.descriptor.DescriptorProcessor.Context
+import org.skyluc.fan_resources.descriptor.ChoiceCategoryRepository
 
 object CompiledDataGeneratorProcessorsBuilder extends fr.compileddata.CompiledDataGeneratorProcessorsBuilder {
 
   override def elementCompiledDataProcessor(
       generator: fr.compileddata.CompiledDataGenerator
-  )(using context: Context): fr.compileddata.ElementCompiledDataProcessor = ElementCompiledDataProcessor(generator)
+  )(using categoryRepository: ChoiceCategoryRepository): fr.compileddata.ElementCompiledDataProcessor =
+    ElementCompiledDataProcessor(generator)
 
   override def multimediaCompiledDataProcessor(
       generator: fr.compileddata.CompiledDataGenerator

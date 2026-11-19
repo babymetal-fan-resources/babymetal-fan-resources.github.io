@@ -11,12 +11,14 @@ import org.skyluc.fan_resources.html.page.element.EventBlockPages
 
 import org.skyluc.fan_resources.base.Path
 import fr.page.PostXImagePage
-import org.skyluc.fan_resources.descriptor.DescriptorProcessor.Context
+import org.skyluc.fan_resources.descriptor.ChoiceCategoryRepository
 
 object ElementToPage {
   val NO_PAGES = Seq[fr.page.Page]()
 
-  def generate(data: d.Data, configuration: MainSiteConfiguration)(using context: Context): Seq[fr.page.Page] = {
+  def generate(data: d.Data, configuration: MainSiteConfiguration)(using
+      categoryRepository: ChoiceCategoryRepository
+  ): Seq[fr.page.Page] = {
 
     val cssPages = generateCssPages(configuration)
 

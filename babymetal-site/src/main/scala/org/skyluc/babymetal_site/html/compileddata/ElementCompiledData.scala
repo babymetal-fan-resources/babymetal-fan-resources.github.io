@@ -5,10 +5,11 @@ import org.skyluc.fan_resources.html as fr
 import org.skyluc.babymetal_site.data.ProcessorElement
 import fr.compileddata.ElementCompiledData
 import fr.page.element.ElementBlockPages
-import org.skyluc.fan_resources.descriptor.DescriptorProcessor.Context
+import org.skyluc.fan_resources.descriptor.ChoiceCategoryRepository
 
-class ElementCompiledDataProcessor(generator: fr.compileddata.CompiledDataGenerator)(using context: Context)
-    extends fr.compileddata.ElementCompiledDataProcessor(generator)
+class ElementCompiledDataProcessor(generator: fr.compileddata.CompiledDataGenerator)(using
+    categoryRepository: ChoiceCategoryRepository
+) extends fr.compileddata.ElementCompiledDataProcessor(generator)
     with ProcessorElement[fr.compileddata.ElementCompiledData] {
 
   override def missingElementCompiledData: ElementCompiledData =
