@@ -9,17 +9,19 @@ import org.skyluc.fan_resources.data as d
 import org.skyluc.fan_resources.html as fr
 import org.skyluc.fan_resources.html.page.element.EventBlockPages
 
-import d.Path
+import org.skyluc.fan_resources.base.Path
 import fr.page.PostXImagePage
+import org.skyluc.fan_resources.descriptor.DescriptorProcessor.Context
 
 object ElementToPage {
   val NO_PAGES = Seq[fr.page.Page]()
 
-  def generate(data: d.Data, configuration: MainSiteConfiguration): Seq[fr.page.Page] = {
+  def generate(data: d.Data, configuration: MainSiteConfiguration)(using context: Context): Seq[fr.page.Page] = {
 
     val cssPages = generateCssPages(configuration)
 
-    val generator = fr.compileddata.CompiledDataGenerator(data, compileddata.CompiledDataGeneratorProcessorsBuilder)
+    val generator =
+      fr.compileddata.CompiledDataGenerator(data.dataView, compileddata.CompiledDataGeneratorProcessorsBuilder)
 
     val processor = Processor(generator)
     val elementPages = data.elements.view.values.flatMap(_.process(processor)).toSeq
@@ -110,7 +112,7 @@ object ElementToPage {
     override def processMediaWritten(mediaWritten: d.MediaWritten): Seq[fr.page.MainSitePage] =
       fr.page.element.MediaBlockPages(mediaWritten).build(page.ElementContentPageBuilder, generator)
 
-    override def processMultiMediaEvent(multimediaEvent: d.MultiMediaEvent): Seq[fr.page.MainSitePage] = Nil
+    override def processMultimediaEvent(multimediaEvent: d.MultimediaEvent): Seq[fr.page.MainSitePage] = Nil
 
     override def processShow(show: d.Show): Seq[fr.page.MainSitePage] =
       fr.page.element.ShowBlockPages(show).build(page.ElementContentPageBuilder, generator)

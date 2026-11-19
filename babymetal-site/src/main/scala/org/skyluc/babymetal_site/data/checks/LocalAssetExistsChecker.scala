@@ -2,7 +2,7 @@ package org.skyluc.babymetal_site.data.checks
 
 import org.skyluc.babymetal_site.Main
 import org.skyluc.babymetal_site.data.ProcessorMultimedia
-import org.skyluc.fan_resources.data.Path
+import org.skyluc.fan_resources.base.Path
 import org.skyluc.fan_resources.data.checks as fr
 
 import fr.CheckError

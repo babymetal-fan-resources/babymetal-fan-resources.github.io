@@ -21,17 +21,10 @@ song:
     source:
       description: Music video description
       url: 'https://www.youtube.com/watch?v=EDnIEWyVIlE'
-  choreographer:
-    value: MIKIKO
-    source:
-      description: MIKIKO website
-      url: 'https://www.mikiko0811.net/#works'
+  choreographer: MIKIKO
   wiki: 'https://babymetal.fandom.com/wiki/RATATATA'
   part-of:
     album: metalforth
   multimedia:
     main:
       youtubevideo: EDnIEWyVIlE
-    video:
-    - youtubevideo: ChmVcJK7N-c
-    - youtubevideo: EDnIEWyVIlE

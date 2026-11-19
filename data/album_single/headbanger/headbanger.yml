@@ -14,8 +14,3 @@ album:
   wiki: 'https://babymetal.fandom.com/wiki/Headbanger!!_(Single_album)'
   part-of:
     group: album_single
-  multimedia:
-    image:
-    - localimage:
-        album: headbanger
-        id: coverfirstpress

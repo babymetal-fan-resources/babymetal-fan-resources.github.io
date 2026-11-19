@@ -20,11 +20,7 @@ song:
     source:
       description: 'JASRAC - work ID: 1V3-1774-9'
       url: 'https://www2.jasrac.or.jp/'
-  choreographer:
-    value: MIKIKO
-    source:
-      description: music video description
-      url: 'https://www.youtube.com/watch?v=qayP_YUrf9I'
+  choreographer: MIKIKO
   wiki: 'https://babymetal.fandom.com/wiki/From_me_to_u'
   todo: release of the live from O2 audio on 2025-10-03
   part-of:
@@ -32,30 +28,3 @@ song:
   multimedia:
     main:
       youtubevideo: EpXtD6dD0MU
-    video:
-    - youtubevideo: qayP_YUrf9I
-    live:
-    - youtubevideo: EpXtD6dD0MU
-    short:
-    - postinstagramvideo:
-        post: DdAgQosRrPU
-        video: 1
-    - postxvideo:
-        post: 1963195266066268240
-        video: 01
-    - postxvideo:
-        post: 1962863077767971318
-        video: 01
-    image:
-    - postximage:
-        post: 1948781027755000246
-        image: Gwt043dbgAUofoY
-    - postximage:
-        post: 1943191162623291405
-        image: GveUopCWwAAn2-V
-    - postximage:
-        post: 1928663024081997836
-        image: GsP2twUWEAAYuj1
-    - postximage:
-        post: 1927166535744753912
-        image: Gr6qRwjWkAAiw0K

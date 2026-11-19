@@ -13,14 +13,3 @@ album:
   - onedaridaisakusen
   part-of:
     group: album_single
-  multimedia:
-    image:
-    - localimage:
-        album: megitsunefirstpress
-        id: coverki
-    - localimage:
-        album: megitsunefirstpress
-        id: covertsu
-    - localimage:
-        album: megitsunefirstpress
-        id: coverne

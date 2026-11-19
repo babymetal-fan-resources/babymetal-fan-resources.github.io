@@ -1,12 +1,12 @@
 package org.skyluc.babymetal_site
 
-import org.skyluc.babymetal_site.yaml.BabymetalSiteDecoders
 import org.skyluc.fan_resources as fr
 
-import fr.data.Path
+import org.skyluc.fan_resources.base.Path
+import org.skyluc.babymetal_site.data.ExtendedDatum
+import fr.descriptor.ChoiceCategoryRepository
 
 class MainSiteConfiguration(override val rootFolder: Path) extends fr.MainSiteConfiguration {
 
-  override val decoders: fr.yaml.FrDecoders = BabymetalSiteDecoders
-
+  override val categoryRepository: ChoiceCategoryRepository = ExtendedDatum.categoryRepository
 }

@@ -1,22 +1,17 @@
 package org.skyluc.babymetal_site.data
 
-import org.skyluc.babymetal_site.yaml.BabymetalSiteDecoders
 import org.skyluc.fan_resources.data as fr
-import org.skyluc.fan_resources.yaml.DataYamlWriterBuilder
-import org.skyluc.reference.html.edit.EditSupportContext
 
-import fr.Path
+import org.skyluc.fan_resources.base.Path
 import fr.checks.DataCheck
 import fr.checks.ReferencesChecker
 import fr.checks.ReferencesCheckProcessorBuilder
 import checks.LocalAssetExistsChecker
 import checks.LocalAssetExistsChecker2
+import org.skyluc.fan_resources.descriptor.FieldDescriptor
+import org.skyluc.fan_resources.descriptor.FieldDetails
 
 object Data {
-
-  val decoders = BabymetalSiteDecoders
-
-  val yamlWriterBuilder = DataYamlWriterBuilder()
 
   val dispatcherBuilder = new fr.op.DataDispatcherBuilder {
 
@@ -35,6 +30,24 @@ object Data {
     LocalAssetExistsChecker2(staticFolderPath, staticFolderPath2),
   )
 
-  val editSupportContext = new EditSupportContext with BabymetalDataContext {}
+}
 
+object FieldDescriptors {
+  val wikiField = FieldDescriptor(Keys.WIKI)
+  val choreographerField = FieldDescriptor(Keys.CHOREOGRAPHER)
+
+  val LABEL_CHOREOGRAPHER = "choreographer"
+  val LABEL_WIKI = "BABYMETAL Wiki"
+
+  val fieldRepository = {
+    fr.FieldDescriptors.fieldRepository
+      .updated(
+        FieldDescriptors.choreographerField,
+        FieldDetails(LABEL_CHOREOGRAPHER, false, fr.FieldDescriptors.INFO_LEVEL_ALL),
+      )
+      .updated(
+        FieldDescriptors.wikiField,
+        FieldDetails(LABEL_WIKI, true, fr.FieldDescriptors.INFO_LEVEL_ALL),
+      )
+  }
 }

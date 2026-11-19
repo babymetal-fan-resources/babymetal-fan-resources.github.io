@@ -1,12 +1,13 @@
 package org.skyluc.babymetal_site.html.compileddata
 
 import org.skyluc.fan_resources.html as fr
+import org.skyluc.fan_resources.descriptor.DescriptorProcessor.Context
 
 object CompiledDataGeneratorProcessorsBuilder extends fr.compileddata.CompiledDataGeneratorProcessorsBuilder {
 
   override def elementCompiledDataProcessor(
       generator: fr.compileddata.CompiledDataGenerator
-  ): fr.compileddata.ElementCompiledDataProcessor = ElementCompiledDataProcessor(generator)
+  )(using context: Context): fr.compileddata.ElementCompiledDataProcessor = ElementCompiledDataProcessor(generator)
 
   override def multimediaCompiledDataProcessor(
       generator: fr.compileddata.CompiledDataGenerator

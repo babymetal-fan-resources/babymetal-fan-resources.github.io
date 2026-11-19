@@ -2,6 +2,7 @@ package org.skyluc.babymetal_site.html.page
 
 import org.skyluc.fan_resources.Common
 import org.skyluc.fan_resources.data.*
+import org.skyluc.fan_resources.base.{Date, Path}
 import org.skyluc.fan_resources.html as fr
 import org.skyluc.html.*
 import org.skyluc.reference.data.op.DataView
@@ -102,11 +103,11 @@ object SuNeedsABreakSupport {
       Schedule(
         s.date,
         s.show,
-        s.show.flatMap(_.tour).map(view.mainData.get(_)),
+        s.show.flatMap(_.tour).map(view.mainData.dataView.getDatum(_)),
         previousShow,
-        previousShow.tour.map(view.mainData.get(_)),
+        previousShow.tour.map(view.mainData.dataView.getDatum(_)),
         nextShow,
-        nextShow.tour.map(view.mainData.get(_)),
+        nextShow.tour.map(view.mainData.dataView.getDatum(_)),
         s.seriesSize,
       )
     }

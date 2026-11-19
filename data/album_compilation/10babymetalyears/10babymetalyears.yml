@@ -22,14 +22,3 @@ album:
   wiki: 'https://babymetal.fandom.com/wiki/10_BABYMETAL_YEARS'
   part-of:
     group: album_compilation
-  multimedia:
-    image:
-    - localimage:
-        album: 10babymetalyears
-        id: covereditiona
-    - localimage:
-        album: 10babymetalyears
-        id: covereditionb
-    - localimage:
-        album: 10babymetalyears
-        id: covereditionc

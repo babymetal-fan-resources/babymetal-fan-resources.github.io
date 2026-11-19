@@ -11,11 +11,13 @@
                 lines:
                 - line:
                   - text: A few days prior to the 2010 Sakura Gakuin Festival (
-                  - show:
-                      year: 2010
-                      id: sakuragakuinfestival
+                  - element:
+                      show:
+                        year: 2010
+                        id: sakuragakuinfestival
                   - text: '), Suzuka Nakamoto shared this handwritten update regarding a "new unit" she had joined. This unit was the Heavy Music Club, which would take the stage for the first time at the festival performing '
-                  - song: dokidokimorning
+                  - element:
+                      song: dokidokimorning
                   - text: ' (Doki Doki ☆ Morning).'
                 - line:
                   - text: Below is the translation of her thoughts just before BABYMETAL—and the genre of Kawaii Metal—was introduced to the world.

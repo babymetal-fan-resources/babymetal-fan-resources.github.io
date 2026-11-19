@@ -13,7 +13,8 @@
                 lines:
                 - line:
                   - text: 'The pictures from the shows are available on the '
-                  - tour: headbangpilgrimage
+                  - element:
+                      tour: headbangpilgrimage
                   - text: ' tour page.'
     part-of:
       show:

@@ -3,11 +3,13 @@ package org.skyluc.babymetal_site
 import org.skyluc.fan_resources.ErrorsHolder
 import org.skyluc.fan_resources.Main.displayErrors
 import org.skyluc.fan_resources.data as frData
-import org.skyluc.fan_resources.data.Path
+import org.skyluc.fan_resources.base.Path
 import org.skyluc.fan_resources.data.checks.DataCheck
 import org.skyluc.fan_resources.html.SiteOutput
 
 import frData.op.DataLoader
+import org.skyluc.fan_resources.descriptor.DescriptorProcessor.Context
+import org.skyluc.babymetal_site.data.ExtendedDatum
 
 object Main {
 
@@ -25,13 +27,15 @@ object Main {
 
     val data = errors.record("DATA LOADING", DataLoader.load(configuration.mainDataFolder, configuration))
 
-    errors.append("DATA CHECKING", DataCheck.check(data, configuration.mainDataCheckers))
+    errors.append("DATA CHECKING", DataCheck.check(data.dataView, configuration.mainDataCheckers))
 
     displayErrors(errors, 10)
 
     if (errors.hasCriticalErrors) {
       System.exit(2)
     }
+
+    given Context("element to page", ExtendedDatum.categoryRepository)
 
     val pages = html.ElementToPage.generate(data, configuration)
 

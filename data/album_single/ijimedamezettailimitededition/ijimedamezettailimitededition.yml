@@ -13,14 +13,3 @@ album:
   - babymetaldeath
   part-of:
     group: album_single
-  multimedia:
-    image:
-    - localimage:
-        album: ijimedamezettailimitededition
-        id: coveri
-    - localimage:
-        album: ijimedamezettailimitededition
-        id: coverd
-    - localimage:
-        album: ijimedamezettailimitededition
-        id: coverz
