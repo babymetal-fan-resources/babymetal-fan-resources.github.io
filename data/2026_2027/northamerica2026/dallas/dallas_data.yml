@@ -1,0 +1,48 @@
+- display:
+    show:
+      year: 2026
+      id: dallas
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2103121836166746596
+                    image: HS_KDDsWgAA0vJF
+    part-of:
+      show:
+        year: 2026
+        id: dallas
+
+- postx:
+    id: 2103121836166746596
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-24
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Dallas,TX 🤠
+      #BABYMETAL #DosEquisPavilion
+    image:
+    - HS_KDDsWgAA0vJF
+    part-of:
+      show:
+        year: 2026
+        id: dallas
+
+- postximage:
+    post: 2103121836166746596
+    id: HS_KDDsWgAA0vJF
+    index: 1
+    label: At the venue
+    context:
+    - show:
+        year: 2026
+        id: dallas
+    part-of:
+      postx: 2103121836166746596
+

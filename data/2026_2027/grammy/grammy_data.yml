@@ -1,0 +1,52 @@
+- postinstagram:
+    id: Df4-qXCo4Un
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-11-18
+    text: |-
+      @grammys @polyphia
+    video:
+    - 1
+    part-of:
+      media:
+        year: 2027
+        id: grammy
+
+- postinstagram:
+    id: Df5BJGEo8yj
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-11-18
+    text: |-
+      🦊🔥
+    video:
+    - 1
+    part-of:
+      media:
+        year: 2027
+        id: grammy
+
+- postinstagramvideo:
+    post: Df4-qXCo4Un
+    id: 1
+    label: Thank you
+    info: for the nomination
+    context:
+    - media:
+        year: 2027
+        id: grammy
+    part-of:
+      postinstagram: Df4-qXCo4Un
+
+- postinstagramvideo:
+    post: Df5BJGEo8yj
+    id: 1
+    label: Thank you
+    info: for the nomination, in Japanese
+    context:
+    - media:
+        year: 2027
+        id: grammy
+    part-of:
+      postinstagram: Df5BJGEo8yj
+

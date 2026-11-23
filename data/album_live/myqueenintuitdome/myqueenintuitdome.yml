@@ -1,0 +1,15 @@
+album:
+  id: myqueenintuitdome
+  cover-image:
+    postximage:
+      post: 2110734941990302095
+      image: HUrVAlVbYAA1d2E
+  fullname: 'My Queen: Intuit Dome Anniversary Edition'
+  designation: Live single
+  release-date: 2026-12-18
+  is-studio: false
+  songs:
+  - myqueen
+  - myqueen
+  part-of:
+    group: album_live

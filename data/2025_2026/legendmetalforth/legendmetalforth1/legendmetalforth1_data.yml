@@ -75,6 +75,39 @@
         year: 2026
         id: legendmetalforth1
 
+- postx:
+    id: 2107037077619810745
+    account: BABYMETAL_JAPAN
+    label: Blu-ray Announcement
+    published-date: 2026-10-05
+    text: |-
+      2026年1月に開催されたさいたまスーパーアリーナ公演のライブ映像作品 Blu-ray & DVD「LEGEND - METAL FORTH」12月23日(水)発売決定DEATH!!
+      
+      各種ジャケット&購入特典ビジュアルを公開!!
+      https://babymetal.com/2026LEGEND-METALFORTH/
+      
+      💿ご予約はこちら
+      https://lnk.to/BM_LEGEND_MF
+      
+      #BABYMETAL #METALFORTH #SSA
+    translation: |-
+      The live video release Blu-ray & DVD "LEGEND - METAL FORTH" from the Saitama Super Arena show held in January 2026 will be released on Wednesday, December 23 DEATH!!
+      
+      Various cover arts & purchase bonus visuals have been revealed!!
+      https://babymetal.com/2026LEGEND-METALFORTH/
+      
+      💿Pre-order here
+      https://lnk.to/BM_LEGEND_MF
+      
+      #BABYMETAL #METALFORTH #SSA
+    image:
+    - HTztEeOaAAAJW4L
+    - HTztHmZaIAAHXRX
+    part-of:
+      show:
+        year: 2026
+        id: legendmetalforth1
+
 - postximage:
     post: 2009957158784557347
     id: G-TNCoNasAIsfeE
@@ -98,4 +131,29 @@
         id: legendmetalforth1
     part-of:
       postx: 2010268826290794821
+
+- postximage:
+    post: 2107037077619810745
+    id: HTztEeOaAAAJW4L
+    index: 1
+    label: Editions
+    part-of:
+      postx: 2107037077619810745
+
+- postximage:
+    post: 2107037077619810745
+    id: HTztHmZaIAAHXRX
+    index: 2
+    label: Bonuses
+    part-of:
+      postx: 2107037077619810745
+
+- youtubevideo:
+    id: vhW-ALqybeM
+    label: Blu-ray trailer
+    published-date: 2026-11-13
+    part-of:
+      show:
+        year: 2026
+        id: legendmetalforth1
 

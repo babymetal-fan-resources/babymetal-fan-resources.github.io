@@ -1,0 +1,197 @@
+- display:
+    show:
+      year: 2026
+      id: austin
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dd4zX9ko2q9
+                    image: 3
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2104213691503616320
+                    image: HTOrCZNWwAA9dHG
+                - postinstagramimage:
+                    post: Ddy0ujmEU3L
+                    image: 3
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dd4zX9ko2q9
+                    image: 4
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dd4zX9ko2q9
+                    image: 2
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Dd4zX9ko2q9
+                    image: 1
+        - basicsection:
+            label: At the event
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2104213691503616320
+                    image: HTOq_wHXIAAcXlg
+    part-of:
+      show:
+        year: 2026
+        id: austin
+
+- postinstagram:
+    id: Dd4zX9ko2q9
+    account: babymetal_official
+    label: BABYMETAL brought the heat
+    info: more pictures from the opening acts
+    published-date: 2026-09-30
+    text: |-
+      BABYMETAL brought the heat to the Germania Insurance Amphitheater 🤘
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    part-of:
+      show:
+        year: 2026
+        id: austin
+
+- postinstagram:
+    id: Ddy0ujmEU3L
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-09-27
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Austin, TX 🏁
+      #BABYMETAL #germaniainsuranceamphitheater
+    image:
+    - 3
+    part-of:
+      show:
+        year: 2026
+        id: austin
+    reference:
+    - postximage:
+        post: 2104213691503616320
+        image: HTOq_wHXIAAcXlg
+    - postximage:
+        post: 2104213691503616320
+        image: HTOrCZNWwAA9dHG
+
+- postinstagramimage:
+    post: Dd4zX9ko2q9
+    id: 1
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: austin
+    - song: frommetou
+    part-of:
+      postinstagram: Dd4zX9ko2q9
+
+- postinstagramimage:
+    post: Dd4zX9ko2q9
+    id: 2
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: austin
+    - song: metali
+    todo: double check song
+    part-of:
+      postinstagram: Dd4zX9ko2q9
+
+- postinstagramimage:
+    post: Dd4zX9ko2q9
+    id: 3
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: austin
+    - song: papaya
+    part-of:
+      postinstagram: Dd4zX9ko2q9
+
+- postinstagramimage:
+    post: Dd4zX9ko2q9
+    id: 4
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: austin
+    todo: which song ?
+    part-of:
+      postinstagram: Dd4zX9ko2q9
+
+- postinstagramimage:
+    post: Ddy0ujmEU3L
+    id: 3
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: austin
+    part-of:
+      postinstagram: Ddy0ujmEU3L
+
+- postx:
+    id: 2104213691503616320
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-27
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Austin, TX 🏁
+      #BABYMETAL #GermaniaInsuranceAmphitheater
+    image:
+    - HTOq_wHXIAAcXlg
+    - HTOrCZNWwAA9dHG
+    part-of:
+      show:
+        year: 2026
+        id: austin
+
+- postximage:
+    post: 2104213691503616320
+    id: HTOq_wHXIAAcXlg
+    index: 1
+    label: At the venue
+    context:
+    - show:
+        year: 2026
+        id: austin
+    part-of:
+      postx: 2104213691503616320
+
+- postximage:
+    post: 2104213691503616320
+    id: HTOrCZNWwAA9dHG
+    index: 2
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: austin
+    - song: bxmxc
+    part-of:
+      postx: 2104213691503616320
+

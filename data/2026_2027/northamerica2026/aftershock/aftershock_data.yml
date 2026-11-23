@@ -1,3 +1,44 @@
+- display:
+    show:
+      year: 2026
+      id: aftershock
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramvideo:
+                    post: DeD4VA7t5zv
+                    video: 1
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postximage:
+                    post: 2106815269335400563
+                    image: HTzpMlJbsAAJG8T
+        - basicsection:
+            label: At the event
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2106815269335400563
+                    image: HTzpLdzaYAANrD9
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: Det0wlNDokJ
+                    image: 1
+    part-of:
+      show:
+        year: 2026
+        id: aftershock
+
 - postinstagram:
     id: DZ0SZrBkyUY
     account: aftershockfestival
@@ -16,6 +57,52 @@
         post: DZ0SZrBkyUY
         video: 1
 
+- postinstagram:
+    id: DeD4VA7t5zv
+    account: babymetal_official
+    label: Gimi choco on stage
+    published-date: 2026-10-04
+    text: |-
+      Kawaii metal supremacy. @babymetal_official
+      
+      🎥: @samshapiromedia
+    video:
+    - 1
+    part-of:
+      postinstagramvideo:
+        post: DeD4VA7t5zv
+        video: 1
+
+- postinstagram:
+    id: Det0wlNDokJ
+    account: rocksound
+    label: Postcards
+    info: More photos of other artists
+    published-date: 2026-11-23
+    text: |-
+      Postcards from Aftershock. 
+      
+      The artists that took over California last month, captured on Polaroid. 
+      
+      📷 @jrcmccord 
+      
+      #aftershock #rock #metal #alternative #emo
+    part-of:
+      show:
+        year: 2026
+        id: aftershock
+
+- postinstagramimage:
+    post: Det0wlNDokJ
+    id: 1
+    label: Postcard
+    context:
+    - show:
+        year: 2026
+        id: aftershock
+    part-of:
+      postinstagram: Det0wlNDokJ
+
 - postinstagramvideo:
     post: DZ0SZrBkyUY
     id: 1
@@ -24,6 +111,20 @@
     - show:
         year: 2026
         id: aftershock
+    part-of:
+      show:
+        year: 2026
+        id: aftershock
+
+- postinstagramvideo:
+    post: DeD4VA7t5zv
+    id: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: aftershock
+    - song: gimichoko
     part-of:
       show:
         year: 2026
@@ -50,6 +151,22 @@
         year: 2026
         id: aftershock
 
+- postx:
+    id: 2106815269335400563
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-10-04
+    text: |-
+      Thank you for coming to "Aftershock Festival"🦊🦊🦊 
+      #BABYMETAL #Sacramento @AFTERSHOCKSAC
+    image:
+    - HTzpLdzaYAANrD9
+    - HTzpMlJbsAAJG8T
+    part-of:
+      show:
+        year: 2026
+        id: aftershock
+
 - postximage:
     post: 2026356739054919938
     id: HB8OUhiXUAA6KL0
@@ -61,6 +178,30 @@
         id: aftershock
     part-of:
       postx: 2026356739054919938
+
+- postximage:
+    post: 2106815269335400563
+    id: HTzpLdzaYAANrD9
+    index: 1
+    label: At the venue
+    context:
+    - show:
+        year: 2026
+        id: aftershock
+    part-of:
+      postx: 2106815269335400563
+
+- postximage:
+    post: 2106815269335400563
+    id: HTzpMlJbsAAJG8T
+    index: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: aftershock
+    part-of:
+      postx: 2106815269335400563
 
 - webimage:
     domain: babymetal.com

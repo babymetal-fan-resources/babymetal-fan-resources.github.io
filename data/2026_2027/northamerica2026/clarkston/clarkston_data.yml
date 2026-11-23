@@ -1,0 +1,84 @@
+- display:
+    show:
+      year: 2026
+      id: clarkston
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdeyAUrGHCi
+                    image: 1
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2101394282804298022
+                    image: HSmmS3DWgAED-Ke
+    part-of:
+      show:
+        year: 2026
+        id: clarkston
+
+- postinstagram:
+    id: DdeyAUrGHCi
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-09-19
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Clarkston, MI🌲
+      #BABYMETAL #PineKnobMusicTheatre
+    image:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: clarkston
+    reference:
+    - postximage:
+        post: 2101394282804298022
+        image: HSmmS3DWgAED-Ke
+
+- postinstagramimage:
+    post: DdeyAUrGHCi
+    id: 1
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: clarkston
+    todo: gimmi choco ?
+    part-of:
+      postinstagram: DdeyAUrGHCi
+
+- postx:
+    id: 2101394282804298022
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-19
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Clarkson, MI🌲 
+      #BABYMETAL #PineKnobMusicTheatre
+    image:
+    - HSmmS3DWgAED-Ke
+    part-of:
+      show:
+        year: 2026
+        id: clarkston
+
+- postximage:
+    post: 2101394282804298022
+    id: HSmmS3DWgAED-Ke
+    index: 1
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: clarkston
+    part-of:
+      postx: 2101394282804298022
+

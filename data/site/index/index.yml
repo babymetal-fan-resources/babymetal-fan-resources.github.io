@@ -6,7 +6,7 @@ contentpage:
       id: kitsune_cover
   label: Chronology
   start-date: 2010-11-01
-  end-date: 2026-12-31
+  end-date: 2027-03-31
   description: 'Everything about BABYMETAL: songs, albums, shows, tours, Fox Days, interviews, videos, ...'
   isSmallMarker:
   - cancelledshow
@@ -23,16 +23,16 @@ contentpage:
   isWithSubsMarker:
   - album
   isLeftMarker:
-  - audiomedia
+  - mediaaudio
   - event
   - show
   - tour
-  - videomedia
-  - writtenmedia
+  - mediavideo
+  - mediawritten
   isAltColorMarker:
-  - audiomedia
-  - videomedia
-  - writtenmedia
+  - mediaaudio
+  - mediavideo
+  - mediawritten
   part-of:
     group: site
   content: []
@@ -40,8 +40,15 @@ contentpage:
   - id: 202627
     label: 2026-27
     start-date: 2026-04-01
-    end-date: 2026-12-31
+    end-date: 2027-03-31
     content:
+    - show:
+        year: 2027
+        id: matsuri27
+    - media:
+        year: 2027
+        id: grammy
+    - album: myqueenintuitdome
     - show:
         year: 2026
         id: mexico
@@ -58,6 +65,7 @@ contentpage:
         year: 2026
         id: saopaulo
     - tour: latinamerica2026
+    - multimedia-event: myqueenlivev
     - show:
         year: 2026
         id: aftershock

@@ -73,6 +73,37 @@
     part-of:
       tour: northamerica2026
 
+- postinstagram:
+    id: DeCsfw4EmYQ
+    account: babymetal_official
+    label: Final headline show done
+    published-date: 2026-10-03
+    text: |-
+      Phoenix was the final headline show of the North America tour! Thank you to everyone who came out 🔥
+      Did you catch BABYMETAL on tour? Drop a 🦊 and tell us which city you saw!
+    image:
+    - 2
+    - 4
+    - 5
+    - 6
+    - 7
+    todo: are the pictures all from the phoenix show ?
+    part-of:
+      tour: northamerica2026
+    reference:
+    - postximage:
+        post: 2106449288738078978
+        image: HTuY7DkaoAAlFgn
+    - postximage:
+        post: 2106449288738078978
+        image: HTuY9BNbAAAZAEG
+    - postximage:
+        post: 2106449288738078978
+        image: HTuZb9aa4AAUV_x
+    - postximage:
+        post: 2106449288738078978
+        image: HTuZlx6aYAAfelm
+
 - postinstagramimage:
     post: Dcge-pcGO_a
     id: 1
@@ -91,6 +122,57 @@
     - tour: northamerica2026
     part-of:
       postinstagram: DdImD-2jneq
+
+- postinstagramimage:
+    post: DeCsfw4EmYQ
+    id: 2
+    label: On stage
+    context:
+    - tour: northamerica2026
+    part-of:
+      postinstagram: DeCsfw4EmYQ
+
+- postinstagramimage:
+    post: DeCsfw4EmYQ
+    id: 4
+    label: On stage
+    info: MOAMETAL
+    context:
+    - tour: northamerica2026
+    part-of:
+      postinstagram: DeCsfw4EmYQ
+
+- postinstagramimage:
+    post: DeCsfw4EmYQ
+    id: 5
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - tour: northamerica2026
+    todo: bm death ?
+    part-of:
+      postinstagram: DeCsfw4EmYQ
+
+- postinstagramimage:
+    post: DeCsfw4EmYQ
+    id: 6
+    label: On stage
+    context:
+    - tour: northamerica2026
+    - song: babymetaldeath
+    part-of:
+      postinstagram: DeCsfw4EmYQ
+
+- postinstagramimage:
+    post: DeCsfw4EmYQ
+    id: 7
+    label: On stage
+    info: SU-METAL
+    context:
+    - tour: northamerica2026
+    - song: megitsune
+    part-of:
+      postinstagram: DeCsfw4EmYQ
 
 - postinstagramvideo:
     post: Dcrc-dJSMSL
@@ -220,6 +302,22 @@
     part-of:
       tour: northamerica2026
 
+- postx:
+    id: 2106449288738078978
+    account: BABYMETAL_JAPAN
+    label: Final headline show done
+    published-date: 2026-10-03
+    text: |-
+      Phoenix was the final headline show of the North America tour! Thank you to everyone who came out 🔥
+      Did you catch BABYMETAL on tour? Drop a 🦊 and tell us which city you saw!
+    image:
+    - HTuY7DkaoAAlFgn
+    - HTuY9BNbAAAZAEG
+    - HTuZb9aa4AAUV_x
+    - HTuZlx6aYAAfelm
+    part-of:
+      tour: northamerica2026
+
 - postximage:
     post: 2038994732328919045
     id: HEv0yWpa8AAPYwm
@@ -270,6 +368,51 @@
     - tour: northamerica2026
     part-of:
       postx: 2097447117115810294
+
+- postximage:
+    post: 2106449288738078978
+    id: HTuY7DkaoAAlFgn
+    index: 1
+    label: On stage
+    info: SU-METAL
+    context:
+    - tour: northamerica2026
+    part-of:
+      postx: 2106449288738078978
+
+- postximage:
+    post: 2106449288738078978
+    id: HTuY9BNbAAAZAEG
+    index: 2
+    label: On stage
+    info: MOAMETAL
+    context:
+    - tour: northamerica2026
+    part-of:
+      postx: 2106449288738078978
+
+- postximage:
+    post: 2106449288738078978
+    id: HTuZb9aa4AAUV_x
+    index: 3
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - tour: northamerica2026
+    part-of:
+      postx: 2106449288738078978
+
+- postximage:
+    post: 2106449288738078978
+    id: HTuZlx6aYAAfelm
+    index: 4
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: phoenix
+    part-of:
+      postx: 2106449288738078978
 
 - postxvideo:
     post: 2093754982831202740

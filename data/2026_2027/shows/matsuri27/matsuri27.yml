@@ -1,0 +1,17 @@
+show:
+  year: 2027
+  id: matsuri27
+  cover-image:
+    postximage:
+      post: 2110959550669218168
+      image: HUuiExVacAAzb3G
+  fullname: 'matsuri ‘27: Japanese Music Experience BANGKOK'
+  shortname: matsuri ‘27
+  sublabel: Bangkok, Thailand
+  date: 2027-02-13
+  venue: UOB LIVE, Bangkok, Thailand
+  event-page: 'https://musicwayproject.net/news/detail/88'
+  part-of:
+    group:
+      id: shows
+      group: 2026_2027

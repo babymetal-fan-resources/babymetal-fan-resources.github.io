@@ -9,5 +9,11 @@ show:
   date: 2026-09-16
   tour: northamerica2026
   venue: Ameris Bank Amphitheatre, Alpharetta, GA, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2026/ameris-bank-amphitheatre-alpharetta-ga-5b769b50.html'
   part-of:
     tour: northamerica2026
+  multimedia:
+    main:
+      postximage:
+        post: 2100580255555805388
+        image: HSbCet6bgAIMILg

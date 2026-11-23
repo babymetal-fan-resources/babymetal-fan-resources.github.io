@@ -1,0 +1,48 @@
+- display:
+    show:
+      year: 2026
+      id: marylandheights
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2102394065891279180
+                    image: HS00GgTWgAApSAq
+    part-of:
+      show:
+        year: 2026
+        id: marylandheights
+
+- postx:
+    id: 2102394065891279180
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-22
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Maryland Heights, MO🌉
+      #BABYMETAL #HollywoodCasinoAmphitheater
+    image:
+    - HS00GgTWgAApSAq
+    part-of:
+      show:
+        year: 2026
+        id: marylandheights
+
+- postximage:
+    post: 2102394065891279180
+    id: HS00GgTWgAApSAq
+    index: 1
+    label: At the venue
+    context:
+    - show:
+        year: 2026
+        id: marylandheights
+    part-of:
+      postx: 2102394065891279180
+

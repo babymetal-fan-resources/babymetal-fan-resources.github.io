@@ -1,0 +1,16 @@
+mediavideo:
+  year: 2027
+  id: grammy
+  cover-image:
+    localimage:
+      event: siteimages
+      id: kitsune_cover
+  channel: Grammys
+  show: 69th Annual Grammy Awards
+  designation: award show
+  member:
+  - BABYMETAL
+  published-date: 2027-02-07
+  webpage: 'https://www.grammy.com/awards/69th-annual-grammy-awards-2027/'
+  part-of:
+    group: 2026_2027

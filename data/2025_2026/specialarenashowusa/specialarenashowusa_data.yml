@@ -814,6 +814,20 @@
         id: specialarenashowusa
 
 - youtubevideo:
+    id: 8Cbd0lqbGCs
+    label: Live from Intuit Dome
+    published-date: 2026-10-15
+    context:
+    - show:
+        year: 2025
+        id: specialarenashowusa
+    - song: myqueen
+    part-of:
+      show:
+        year: 2025
+        id: specialarenashowusa
+
+- youtubevideo:
     id: HbRO9vuZiKE
     label: Trailer
     published-date: 2025-05-31

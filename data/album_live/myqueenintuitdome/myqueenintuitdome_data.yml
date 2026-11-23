@@ -1,0 +1,110 @@
+- postinstagram:
+    id: DehI_9fmPFf
+    account: babymetal_official
+    label: Announcement
+    published-date: 2026-10-15
+    text: |-
+      Special 7" “My Queen: Intuit Dome Anniversary Edition” Release♟️
+      link in bio
+      
+      Celebrate the one year anniversary of BABYMETAL’s Intuit Dome show with a special 7" release, pressed on transparent vinyl.
+      Side A features the studio version of “My Queen (feat. Spiritbox),” while Side B captures the explosive live performance from Intuit Dome, where Spiritbox’s Courtney LaPlante joined BABYMETAL on stage to bring the collaboration to life🔥
+      
+      Tracklist👇
+      SIDE A
+      - My Queen (feat. Spiritbox)
+      SIDE B
+      - My Queen (feat. Spiritbox) [Live from Intuit Dome]
+    image:
+    - 1
+    - 2
+    - 3
+    part-of:
+      album: myqueenintuitdome
+
+- postinstagramimage:
+    post: DehI_9fmPFf
+    id: 1
+    label: Covers
+    context:
+    - album: myqueenintuitdome
+    part-of:
+      postinstagram: DehI_9fmPFf
+
+- postinstagramimage:
+    post: DehI_9fmPFf
+    id: 2
+    label: Cover
+    info: side A
+    context:
+    - album: myqueenintuitdome
+    part-of:
+      postinstagram: DehI_9fmPFf
+
+- postinstagramimage:
+    post: DehI_9fmPFf
+    id: 3
+    label: Cover
+    info: side B
+    context:
+    - album: myqueenintuitdome
+    part-of:
+      postinstagram: DehI_9fmPFf
+
+- postx:
+    id: 2110734941990302095
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2026-10-15
+    text: |-
+      Special 7" “My Queen: Intuit Dome Anniversary Edition” Release♟️
+      https://babymetal.lnk.to/myqueenvinyl
+      
+      Celebrate the one year anniversary of BABYMETAL’s Intuit Dome show with a special 7" release, pressed on transparent vinyl.
+      Side A features the studio version of “My Queen (feat. Spiritbox),” while Side B captures the explosive live performance from Intuit Dome, where Spiritbox’s Courtney LaPlante joined BABYMETAL on stage to bring the collaboration to life🔥
+      
+      Tracklist:
+      SIDE A
+      - My Queen (feat. Spiritbox)
+      SIDE B
+      - My Queen (feat. Spiritbox) [Live from Intuit Dome]
+    image:
+    - HUrVAlVbYAA1d2E
+    - HUrVAlKakAAHmab
+    - HUrVAlTboAAVoom
+    part-of:
+      album: myqueenintuitdome
+
+- postximage:
+    post: 2110734941990302095
+    id: HUrVAlKakAAHmab
+    index: 2
+    label: Cover
+    info: side A
+    context:
+    - album: myqueenintuitdome
+    part-of:
+      postx: 2110734941990302095
+
+- postximage:
+    post: 2110734941990302095
+    id: HUrVAlTboAAVoom
+    index: 3
+    label: Cover
+    info: side B
+    context:
+    - album: myqueenintuitdome
+    part-of:
+      postx: 2110734941990302095
+
+- postximage:
+    post: 2110734941990302095
+    id: HUrVAlVbYAA1d2E
+    index: 1
+    label: Covers
+    local-copy: true
+    context:
+    - album: myqueenintuitdome
+    part-of:
+      postx: 2110734941990302095
+

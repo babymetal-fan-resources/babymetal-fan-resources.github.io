@@ -1,0 +1,57 @@
+- postx:
+    id: 2110959550669218168
+    account: BABYMETAL_JAPAN
+    label: Announcement
+    published-date: 2026-10-16
+    text: |-
+      SU-METAL will appear as a special guest at  "matsuri ‘27: Japanese Music Experience BANGKOK " in Bangkok, Thailand, on February 13! 🇹🇭🔥
+      🔗https://musicwayproject.net/news/detail/88
+    image:
+    - HUuiExVacAAzb3G
+    part-of:
+      show:
+        year: 2027
+        id: matsuri27
+
+- postximage:
+    post: 2110959550669218168
+    id: HUuiExVacAAzb3G
+    index: 1
+    label: SU-METAL poster
+    local-copy: true
+    context:
+    - show:
+        year: 2027
+        id: matsuri27
+    part-of:
+      postx: 2110959550669218168
+
+- webimage:
+    domain: musicwayproject.net
+    page: 88
+    id: flyer
+    label: Flyer
+    published-date: 2026-10-16
+    url: 'https://aop-emtg-jp.s3.amazonaws.com/prod/public/musicway/contents/information/446b9db095d5e51e2307baef4ac0b6b4.png'
+    context:
+    - show:
+        year: 2027
+        id: matsuri27
+    part-of:
+      webpage:
+        domain: musicwayproject.net
+        id: 88
+
+- webpage:
+    domain: musicwayproject.net
+    id: 88
+    label: Event annoucement
+    published-date: 2026-10-16
+    url: 'https://musicwayproject.net/news/detail/88'
+    image:
+    - flyer
+    part-of:
+      show:
+        year: 2027
+        id: matsuri27
+

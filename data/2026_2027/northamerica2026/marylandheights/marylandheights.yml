@@ -9,5 +9,11 @@ show:
   date: 2026-09-21
   tour: northamerica2026
   venue: Hollywood Casino Amphitheater, Maryland Heights, MO, USA
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2026/hollywood-casino-amphitheatre-maryland-heights-mo-43769b4b.html'
   part-of:
     tour: northamerica2026
+  multimedia:
+    main:
+      postximage:
+        post: 2102394065891279180
+        image: HS00GgTWgAApSAq

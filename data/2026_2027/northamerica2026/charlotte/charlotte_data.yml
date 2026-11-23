@@ -1,0 +1,47 @@
+- display:
+    show:
+      year: 2026
+      id: charlotte
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdWgUwuRqnw
+                    image: 1
+    part-of:
+      show:
+        year: 2026
+        id: charlotte
+
+- postinstagram:
+    id: DdWgUwuRqnw
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-09-16
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Charlotte, NC🏎️💨🇺🇸
+      #BABYMETAL #TruliantAmphitheater
+    image:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: charlotte
+
+- postinstagramimage:
+    post: DdWgUwuRqnw
+    id: 1
+    label: At the venue
+    context:
+    - show:
+        year: 2026
+        id: charlotte
+    part-of:
+      postinstagram: DdWgUwuRqnw
+

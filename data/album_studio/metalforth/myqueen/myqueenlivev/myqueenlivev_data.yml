@@ -1,0 +1,9 @@
+localimage:
+  multimedia-event: myqueenlivev
+  id: cover
+  label: Cover
+  published-date: 2026-10-15
+  source:
+    description: YouTube video
+  part-of:
+    multimedia-event: myqueenlivev

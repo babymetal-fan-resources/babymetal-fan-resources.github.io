@@ -47,6 +47,20 @@
         post: 2099273110046318793
         image: HSIW1cJXIAUFhWY
 
+- postinstagram:
+    id: DdXJcldgJ2s
+    account: babymetal_official
+    label: Digest movie
+    published-date: 2026-11-21
+    text: |-
+      MY QUEEN 💥 We hit the floor with @babymetal_official in Bristow this weekend!
+    video:
+    - 1
+    part-of:
+      postinstagramvideo:
+        post: DdXJcldgJ2s
+        video: 1
+
 - postinstagramimage:
     post: DdPt0BAmEtg
     id: 1
@@ -57,6 +71,19 @@
         id: bristow
     part-of:
       postinstagram: DdPt0BAmEtg
+
+- postinstagramvideo:
+    post: DdXJcldgJ2s
+    id: 1
+    label: Digest movie
+    context:
+    - show:
+        year: 2026
+        id: bristow
+    part-of:
+      show:
+        year: 2026
+        id: bristow
 
 - postx:
     id: 2099273110046318793

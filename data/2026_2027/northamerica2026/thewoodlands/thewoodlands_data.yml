@@ -1,0 +1,105 @@
+- display:
+    show:
+      year: 2026
+      id: thewoodlands
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdwSTAvEbf9
+                    image: 1
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2103857746269680121
+                    image: HTJnZ8SXsAEJKrk
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2103857746269680121
+                    image: HTJnXErW0AAEvKp
+    part-of:
+      show:
+        year: 2026
+        id: thewoodlands
+
+- postinstagram:
+    id: DdwSTAvEbf9
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-09-26
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in The Woodlands, TX🌿
+      #BABYMETAL
+    image:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: thewoodlands
+    reference:
+    - postximage:
+        post: 2103857746269680121
+        image: HTJnXErW0AAEvKp
+    - postximage:
+        post: 2103857746269680121
+        image: HTJnZ8SXsAEJKrk
+
+- postinstagramimage:
+    post: DdwSTAvEbf9
+    id: 1
+    label: On stage
+    info: wee aaaa !!!
+    context:
+    - show:
+        year: 2026
+        id: thewoodlands
+    part-of:
+      postinstagram: DdwSTAvEbf9
+
+- postx:
+    id: 2103857746269680121
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-26
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in The Woodlands, TX🌿
+      #BABYMETAL
+    image:
+    - HTJnXErW0AAEvKp
+    - HTJnZ8SXsAEJKrk
+    part-of:
+      show:
+        year: 2026
+        id: thewoodlands
+
+- postximage:
+    post: 2103857746269680121
+    id: HTJnXErW0AAEvKp
+    index: 1
+    label: At the venue
+    context:
+    - show:
+        year: 2026
+        id: thewoodlands
+    part-of:
+      postx: 2103857746269680121
+
+- postximage:
+    post: 2103857746269680121
+    id: HTJnZ8SXsAEJKrk
+    index: 2
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: thewoodlands
+    part-of:
+      postx: 2103857746269680121
+

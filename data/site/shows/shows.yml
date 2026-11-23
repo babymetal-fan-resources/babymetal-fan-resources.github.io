@@ -6,7 +6,7 @@ categoriespage:
       id: kitsune_cover
   label: Shows
   start-date: 2010-01-01
-  end-date: 2026-12-31
+  end-date: 2027-03-31
   description: All the shows where BABYMETAL performed and will be performing.
   id-prefix:
   - show

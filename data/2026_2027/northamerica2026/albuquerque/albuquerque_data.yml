@@ -1,0 +1,66 @@
+- display:
+    show:
+      year: 2026
+      id: albuquerque
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2105206953760931868
+                    image: HTcuw4fbkAAyJ-S
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2105206953760931868
+                    image: HTcuvsfa8AAjYwU
+    part-of:
+      show:
+        year: 2026
+        id: albuquerque
+
+- postx:
+    id: 2105206953760931868
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-30
+    text: |-
+      Thank you so much for coming out in the rain to see us on the BABYMETAL WORLD TOUR 2026 in Albuquerque, NM🌶️🏜️
+      #BABYMETAL #IsletaAmphitheater
+    image:
+    - HTcuvsfa8AAjYwU
+    - HTcuw4fbkAAyJ-S
+    part-of:
+      show:
+        year: 2026
+        id: albuquerque
+
+- postximage:
+    post: 2105206953760931868
+    id: HTcuvsfa8AAjYwU
+    index: 1
+    label: At the venue
+    context:
+    - show:
+        year: 2026
+        id: albuquerque
+    part-of:
+      postx: 2105206953760931868
+
+- postximage:
+    post: 2105206953760931868
+    id: HTcuw4fbkAAyJ-S
+    index: 2
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: albuquerque
+    part-of:
+      postx: 2105206953760931868
+

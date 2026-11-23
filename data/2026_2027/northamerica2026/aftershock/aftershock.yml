@@ -12,5 +12,11 @@ show:
   tour: northamerica2026
   venue: Discovery Park, Sacramento, CA, USA
   event-page: 'https://aftershockfestival.com/'
+  setlistfm: 'https://www.setlist.fm/setlist/babymetal/2026/discovery-park-aftershock-stage-sacramento-ca-7b48063c.html'
   part-of:
     tour: northamerica2026
+  multimedia:
+    main:
+      postximage:
+        post: 2106815269335400563
+        image: HTzpMlJbsAAJG8T

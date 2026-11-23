@@ -1,0 +1,66 @@
+- display:
+    show:
+      year: 2026
+      id: alpharetta
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2100580255555805388
+                    image: HSbCgC4bsAAeui8
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2100580255555805388
+                    image: HSbCet6bgAIMILg
+    part-of:
+      show:
+        year: 2026
+        id: alpharetta
+
+- postx:
+    id: 2100580255555805388
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-17
+    text: |-
+      Thank you for coming to BABYMETAL WORLD TOUR 2026 in Alpharetta, GA🍑
+      #BABYMETAL #AmerisBankAmphitheatre
+    image:
+    - HSbCet6bgAIMILg
+    - HSbCgC4bsAAeui8
+    part-of:
+      show:
+        year: 2026
+        id: alpharetta
+
+- postximage:
+    post: 2100580255555805388
+    id: HSbCet6bgAIMILg
+    index: 1
+    label: At the venue
+    context:
+    - show:
+        year: 2026
+        id: alpharetta
+    part-of:
+      postx: 2100580255555805388
+
+- postximage:
+    post: 2100580255555805388
+    id: HSbCgC4bsAAeui8
+    index: 2
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: alpharetta
+    part-of:
+      postx: 2100580255555805388
+

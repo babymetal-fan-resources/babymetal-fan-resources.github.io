@@ -1,3 +1,59 @@
+- display:
+    show:
+      year: 2026
+      id: louderthanlife
+    blocks:
+    - basicblock:
+        id: main
+        label: main
+        sections:
+        - basicsection:
+            label: At the show
+            subsections:
+            - multimediasubsection:
+                multimedia:
+                - postinstagramvideo:
+                    post: Ddompz1ysT0
+                    video: 1
+            - multimediasubsection:
+                label: Images
+                multimedia:
+                - postinstagramimage:
+                    post: DdgtbaUnCKd
+                    image: 2
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdhoBwsGKlx
+                    image: 2
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdgtbaUnCKd
+                    image: 5
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdgtbaUnCKd
+                    image: 1
+                - postinstagramimage:
+                    post: DdgtbaUnCKd
+                    image: 4
+            - multimediasubsection:
+                multimedia:
+                - postinstagramimage:
+                    post: DdgtbaUnCKd
+                    image: 3
+            - multimediasubsection:
+                multimedia:
+                - postximage:
+                    post: 2101794997875954139
+                    image: HSsTZgWX0AAR0PI
+    part-of:
+      show:
+        year: 2026
+        id: louderthanlife
+
 - postinstagram:
     id: DbvvW-xmEjb
     account: babymetal_official
@@ -16,6 +72,76 @@
         year: 2026
         id: louderthanlife
 
+- postinstagram:
+    id: DdeVFO0EfP_
+    account: babymetal_official
+    label: Now headlining
+    published-date: 2026-09-19
+    text: |-
+      BABYMETAL will be closing out Life Stage tonight at Louder Than Life! 🔥🦊
+      See you!!
+      #BABYMETAL @louderthanlifefest
+    image:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: louderthanlife
+
+- postinstagram:
+    id: DdgtbaUnCKd
+    account: babymetal_official
+    label: Kitsunes up
+    published-date: 2026-09-20
+    text: |-
+      Kitsunes up 🦊 @babymetal_official
+      
+      📸: @stvthrasher
+    image:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    part-of:
+      show:
+        year: 2026
+        id: louderthanlife
+
+- postinstagram:
+    id: DdhoBwsGKlx
+    account: babymetal_official
+    label: Thank you
+    published-date: 2026-09-21
+    text: |-
+      Thank you for coming to "Louder Than Life Festival"🌙
+      See you 🦊🦊🦊
+      #BABYMETAL @louderthanlifefest
+    image:
+    - 2
+    part-of:
+      show:
+        year: 2026
+        id: louderthanlife
+    reference:
+    - postximage:
+        post: 2101794997875954139
+        image: HSsTZgWX0AAR0PI
+
+- postinstagram:
+    id: Ddompz1ysT0
+    account: babymetal_official
+    label: Digest movie
+    published-date: 2026-09-23
+    text: |-
+      One more trip into the METAL GALAXY🦊 @babymetal_official
+    video:
+    - 1
+    part-of:
+      show:
+        year: 2026
+        id: louderthanlife
+
 - postinstagramimage:
     post: DbvvW-xmEjb
     id: 1
@@ -26,6 +152,132 @@
         id: louderthanlife
     part-of:
       postinstagram: DbvvW-xmEjb
+
+- postinstagramimage:
+    post: DdeVFO0EfP_
+    id: 1
+    label: Now headlining
+    context:
+    - show:
+        year: 2026
+        id: louderthanlife
+    part-of:
+      postinstagram: DdeVFO0EfP_
+
+- postinstagramimage:
+    post: DdgtbaUnCKd
+    id: 1
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: louderthanlife
+    - song: megitsune
+    part-of:
+      postinstagram: DdgtbaUnCKd
+
+- postinstagramimage:
+    post: DdgtbaUnCKd
+    id: 2
+    label: On stage
+    context:
+    - show:
+        year: 2026
+        id: louderthanlife
+    - song: babymetaldeath
+    part-of:
+      postinstagram: DdgtbaUnCKd
+
+- postinstagramimage:
+    post: DdgtbaUnCKd
+    id: 3
+    label: On stage
+    info: MOAMETAL
+    context:
+    - show:
+        year: 2026
+        id: louderthanlife
+    - song: babymetaldeath
+    part-of:
+      postinstagram: DdgtbaUnCKd
+
+- postinstagramimage:
+    post: DdgtbaUnCKd
+    id: 4
+    label: On stage
+    info: SU-METAL
+    context:
+    - show:
+        year: 2026
+        id: louderthanlife
+    todo: ratatata ?
+    part-of:
+      postinstagram: DdgtbaUnCKd
+
+- postinstagramimage:
+    post: DdgtbaUnCKd
+    id: 5
+    label: On stage
+    info: MOMOMETAL
+    context:
+    - show:
+        year: 2026
+        id: louderthanlife
+    - song: babymetaldeath
+    part-of:
+      postinstagram: DdgtbaUnCKd
+
+- postinstagramimage:
+    post: DdhoBwsGKlx
+    id: 2
+    label: Venue
+    context:
+    - show:
+        year: 2026
+        id: louderthanlife
+    part-of:
+      postinstagram: DdhoBwsGKlx
+
+- postinstagramvideo:
+    post: Ddompz1ysT0
+    id: 1
+    label: Digest movie
+    context:
+    - show:
+        year: 2026
+        id: louderthanlife
+    part-of:
+      postinstagram: Ddompz1ysT0
+
+- postx:
+    id: 2101794997875954139
+    account: BABYMETAL_JAPAN
+    label: Thank you
+    published-date: 2026-09-21
+    text: |-
+      Thank you for coming to "Louder Than Life Festival"🌙
+      See you 🦊🦊🦊
+      #BABYMETAL 
+      @LTLFest
+    image:
+    - HSsTZgWX0AAR0PI
+    part-of:
+      show:
+        year: 2026
+        id: louderthanlife
+
+- postximage:
+    post: 2101794997875954139
+    id: HSsTZgWX0AAR0PI
+    index: 1
+    label: Backstage
+    context:
+    - show:
+        year: 2026
+        id: louderthanlife
+    part-of:
+      postx: 2101794997875954139
 
 - update:
     show:
