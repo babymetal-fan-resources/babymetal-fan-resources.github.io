@@ -3,6 +3,7 @@ package org.skyluc.babymetal_site.html.page
 import org.skyluc.fan_resources.html as fr
 
 import fr.page.ElementContent
+import org.skyluc.fan_resources.base.Path
 
 object ElementContentPageBuilder extends fr.page.ElementContentPageBuilder {
   override def build(elementContent: ElementContent, index: Int, labels: fr.page.Labels): fr.page.ElementContentPage = {
@@ -28,5 +29,8 @@ class ElementContentPage(
       false,
     )
   }
+
+  override def javascriptFiles(): Seq[Path] =
+    super.javascriptFiles() :+ fr.page.MainSitePage.JAVASCRIPT_MULTIMEDIACARD_FILE
 
 }
